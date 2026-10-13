@@ -1,0 +1,505 @@
+﻿{
+    "playlist_position":  226,
+    "video_id":  "Rgu5MT-NRkk",
+    "url":  "https://www.youtube.com/watch?v=Rgu5MT-NRkk",
+    "official_title":  "Kettlebells, Building Muscle, Snatches, Cleans, Farmer Walks, Bulking \u0026 More | Dan John Podcast 209",
+    "transcript":  {
+                       "file":  "../../transcripts/Rgu5MT-NRkk_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "split snatch"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "split clean"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "Masters weightlifter"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "mobility loss"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "squat snatch"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "squat clean"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "Olympic press"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "weightlifting rules"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "athlete body type"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "bar height"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "Chinese weightlifting"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "European thrower"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "East German training"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "throwing stance"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "split-snatch step-up"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "lunge"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "sports specificity"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "progressive overload"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "load"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "set count"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "repetition count"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "training volume"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "training density"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "time-limited press set"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "single-arm press"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "technical quality"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "Brian Mann"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "DeLorme protocol"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "double-kettlebell clean and press"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "progressive resistance exercise"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "uneven farmer walk"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "asymmetrical carry"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "crosswalk"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "waiter walk"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "suitcase carry"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "trap bar"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "two-to-one load ratio"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "home gym"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "kettlebell certification"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "coaching experience"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "show up-don\u0027t quit-ask questions"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "Mass Made Simple"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "ten-thousand-swing challenge"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "hang"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "vertical press"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "pull-up"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "ab wheel"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "hinge volume"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "bulking phase"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "fat loss phase"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "removal of Olympic press"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "step-up"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "time"
+                    },
+                    {
+                        "id":  "o57",
+                        "label":  "load progression"
+                    },
+                    {
+                        "id":  "o58",
+                        "label":  "three sets of eight"
+                    },
+                    {
+                        "id":  "o59",
+                        "label":  "hypertrophy"
+                    },
+                    {
+                        "id":  "o60",
+                        "label":  "strength"
+                    },
+                    {
+                        "id":  "o61",
+                        "label":  "personal technique"
+                    },
+                    {
+                        "id":  "o62",
+                        "label":  "learning"
+                    },
+                    {
+                        "id":  "o63",
+                        "label":  "hinge movement"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o4",
+                          "relation":  "may use",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "may use",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "can limit",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "can limit",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o54",
+                          "relation":  "changed",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "requires greater",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "requires greater",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "selects for",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "used",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "reinforces",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "combines",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "combines",
+                          "object":  "o55"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "can justify",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "can justify",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "is a variable in",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "is a variable in",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "is a variable in",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "combines",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "combines",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "increases work per",
+                          "object":  "o56"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "develops",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "can use",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "should govern",
+                          "object":  "o57"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "studied",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "uses",
+                          "object":  "o58"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "can progress through",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "supports",
+                          "object":  "o59"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "supports",
+                          "object":  "o60"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "is an",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "combines",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "combines",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "can be loaded for",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "emphasizes",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "can encourage",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "provides",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "improves",
+                          "object":  "o61"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "supports",
+                          "object":  "o62"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "organizes",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "can follow",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "provides",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "can accompany",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "can warm up",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "can warm up",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "can remain in",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "can remain in",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "can remain in",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o63",
+                          "relation":  "should be removed from Easy Strength during",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o53",
+                          "relation":  "can follow",
+                          "object":  "o52"
+                      }
+                  ]
+}

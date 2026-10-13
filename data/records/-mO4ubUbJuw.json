@@ -1,0 +1,540 @@
+﻿{
+    "playlist_position":  253,
+    "video_id":  "-mO4ubUbJuw",
+    "url":  "https://www.youtube.com/watch?v=-mO4ubUbJuw",
+    "official_title":  "Kettlebell Training, VO2 Max, Armor Building Complex, Easy Strength \u0026 More... | DJU Podcast 238",
+    "transcript":  {
+                       "file":  "../../transcripts/-mO4ubUbJuw_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "athlete under 17"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "athlete age 17-34"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "athlete age 35-55"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "athlete age 56+"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "sport exploration"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "future health"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "strength"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "body composition"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "mobility"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "hypertrophy"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "lean body mass"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "fast-twitch muscle"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "Tim Anderson"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "Dynamic Hips"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "diaphragmatic breathing"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "eye control"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "cross-crawl"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "machine training"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "suspension trainer"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "balance"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "kettlebell snatch"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "Olympic lift"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "bounding"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "step-up"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "daily movement"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "three-day lifting"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "walking"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "weighted vest"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "Heavyhands"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "rucking"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "tonic day"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "farmer-market walk"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "Turkish get-up"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "Romanian deadlift"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "Bulgarian split squat"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "Russian twist"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "French press"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "sumo squat"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "Dutch windmill"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "Cossack lunge"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "half-kneeling press"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "overhead squat"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "five sets of fifteen swings"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "suitcase carry"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "heart rate"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "moderate aerobic work"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "relationship loss"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "family"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "friendship"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "productive activity"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "time"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "trust"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o57",
+                        "label":  "Easy Strength for Fat Loss"
+                    },
+                    {
+                        "id":  "o58",
+                        "label":  "fasted training"
+                    },
+                    {
+                        "id":  "o59",
+                        "label":  "rowing"
+                    },
+                    {
+                        "id":  "o60",
+                        "label":  "talk test"
+                    },
+                    {
+                        "id":  "o61",
+                        "label":  "Millie Brown"
+                    },
+                    {
+                        "id":  "o62",
+                        "label":  "Low Stress Fitness"
+                    },
+                    {
+                        "id":  "o63",
+                        "label":  "stationary bicycle"
+                    },
+                    {
+                        "id":  "o64",
+                        "label":  "treadmill"
+                    },
+                    {
+                        "id":  "o65",
+                        "label":  "fat oxidation"
+                    },
+                    {
+                        "id":  "o66",
+                        "label":  "junk carbohydrate"
+                    },
+                    {
+                        "id":  "o67",
+                        "label":  "VO2 max"
+                    },
+                    {
+                        "id":  "o68",
+                        "label":  "training"
+                    },
+                    {
+                        "id":  "o69",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o70",
+                        "label":  "kettlebell workout"
+                    },
+                    {
+                        "id":  "o71",
+                        "label":  "recovery"
+                    },
+                    {
+                        "id":  "o72",
+                        "label":  "fat loss"
+                    },
+                    {
+                        "id":  "o73",
+                        "label":  "kettlebell training"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "benefits from",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "can tolerate broad",
+                          "object":  "o68"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "should invest in",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "should invest in",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "should invest in",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "should emphasize",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "should emphasize",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "should preserve",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "supports",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "created",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "uses",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "uses",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "uses",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can develop",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "can train",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "trains",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "trains",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "trains",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "trains",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "can preserve",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "can accompany",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "adds load to",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "adds load to",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "can emphasize",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "combines",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "combines",
+                          "object":  "o69"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "can begin",
+                          "object":  "o70"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "can transition to",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "uses",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "raises",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "allows reduction of",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "provides",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "supports recovery from",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o52",
+                          "relation":  "supports recovery from",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o53",
+                          "relation":  "supports recovery from",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o54",
+                          "relation":  "may restore",
+                          "object":  "o55"
+                      },
+                      {
+                          "subject":  "o56",
+                          "relation":  "can be inserted into",
+                          "object":  "o57"
+                      },
+                      {
+                          "subject":  "o58",
+                          "relation":  "should preserve",
+                          "object":  "o71"
+                      },
+                      {
+                          "subject":  "o59",
+                          "relation":  "can replace",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o60",
+                          "relation":  "regulates",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o61",
+                          "relation":  "uses",
+                          "object":  "o60"
+                      },
+                      {
+                          "subject":  "o62",
+                          "relation":  "emphasizes",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o63",
+                          "relation":  "can provide",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o64",
+                          "relation":  "can provide",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "supports",
+                          "object":  "o65"
+                      },
+                      {
+                          "subject":  "o66",
+                          "relation":  "can undermine",
+                          "object":  "o72"
+                      },
+                      {
+                          "subject":  "o73",
+                          "relation":  "can improve",
+                          "object":  "o67"
+                      }
+                  ]
+}

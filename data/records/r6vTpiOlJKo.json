@@ -1,0 +1,382 @@
+﻿{
+    "playlist_position":  281,
+    "video_id":  "r6vTpiOlJKo",
+    "url":  "https://www.youtube.com/watch?v=r6vTpiOlJKo",
+    "official_title":  "HEAVY Swings, Windmills, Deadlifts vs. Swings, Long KB Workouts, ABF \u0026 More... | DJU Podcast #267",
+    "transcript":  {
+                       "file":  "../../transcripts/r6vTpiOlJKo_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "The Chronicles of Narnia"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "C. S. Lewis"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "J. R. R. Tolkien"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "kettlebell clean and press"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "hinge pattern"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "deadlift"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "kettlebell snatch"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "exercise substitution"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "seasonal variation"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "Olympic lifting meet"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "suspension trainer"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "bodybuilding"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "windmill"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "kneeling windmill"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "standing windmill"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "Turkish get-up"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "mobility diagnostic"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "shoulder health"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "Anaconda strength"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "heavy kettlebell swing"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "24-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "load progression"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "cost-benefit ratio"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "technical quality"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "sandbag"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "playground sand"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "home training"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "youth lifting"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "barbell Armor Building Formula"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "power clean"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "military press"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "front squat"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "deadlift variation"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "Transformation Program"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "ten-thousand-swing challenge"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "fun training"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "office kettlebell"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "every-hour-on-the-hour training"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "Phil Maffetone"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "long-duration kettlebell workout"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "work break"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "greasing the groove"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "mobility"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "training program"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "training impact"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "hypertrophy"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "training challenge"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o3",
+                          "relation":  "wrote",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "was associated with",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "trains",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "trains",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "trains",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "trains",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "can replace",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "can rotate",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "can follow",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "can follow",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "progresses to",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "develops",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "develops",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "acts as",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "acts as",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can reveal",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "should govern",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "can be sufficient for",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "should govern",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "can fill",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "can teach",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "uses",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "uses",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "uses",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "can supplement",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "is a favorite",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "has broad",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "develops",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "provides",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "enables",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "describes",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "can include",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "can use",
+                          "object":  "o42"
+                      }
+                  ]
+}

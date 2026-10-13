@@ -1,0 +1,314 @@
+﻿{
+    "playlist_position":  319,
+    "video_id":  "mogee5n_-Ic",
+    "url":  "https://www.youtube.com/watch?v=mogee5n_-Ic",
+    "official_title":  "Maintaining Muscle Mass, Progressing to Heavier Bells, Program for Busy People, Deadlifts | #307",
+    "transcript":  {
+                       "file":  "../../transcripts/mogee5n_-Ic_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "52-year-old injured trainee"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "improper training"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "poor recovery"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "self-massage"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "rehabilitation"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "muscle mass"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "program suitability"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "42-year-old parent"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "three children"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "chaotic schedule"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "home gym"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "squat rack"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "bench"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "barbell"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "kettlebell"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "flexible workout plan"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "Romanian deadlift"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "regular deadlift"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "Nicu Vlad"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "Olympic Training Center"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "hamstring"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "hinge pattern"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "enough principle"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "waist-to-height ratio"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "powerlifter"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "Highland Games athlete"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "push-hinge athlete"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "pull weakness"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "squat weakness"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "muscle soreness"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "Brazilian jiu-jitsu"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "four-day lifting"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "recovery demand"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "clean and jerk"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "double 62-pound kettlebell"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "double 70-pound kettlebell"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "load equivalence"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "heavier-bell progression"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "injury baggage"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "waistline"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "kettlebell load"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o3",
+                          "relation":  "contributes to",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "contributes to",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "supports",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "supports",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "may need adaptation for",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "create",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "suits",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "contains",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "contains",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "contains",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "contains",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "popularized",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "trains",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "trains",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "defines part of",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "may accept different",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "may accept different",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "may have",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "may have",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "creates",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "reduces",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "adds to",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "does not directly determine",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "precedes",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "requires",
+                          "object":  "o40"
+                      }
+                  ]
+}

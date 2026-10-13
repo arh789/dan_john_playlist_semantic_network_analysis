@@ -1,0 +1,1209 @@
+﻿{
+    "playlist_position":  77,
+    "video_id":  "zG3HbHqArAs",
+    "url":  "https://www.youtube.com/watch?v=zG3HbHqArAs",
+    "official_title":  "The Dan John Podcast - Ep 63 | Training After Heart Surgery, Off Season Rugby Training, and More",
+    "transcript":  {
+                       "file":  "../../transcripts/zG3HbHqArAs_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "open-heart surgery"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "congenital heart-valve defect"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "heart-valve replacement"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "surgeon and cardiologist recommendations"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "gallon-of-milk lifting limit"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "mid-October medical clearance"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "two-to-three-pound dumbbells"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "range of motion"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "gradual return to lifting"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "four-to-six-week lifting break"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "six-month change of activity"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "full-body movement practice"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "standing Neider press"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "high-repetition light exercise"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "power lifts"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "high tension"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "training with one\u0027s son"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "heart-rate monitor"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "sub-Maffetone heart rate"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "150 minus age ceiling"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "Original Strength"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "joint movement restoration"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "rugby flanker"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "off-season rugby preparation"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "adequate strength levels"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "conditioning"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "lift-and-sprint drill"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "kettlebell goblet squats"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "immediate sprint"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "both sprint directions"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "hill sprint"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "sled pull"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "deadlift-and-bear-crawl drill"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "five deadlifts"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "twenty-metre bear crawl"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "gear-change conditioning"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "rugby"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "American football"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "collision occupations"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "tumbling practice"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "ground-contact skill"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "injury prevention"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "sport-specific conditioning"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "isometric training"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "weak range of motion"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "dead-stop front squat"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "34-inch starting height"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "front-squat sticking point"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "135-pound initial failure"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "365-pound lift after six weeks"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "bottom-position rebound"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "positional strength"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "discus technique"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "held technical position"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "six-week isometric phase"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "Olympic lifting"
+                    },
+                    {
+                        "id":  "o57",
+                        "label":  "two weekly Olympic-lifting sessions"
+                    },
+                    {
+                        "id":  "o58",
+                        "label":  "two weekly pure-isometric sessions"
+                    },
+                    {
+                        "id":  "o59",
+                        "label":  "kettlebells"
+                    },
+                    {
+                        "id":  "o60",
+                        "label":  "traditional strength training"
+                    },
+                    {
+                        "id":  "o61",
+                        "label":  "Isochain"
+                    },
+                    {
+                        "id":  "o62",
+                        "label":  "Paul Wade"
+                    },
+                    {
+                        "id":  "o63",
+                        "label":  "Dragon Door"
+                    },
+                    {
+                        "id":  "o64",
+                        "label":  "target force setting"
+                    },
+                    {
+                        "id":  "o65",
+                        "label":  "audible feedback"
+                    },
+                    {
+                        "id":  "o66",
+                        "label":  "six consecutive beeps"
+                    },
+                    {
+                        "id":  "o67",
+                        "label":  "sustained force"
+                    },
+                    {
+                        "id":  "o68",
+                        "label":  "explosive lifting tendency"
+                    },
+                    {
+                        "id":  "o69",
+                        "label":  "isometric rack deadlift, curl and press program"
+                    },
+                    {
+                        "id":  "o70",
+                        "label":  "muscle-up"
+                    },
+                    {
+                        "id":  "o71",
+                        "label":  "gymnastics"
+                    },
+                    {
+                        "id":  "o72",
+                        "label":  "police and military personnel"
+                    },
+                    {
+                        "id":  "o73",
+                        "label":  "wall climb"
+                    },
+                    {
+                        "id":  "o74",
+                        "label":  "chain-link fence climb"
+                    },
+                    {
+                        "id":  "o75",
+                        "label":  "realistic occupational practice"
+                    },
+                    {
+                        "id":  "o76",
+                        "label":  "275-pound shot putter"
+                    },
+                    {
+                        "id":  "o77",
+                        "label":  "sport specificity"
+                    },
+                    {
+                        "id":  "o78",
+                        "label":  "body composition"
+                    },
+                    {
+                        "id":  "o79",
+                        "label":  "strength"
+                    },
+                    {
+                        "id":  "o80",
+                        "label":  "mobility"
+                    },
+                    {
+                        "id":  "o81",
+                        "label":  "Can You Go assessment"
+                    },
+                    {
+                        "id":  "o82",
+                        "label":  "one-foot balance"
+                    },
+                    {
+                        "id":  "o83",
+                        "label":  "height-to-weight ratio"
+                    },
+                    {
+                        "id":  "o84",
+                        "label":  "sleeping pillow count"
+                    },
+                    {
+                        "id":  "o85",
+                        "label":  "colourful vegetables"
+                    },
+                    {
+                        "id":  "o86",
+                        "label":  "thirty minutes of daily exercise"
+                    },
+                    {
+                        "id":  "o87",
+                        "label":  "plank"
+                    },
+                    {
+                        "id":  "o88",
+                        "label":  "farmer walk"
+                    },
+                    {
+                        "id":  "o89",
+                        "label":  "standing long jump"
+                    },
+                    {
+                        "id":  "o90",
+                        "label":  "ground get-up test"
+                    },
+                    {
+                        "id":  "o91",
+                        "label":  "intermittent fasting"
+                    },
+                    {
+                        "id":  "o92",
+                        "label":  "gut microbiome"
+                    },
+                    {
+                        "id":  "o93",
+                        "label":  "protein and vegetables at meals"
+                    },
+                    {
+                        "id":  "o94",
+                        "label":  "water intake"
+                    },
+                    {
+                        "id":  "o95",
+                        "label":  "ages 16 to 35"
+                    },
+                    {
+                        "id":  "o96",
+                        "label":  "ages 36 to 55"
+                    },
+                    {
+                        "id":  "o97",
+                        "label":  "age 55 and above"
+                    },
+                    {
+                        "id":  "o98",
+                        "label":  "fast-twitch muscle"
+                    },
+                    {
+                        "id":  "o99",
+                        "label":  "lean body mass"
+                    },
+                    {
+                        "id":  "o100",
+                        "label":  "health as an investment"
+                    },
+                    {
+                        "id":  "o101",
+                        "label":  "autoimmune health problems"
+                    },
+                    {
+                        "id":  "o102",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o103",
+                        "label":  "loaded carries"
+                    },
+                    {
+                        "id":  "o104",
+                        "label":  "Highland Games"
+                    },
+                    {
+                        "id":  "o105",
+                        "label":  "Contrarian Approach to the Highland Games"
+                    },
+                    {
+                        "id":  "o106",
+                        "label":  "Mike and Mindy Pockoski"
+                    },
+                    {
+                        "id":  "o107",
+                        "label":  "throwing practice"
+                    },
+                    {
+                        "id":  "o108",
+                        "label":  "heavy throwing implements"
+                    },
+                    {
+                        "id":  "o109",
+                        "label":  "trap bar"
+                    },
+                    {
+                        "id":  "o110",
+                        "label":  "farmer-bar carries"
+                    },
+                    {
+                        "id":  "o111",
+                        "label":  "sled"
+                    },
+                    {
+                        "id":  "o113",
+                        "label":  "homemade PVC hammer trainer"
+                    },
+                    {
+                        "id":  "o114",
+                        "label":  "Armstrong swings"
+                    },
+                    {
+                        "id":  "o115",
+                        "label":  "one minute of swings per direction"
+                    },
+                    {
+                        "id":  "o116",
+                        "label":  "48-hour response check"
+                    },
+                    {
+                        "id":  "o117",
+                        "label":  "56-pound Highland Games weight"
+                    },
+                    {
+                        "id":  "o118",
+                        "label":  "28-pound Highland Games weight"
+                    },
+                    {
+                        "id":  "o119",
+                        "label":  "multiple-turn technique"
+                    },
+                    {
+                        "id":  "o120",
+                        "label":  "throwing X position"
+                    },
+                    {
+                        "id":  "o121",
+                        "label":  "settling and patience"
+                    },
+                    {
+                        "id":  "o122",
+                        "label":  "John Powell workouts"
+                    },
+                    {
+                        "id":  "o123",
+                        "label":  "mountain-climbing program"
+                    },
+                    {
+                        "id":  "o124",
+                        "label":  "year-round use"
+                    },
+                    {
+                        "id":  "o125",
+                        "label":  "final preparation week"
+                    },
+                    {
+                        "id":  "o126",
+                        "label":  "first six weeks"
+                    },
+                    {
+                        "id":  "o127",
+                        "label":  "rucking"
+                    },
+                    {
+                        "id":  "o128",
+                        "label":  "cardiovascular work"
+                    },
+                    {
+                        "id":  "o129",
+                        "label":  "see-saw walking press"
+                    },
+                    {
+                        "id":  "o130",
+                        "label":  "Pat Flynn\u0027s generalism"
+                    },
+                    {
+                        "id":  "o131",
+                        "label":  "Easy Strength for Fat Loss"
+                    },
+                    {
+                        "id":  "o132",
+                        "label":  "deadlift hinge"
+                    },
+                    {
+                        "id":  "o133",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o134",
+                        "label":  "heart-rate spike before walking"
+                    },
+                    {
+                        "id":  "o135",
+                        "label":  "complexes followed by rucking"
+                    },
+                    {
+                        "id":  "o136",
+                        "label":  "hypertrophy workout followed by rucking"
+                    },
+                    {
+                        "id":  "o137",
+                        "label":  "hanging leg raise"
+                    },
+                    {
+                        "id":  "o138",
+                        "label":  "triceps extension and curl"
+                    },
+                    {
+                        "id":  "o139",
+                        "label":  "deficit deadlift"
+                    },
+                    {
+                        "id":  "o140",
+                        "label":  "single-arm row"
+                    },
+                    {
+                        "id":  "o141",
+                        "label":  "TRX press"
+                    },
+                    {
+                        "id":  "o142",
+                        "label":  "high-repetition double-kettlebell front squat"
+                    },
+                    {
+                        "id":  "o143",
+                        "label":  "ankle and hand weights"
+                    },
+                    {
+                        "id":  "o144",
+                        "label":  "free fatty acids"
+                    },
+                    {
+                        "id":  "o145",
+                        "label":  "basic workout-generator session followed by walking"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "required",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "was performed through",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "imposed the",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "remains in effect until",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "are proposed for initial restoration of",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "permits but does not eliminate the need for",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "is described as a reasonable periodic break from lifting",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "can expose a long-term lifter to a new activity instead of",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "can use",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "allows pressing without lying on a bench during",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "is possible with very light dumbbells during",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "should be delayed because of",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "adds supervision and companionship during",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "can constrain intensity during",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "is recommended initially after",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "is offered as a conservative form of",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "can restore",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "has",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "should therefore emphasize",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "converts strength into",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "can combine",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "requires an",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "requires practice in",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "can replace the level sprint in",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "can replace the sprint in",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "combines",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "follows deadlifts with a",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "develops",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "repeatedly demands",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "repeatedly demands",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "repeatedly demand",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "improves",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "may support",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "provides",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "can strengthen a",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "targets the",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "starts at a",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "was the starting performance in the",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "was achieved after a",
+                          "object":  "o55"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "had previously hidden weakness in",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "developed",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "can teach",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o54",
+                          "relation":  "slows and reinforces",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o57",
+                          "relation":  "can be alternated with",
+                          "object":  "o58"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "supplements rather than replaces",
+                          "object":  "o56"
+                      },
+                      {
+                          "subject":  "o59",
+                          "relation":  "supplement",
+                          "object":  "o60"
+                      },
+                      {
+                          "subject":  "o61",
+                          "relation":  "was created by",
+                          "object":  "o62"
+                      },
+                      {
+                          "subject":  "o61",
+                          "relation":  "is distributed by",
+                          "object":  "o63"
+                      },
+                      {
+                          "subject":  "o61",
+                          "relation":  "allows a",
+                          "object":  "o64"
+                      },
+                      {
+                          "subject":  "o61",
+                          "relation":  "provides",
+                          "object":  "o65"
+                      },
+                      {
+                          "subject":  "o66",
+                          "relation":  "indicate successful maintenance of",
+                          "object":  "o64"
+                      },
+                      {
+                          "subject":  "o61",
+                          "relation":  "requires",
+                          "object":  "o67"
+                      },
+                      {
+                          "subject":  "o67",
+                          "relation":  "addresses the weakness created by an",
+                          "object":  "o68"
+                      },
+                      {
+                          "subject":  "o69",
+                          "relation":  "is one program used with the",
+                          "object":  "o61"
+                      },
+                      {
+                          "subject":  "o70",
+                          "relation":  "is required in",
+                          "object":  "o71"
+                      },
+                      {
+                          "subject":  "o70",
+                          "relation":  "may have occupational value for",
+                          "object":  "o72"
+                      },
+                      {
+                          "subject":  "o73",
+                          "relation":  "is presented as a more realistic version of a",
+                          "object":  "o70"
+                      },
+                      {
+                          "subject":  "o74",
+                          "relation":  "is a realistic surface for practicing a",
+                          "object":  "o73"
+                      },
+                      {
+                          "subject":  "o75",
+                          "relation":  "should determine whether the muscle-up is worth practising over",
+                          "object":  "o77"
+                      },
+                      {
+                          "subject":  "o76",
+                          "relation":  "has little sport-specific need for a",
+                          "object":  "o70"
+                      },
+                      {
+                          "subject":  "o81",
+                          "relation":  "assesses",
+                          "object":  "o78"
+                      },
+                      {
+                          "subject":  "o81",
+                          "relation":  "assesses",
+                          "object":  "o79"
+                      },
+                      {
+                          "subject":  "o81",
+                          "relation":  "assesses",
+                          "object":  "o80"
+                      },
+                      {
+                          "subject":  "o81",
+                          "relation":  "includes",
+                          "object":  "o82"
+                      },
+                      {
+                          "subject":  "o81",
+                          "relation":  "includes",
+                          "object":  "o83"
+                      },
+                      {
+                          "subject":  "o81",
+                          "relation":  "asks about",
+                          "object":  "o84"
+                      },
+                      {
+                          "subject":  "o81",
+                          "relation":  "asks about",
+                          "object":  "o85"
+                      },
+                      {
+                          "subject":  "o81",
+                          "relation":  "asks about",
+                          "object":  "o86"
+                      },
+                      {
+                          "subject":  "o81",
+                          "relation":  "includes a",
+                          "object":  "o87"
+                      },
+                      {
+                          "subject":  "o81",
+                          "relation":  "includes a",
+                          "object":  "o88"
+                      },
+                      {
+                          "subject":  "o81",
+                          "relation":  "includes a",
+                          "object":  "o89"
+                      },
+                      {
+                          "subject":  "o81",
+                          "relation":  "includes a",
+                          "object":  "o90"
+                      },
+                      {
+                          "subject":  "o91",
+                          "relation":  "supports management of",
+                          "object":  "o78"
+                      },
+                      {
+                          "subject":  "o92",
+                          "relation":  "is supported by",
+                          "object":  "o93"
+                      },
+                      {
+                          "subject":  "o94",
+                          "relation":  "supports management of",
+                          "object":  "o78"
+                      },
+                      {
+                          "subject":  "o95",
+                          "relation":  "should develop",
+                          "object":  "o98"
+                      },
+                      {
+                          "subject":  "o95",
+                          "relation":  "should remain appropriately lean in",
+                          "object":  "o78"
+                      },
+                      {
+                          "subject":  "o96",
+                          "relation":  "should prioritize",
+                          "object":  "o79"
+                      },
+                      {
+                          "subject":  "o96",
+                          "relation":  "should prioritize",
+                          "object":  "o99"
+                      },
+                      {
+                          "subject":  "o96",
+                          "relation":  "should monitor",
+                          "object":  "o80"
+                      },
+                      {
+                          "subject":  "o97",
+                          "relation":  "should vigorously preserve",
+                          "object":  "o99"
+                      },
+                      {
+                          "subject":  "o97",
+                          "relation":  "should vigorously preserve",
+                          "object":  "o80"
+                      },
+                      {
+                          "subject":  "o100",
+                          "relation":  "is considered more fundamental than financial assets in later life",
+                          "object":  "o97"
+                      },
+                      {
+                          "subject":  "o91",
+                          "relation":  "helped restore health after",
+                          "object":  "o101"
+                      },
+                      {
+                          "subject":  "o102",
+                          "relation":  "helped restore strength after",
+                          "object":  "o101"
+                      },
+                      {
+                          "subject":  "o103",
+                          "relation":  "helped restore fitness after",
+                          "object":  "o101"
+                      },
+                      {
+                          "subject":  "o105",
+                          "relation":  "was written by",
+                          "object":  "o106"
+                      },
+                      {
+                          "subject":  "o105",
+                          "relation":  "provides guidance for",
+                          "object":  "o104"
+                      },
+                      {
+                          "subject":  "o107",
+                          "relation":  "is prioritized over extra lifting for",
+                          "object":  "o104"
+                      },
+                      {
+                          "subject":  "o104",
+                          "relation":  "uses",
+                          "object":  "o108"
+                      },
+                      {
+                          "subject":  "o109",
+                          "relation":  "can be used for",
+                          "object":  "o110"
+                      },
+                      {
+                          "subject":  "o111",
+                          "relation":  "supports preparation for",
+                          "object":  "o104"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "provide a strength base for",
+                          "object":  "o104"
+                      },
+                      {
+                          "subject":  "o56",
+                          "relation":  "is recommended for",
+                          "object":  "o104"
+                      },
+                      {
+                          "subject":  "o113",
+                          "relation":  "enables practice of",
+                          "object":  "o114"
+                      },
+                      {
+                          "subject":  "o114",
+                          "relation":  "progress toward",
+                          "object":  "o115"
+                      },
+                      {
+                          "subject":  "o116",
+                          "relation":  "checks recovery after initial",
+                          "object":  "o114"
+                      },
+                      {
+                          "subject":  "o117",
+                          "relation":  "helps prepare for the",
+                          "object":  "o118"
+                      },
+                      {
+                          "subject":  "o119",
+                          "relation":  "is a technique goal with the",
+                          "object":  "o117"
+                      },
+                      {
+                          "subject":  "o120",
+                          "relation":  "is a key position in",
+                          "object":  "o107"
+                      },
+                      {
+                          "subject":  "o121",
+                          "relation":  "is required after the feet land in",
+                          "object":  "o107"
+                      },
+                      {
+                          "subject":  "o122",
+                          "relation":  "provide standard strength work for",
+                          "object":  "o104"
+                      },
+                      {
+                          "subject":  "o123",
+                          "relation":  "can be adapted for",
+                          "object":  "o124"
+                      },
+                      {
+                          "subject":  "o124",
+                          "relation":  "removes the",
+                          "object":  "o125"
+                      },
+                      {
+                          "subject":  "o126",
+                          "relation":  "can be repeated to extend the",
+                          "object":  "o123"
+                      },
+                      {
+                          "subject":  "o123",
+                          "relation":  "includes",
+                          "object":  "o103"
+                      },
+                      {
+                          "subject":  "o123",
+                          "relation":  "includes",
+                          "object":  "o127"
+                      },
+                      {
+                          "subject":  "o123",
+                          "relation":  "includes",
+                          "object":  "o128"
+                      },
+                      {
+                          "subject":  "o129",
+                          "relation":  "can be removed if excessive in the",
+                          "object":  "o123"
+                      },
+                      {
+                          "subject":  "o130",
+                          "relation":  "is compared favourably with the structure of the",
+                          "object":  "o123"
+                      },
+                      {
+                          "subject":  "o131",
+                          "relation":  "originally combined",
+                          "object":  "o132"
+                      },
+                      {
+                          "subject":  "o131",
+                          "relation":  "also included a",
+                          "object":  "o133"
+                      },
+                      {
+                          "subject":  "o133",
+                          "relation":  "was used to create a",
+                          "object":  "o134"
+                      },
+                      {
+                          "subject":  "o135",
+                          "relation":  "was a later development from",
+                          "object":  "o131"
+                      },
+                      {
+                          "subject":  "o136",
+                          "relation":  "was judged more repeatable than",
+                          "object":  "o135"
+                      },
+                      {
+                          "subject":  "o136",
+                          "relation":  "can include",
+                          "object":  "o137"
+                      },
+                      {
+                          "subject":  "o136",
+                          "relation":  "can include",
+                          "object":  "o138"
+                      },
+                      {
+                          "subject":  "o136",
+                          "relation":  "can include a",
+                          "object":  "o139"
+                      },
+                      {
+                          "subject":  "o136",
+                          "relation":  "can include a",
+                          "object":  "o140"
+                      },
+                      {
+                          "subject":  "o136",
+                          "relation":  "can include a",
+                          "object":  "o141"
+                      },
+                      {
+                          "subject":  "o142",
+                          "relation":  "creates the final",
+                          "object":  "o134"
+                      },
+                      {
+                          "subject":  "o143",
+                          "relation":  "increase the demand of the walk after",
+                          "object":  "o136"
+                      },
+                      {
+                          "subject":  "o127",
+                          "relation":  "helps use",
+                          "object":  "o144"
+                      },
+                      {
+                          "subject":  "o145",
+                          "relation":  "is the simplest current recommendation derived from",
+                          "object":  "o131"
+                      }
+                  ]
+}

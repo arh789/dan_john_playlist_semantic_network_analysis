@@ -1,0 +1,344 @@
+﻿{
+    "playlist_position":  360,
+    "video_id":  "3uJ4Y82nRcw",
+    "url":  "https://www.youtube.com/watch?v=3uJ4Y82nRcw",
+    "official_title":  "The 10+ Books That Shaped Dan John’s Life",
+    "transcript":  {
+                       "file":  "../../transcripts/3uJ4Y82nRcw_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Neil"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "reading list"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "The Sword in the Stone"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "T. H. White"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "The Once and Future King"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "The Book of Merlin"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "education"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "Hamlet"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "William Shakespeare"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "decision-making"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "Don Quixote"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "Miguel de Cervantes"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "Two Years Before the Mast"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "Richard Henry Dana Jr."
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "The Hobbit"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "J. R. R. Tolkien"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "Do Not Go Gentle into That Good Night"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "Dylan Thomas"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "The Hitchhiker’s Guide to the Galaxy"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "Douglas Adams"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "Genesis"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "Epic of Gilgamesh"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "Utnapishtim"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "Noah"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "Gulliver’s Travels"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "Jonathan Swift"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "Physiology of Strength"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "The Education of a Bodybuilder"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "Arnold Schwarzenegger"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "Beowulf"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "Eaters of the Dead"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "Michael Crichton"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "Dune"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "The Tao of Pooh"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "Patton"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "Star Trek II: The Wrath of Khan"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "Lawrence of Arabia"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "Star Wars"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "Field of Dreams"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "Animal House"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "The Three Musketeers"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "Robin Hood"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "Brigadoon"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "Moonstruck"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "The Fisher King"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "Tapestry"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "Carole King"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "film list"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "requested",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "wrote",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "concerns",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "incorporates material from",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "wrote",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "concerns",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "wrote",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "wrote",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "wrote",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "wrote",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "wrote",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "contains",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "contains",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "parallels",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "wrote",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "wrote",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "wrote",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "reworks",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "includes",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "includes",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "includes",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "includes",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "includes",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "includes",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "includes",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "includes",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "created",
+                          "object":  "o47"
+                      }
+                  ]
+}

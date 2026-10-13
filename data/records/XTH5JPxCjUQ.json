@@ -1,0 +1,294 @@
+﻿{
+    "playlist_position":  142,
+    "video_id":  "XTH5JPxCjUQ",
+    "url":  "https://www.youtube.com/watch?v=XTH5JPxCjUQ",
+    "official_title":  "The Dan John Podcast - Ep 126 | Vertical Push in ES, Fitness for Kids, RKC for Everyone, and More",
+    "transcript":  {
+                       "file":  "../../transcripts/XTH5JPxCjUQ_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "18-year-old novice"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "beginner strength training"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "high-repetition compound movements"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "Starting Strength"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "Marty Gallagher"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "Jim Wendler 5/3/1 for Beginners"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "linear progression"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "perfect technique"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "simple sets and reps"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "rapid novice gains"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "RKC certification"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "personal trainers"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "non-trainer participants"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "intentional training community"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "kettlebell skills"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "coaching experience"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "68-year-old lifter"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "strength maintenance"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "hang clean"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "explosive power"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "spring in the step"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "Clarence Bass"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "Terry Todd"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "shoulder surgeries"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "technical load progression"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "vertical push"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "vertical pull"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "hinge"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "ab wheel"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "kettlebell swings"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "loaded carries"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "movement substitution"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "program instructions"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "children’s fitness"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "play"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "basic movement competence"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "age-appropriate training"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "three weekly compound-lift sessions"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o1",
+                          "relation":  "can begin with",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "prepare for",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "emphasizes",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "is an option for",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "produces",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "support",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "teaches",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "can benefit from",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "can create",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "is not required to learn from",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "pursues",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "support",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "develops",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "helps retain",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "discussed spring with",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "require caution with",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "reduces risk while learning",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "normally includes",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "normally includes",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "normally includes",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "uses",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "can substitute for",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "explain",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "should center on",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "develops",
+                          "object":  "o37"
+                      }
+                  ]
+}

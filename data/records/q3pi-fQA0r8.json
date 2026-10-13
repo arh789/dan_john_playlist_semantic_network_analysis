@@ -1,0 +1,794 @@
+﻿{
+    "playlist_position":  102,
+    "video_id":  "q3pi-fQA0r8",
+    "url":  "https://www.youtube.com/watch?v=q3pi-fQA0r8",
+    "official_title":  "The Dan John Podcast - Ep 86 | Long Rest Periods, Box Squats, KB Snatch Volume, and More",
+    "transcript":  {
+                       "file":  "../../transcripts/q3pi-fQA0r8_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "police entry fitness standards"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "14:50 one-and-a-half-mile target"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "71-second 300-meter target"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "21:21 baseline run"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "97-second baseline sprint"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "weekly four-to-five-mile run"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "three-times-event-distance rule"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "running base"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "fartlek training"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "medium-distance speed sessions"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "1,200-meter session limit"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "timed 600-, 300-, 200-, and 100-meter sequence"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "weak-distance diagnosis"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "five-to-fifteen-minute rest periods"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "rest by feel"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "three sets of eight with one-minute rest"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "Grease the Groove"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "Maffetone slow lifting"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "Olympic-lifting meet delay"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "warm-up lifts"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "five-pound ankle weights"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "daily walking"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "heavy backpack and hand weights"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "heart-rate monitoring"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "walking gait"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "spinal whipping movement"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "front-squat strength"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "one-lift-a-day Tuesday"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "sets of five, three, and two"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "fifteen sets of two"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "two- or three-day front-squat frequency"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "deep-back-squat lower-back pain"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "above-parallel box squat"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "athletic sprint and jump transfer"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "powerlifting use"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "excess box-squat loading"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "spinal or systemic weakness assessment"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "chains and bands"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "Bigger Faster Stronger chains"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "26-year-old police officer"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "general workout generator"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "post-workout walk"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "fat-loss workout generator"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "hypertrophy, mobility, and strength"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "free fatty acids"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "lift-and-sprint workout"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "goblet squats followed by sprints"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "three rounds maximum"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "tactical athlete"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "one-arm kettlebell swing"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "one-arm kettlebell snatch"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "ten-minute Secret Service snatch test"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "200 snatches with 24 kilograms"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "chin-sternum-zipper alignment"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "spinal twisting"
+                    },
+                    {
+                        "id":  "o57",
+                        "label":  "overhead snatch finish"
+                    },
+                    {
+                        "id":  "o58",
+                        "label":  "back-injury risk"
+                    },
+                    {
+                        "id":  "o59",
+                        "label":  "higher-calorie refeed days"
+                    },
+                    {
+                        "id":  "o60",
+                        "label":  "cyclical ketogenic dieting"
+                    },
+                    {
+                        "id":  "o61",
+                        "label":  "lower-calorie day during hypertrophy"
+                    },
+                    {
+                        "id":  "o62",
+                        "label":  "six-week mass-building phase"
+                    },
+                    {
+                        "id":  "o63",
+                        "label":  "pre-mass leanness"
+                    },
+                    {
+                        "id":  "o64",
+                        "label":  "fasting or fasting-mimicking diet"
+                    },
+                    {
+                        "id":  "o65",
+                        "label":  "desk work, cycling, and triathlon running"
+                    },
+                    {
+                        "id":  "o66",
+                        "label":  "rounded back in kettlebell movements"
+                    },
+                    {
+                        "id":  "o67",
+                        "label":  "tight hamstrings"
+                    },
+                    {
+                        "id":  "o68",
+                        "label":  "ankle mobility"
+                    },
+                    {
+                        "id":  "o69",
+                        "label":  "raised heels"
+                    },
+                    {
+                        "id":  "o70",
+                        "label":  "bottom goblet-squat hold"
+                    },
+                    {
+                        "id":  "o71",
+                        "label":  "elbows pushing knees outward"
+                    },
+                    {
+                        "id":  "o72",
+                        "label":  "goblet-to-overhead-squat assessment"
+                    },
+                    {
+                        "id":  "o73",
+                        "label":  "daily bar hang"
+                    },
+                    {
+                        "id":  "o74",
+                        "label":  "Romanian-deadlift stretch"
+                    },
+                    {
+                        "id":  "o75",
+                        "label":  "loaded straight-leg deadlift"
+                    },
+                    {
+                        "id":  "o76",
+                        "label":  "triathlon-specific adaptation"
+                    },
+                    {
+                        "id":  "o77",
+                        "label":  "back bridge"
+                    },
+                    {
+                        "id":  "o78",
+                        "label":  "average-person mobility"
+                    },
+                    {
+                        "id":  "o79",
+                        "label":  "umbilical-hernia risk"
+                    },
+                    {
+                        "id":  "o80",
+                        "label":  "wrestling, fighting, and javelin"
+                    },
+                    {
+                        "id":  "o81",
+                        "label":  "teenage general strength program"
+                    },
+                    {
+                        "id":  "o82",
+                        "label":  "bench press, squat, and deadlift"
+                    },
+                    {
+                        "id":  "o83",
+                        "label":  "clean and press, snatch, and clean and jerk"
+                    },
+                    {
+                        "id":  "o84",
+                        "label":  "kettlebell swing, snatch, goblet squat, and clean and press"
+                    },
+                    {
+                        "id":  "o85",
+                        "label":  "good coaching and appropriate loading"
+                    },
+                    {
+                        "id":  "o86",
+                        "label":  "Olympic-lifting and kettlebell certifications"
+                    },
+                    {
+                        "id":  "o87",
+                        "label":  "explosiveness without Olympic lifts"
+                    },
+                    {
+                        "id":  "o88",
+                        "label":  "glute bridge and hip thrust"
+                    },
+                    {
+                        "id":  "o89",
+                        "label":  "safe kettlebell swing"
+                    },
+                    {
+                        "id":  "o90",
+                        "label":  "trap-bar deadlift jump"
+                    },
+                    {
+                        "id":  "o91",
+                        "label":  "hinge and squat mastery"
+                    },
+                    {
+                        "id":  "o92",
+                        "label":  "task-specific performance transfer"
+                    },
+                    {
+                        "id":  "o93",
+                        "label":  "59-year-old tennis player"
+                    },
+                    {
+                        "id":  "o94",
+                        "label":  "six weekly hours of singles tennis"
+                    },
+                    {
+                        "id":  "o95",
+                        "label":  "loop-band compound workout"
+                    },
+                    {
+                        "id":  "o96",
+                        "label":  "planks and loaded carries"
+                    },
+                    {
+                        "id":  "o97",
+                        "label":  "progressive resistance"
+                    },
+                    {
+                        "id":  "o98",
+                        "label":  "two-day workout-generator start"
+                    },
+                    {
+                        "id":  "o99",
+                        "label":  "age-related muscle decline"
+                    },
+                    {
+                        "id":  "o100",
+                        "label":  "seasonally increased strength frequency"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o4",
+                          "relation":  "must improve toward the",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "must improve toward the",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "implements the",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "builds the",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "mixes running, walking, and sprinting for",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "support the",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "caps total work in",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "supports",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "guides",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "are rejected as impractical relative to",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "is a specified exception to",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "can create long intervals outside a conventional",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "can create long intervals outside a conventional",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "may require",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "can be used during",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "can augment one weekly",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "tracks demand during",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "may improve",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "may increase",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "can develop",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "uses",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "is one high-volume method for",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "is an informative method for",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "may create excessive fatigue for",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "is avoided by the",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "has uncertain",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "is established in",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "is a risk of the",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "warrants",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "provide an alternative to the",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "implement",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "can use the",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "can follow the",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "provides",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "may use",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "is recommended for the",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "implements the",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "limits the",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "was designed for the",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "requires",
+                          "object":  "o55"
+                      },
+                      {
+                          "subject":  "o55",
+                          "relation":  "reduces",
+                          "object":  "o56"
+                      },
+                      {
+                          "subject":  "o56",
+                          "relation":  "increases",
+                          "object":  "o58"
+                      },
+                      {
+                          "subject":  "o52",
+                          "relation":  "ends in an",
+                          "object":  "o57"
+                      },
+                      {
+                          "subject":  "o57",
+                          "relation":  "permits post-repetition recalibration unlike the",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o53",
+                          "relation":  "uses",
+                          "object":  "o54"
+                      },
+                      {
+                          "subject":  "o59",
+                          "relation":  "can support fat loss through",
+                          "object":  "o60"
+                      },
+                      {
+                          "subject":  "o61",
+                          "relation":  "is deferred until outside the",
+                          "object":  "o62"
+                      },
+                      {
+                          "subject":  "o63",
+                          "relation":  "should precede the",
+                          "object":  "o62"
+                      },
+                      {
+                          "subject":  "o64",
+                          "relation":  "can create",
+                          "object":  "o63"
+                      },
+                      {
+                          "subject":  "o65",
+                          "relation":  "may contribute to",
+                          "object":  "o66"
+                      },
+                      {
+                          "subject":  "o67",
+                          "relation":  "may contribute to",
+                          "object":  "o66"
+                      },
+                      {
+                          "subject":  "o68",
+                          "relation":  "can be tested through",
+                          "object":  "o69"
+                      },
+                      {
+                          "subject":  "o70",
+                          "relation":  "can improve hip mobility through",
+                          "object":  "o71"
+                      },
+                      {
+                          "subject":  "o72",
+                          "relation":  "helps identify the source of",
+                          "object":  "o66"
+                      },
+                      {
+                          "subject":  "o73",
+                          "relation":  "supports mobility for",
+                          "object":  "o66"
+                      },
+                      {
+                          "subject":  "o74",
+                          "relation":  "supports mobility for",
+                          "object":  "o66"
+                      },
+                      {
+                          "subject":  "o75",
+                          "relation":  "may help but can aggravate",
+                          "object":  "o58"
+                      },
+                      {
+                          "subject":  "o76",
+                          "relation":  "can make mobility changes risky for competitive athletes with",
+                          "object":  "o65"
+                      },
+                      {
+                          "subject":  "o77",
+                          "relation":  "has limited need for",
+                          "object":  "o78"
+                      },
+                      {
+                          "subject":  "o77",
+                          "relation":  "can create",
+                          "object":  "o79"
+                      },
+                      {
+                          "subject":  "o77",
+                          "relation":  "may be useful for",
+                          "object":  "o80"
+                      },
+                      {
+                          "subject":  "o81",
+                          "relation":  "should teach",
+                          "object":  "o82"
+                      },
+                      {
+                          "subject":  "o81",
+                          "relation":  "should teach",
+                          "object":  "o83"
+                      },
+                      {
+                          "subject":  "o81",
+                          "relation":  "can include",
+                          "object":  "o84"
+                      },
+                      {
+                          "subject":  "o85",
+                          "relation":  "are commonly missing from the",
+                          "object":  "o81"
+                      },
+                      {
+                          "subject":  "o86",
+                          "relation":  "support coaching the",
+                          "object":  "o81"
+                      },
+                      {
+                          "subject":  "o88",
+                          "relation":  "can develop",
+                          "object":  "o87"
+                      },
+                      {
+                          "subject":  "o89",
+                          "relation":  "can develop",
+                          "object":  "o87"
+                      },
+                      {
+                          "subject":  "o90",
+                          "relation":  "may develop",
+                          "object":  "o87"
+                      },
+                      {
+                          "subject":  "o91",
+                          "relation":  "should precede",
+                          "object":  "o87"
+                      },
+                      {
+                          "subject":  "o92",
+                          "relation":  "determines whether",
+                          "object":  "o87"
+                      },
+                      {
+                          "subject":  "o93",
+                          "relation":  "performs",
+                          "object":  "o94"
+                      },
+                      {
+                          "subject":  "o95",
+                          "relation":  "may slow",
+                          "object":  "o99"
+                      },
+                      {
+                          "subject":  "o96",
+                          "relation":  "supplement the",
+                          "object":  "o95"
+                      },
+                      {
+                          "subject":  "o97",
+                          "relation":  "is still needed beyond the",
+                          "object":  "o95"
+                      },
+                      {
+                          "subject":  "o98",
+                          "relation":  "introduces",
+                          "object":  "o97"
+                      },
+                      {
+                          "subject":  "o100",
+                          "relation":  "can rise when",
+                          "object":  "o94"
+                      }
+                  ]
+}

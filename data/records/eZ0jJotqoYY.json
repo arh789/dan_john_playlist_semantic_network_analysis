@@ -1,0 +1,270 @@
+﻿{
+    "playlist_position":  185,
+    "video_id":  "eZ0jJotqoYY",
+    "url":  "https://www.youtube.com/watch?v=eZ0jJotqoYY",
+    "official_title":  "Joe Rogan, Kettlebell Squat Swings, Reverse Hyper, Goblet Squats \u0026 Benching | Dan John Podcast #169",
+    "transcript":  {
+                       "file":  "../../transcripts/eZ0jJotqoYY_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "shoulder impingement"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "medical referral"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "bench press"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "incline bench press"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "pressing pain"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "54-year-old kettlebell trainee"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "Turkish get-up"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "press variation"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "Hardstyle Kettlebell Challenge"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "squat swing"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "hip-displacement continuum"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "unvetted social-media exercise"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "bootstrapper squat"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "hinge-to-squat transition"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "hurdlers"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "sprinters"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "football players"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "soccer players"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "hamstring recovery"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "Zercher squat"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "clean and press"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "three weekly sessions"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "reverse hyperextension"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "stationary torso"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "moving legs"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "lower-back training"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "slow controlled tempo"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "Joe Rogan"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "Louie Simmons"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "shoulder safety"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "high-school strength program"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "new coaching role"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "exercise fundamentals"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "medical boundary"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "legs"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o1",
+                          "relation":  "requires",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "can aggravate",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "may substitute for",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "uses",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "uses",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "documents",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "is rejected as",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "uses",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "helped",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "helped",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "can aid",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "combines with",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "combines with",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "organize",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "keeps",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "moves",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "is recommended for",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "has praised",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "popularized",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "limits advice about",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "should guide",
+                          "object":  "o34"
+                      }
+                  ]
+}

@@ -1,0 +1,409 @@
+﻿{
+    "playlist_position":  204,
+    "video_id":  "CroDnOibJz0",
+    "url":  "https://www.youtube.com/watch?v=CroDnOibJz0",
+    "official_title":  "Goblet Squats, Squat Program, Perfect Hangs, Isometrics \u0026 More... | Dan John Podcast #187",
+    "transcript":  {
+                       "file":  "../../transcripts/CroDnOibJz0_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "sets-first notation"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "repetition-first ladder"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "three sets of eight"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "five-three-two loading"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "Squat 101"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "dumbbell rack"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "ascending-load day"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "descending-load day"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "up-and-down day"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "Mass Made Simple"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "powerlifting competition"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "back squat"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "front squat"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "overhead squat"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "squat-position practice"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "press movement"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "pull movement"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "hinge movement"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "dead hang"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "passive shoulder stretch"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "active hang"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "grip fatigue"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "Tommy Kono"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "hanging knee raise"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "coffee"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "social ritual"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "isometrics"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "Isochain"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "technical position"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "plank"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "six-week isometric limit"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "neurological strength"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "muscle hypertrophy"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "time under tension"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "sticking point"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "training goal"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "available equipment"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "geometry"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "Givens"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "fat loss"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "high-carbohydrate diet"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "low-carbohydrate diet"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "individual response"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "either-or thinking"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "context-dependent programming"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "Stu McGill"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "spinal imaging"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "pain"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "growth mindset"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "ascending load"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "defines",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "differs from",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "uses",
+                          "object":  "o54"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "centers on",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "uses",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "uses",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "uses",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "contains",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "can prepare for",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "supports development toward",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "reinforces",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "can accompany",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can accompany",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "can accompany",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "can accompany",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "provides",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "differs from",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "distracts from",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "recommended",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "supports",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "teach",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "teaches positions for",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "constrains",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "develop",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "supports",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "can address",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "clarifies",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "is one of the",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "is one of the",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "can support",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "can support",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "requires",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "obscures",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "uses context when relating",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "does not determine",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o53",
+                          "relation":  "depends on",
+                          "object":  "o49"
+                      }
+                  ]
+}

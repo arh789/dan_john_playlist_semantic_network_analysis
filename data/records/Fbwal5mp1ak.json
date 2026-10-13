@@ -1,0 +1,406 @@
+﻿{
+    "playlist_position":  205,
+    "video_id":  "Fbwal5mp1ak",
+    "url":  "https://www.youtube.com/watch?v=Fbwal5mp1ak",
+    "official_title":  "Swings, WORST Exercises, Easy Strength, Rite of Passage \u0026 Greasing the Groove | Dan John Podcast 188",
+    "transcript":  {
+                       "file":  "../../transcripts/Fbwal5mp1ak_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "exercise risk-benefit"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "home gym"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "bench press"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "rib injury"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "Olympic lifts"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "power lifts"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "technical competence"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "performance safety"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "kettlebell bent press"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "windmill"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "Turkish get-up"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "double-kettlebell snatch"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "Perfect Workout"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "half-kneeling press"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "hanging"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "hip thrust"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "suitcase carry"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "greasing the groove"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "Olympic-lift practice"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "nervous system"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "typing skill"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "overhead squat"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "hip thrust isometric"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "glute bridge"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "Bulgarian goat-bag swing"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "waiter bow"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "Romanian deadlift"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "pelvic tilt"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "band resistance"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "ten-thousand-swing challenge"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "tree worker"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "occupational workload"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "two-day strength training"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "vertical press"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "one-arm row"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "rack deadlift"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "Jefferson deadlift"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "low-impact cardio"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "swimming"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "bike riding"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "kettlebell clean and press"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "kettlebell snatch"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "Rite of Passage"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "joint pain"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "hard-medium-light schedule"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "pull-up"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "training frequency"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "movement assessment"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "governs exercise selection in",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "can cause",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "improves",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "require",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "require",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "requires",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "requires",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "can function as",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "has unfavorable",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "includes",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "includes",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "includes",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "includes",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "includes",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "teaches",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "can use",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "uses repeated exposure for",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "can use",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "teaches the top position of",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "regresses",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "regresses",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "regresses",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "regresses",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "loads",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "limits",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "can suit",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "is prescribed for",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "is prescribed for",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "is prescribed for",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "can include",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "can include",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "uses",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "can substitute",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "can favor",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "can favor",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "organizes",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "can increase volume in",
+                          "object":  "o47"
+                      }
+                  ]
+}

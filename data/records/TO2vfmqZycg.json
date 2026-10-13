@@ -1,0 +1,277 @@
+﻿{
+    "playlist_position":  196,
+    "video_id":  "TO2vfmqZycg",
+    "url":  "https://www.youtube.com/watch?v=TO2vfmqZycg",
+    "official_title":  "Swings Increasing Deadlifts, HEAVY Kettlebells, Superhero Shape, NFL Training | Dan John Podcast 179",
+    "transcript":  {
+                       "file":  "../../transcripts/TO2vfmqZycg_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "49-year-old flag-football player"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "30-year football hiatus"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "three weekly kettlebell sessions"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "push-pull-squat-hinge-carry"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "flag-football preparation"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "sprinting"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "change of direction"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "catching skill"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "hybrid athlete"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "heavy lifting"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "distance running"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "Holy Grail athlete"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "Olympic lifts"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "3 a.m. call"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "unexpected endurance"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "double-kettlebell swing"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "double-kettlebell clean"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "barbell deadlift transfer"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "Return of the Kettlebell"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "Utah State powerlifting meet"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "100-kilogram class"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "heavy kettlebell"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "double 32-kilogram front squat"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "whole-body tension"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "superhero actor"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "one-year transformation"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "unlimited budget"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "isolated environment"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "controlled food"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "daily training"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "NFL injuries"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "collision sport"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "weight-room injury"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "sport injury"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "strength-coach responsibility"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "average actor"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "performance-enhancing-drug exclusion"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "barbell deadlift"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "double-kettlebell training"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "strength coach"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o1",
+                          "relation":  "returns after",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "provides",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "requires",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "requires",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "requires",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "combines",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "combines",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "support",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "transfers to",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "transfers to",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "discusses",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "tested",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "uses",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "creates",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "prepares",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "supports",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "is enabled by",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "causes",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "are not always caused by",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "is less acceptable than",
+                          "object":  "o35"
+                      }
+                  ]
+}

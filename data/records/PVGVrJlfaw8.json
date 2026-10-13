@@ -1,0 +1,283 @@
+﻿{
+    "playlist_position":  179,
+    "video_id":  "PVGVrJlfaw8",
+    "url":  "https://www.youtube.com/watch?v=PVGVrJlfaw8",
+    "official_title":  "Best Exercises for Athleticism, KB Program, Biceps, Home GYM, Jerk Benefits | Dan John Podcast #163",
+    "transcript":  {
+                       "file":  "../../transcripts/PVGVrJlfaw8_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "back extension"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "hyperextension"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "glute-ham raise"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "Nordic curl"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "hamstring injury"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "lower-back pump"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "discus thrower"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "front squat"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "jerk"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "Knees Over Toes training"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "long-range exercise"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "short-range exercise"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "tendon-dominant training"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "athletic spring"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "excessive flexibility"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "natural stiffness"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "push movement"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "pull movement"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "hinge movement"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "squat movement"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "movement aptitude"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "loading ability"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "mobility ability"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "biceps appearance"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "home gym"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "available space"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "dorm room"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "four-car garage"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "dumbbells"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "kettlebells"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "squat rack"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "barbell"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "staged purchases"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "training goal"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "suspension trainer"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "ab wheel"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "Olympic-lifting platform"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "equipment order"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "hamstring"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "sprinter curl"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o3",
+                          "relation":  "can overload",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "resembles older",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o1",
+                          "relation":  "can create",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "was paired with",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "followed",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "emphasizes",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "claims to build",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "can reduce",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "can support",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "contrasts with",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "contrasts with",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "is revealed by",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "is revealed by",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "determines",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "favors",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "favors",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "permits",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "permits",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "should follow",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "adds pull options to",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "adds trunk training to",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "depends on",
+                          "object":  "o26"
+                      }
+                  ]
+}

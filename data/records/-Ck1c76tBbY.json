@@ -1,0 +1,316 @@
+﻿{
+    "playlist_position":  192,
+    "video_id":  "-Ck1c76tBbY",
+    "url":  "https://www.youtube.com/watch?v=-Ck1c76tBbY",
+    "official_title":  "NEW Easy Strength Variations, Best Exercises, Loaded Carries, Performance | Dan John Podcast 176",
+    "transcript":  {
+                       "file":  "../../transcripts/-Ck1c76tBbY_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "training journal"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "June 1990 journal"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "goal statement"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "sets and repetitions"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "resting heart rate"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "cardio work"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "daily notes"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "Dan John journal concept"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "trap-bar loaded carry"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "long driveway"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "load-distance tradeoff"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "heavy short carry"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "light long carry"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "breathing demand"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "grip demand"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "cardiovascular demand"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "225-pound carry"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "50-yard course"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "135-pound carry"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "315-pound carry"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "dumbbell carry"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "movement variation"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "conventional deadlift"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "deload week"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "movement resensitization"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "exercise rotation"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "same movement pattern"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "performance speed"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "bar acceleration"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "Olympic Training Center"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "tempo learning"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "glute-and-hip focus"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "hip thrust"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "clamshell"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "squat"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "deadlift"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "swing"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "snatch"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "clean"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "prowler"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "sled pull"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "hill sprint"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "body-part priority"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "fat-loss consistency"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "Olympic lifting technique"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "long-term practice"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o1",
+                          "relation":  "records",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o1",
+                          "relation":  "records",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o1",
+                          "relation":  "records",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "is an example of",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "uses",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "increases",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "increases",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "can be tested on",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "permits more distance than",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "adds",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "may resensitize",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "changes",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "uses",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "supports",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "may improve",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "includes",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "includes",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "includes",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "includes",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "includes",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "develops",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "develops",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "uses little-and-often",
+                          "object":  "o47"
+                      }
+                  ]
+}

@@ -1,0 +1,387 @@
+﻿{
+    "playlist_position":  357,
+    "video_id":  "ZkEzsZ9crDM",
+    "url":  "https://www.youtube.com/watch?v=ZkEzsZ9crDM",
+    "official_title":  "Anaconda Strength, Easy Strength, ABF, Loaded Carries, Hypertrophy, Deadlift | DJU Podcast #344",
+    "transcript":  {
+                       "file":  "../../transcripts/ZkEzsZ9crDM_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Brian"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "Olympic lifting"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "young parent"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "apartment training"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "double 16-kilogram kettlebells"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "double 20-kilogram kettlebells"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "double 24-kilogram kettlebells"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "suitcase carry"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "farmer walk"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "waiter carry"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "front-rack carry"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "Kevin"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "training journal"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "pirate map"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "personal truths"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "bodyweight record"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "Jake"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "physical training"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "responsibility"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "suffering"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "hide-and-seek"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "military family"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "Tanner"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "kettlebell snatch"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "power training"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "hypertrophy training"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "press day"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "A/B program"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "Zach"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "clean and jerk"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "clean and press"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "snatch"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "Olympic-lifting coach"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "strength"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "mobility"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "conditioning"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "Glenn Passey"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "Chris"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "62-year-old hockey player"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "in-season training"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "comfortably challenging load"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "twice-weekly lifting"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "hockey performance"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "bodyweight clean and press"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "hockey"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "completed",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "uses",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "can include",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "can use",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "can use",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "can use",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "includes",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "includes",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "includes",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "includes",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "uses",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "can begin with",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "can include",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "can record",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "can influence",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "used",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "completed",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "includes",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "includes",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "includes",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "includes",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "can alternate",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "can alternate",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "includes",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "includes",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "includes",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "combines",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "combines",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "combines",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "recommended",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "plays",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "uses",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "supports",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "supports",
+                          "object":  "o49"
+                      }
+                  ]
+}

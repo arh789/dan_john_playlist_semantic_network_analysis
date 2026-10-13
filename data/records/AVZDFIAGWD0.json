@@ -1,0 +1,393 @@
+﻿{
+    "playlist_position":  351,
+    "video_id":  "AVZDFIAGWD0",
+    "url":  "https://www.youtube.com/watch?v=AVZDFIAGWD0",
+    "official_title":  "ABF w Barbells \u0026 Dumbbells, Exercise Selection, Longevity, Lunges, Olympic Lifts | DJU Podcast #338",
+    "transcript":  {
+                       "file":  "../../transcripts/AVZDFIAGWD0_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Thomas"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "risk-reward assessment"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "Stuart McGill"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "exercise rationale"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "bench press"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "spotter"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "safety bar"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "heavy Turkish get-up"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "double-kettlebell snatch"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "shoulder risk"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "George"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "single-kettlebell training"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "single-arm row"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "single-arm pulldown"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "single-arm bench press"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "single-arm overhead press"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "rack carry"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "waiter carry"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "suitcase carry"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "aging trainee"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "Dom"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "dumbbell training"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "single 24-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "dumbbell clean"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "Mass Made Simple"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "farmer walk"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "high-repetition squat"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "Sarah"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "lifting belt"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "clean and jerk"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "barbell Armor Building Formula"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "Greg"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "Physical 100"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "strongman"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "decathlete"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "Navy SEAL"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "mixed martial artist"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "Hyrox athlete"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "Ed"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "split clean"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "split snatch"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "squat clean"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "blocking leg"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "Frans Bosch"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "Track Training and Coordination"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "throwing athlete"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "jumping athlete"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "wrist risk"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "single-arm press"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "strength"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "endurance"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "work capacity"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o4",
+                          "relation":  "recommends documenting",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "supports",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "can require",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "reduces risk in",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "has",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "can increase",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "can use",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "can include",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "can include",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "can include",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "can include",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "can include",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "uses",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "can be performed with",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "requires practice for",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "can use",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "includes",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "depends on",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "can use",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "used",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "can be used for",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "can be used for",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "tests",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "tests",
+                          "object":  "o54"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "tests",
+                          "object":  "o55"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "can serve on",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "can serve on",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "differs from",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "trains",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "is used by",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "is used by",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "wrote",
+                          "object":  "o48"
+                      }
+                  ]
+}

@@ -1,0 +1,329 @@
+﻿{
+    "playlist_position":  363,
+    "video_id":  "fNYNCDUAiaY",
+    "url":  "https://www.youtube.com/watch?v=fNYNCDUAiaY",
+    "official_title":  "\"What the Hell\" Effect, Training Smarter, Easy Strength, KB Snatch, Eagle Workout | DJU Podcast #349",
+    "transcript":  {
+                       "file":  "../../transcripts/fNYNCDUAiaY_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Jared"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "41-year-old father"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "Easy Strength for Fat Loss"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "five-day training week"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "suboptimal sleep"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "4:30 a.m. training"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "walking"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "push-pull-hinge-carry template"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "Weekend Warrior"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "Davey"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "63-year-old retiree"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "general physical preparedness"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "cycling"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "hiking"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "backpacking"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "fly fishing"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "20-pound fat-loss goal"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "pull-up tower"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "Jeffrey"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "barbell Armor Building Formula"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "park-bench training"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "Eagle workout"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "double-kettlebell front squat"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "farmer walk"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "eight-week progression"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "seasonal training"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "Peter"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "Velocity Diet"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "Chris Shugart"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "six protein shakes"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "flaxseed"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "hard diet"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "Wes"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "age 55-plus training"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "hypertrophy"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "George"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "monthly lift practice"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "compound lift"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "heavy kettlebell snatch"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "intercostal muscle"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "What the Hell effect"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "uses",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "uses",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "includes",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "can override",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "can suit",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "targets",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "supports",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "supports",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "supports",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "targets",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can use",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "plans",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "can follow",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "includes",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "includes",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "can prepare for",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "can alternate",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "can alternate",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "created",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "uses",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "included",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "is a",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "should emphasize",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "can support",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "proposed",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "rotates",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "can stress",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "can create",
+                          "object":  "o44"
+                      }
+                  ]
+}

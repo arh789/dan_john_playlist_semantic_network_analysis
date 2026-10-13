@@ -1,0 +1,285 @@
+﻿{
+    "playlist_position":  333,
+    "video_id":  "tDNqqKXyrSA",
+    "url":  "https://www.youtube.com/watch?v=tDNqqKXyrSA",
+    "official_title":  "ABC, Squats, Building Muscle, KB Snatches, 5-3-1 Workout, Loaded Carries \u0026 More | DJU Podcast #321",
+    "transcript":  {
+                       "file":  "../../transcripts/tDNqqKXyrSA_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Armor Building Formula 2"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "fat-loss program"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "calorie control"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "post-workout walk"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "40-year-old trainee"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "20-repetition squat"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "bodyweight squat load"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "two-three-five cluster"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "strength progression"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "64-year-old kettlebell trainee"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "32-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "30-round EMOM"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "weight progression"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "Jim Wendler 5/3/1"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "double 24-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "assistance work"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "barbell lift"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "military press"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "bench press"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "deadlift"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "back squat"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "uneven kettlebell pair"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "24-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "heavy back squat"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "spinal loading"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "long-term back health"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "kettlebell snatch"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "100-repetition snatch test"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "five-minute test"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "70 unbroken snatches"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "grip fatigue"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "muscle gain"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "squat choice"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "grip strength"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "contains",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "supports",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "supports",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "used",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "can follow",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "supports",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "targets",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "can use",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "governs",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "can serve as",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "can follow",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can be",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can be",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can be",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can be",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "can combine",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "can combine",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "reduces",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "increases",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "influences",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "uses",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "has",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "increases",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "develops",
+                          "object":  "o38"
+                      }
+                  ]
+}

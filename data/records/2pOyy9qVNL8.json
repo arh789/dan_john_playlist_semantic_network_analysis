@@ -1,0 +1,300 @@
+﻿{
+    "playlist_position":  181,
+    "video_id":  "2pOyy9qVNL8",
+    "url":  "https://www.youtube.com/watch?v=2pOyy9qVNL8",
+    "official_title":  "Thoughts on Pavel, KB Snatch, Squats, Muscle Building \u0026 Training When Sick | Dan John Podcast #165",
+    "transcript":  {
+                       "file":  "../../transcripts/2pOyy9qVNL8_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "moderate-to-severe flu"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "one-week training pause"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "detraining concern"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "return-to-training decision"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "medical caution"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "program midpoint"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "program endpoint"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "gradual re-entry"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "24/7 commercial gym"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "machine inventory"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "Smith machine"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "medicine ball"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "calisthenics equipment"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "poor kettlebells"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "absent barbells"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "exercise selection"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "limited shoulder mobility"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "recovered shoulder injury"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "kettlebell snatch"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "one-arm overhead path"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "shoulder stability"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "waiter walk"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "rack walk"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "hanging"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "high-repetition back squat"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "full-body stroke"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "long implement path"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "secondary puberty"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "Olympic-lifting program"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "muscle gain"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "Dick Notmeyer"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "high food intake"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "five sets of two"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "three sets of three"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "Pavel Tsatsouline"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "RKC"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "professional friendship"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "copious notes"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "intentional community"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "training conversation"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "barbell"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "strength training"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "shoulder asymmetry"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o1",
+                          "relation":  "causes",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "creates",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "should follow",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "depends on",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "depends on",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "contains",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "lacks",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "constrain",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "can still support",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "leaves",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "allows adaptation around",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "tests",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "supports readiness for",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "has",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "resembles high-repetition challenge of",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "produced",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "contributed to",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "contributed to",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "supports strength within",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "co-taught",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "connects Dan John and",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "characterize",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "supports",
+                          "object":  "o40"
+                      }
+                  ]
+}

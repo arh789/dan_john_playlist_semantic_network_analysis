@@ -1,0 +1,371 @@
+﻿{
+    "playlist_position":  247,
+    "video_id":  "I1cWz0w2_aw",
+    "url":  "https://www.youtube.com/watch?v=I1cWz0w2_aw",
+    "official_title":  "Minimalist KB Program, Easy Strength, Best Movements, Fat Loss, Training Methods | DJU Podcast #231",
+    "transcript":  {
+                       "file":  "../../transcripts/I1cWz0w2_aw_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "older adult"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "sofa move"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "minimalist workout"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "daily training"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "suspension trainer"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "T-Y-I drill"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "row"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "push-up"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "overhead press"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "walking"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "five-times-52-weeks consistency"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "Easy Strength for Fat Loss"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "chin-up"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "military press"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "standard deadlift"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "post-workout walk"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "fat loss"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "kitchen discipline"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "posture"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "shoulder health"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "rugby damage"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "exercise consistency"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "movement variation"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "Original Strength"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "Tim Anderson"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "dead hang"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "goblet-squat hold"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "six-point rock"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "tonic Thursday"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "mobility training"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "windmill stick"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "Stoney stretch"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "egg roll"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "spirituality and sport"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "university course"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "philosophy"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "religion"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "personal growth"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "training economy"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "time constraint"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "three-or-four-workout schedule"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "Original Strength movement"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "sport"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o4",
+                          "relation":  "prepares",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "supports",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "can use",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "can perform",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "can perform",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "can include",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "can include",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "can include",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "can finish",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "supports",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "can include",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "can include",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "can include",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "uses",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "supports",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "supports",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "can improve",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "can improve",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "develops",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "can be delayed while progress continues in",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "was created by",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "can fill rest period in",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "can fill rest period in",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "can fill rest period in",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "focuses on",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "assesses",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "assesses",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "is an",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "can be a",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "can inform",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "can inform",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "can produce",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "responds to",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "can satisfy",
+                          "object":  "o42"
+                      }
+                  ]
+}

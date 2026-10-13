@@ -1,0 +1,395 @@
+﻿{
+    "playlist_position":  279,
+    "video_id":  "hkw1avH8rQc",
+    "url":  "https://www.youtube.com/watch?v=hkw1avH8rQc",
+    "official_title":  "Double KB Work, ABC, Losing Weight Without Muscle, Strength Gains \u0026 More | DJU Podcast #265",
+    "transcript":  {
+                       "file":  "../../transcripts/hkw1avH8rQc_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "powerbuilding"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "compound lift"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "hundred daily swings"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "cardio"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "treadmill running"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "endorphin"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "strength gain"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "interference effect"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "Percy Cerutty"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "strength athlete"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "endurance athlete"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "fat-loss diet"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "six-month diet"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "bodyweight loss"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "muscle loss"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "slow weight loss"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "strength recovery"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "double-kettlebell training"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "single kettlebell"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "20-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "24-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "asymmetrical pair"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "uneven front squat"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "uneven clean and press"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "Tim Anderson"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "X linkage"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "equipment purchase"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "lunge"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "Stu McGill"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "knee pain"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "common sense"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "double 16-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "front-squat limitation"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "triathlon"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "squat practice"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "specific strength goal"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "training load"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "technical quality"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "five-three-two"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "six singles"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "progress assessment"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "nutrition"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "cheap corn"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "cheap soy"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "food system"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "exercise selection"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "double-kettlebell front squat"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "strength goal"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "uses",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "uses",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "provides",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "can support",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "can affect",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "combined training for",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "combined training for",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "can produce",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "can cause",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "can reduce",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "follows",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "combines",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "combines",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "can load",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "can load",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "describes",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can use",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "can follow exhaustion of",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "can aggravate",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "warns about",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "should govern",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "uses",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "can load",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "can limit",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "can improve",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "adds recovery demand to",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "can pursue",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "can progress",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "can progress",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "should govern",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "should compare",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "supports",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "shapes",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "shapes",
+                          "object":  "o49"
+                      }
+                  ]
+}

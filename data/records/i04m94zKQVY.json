@@ -1,0 +1,337 @@
+﻿{
+    "playlist_position":  284,
+    "video_id":  "i04m94zKQVY",
+    "url":  "https://www.youtube.com/watch?v=i04m94zKQVY",
+    "official_title":  "WTH Effect, TRT \u0026 Liver King, Adaptive Training, KB Swings \u0026 Fat Burning Tips | DJU Podcast #270",
+    "transcript":  {
+                       "file":  "../../transcripts/i04m94zKQVY_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Olympic lifting challenge"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "training result"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "barbell measurement"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "deadlift fatigue"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "heavy sandbag over bar"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "farmer walk"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "strongman"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "training enjoyment"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "T-Rex swing"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "elbow-to-side position"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "hardstyle swing"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "technical error"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "52-year-old trainee"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "midsection fat"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "deadlift"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "barbell complex"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "garage gym"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "What the Heck effect"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "testosterone replacement therapy"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "hormone replacement therapy"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "fitness influencer"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "low testosterone"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "body-fat level"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "physician"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "sleep"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "recovery"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "mental health"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "intermittent fasting"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "Brad Pilon"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "Eat Stop Eat"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "fat loss"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "meal frequency"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "adaptive training"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "health marker"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "strength training"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "walking"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "protein"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "vegetable"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "hydration"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "Liver King claim"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "online disclosure"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "medical intervention"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "adherence"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "health"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o4",
+                          "relation":  "reveals",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "can replace",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "can replace",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "can replace",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "supports",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "supports",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "uses",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "differs from",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "can reduce benefit of",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "can complement",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "can create",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "is a",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "is a",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "may use",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "affects",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "should supervise",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "supports",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "supports",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "wrote",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "advocates",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "can support",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "responds to",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "supports",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "supports",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "supports",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "supports",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "supports",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "should identify",
+                          "object":  "o44"
+                      }
+                  ]
+}

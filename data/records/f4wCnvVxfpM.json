@@ -1,0 +1,335 @@
+﻿{
+    "playlist_position":  372,
+    "video_id":  "f4wCnvVxfpM",
+    "url":  "https://www.youtube.com/watch?v=f4wCnvVxfpM",
+    "official_title":  "ABC, Deadlifts, Staying Athletic \u0026 Competitive, Setting Goals, Programming \u0026 More | DJU Podcast #358",
+    "transcript":  {
+                       "file":  "../../transcripts/f4wCnvVxfpM_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Rory"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "38-year-old father"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "newborn"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "adjustable kettlebells"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "trap-bar deadlift"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "straight-bar deadlift"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "back discomfort"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "time constraint"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "Phil"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "program design"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "serendipitous experiment"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "fat-loss program"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "American football"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "injury rate"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "Ethan Reeve"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "Wake Forest football"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "kettlebell training"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "Olympic lifting"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "powerlifting"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "80/20 principle"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "three-day lifting week"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "10,000 daily steps"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "density training"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "power clean"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "single-sided Armor Building Complex"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "Rick"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "60-year-old tennis player"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "Highland games"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "agility"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "mobility"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "longevity"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "4,000-to-6,000 morning steps"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "30-minute training window"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "Andreas"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "47-year-old father"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "shoulder problem"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "biceps tendon"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "rotator cuff"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "blocked first rib"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "physical therapy"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "strength"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "health"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "daughter"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "failed program"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "tennis"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "owns",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "uses",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "causes",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "can combine with",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "creates",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "can emerge from",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "can cause",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "coached at",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "combined",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "combined",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "combined",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "can coexist with",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "can focus on",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "required years of",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "plays",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "previously competed in",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "can alternate",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "can alternate",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "support",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "has",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "involves",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "involves",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "involves",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "addresses",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "can support",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "can support",
+                          "object":  "o45"
+                      }
+                  ]
+}

@@ -1,0 +1,411 @@
+﻿{
+    "playlist_position":  251,
+    "video_id":  "ciInDVNmR_I",
+    "url":  "https://www.youtube.com/watch?v=ciInDVNmR_I",
+    "official_title":  "Armor Building Complex, KB Only Training, Hypertrophy \u0026 More | DJU Podcast 235",
+    "transcript":  {
+                       "file":  "../../transcripts/ciInDVNmR_I_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "rack deadlift"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "floor deadlift"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "rack height"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "individual anatomy"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "hinge pattern"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "powerlifting competition"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "cost-benefit ratio"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "Pat Flynn"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "juice worth the squeeze"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "one-arm dumbbell snatch"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "one-arm dumbbell clean and jerk"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "kettlebell snatch"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "high-repetition snatch"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "conditioning"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "RKC preparation"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "hypertrophy"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "24-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "double-kettlebell clean and jerk"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "long-cycle clean and jerk"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "40-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "80-kilogram athlete"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "strength foundation"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "technical skill"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "guns-buns-lungs"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "clean and press"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "martial artist"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "martial arts teaching"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "sparring"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "15-minute workout"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "double-kettlebell clean"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "double-kettlebell press"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "double-kettlebell front squat"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "collision sport"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "five-to-ten rounds"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "training frequency"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "concurrent training"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "kettlebell sport"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "strongman"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "strength endurance"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "seasonal training"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "recovery"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "walking"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "play"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "sand"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "water"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "athleticism"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "exercise"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o3",
+                          "relation":  "can replace",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "can accommodate",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "trains",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "requires practice of",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "can guide selection of",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "uses phrase",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "differs from",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "includes",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "develops",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "prepares for",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "is not primarily for",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "can be used for",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "is a form of",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "is a target load for",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "seeks ten repetitions of",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "supports",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "supports",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "supports",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "can build strength for",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "adds to workload of",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "adds to workload of",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "fits",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "combines",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "combines",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "combines",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "supports",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "can bound",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "must account for",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "can be combined with",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "requires",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "must balance",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "must balance",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "can manage",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "develops",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "supports",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "develops",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "can provide environment for",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "can provide environment for",
+                          "object":  "o48"
+                      }
+                  ]
+}

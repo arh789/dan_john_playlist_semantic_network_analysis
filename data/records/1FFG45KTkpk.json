@@ -1,0 +1,411 @@
+﻿{
+    "playlist_position":  172,
+    "video_id":  "1FFG45KTkpk",
+    "url":  "https://www.youtube.com/watch?v=1FFG45KTkpk",
+    "official_title":  "Spec Ops Lifting, Weight Loss Tips \u0026 Explosive Benefits of Squats | Dan Jon Podcast #158",
+    "transcript":  {
+                       "file":  "../../transcripts/1FFG45KTkpk_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "strongman sandbag throw"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "40-pound bag"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "hang power snatch"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "200-pound overhead lift"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "strongman athlete"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "Olympic lifts"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "clean and press"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "snatch"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "clean and jerk"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "power lifts"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "bench press"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "squat"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "deadlift"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "farmer walk"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "yoke carry"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "American-football transfer"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "excessive strongman volume"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "29-year-old triathlete"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "rower"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "off-season hypertrophy"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "guns-buns-and-abs routine"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "hip thrust"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "clamshell"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "overhead squat"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "deficit deadlift"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "alternating training days"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "strong squat"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "running performance"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "jumping performance"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "hurdling performance"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "born-to-hinge athlete"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "born-to-squat athlete"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "vertical jump"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "sprint acceleration"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "HeavyHands walk"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "Vibram FiveFingers"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "five-pound dumbbells"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "30-pound vest"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "seesaw overhead press"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "heart-rate spike"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "gradual loading"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "5 a.m. garage training"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "Olympic lifting"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "morning stiffness"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "competition-time practice"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "warm-up duration"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "30-year-old special-operations athlete"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "rucking"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "downhill rucking"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "patellar tendinitis"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "full squat clean"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "split jerk"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "power jerk"
+                    },
+                    {
+                        "id":  "o57",
+                        "label":  "Easy Strength for Olympic lifting"
+                    },
+                    {
+                        "id":  "o58",
+                        "label":  "power variations"
+                    },
+                    {
+                        "id":  "o59",
+                        "label":  "medical management"
+                    },
+                    {
+                        "id":  "o60",
+                        "label":  "American-football athlete"
+                    },
+                    {
+                        "id":  "o61",
+                        "label":  "special-operations athlete"
+                    },
+                    {
+                        "id":  "o62",
+                        "label":  "patellar tendon"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o3",
+                          "relation":  "can make",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "support",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "can train",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "can train",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "can train",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "support",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "supports",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "may transfer to",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "can harm",
+                          "object":  "o60"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "can use",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "trains buns in",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "trains hips in",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "can alternate with",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "can support",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "depends on whether athlete is",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "may benefit from",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "can benefit from",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "load",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "loads",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "creates",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "should precede combined heavy",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "requires longer",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "prepares",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "increases caution during",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o61",
+                          "relation":  "accumulates load from",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o52",
+                          "relation":  "stresses",
+                          "object":  "o62"
+                      },
+                      {
+                          "subject":  "o54",
+                          "relation":  "can provoke",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o55",
+                          "relation":  "can provoke",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o58",
+                          "relation":  "may reduce knee demand within",
+                          "object":  "o57"
+                      },
+                      {
+                          "subject":  "o53",
+                          "relation":  "requires",
+                          "object":  "o59"
+                      }
+                  ]
+}

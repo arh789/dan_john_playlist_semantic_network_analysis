@@ -1,0 +1,373 @@
+﻿{
+    "playlist_position":  157,
+    "video_id":  "2Ud7T2Nhz0E",
+    "url":  "https://www.youtube.com/watch?v=2Ud7T2Nhz0E",
+    "official_title":  "The Dan John Podcast - Ep 142 | Eating for Strength, Distractions, Catching Cleans, and More",
+    "transcript":  {
+                       "file":  "../../transcripts/2Ud7T2Nhz0E_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "28-year-old advanced lifter"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "five-to-six-day push-pull split"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "excessive training volume"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "natural lifter"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "recovery time"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "whole-body training"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "three-day schedule"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "strength-focused nutrition"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "protein"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "vegetables"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "water"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "competition distractions"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "Now What?"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "post-competition review"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "physical tension"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "mental arousal"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "emotional state"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "performance routine"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "long-hours lawyer"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "prolonged standing"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "lower-back stress"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "knee stress"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "ankle stress"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "108-kilogram bodyweight"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "gradual weight loss"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "walking capacity"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "loaded carries"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "post-deployment military training"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "Attempts"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "resilience work"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "movement restoration"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "push"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "pull"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "hinge"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "squat"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "carry complement"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "hollow-body movement"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "L-sit"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "toes-to-bar"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "clean and press"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "clean catch"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "shoulder rack"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "press grip"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "clean grip"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "Dick Notmeyer"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "garage training"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "technical coaching"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "prolonged-standing capacity"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "fundamental movement square"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "creates",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "needs more",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "can replace",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "increases",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "supports",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "support",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "supports",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "guides",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "examines",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "examines",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "examines",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "reduces",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "causes",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "causes",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "causes",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "increases demands of",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "can improve",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "can build",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "documents",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "uses",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "is a goal of",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "complements",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "complements",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "sits outside paired",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "can complement",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "is a",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "is a",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "begins with",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "uses",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "usually matches",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "taught relationship between",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "increases need for",
+                          "object":  "o48"
+                      }
+                  ]
+}

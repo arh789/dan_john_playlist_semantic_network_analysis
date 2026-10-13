@@ -1,0 +1,407 @@
+﻿{
+    "playlist_position":  298,
+    "video_id":  "HjZ9uBf-kQg",
+    "url":  "https://www.youtube.com/watch?v=HjZ9uBf-kQg",
+    "official_title":  "Perfect Workout, ABF, Minimalist Training, Easy Strength with Fixed Weights | DJU Podcast #284",
+    "transcript":  {
+                       "file":  "../../transcripts/HjZ9uBf-kQg_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "throws coach"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "dual-kettlebell Armor Building Formula"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "24-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "swing"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "ab roller"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "32-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "one-arm Armor Building Formula"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "push press"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "strict press"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "single-kettlebell front squat"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "working-weight progression"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "martial artist"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "sport transfer"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "push-up"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "bench press"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "jump squat"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "overhead press"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "punching"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "kicking"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "sport coach"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "fixed-weight training"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "Easy Strength for Fat Loss"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "chin-up"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "John McKean"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "month-long weight block"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "load jump"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "limited home gym"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "35-pound plate"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "25-pound plate"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "repetition increase"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "35-year-old former football player"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "chronic injury"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "medical evaluation"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "training reset"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "belt squat"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "banded hip thrust"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "lower-back issue"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "lower-body hypertrophy"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "sciatica"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "73-year-old trainee"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "weight loss"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "back spasm"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "bar hang"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "shoulder injury"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "MRI"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "exercise machine"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "walking"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "leg extension"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "standing leg curl"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "machine bench press"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "injury"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "lower-body muscle"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "upper-body muscle"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o3",
+                          "relation":  "can use",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "can combine with",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "can include",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "can include",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "can include",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "can use",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "can use",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "can precede",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "uses",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "can transfer to",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "can transfer to",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "evaluates",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "can be used in",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "can improve",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "wrote about",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "can precede",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "encourages",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "extends",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "requires",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "has",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "can follow",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "develops",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "can accommodate",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "develops",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "can accommodate",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "can produce",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "pursues",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "interrupted",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "can aggravate",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "evaluates",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "supports recovery from",
+                          "object":  "o54"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "can maintain",
+                          "object":  "o55"
+                      },
+                      {
+                          "subject":  "o52",
+                          "relation":  "can maintain",
+                          "object":  "o55"
+                      },
+                      {
+                          "subject":  "o53",
+                          "relation":  "can maintain",
+                          "object":  "o56"
+                      }
+                  ]
+}

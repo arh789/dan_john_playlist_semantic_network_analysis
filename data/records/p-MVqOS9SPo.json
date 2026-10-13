@@ -1,0 +1,351 @@
+﻿{
+    "playlist_position":  379,
+    "video_id":  "p-MVqOS9SPo",
+    "url":  "https://www.youtube.com/watch?v=p-MVqOS9SPo",
+    "official_title":  "Fat Loss, Full Year of Training, Easy Strength, When to Deload, KB Swings \u0026 More | DJU Podcast #365",
+    "transcript":  {
+                       "file":  "../../transcripts/p-MVqOS9SPo_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Jan"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "nasal breathing"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "mouth breathing"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "tongue-to-palate position"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "Original Strength"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "closing the loop"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "Bud Winter"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "Relax and Win"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "Ayurvedic medicine"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "sandbag carry"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "kettlebell carry"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "get-back-up drill"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "pre-stretch"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "elastic performance"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "plank"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "isometric"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "snap"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "Joel"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "Easy Strength for Fat Loss"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "body composition"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "Pat Flynn"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "physical job"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "morning walk"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "high step count"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "recovery"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "appetite"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "Justin"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "deload"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "training momentum"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "holiday training"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "strength"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "performance"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "recovery week"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "overtraining"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "concussion"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "AJ"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "boxing"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "straight-leg raise"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "dip bar"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "hanging knee raise"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "suitcase carry"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "lower-back pain"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "12-month training plan"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "seasonal training"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "summer leanness"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "grandchild readiness"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "RKC"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "long-term progress"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "training break"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "stabilization"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o3",
+                          "relation":  "can use",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "calls tongue-to-palate",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "wrote",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "creates",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "can create",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "is taught in",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "is an",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "supports",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "is important for",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "plans",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "supports",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "affects",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "increases",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "affects",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "supports",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "can preserve",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "is a",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "can reduce",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "forced",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "trains for",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "can use",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "requires",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "reduced",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "can use",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "can guide",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "is a goal of",
+                          "object":  "o45"
+                      }
+                  ]
+}

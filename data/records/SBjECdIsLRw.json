@@ -1,0 +1,283 @@
+﻿{
+    "playlist_position":  334,
+    "video_id":  "SBjECdIsLRw",
+    "url":  "https://www.youtube.com/watch?v=SBjECdIsLRw",
+    "official_title":  "Bodybuilding \u0026 Strength Training, Fat Loss, Adjusting Programs, Recovery \u0026 More | DJU Podcast #322",
+    "transcript":  {
+                       "file":  "../../transcripts/SBjECdIsLRw_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "40-year-old multi-sport trainee"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "supraspinatus tendinitis"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "physiotherapist"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "fear of missing out"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "strength training"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "kickboxing"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "grappling"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "dance"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "hiking"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "mountain biking"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "recovery capacity"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "56-year-old veteran athlete"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "rugby"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "soccer"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "surfing"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "touch football"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "Brazilian jiu-jitsu"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "hip issue"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "back issue"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "kettlebell training"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "morbid obesity"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "328-pound bodyweight"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "163-pound bodyweight"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "powerlifting"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "bodybuilding"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "calisthenics"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "cycling"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "running"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "boxing"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "program progression"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "kettlebell novice"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "Catholic upbringing"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "coaching"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "fatherhood"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "resilience"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "fat loss"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "training adjustment"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "fat loss journey"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o3",
+                          "relation":  "is managed by",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "drives",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "drives",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "drives",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "drives",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "limits",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "contributes to",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "contributes to",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "appeals to",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "included",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "produced",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "was practiced during",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "was practiced during",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "was practiced during",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "was practiced during",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "was practiced during",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "was practiced during",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "can lead to",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "influences",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "influences",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "supports",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "responds to",
+                          "object":  "o12"
+                      }
+                  ]
+}

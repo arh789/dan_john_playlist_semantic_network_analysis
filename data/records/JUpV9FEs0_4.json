@@ -1,0 +1,278 @@
+﻿{
+    "playlist_position":  193,
+    "video_id":  "JUpV9FEs0_4",
+    "url":  "https://www.youtube.com/watch?v=JUpV9FEs0_4",
+    "official_title":  "HEAVY Deadlifts, Easy Strength vs. Southwood, Olympic Lifting \u0026 More | Dan John Podcast #177",
+    "transcript":  {
+                       "file":  "../../transcripts/JUpV9FEs0_4_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "heavy leg work"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "heavy squat"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "heavy deadlift"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "five weekly leg sessions"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "seven-year training span"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "Dick Notmeyer"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "front squat"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "heavy jerk"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "snatch"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "clean and jerk"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "training matrix"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "1960s bodybuilding program"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "bench press"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "military press"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "chin-up"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "back squat"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "deadlift variation"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "curl"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "Olympic-lift self-teaching"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "online tutorial"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "prohibitive coaching cost"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "28-year-old trainee"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "powerlifting background"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "bodybuilding background"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "technical correction"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "blood donation"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "male heart health"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "hematocrit"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "iron accumulation"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "training after donation"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "Mass Made Simple"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "seven-week schedule"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "140-pound starting weight"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "150-pound finishing weight"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "three children"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "busy schedule"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "Southwood program"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "six-week transition"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "mass retention"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o6",
+                          "relation":  "coached",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "continued for",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "was paired with",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "provided",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "provided",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "determines frequency of",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "included",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "included",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "included",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "included",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can use",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "improves",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "motivates",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "reduces",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "affects",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "increased weight from",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "increased weight to",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "fit",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "can follow",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "protects",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "is another post-mass option beside",
+                          "object":  "o38"
+                      }
+                  ]
+}

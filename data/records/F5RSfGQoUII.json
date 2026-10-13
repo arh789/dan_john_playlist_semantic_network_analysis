@@ -1,0 +1,404 @@
+﻿{
+    "playlist_position":  169,
+    "video_id":  "F5RSfGQoUII",
+    "url":  "https://www.youtube.com/watch?v=F5RSfGQoUII",
+    "official_title":  "Adding Strength Training to Running, Increasing Chin-Ups \u0026 More... | Dan John Podcast 155",
+    "transcript":  {
+                       "file":  "../../transcripts/F5RSfGQoUII_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "masters runner"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "five-to-six running days"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "kettlebell strength work"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "running priority"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "periodized training"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "high-running phase"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "high-kettlebell phase"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "mild exercise variation"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "workout generator"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "training load"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "body weight"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "rugby player"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "no-contact Olympic lifting"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "bar-thigh contact"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "clean and press"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "clean-grip snatch"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "bodyweight lift goal"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "healthy shoulders"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "explosive pull"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "Arthur Saxon"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "371-pound bent press"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "strongman stage act"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "aluminum plates"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "fake weights"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "biomechanical leverage"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "bent-press risk"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "one-lift-a-day"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "hanging program"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "first chin-up"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "chin-up goal"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "100 snatches in five minutes"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "RKC preparation"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "three weekly pull-up sessions"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "snatch day"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "double-kettlebell press"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "single-arm press"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "shoulder pain"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "bilateral support structure"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "unilateral stability"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "29-year-old former rugby player"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "230-pound bodyweight"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "separated shoulders"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "torn hamstrings"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "cervical disc herniations"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "Brazilian jiu-jitsu"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "return to strength training"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "10,000 Swing Challenge"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "45-pound kettlebell"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "resting heart rate"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "post-lunch heart-rate spike"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "three sets of twenty-five swings"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "walking with ski poles"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "upper-body contribution"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "Panaerobics"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "Leonard Schwartz"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "bent press"
+                    },
+                    {
+                        "id":  "o57",
+                        "label":  "injury history"
+                    },
+                    {
+                        "id":  "o58",
+                        "label":  "full-body movement"
+                    },
+                    {
+                        "id":  "o59",
+                        "label":  "cardiovascular response"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o1",
+                          "relation":  "prioritizes",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "support",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "alternates",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "alternates",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "provides",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "must be interpreted with",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "uses",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "can still provide",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "pursues",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "can promote",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "was credited with",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "sometimes used",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "complicate claims about",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "supports",
+                          "object":  "o56"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "limits general recommendation of",
+                          "object":  "o56"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "enabled",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "trains toward",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "uses",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "uses",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "provides",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "requires more",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "provoked",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "complicate",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "complicate",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "must account for",
+                          "object":  "o57"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "reduced",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "removed",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "help maintain",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o52",
+                          "relation":  "adds",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o54",
+                          "relation":  "was developed by",
+                          "object":  "o55"
+                      },
+                      {
+                          "subject":  "o58",
+                          "relation":  "can improve",
+                          "object":  "o59"
+                      }
+                  ]
+}

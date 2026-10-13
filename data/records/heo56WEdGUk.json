@@ -1,0 +1,376 @@
+﻿{
+    "playlist_position":  166,
+    "video_id":  "heo56WEdGUk",
+    "url":  "https://www.youtube.com/watch?v=heo56WEdGUk",
+    "official_title":  "Building Muscle, Gardening, Mobility Drills, and More | Dan John Podcast 152",
+    "transcript":  {
+                       "file":  "../../transcripts/heo56WEdGUk_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "high-school team bus"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "athlete conversations"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "post-game emotion"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "coach-athlete relationship"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "peer learning"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "adult novice"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "weak and soft body"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "beginner muscle gain"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "beginner strength gain"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "workout generator"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "three weekly workouts"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "mobility days"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "Southwood program"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "youth multisport athlete"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "power clean"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "military press"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "front squat"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "bench press"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "basketball"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "volleyball"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "sprinting"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "long jump"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "in-season lifting"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "first-time gardener"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "raised vegetable garden"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "high-desert climate"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "mint varieties"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "weed definition"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "local growing conditions"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "vegetables"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "herbs"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "Starting Strength"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "linear progression"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "return after university finals"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "military athlete"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "peaking"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "constant readiness"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "SWAT team"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "collision occupation"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "general preparation"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "Stoney stretch"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "six-point rock"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "bear position"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "cross-country-ski position"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "mobility routine"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "Derek Sivers"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "How to Live"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "Anything You Want"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "father and coach development"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "garden crop"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "strength gain"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o1",
+                          "relation":  "enables",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "creates openings for",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "occurs on",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "experiences rapid",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "develops alongside",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "can prescribe",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "supplement",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "includes",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "includes",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "includes",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "includes",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "serves",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "must support",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "must support",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "must support",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "determine",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "supports",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "depends on desired",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "contains",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "is recommended after",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "is not the only route to",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "needs",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "conflicts with",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "requires",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "requires",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "belongs to",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "progresses to",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "can transition into",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "wrote",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "wrote",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "offers insight for",
+                          "object":  "o50"
+                      }
+                  ]
+}

@@ -1,0 +1,262 @@
+﻿{
+    "playlist_position":  344,
+    "video_id":  "4QOUKwa2-_U",
+    "url":  "https://www.youtube.com/watch?v=4QOUKwa2-_U",
+    "official_title":  "Heavy KB Swings, ABF,  Offset vs DB KBs, Mobility, KB Press, Goblet Squats \u0026 More | DJU Podcast #331",
+    "transcript":  {
+                       "file":  "../../transcripts/4QOUKwa2-_U_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "50-year-old transplant recipient"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "kidney transplant"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "spouse donor"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "medical clearance"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "kettlebell training"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "barbell training"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "youth warm-up"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "large athlete group"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "limited time"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "shared structure"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "mobility drill"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "55-year-old beginner"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "type-2 diabetes"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "lumbar arthritis"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "spinal stenosis"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "strength training"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "three-minute goblet squat challenge"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "six-minute challenge"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "clock"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "mobility limitation"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "hip flexor"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "quadriceps"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "up-to-sets principle"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "50-repetition target"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "Mass Made Simple"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "heavy kettlebell swing"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "jiu-jitsu"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "golf"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "half-kneeling press"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "offset kettlebell"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "double kettlebell"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "press strength"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "recovery"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "underwent",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "enabled",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "governs",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "organizes",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "can include",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "can include",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "can include",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "was associated with reversal of",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "reduced pain from",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "reduced pain from",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "uses",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "extends",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "targets",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "targets",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "works toward",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "uses",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "supports",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "supports",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "develops",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "differs from",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "governs",
+                          "object":  "o29"
+                      }
+                  ]
+}

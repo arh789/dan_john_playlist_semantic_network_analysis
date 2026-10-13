@@ -1,0 +1,328 @@
+﻿{
+    "playlist_position":  309,
+    "video_id":  "6BOHtM_k-EA",
+    "url":  "https://www.youtube.com/watch?v=6BOHtM_k-EA",
+    "official_title":  "ABF, Squats, High Rep Training, Rebuilding Strength, Programming Your Workload | DJU Podcast #296",
+    "transcript":  {
+                       "file":  "../../transcripts/6BOHtM_k-EA_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Enter the Kettlebell"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "light-medium-heavy schedule"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "workload"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "20-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "28-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "press ladder"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "Rite of Passage"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "holiday training"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "bodyweight clean and press"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "bodyweight snatch"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "barbell Armor Building Formula"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "mobility work"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "daily walk"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "45-year-old father"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "spring program"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "Humane Burpee"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "sprinting"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "basketball"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "baseball"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "hiking"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "deep squat"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "90-degree squat"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "sports performance"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "overhead squat"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "daily mobility"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "bar hang"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "55-year-old track coach"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "deconditioned athlete"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "posterior-chain atrophy"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "glute"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "calf tightness"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "spinal discomfort"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "strength machine"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "explosive training"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "resistance training"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "mid-50s woman"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "muscle loss"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "aging"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "beginner program"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "push-pull-hinge-squat-carry"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "training adherence"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "general fitness"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "uses",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "manages",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "can use",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "uses",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "can progress",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "can interrupt",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "can pursue",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "supports",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "supports",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "can serve",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can support",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can support",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can support",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "supports",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "develops",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "develops",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "includes",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "includes",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "reduces",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "can involve",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "can contribute to",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "may neglect",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "combats",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "increases with",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "benefits from",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "can cover",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "governs",
+                          "object":  "o42"
+                      }
+                  ]
+}

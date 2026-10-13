@@ -1,0 +1,285 @@
+﻿{
+    "playlist_position":  338,
+    "video_id":  "os5mfedA_ps",
+    "url":  "https://www.youtube.com/watch?v=os5mfedA_ps",
+    "official_title":  "Longevity, Switching Programs, WTH Effect, ABC, Fat Loss, Loaded Carries \u0026 More | DJU Podcast #326",
+    "transcript":  {
+                       "file":  "../../transcripts/os5mfedA_ps_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "two-day Armor Building Formula"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "33-year-old former basketball player"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "Brazilian jiu-jitsu"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "kettlebell Armor Building Formula"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "guns-and-buns day"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "double 20-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "100-minute weekly exercise"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "life expectancy"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "35-pound dumbbell"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "20-yard carry"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "rest interval"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "muscle growth"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "stamina"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "Coyote workout"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "push-up"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "TRX row"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "pull pattern"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "overhead press"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "deadlift"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "progress measure"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "72-year-old former athlete"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "triple bypass"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "longevity"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "Even Easier Strength"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "six-to-eight-week program switch"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "38-to-42 workouts"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "Tactical Barbell"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "strength-endurance phase"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "strength phase"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "specialization phase"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "program variation"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "recovery"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "program switch"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "can serve",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "adds demand to",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "can be used in",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "loads",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "supports",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "can use",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "is a",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "affects",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "affects",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "combines",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "combines",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "combines",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "adds",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "can supplement",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "is a",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "is a",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "affects",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "can follow",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "can trigger",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "uses",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "uses",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "uses",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "can adapt to",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "governs",
+                          "object":  "o36"
+                      }
+                  ]
+}

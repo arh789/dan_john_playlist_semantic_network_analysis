@@ -1,0 +1,338 @@
+﻿{
+    "playlist_position":  373,
+    "video_id":  "WtwQ_Q2mBEc",
+    "url":  "https://www.youtube.com/watch?v=WtwQ_Q2mBEc",
+    "official_title":  "Full Body vs. Split Training, Squats, Kettlebell Progressions, Breaking Plateaus | DJU Podcast #359",
+    "transcript":  {
+                       "file":  "../../transcripts/WtwQ_Q2mBEc_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Sam"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "offset 16-and-24-kilogram kettlebells"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "double 24-kilogram kettlebells"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "double 32-kilogram kettlebells"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "2-3-5 ladder"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "heavy-light alternation"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "linear progression wall"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "Nick"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "42-year-old father"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "torn hip labrum"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "manufacturing work"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "squat intolerance"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "clean and press"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "high-repetition press"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "Shane"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "age-55-plus bodybuilding"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "full-body workout"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "body-part split"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "upper-body day"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "lower-body day"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "coach"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "recovery"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "Stefano"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "six-week Armor Building Formula"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "pull-up"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "1-2-3 ladder"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "program correction"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "Mark"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "10-kilogram weight loss"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "calorie control"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "sleep"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "pulling exercise"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "Dave"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "47-year-old trainee"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "minimalist program"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "Fitness Forge"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "eight-week program"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "program rotation"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "Johnny"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "blue jeans"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "Jonathan"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "overhead press"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "row"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "push-pull balance"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "weekly repetitions"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "squat"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "program duration"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "completed",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "used",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "progressed to",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "targets",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "can overcome",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "has",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "causes",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "can replace",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "can replace",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "can accommodate",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can use",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "can prescribe",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "can separate",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "can separate",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "influences",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "includes",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "clarifies",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "supported",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "supported",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "supported",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "can supplement",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "discusses",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "is a common",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "can pair with",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "can use",
+                          "object":  "o48"
+                      }
+                  ]
+}

@@ -1,0 +1,360 @@
+﻿{
+    "playlist_position":  168,
+    "video_id":  "tBUnmCDZwvs",
+    "url":  "https://www.youtube.com/watch?v=tBUnmCDZwvs",
+    "official_title":  "Not Liking \"Single Arm Swings\", Office Workouts and Increasing Pulls | Dan John Podcast #154",
+    "transcript":  {
+                       "file":  "../../transcripts/tBUnmCDZwvs_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "office Easy Strength"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "64 completed workouts"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "three kettlebells"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "five weekly sessions"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "nine-to-thirteen-minute workout"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "44-year-old parent"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "routine preference"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "Ironman injury history"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "CrossFit injury history"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "campus gym wait"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "32-workout review"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "exercise progression"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "limited equipment"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "single-arm swing"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "poor swing technique"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "kettlebell snatch"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "dumbbell snatch"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "conditioning exercise"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "vulnerable joints"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "grip-only training"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "hang time decline"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "kettlebell swing grip"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "thick-bar training"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "dead hang"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "chin-up grip"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "parallel grip"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "rolling bar"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "Easy Strength for Fat Loss"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "training journal"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "progress evaluation"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "Royal Military College of Canada"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "judo"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "Mass Made Simple Lite"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "novice lifting partner"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "repetitive program"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "hiking"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "grappling"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "military readiness"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "pull-system weakness"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "TRX row"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "flat tire assessment"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "American-football conditioning"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "mile running"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "40-yard sprint"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "sport specificity"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "hang time"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "grip strength"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "pull system"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o1",
+                          "relation":  "accumulated",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o1",
+                          "relation":  "uses",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o1",
+                          "relation":  "uses",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "each last",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o1",
+                          "relation":  "fits",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "supports adherence to",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "shapes",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "permits",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "can stress",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "increases risk from",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "is preferred as",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "is preferred as",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "did not preserve",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "develops",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "develops",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "tests and develops",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "varies",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "intensifies",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "supports",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "should be documented in",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "supports",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "uses",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "benefits from",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "competes with mass gain in",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "competes with mass gain in",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "strengthens",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "strengthens",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "can identify weak",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "has low transfer to",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "reflects",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "should guide",
+                          "object":  "o18"
+                      }
+                  ]
+}

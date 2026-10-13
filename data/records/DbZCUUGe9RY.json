@@ -1,0 +1,343 @@
+﻿{
+    "playlist_position":  375,
+    "video_id":  "DbZCUUGe9RY",
+    "url":  "https://www.youtube.com/watch?v=DbZCUUGe9RY",
+    "official_title":  "“Grease the Groove”, ABF, Combining Strength Training w Sports, Diet Tips \u0026 More | DJU Podcast #361",
+    "transcript":  {
+                       "file":  "../../transcripts/DbZCUUGe9RY_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Randall"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "fitness education"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "certification"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "bodyweight training"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "kettlebell training"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "college degree"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "recertification"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "continuous improvement"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "Seth"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "single-kettlebell Armor Building Complex"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "Grease the Groove"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "clean and press"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "hourly practice"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "Clayton"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "10-year-old athlete"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "Training the Youth Athlete"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "Movement Matrix"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "parent guide"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "youth strength training"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "Georgie"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "36-year-old soccer player"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "double 24-kilogram kettlebells"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "running"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "sport practice"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "Arman"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "beans"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "protein"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "fiber"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "garbanzo beans"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "pinto beans"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "black beans"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "hummus"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "tabbouleh"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "fat-loss diet"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "once-weekly team training"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "From the Ground Up"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "power clean"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "military press"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "front squat"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "limited equipment"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "soccer"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "seeks",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "can include",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "may require",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "does not require",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "should follow",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "can use",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "includes",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "includes",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "is a form of",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "contains",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "contains",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "supports",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "plays",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "completed",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "used",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "is primary preparation for",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "can complement",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "can complement",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "provide",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "provide",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "are",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "are",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "are",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "uses",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "can fit",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "supports",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "includes",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "includes",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "includes",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "can use",
+                          "object":  "o40"
+                      }
+                  ]
+}

@@ -1,0 +1,429 @@
+﻿{
+    "playlist_position":  224,
+    "video_id":  "dyNjoTDptTs",
+    "url":  "https://www.youtube.com/watch?v=dyNjoTDptTs",
+    "official_title":  "Best Exercises, Squats, Easy Strength, Powerlifting, Core Movements \u0026 More... | Dan John Podcast 207",
+    "transcript":  {
+                       "file":  "../../transcripts/dyNjoTDptTs_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "grappling"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "double-kettlebell front squat"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "dip"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "kettlebell strict press"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "waiter walk"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "suitcase carry"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "crosswalk carry"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "three-week press rotation"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "Mass Made Simple"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "Koji squat"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "hanging kettlebell"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "barbell oscillation"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "motor-unit recruitment"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "general conditioning"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "preseason"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "early competition season"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "content writing"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "synergy"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "one-plus-one-equals-three"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "random-word prompt"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "nutrition article"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "vertical plank"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "anti-rotation resistance"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "push-up-position plank"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "glute bridge"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "abdominal pull-down"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "marching suitcase carry"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "moving plank"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "overhead squat"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "front squat"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "farmer walk"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "beginner athlete"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "body tension"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "powerlifting"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "three-by-three program"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "Stephan Korte"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "practice frequency"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "competition"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "three sets of eight"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "three sets of ten"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "three sets of twelve"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "hypertrophy"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "high pull"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "power clean"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "Southwood program"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "exercise substitution"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "equipment constraint"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "art of coaching"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "single-leg stability"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "powerlifting skill"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o3",
+                          "relation":  "supports",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "supports",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "can alternate with",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "alternates",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "alternates",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "can be combined with",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "combines",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "combines",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "can program",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "uses",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "creates",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "increases",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "fits late",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "follows",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "follows",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "is expressed as",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "can generate",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "can emerge from",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "teaches",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "can load",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "teaches",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "can pair with",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "teaches",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "is a",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "is a",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "is a",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "is a",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "precedes loading for",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "can introduce",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "influenced",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "develops",
+                          "object":  "o54"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "supports work capacity for",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "tests",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "support",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "support",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "support",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "can substitute for",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "normally includes",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "can require",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "is part of",
+                          "object":  "o52"
+                      }
+                  ]
+}

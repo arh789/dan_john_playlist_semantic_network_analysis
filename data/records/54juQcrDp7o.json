@@ -1,0 +1,363 @@
+﻿{
+    "playlist_position":  353,
+    "video_id":  "54juQcrDp7o",
+    "url":  "https://www.youtube.com/watch?v=54juQcrDp7o",
+    "official_title":  "Strength Standards, ABF, Loaded Carries, Building Muscle, KB Deadlifts \u0026 More | DJU Podcast #340",
+    "transcript":  {
+                       "file":  "../../transcripts/54juQcrDp7o_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Callum"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "barbell bent-over row"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "80-kilogram row"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "90-kilogram bodyweight"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "overhead press"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "dumbbell chest press"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "pull movement"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "hinge movement"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "lower-back irritation"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "seated row machine"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "chest-supported row"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "East German throwers"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "chin-up"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "pause at contraction"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "Vince Gironda"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "Michael"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "double 20-kilogram kettlebells"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "double 16-kilogram kettlebells"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "rest interval"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "training density"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "every-minute-on-the-minute"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "press strength"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "Mark"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "middle-aged endurance athlete"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "muscle gain"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "Mass Made Simple"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "high-repetition squat"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "calorie surplus"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "peanut-butter-and-jelly sandwich"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "Ed"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "kettlebell pullover"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "horizontal press"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "left-arm issue"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "pectoral muscle"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "John"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "trap-bar carry"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "bodyweight load"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "postural integrity"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "scapular winging"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "spinal flexion"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "anterior pelvic tilt"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "knee valgus"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "Gray Cook"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "maximal strength test"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "figure-eight carry"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "lower back"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "performs",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "can combine",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "can combine",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "can cause",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "reduces loading on",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "was used by",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "can improve",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "recommended",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "uses",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "does not require",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "affects",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "can progress without changing",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "are lighter than",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "supports",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "uses",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "requires",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "can contribute to",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "can substitute for",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "can limit",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "uses",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "can test",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "is a",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "can use",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "governs failure in",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "indicates loss of",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "indicates loss of",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "indicates loss of",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "indicates loss of",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "discussed",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "is a",
+                          "object":  "o39"
+                      }
+                  ]
+}

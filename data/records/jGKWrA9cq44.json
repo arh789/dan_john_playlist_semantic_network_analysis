@@ -1,0 +1,423 @@
+﻿{
+    "playlist_position":  269,
+    "video_id":  "jGKWrA9cq44",
+    "url":  "https://www.youtube.com/watch?v=jGKWrA9cq44",
+    "official_title":  "Hypertrophy, The Most Important Lift, Armor Building Complex, Programming \u0026 More | DJU Podcast #255",
+    "transcript":  {
+                       "file":  "../../transcripts/jGKWrA9cq44_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "single-arm overhead press"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "half-kneeling press"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "standing press"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "travel training"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "50-plus athlete"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "hinge pattern"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "movement matrix"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "glute bridge"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "isometric hold"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "glute loop"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "vertical plank"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "hip thrust"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "Bulgarian goat-bag swing"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "hill sprint"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "stadium step"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "PVC pipe"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "deadlift"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "clean and jerk"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "Olympic snatch"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "Olympic clean and jerk"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "trap bar"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "motor-learning deficit"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "diastasis recti"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "medical professional"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "stomach vacuum"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "barbell Armor Building Complex"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "barbell clean and press"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "barbell front squat"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "eight continuous clean and presses"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "hypertrophy"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "training volume"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "weekly set volume"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "joint pain"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "recovery capacity"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "Mass Made Simple"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "high-repetition back squat"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "bodyweight-for-fifty squat"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "barbell complex"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "forty-round ABC"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "one-hundred-twenty front squats"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "appetite"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "nap"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "Olympic weightlifter"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "powerlifter"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "neurological adaptation"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "machine training"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "strength block"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "hypertrophy block"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "diminishing return"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "abdominal wall"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "high training volume"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "is recommended for",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "is a variation of",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "is a variation of",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "can use",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "teaches",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "begins with",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "is an",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "adds resistance to",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "trains",
+                          "object":  "o54"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "progresses",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "teaches",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "trains",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "can constrain arm action during",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "trains",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "trains",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "uses",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "uses",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "can blur",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "should assess",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "may assist",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "is a variation of",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "combines",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "combines",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "responds to",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "limits",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "can indicate excessive",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "uses",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "targets",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "uses",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "uses",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "contains",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o55",
+                          "relation":  "increases",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o55",
+                          "relation":  "increases need for",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "can develop",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "can develop",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "accelerates early",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "can surround",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o53",
+                          "relation":  "can follow excessive",
+                          "object":  "o34"
+                      }
+                  ]
+}

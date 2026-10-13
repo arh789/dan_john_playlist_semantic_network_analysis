@@ -1,0 +1,350 @@
+﻿{
+    "playlist_position":  305,
+    "video_id":  "DTjYrS_UjSA",
+    "url":  "https://www.youtube.com/watch?v=DTjYrS_UjSA",
+    "official_title":  "Best Program for Busy People, Kettlebell Cardio, Best Tools for Home Gyms \u0026 More | DJU Podcast #291",
+    "transcript":  {
+                       "file":  "../../transcripts/DTjYrS_UjSA_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "31-year-old police officer"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "SWAT operator"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "jiujitsu"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "busy schedule"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "ten-thousand-swing challenge"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "Humane Burpee"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "strength maintenance"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "muscle gain"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "mobility"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "home gym"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "barbell variation"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "kettlebell variation"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "chin-up"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "pull-up"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "tactical readiness"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "female thrower"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "young daughter"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "track meet"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "discus"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "shot put"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "sport introduction"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "28-year-old trainee"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "cardiovascular fitness"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "running"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "16-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "34-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "one-arm swing"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "high-intensity interval training"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "40-second interval"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "10-second rest"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "kettlebell snatch"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "clean and press"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "farmer walk"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "squat"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "walking"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "body composition"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "outdoor sled"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "grass training"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "wheelbarrow shell"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "rope"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "weightlifting belt"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "sled pull"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "child passenger"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "wind sprint"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "home-gym tool"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "works as",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "practices",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "supports need for",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "supports",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "can alternate",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "can alternate",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "can supplement",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "supports",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "supports",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "supports",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "can introduce",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can compete in",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can compete in",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "should avoid overwhelming",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "can develop",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "uses",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "uses",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "can develop",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "can develop",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "can develop",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "supports",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "supports",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "can become",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "connects",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "connects trainee to",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "can be used on",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "can load",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "can pair with",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "is a",
+                          "object":  "o48"
+                      }
+                  ]
+}

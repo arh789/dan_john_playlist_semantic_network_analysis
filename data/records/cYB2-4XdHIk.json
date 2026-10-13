@@ -1,0 +1,408 @@
+﻿{
+    "playlist_position":  299,
+    "video_id":  "cYB2-4XdHIk",
+    "url":  "https://www.youtube.com/watch?v=cYB2-4XdHIk",
+    "official_title":  "Double vs Single KB, Training for Longevity,  Easy Strength, Diet Tips \u0026 More | DJU Podcast #285",
+    "transcript":  {
+                       "file":  "../../transcripts/cYB2-4XdHIk_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "squat learner"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "overhead squat"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "front-rack squat"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "coaching cue"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "single-kettlebell program"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "double-kettlebell program"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "42-year-old trainee"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "16-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "22-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "26-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "double-kettlebell clean"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "double-kettlebell press"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "double-kettlebell front squat"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "program hopping"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "54-year-old trainee"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "program commitment"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "training partner"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "competition"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "certification"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "bench press"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "pull-up"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "deadlift"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "front squat"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "farmer carry"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "grappling"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "five-day training"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "movement quality"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "volume"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "load"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "34-year-old former runner"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "steeplechase"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "fatherhood"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "full-time job"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "six-day running"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "two-day strength training"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "Olympic lift"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "jerk"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "push press"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "stomp cue"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "Vince Gironda"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "V-dip"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "sternum chin-up"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "body-drag curl"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "vegan diet"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "75-year-old trainee"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "five-mile ruck"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "knee cartilage loss"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "stress eating"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "food environment"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "meal preparation"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "running"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o3",
+                          "relation":  "teaches",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "can follow",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "can follow",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "supports",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "can precede",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "can use",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "uses",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "uses",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "uses",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "can train",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "counteracts",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "supports",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "supports",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "supports",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can include",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can include",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can include",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can include",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can include",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "adds load to",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "governs",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "governs",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "competed in",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "reduces time for",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "reduces time for",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "can complement",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "improves",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "differs from",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "promoted",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "promoted",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "promoted",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "performs",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "prevents",
+                          "object":  "o55"
+                      },
+                      {
+                          "subject":  "o52",
+                          "relation":  "is influenced by",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o54",
+                          "relation":  "can reduce",
+                          "object":  "o52"
+                      }
+                  ]
+}

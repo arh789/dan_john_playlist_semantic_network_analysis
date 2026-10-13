@@ -1,0 +1,460 @@
+﻿{
+    "playlist_position":  286,
+    "video_id":  "HCsf4YZ681E",
+    "url":  "https://www.youtube.com/watch?v=HCsf4YZ681E",
+    "official_title":  "Kettlebell Swings, ABF, Easy Strength, Hyrox, Cardio, Increasing Weights \u0026 More | DJU Podcast #272",
+    "transcript":  {
+                       "file":  "../../transcripts/HCsf4YZ681E_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "improved diet"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "30-pound weight loss"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "home gym"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "carport gym"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "kettlebell"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "sandbag"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "suspension trainer"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "free weight"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "post-workout walk"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "rucking"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "storm"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "indoor cardio"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "strength trainee"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "35-pound kettlebell"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "50-pound kettlebell"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "farmer walk"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "185-pound deadlift"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "larger body shape"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "hip thrust"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "glute bridge"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "vertical plank"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "swing progression"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "barbell training"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "top-end strength"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "two-month block"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "training log"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "recovery"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "variety"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "47-year-old trainee"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "dip"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "ring row"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "fifteen-minute workout"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "Easy Strength for Fat Loss"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "dead-stop front squat"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "dead-stop bench press"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "sticking point"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "nervous system"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "mobility"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "lean body mass"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "modern living"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "Hyrox"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "one-kilometre run"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "ski erg"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "sled push"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "burpee broad jump"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "rowing"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "sandbag lunge"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "wall ball"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "park circuit"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "big weight jump"
+                    },
+                    {
+                        "id":  "o57",
+                        "label":  "fractional plate"
+                    },
+                    {
+                        "id":  "o58",
+                        "label":  "technical mastery"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "supported",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "supported",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "supported",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "is a",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "contains",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "contains",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "contains",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "follows",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "can follow",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "can prevent",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "uses",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "performed",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "can complicate",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "teaches position for",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "is used in",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "teaches finish of",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "precedes",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "can alternate with",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "can structure",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "can structure",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "reveals",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "reveals need for",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "can serve",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "can be used in",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "can be used in",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "can be used in",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "can fit",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "targets",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "targets",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "trains",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "reduces",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "reduces",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "alternates",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "can include",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "can include",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "can include",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "can include",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "can include",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "can include",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "can include",
+                          "object":  "o54"
+                      },
+                      {
+                          "subject":  "o55",
+                          "relation":  "can prepare for",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o56",
+                          "relation":  "can follow",
+                          "object":  "o58"
+                      },
+                      {
+                          "subject":  "o57",
+                          "relation":  "provides alternative to",
+                          "object":  "o56"
+                      }
+                  ]
+}

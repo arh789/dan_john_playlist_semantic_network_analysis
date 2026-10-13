@@ -1,0 +1,270 @@
+﻿{
+    "playlist_position":  189,
+    "video_id":  "KTP-SP_uIe8",
+    "url":  "https://www.youtube.com/watch?v=KTP-SP_uIe8",
+    "official_title":  "Bodybuilding, 5/3/1 Progression, Kettlebells for Kids, Training Older People | Dan John Podcast #173",
+    "transcript":  {
+                       "file":  "../../transcripts/KTP-SP_uIe8_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "seven-year-old child"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "incline push-up"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "bar hang"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "air squat"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "ab wheel"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "bodyweight training"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "four-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "youth weight training"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "adult supervision"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "play"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "skill learning"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "Dan John trifecta"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "10,000 Swing Challenge"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "Mass Made Simple"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "program sequence"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "time accounting"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "recovery between programs"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "80-year-old trainee"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "limited knee range"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "deep squat limitation"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "posture"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "leg strength"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "abdominal strength"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "workout generator"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "available equipment"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "training days"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "exercise limitations"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "Charles Atlas"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "dynamic tension"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "bodybuilding posing"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "isometrics"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "muscle awareness"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "mind-muscle connection"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "neural drive"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "recovery day"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "older-adult safety"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "exercise selection"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o1",
+                          "relation":  "performs",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o1",
+                          "relation":  "performs",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o1",
+                          "relation":  "performs",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o1",
+                          "relation":  "found",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "governs",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "should dominate training for",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "can include light",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "includes",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "includes",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "includes",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "requires",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "has",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "constrains",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "uses",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "uses",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "uses",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "popularized",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "may increase",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "may increase",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "can include",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "requires respecting",
+                          "object":  "o28"
+                      }
+                  ]
+}

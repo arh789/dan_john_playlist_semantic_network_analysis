@@ -1,0 +1,437 @@
+﻿{
+    "playlist_position":  225,
+    "video_id":  "UVXYX4CJVzg",
+    "url":  "https://www.youtube.com/watch?v=UVXYX4CJVzg",
+    "official_title":  "Kettlebells, Best Fitness Influencers, Easy Strength, Pull-Ups \u0026 Training Goals | DJU Podcast #208",
+    "transcript":  {
+                       "file":  "../../transcripts/UVXYX4CJVzg_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "fitness influencer"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "Tim Anderson"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "Original Strength"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "track-and-field coach"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "speed coach"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "humility"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "practical experiment"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "cross-domain idea"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "Josh Hillis"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "habit formation"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "two-a-day training"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "Stephan Korte"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "Olympic lifting"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "snatch"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "front squat"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "clean and jerk"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "press"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "pull-up"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "squat"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "hinge"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "greasing the groove"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "bodybuilding accessory"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "training frequency"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "commercial gym"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "kettlebell class"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "limited equipment"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "Turkish get-up"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "half-kneeling press"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "Bulgarian goat-bag swing"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "magic drill"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "glute loop"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "Perfect Workout"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "thirty-second hang"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "pull-up progression"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "isometric chin hold"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "post-deployment workout"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "seasonal training"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "hyper-disciplined program"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "maximal strength"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "power"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "hypertrophy"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "endurance"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "opposite-quality practice"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "uneven kettlebells"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "two-to-one load ratio"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "bilateral kettlebell clean"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "movement asymmetry"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "double-kettlebell front squat"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "coaching"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "switching sides"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o3",
+                          "relation":  "teaches",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "benefits from",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "can share",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "can improve",
+                          "object":  "o55"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "teaches",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "can warm up",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "can increase",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "used",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "can be practiced multiple times in",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "can be practiced multiple times in",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "creates more fatigue than",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "may tolerate",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "may tolerate",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "may tolerate",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "may poorly tolerate",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "increases",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "can supplement",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "is constrained by",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "can be taught in",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "can be taught in",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "can be taught in",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "can be taught in",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "regresses",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "regresses",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "uses",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "can organize",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "structures",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "supplements",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "uses",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "can rotate",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "can rotate",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "can rotate",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "can rotate",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "maintains neglected quality during",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "can use",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "can reveal",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "may reveal",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o56",
+                          "relation":  "can reduce",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o53",
+                          "relation":  "can use",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o53",
+                          "relation":  "includes",
+                          "object":  "o54"
+                      }
+                  ]
+}

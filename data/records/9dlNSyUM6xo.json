@@ -1,0 +1,526 @@
+﻿{
+    "playlist_position":  260,
+    "video_id":  "9dlNSyUM6xo",
+    "url":  "https://www.youtube.com/watch?v=9dlNSyUM6xo",
+    "official_title":  "Kettlebell Swing Benefits, Cardio, Kettlebell Halos, Best Exercises for GPP \u0026 More | DJU Podcast 245",
+    "transcript":  {
+                       "file":  "../../transcripts/9dlNSyUM6xo_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Leonard Schwartz"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "Heavyhands"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "Pan Aerobics"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "John McKean"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "Long Strong"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "all-round weightlifting"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "deadlift dozen"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "Dynamax band"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "chain resistance"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "Bigger Faster Stronger"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "rear deltoid"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "rhomboid"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "latissimus dorsi"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "plank position"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "abdominal wall"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "clean and jerk"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "Nate"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "cardio"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "hypertrophy"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "kickboxing"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "Muay Thai"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "competition"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "self-confidence"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "fight practice"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "bone structure"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "basic strength training"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "kettlebell halo"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "12-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "16-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "20-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "shoulder mobility"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "warm-up"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "Bottoms-Up goblet-squat curl"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "Coyote Point Kettlebell Club"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "hip mobility"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "double-kettlebell front squat"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "Olympic lift"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "tonic workout"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "Original Strength"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "egg roll"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "first-time father"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "awkward load"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "baby carry"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "toddler carry"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "asymmetrical load"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "double-kettlebell swing"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "traditional six kettlebell exercises"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "kettlebell clean"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "kettlebell press"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "kettlebell snatch"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "Turkish get-up"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o57",
+                        "label":  "pull-up bar"
+                    },
+                    {
+                        "id":  "o58",
+                        "label":  "dead hang"
+                    },
+                    {
+                        "id":  "o59",
+                        "label":  "bicycle"
+                    },
+                    {
+                        "id":  "o60",
+                        "label":  "gymnastics ring"
+                    },
+                    {
+                        "id":  "o61",
+                        "label":  "suspension trainer"
+                    },
+                    {
+                        "id":  "o62",
+                        "label":  "ring dip"
+                    },
+                    {
+                        "id":  "o63",
+                        "label":  "ring row"
+                    },
+                    {
+                        "id":  "o64",
+                        "label":  "general physical preparedness"
+                    },
+                    {
+                        "id":  "o65",
+                        "label":  "accommodating resistance"
+                    },
+                    {
+                        "id":  "o66",
+                        "label":  "punching power"
+                    },
+                    {
+                        "id":  "o67",
+                        "label":  "grip strength"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "created",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "used term",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "practiced",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "helped pioneer",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "adds",
+                          "object":  "o65"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "adds",
+                          "object":  "o65"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "can train",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "can train",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "activates",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "activates",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "supports",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "develops",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "develops",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "can build",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "supports",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "influences",
+                          "object":  "o66"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "develops",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "can load",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "can load",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "may be excessive for",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "functions as",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "appears in",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "develops",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "prepares for",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "prepares for",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "prepares for",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "appears in",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "can include",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "must carry",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "is an",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "is an",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "prepares for",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "can use",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "include",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "include",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "include",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "include",
+                          "object":  "o54"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "include",
+                          "object":  "o55"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "include",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o56",
+                          "relation":  "combines",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o56",
+                          "relation":  "combines",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o56",
+                          "relation":  "combines",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o57",
+                          "relation":  "can be used for",
+                          "object":  "o58"
+                      },
+                      {
+                          "subject":  "o58",
+                          "relation":  "supports",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o59",
+                          "relation":  "supports",
+                          "object":  "o64"
+                      },
+                      {
+                          "subject":  "o60",
+                          "relation":  "can perform",
+                          "object":  "o62"
+                      },
+                      {
+                          "subject":  "o60",
+                          "relation":  "can perform",
+                          "object":  "o63"
+                      },
+                      {
+                          "subject":  "o61",
+                          "relation":  "can replace",
+                          "object":  "o60"
+                      },
+                      {
+                          "subject":  "o60",
+                          "relation":  "develops",
+                          "object":  "o67"
+                      }
+                  ]
+}

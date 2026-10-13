@@ -1,0 +1,391 @@
+﻿{
+    "playlist_position":  359,
+    "video_id":  "X_y6qovO15s",
+    "url":  "https://www.youtube.com/watch?v=X_y6qovO15s",
+    "official_title":  "Mass Made Simple, KB Program for Busy Adults, Must-Read Books, Walking, \u0026 More | DJU Podcast #346",
+    "transcript":  {
+                       "file":  "../../transcripts/X_y6qovO15s_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Toby"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "Mass Made Simple"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "Olympic lifting"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "American football"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "muscle mass"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "high-repetition back squat"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "Dick Notmeyer"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "Jonathan"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "Transformation Program"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "One Lift a Day"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "snatch"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "squat"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "clean"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "press"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "pull-up"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "four-day training week"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "Bob Bednarski"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "Joe Dube"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "George Pickett"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "Dave Turner"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "Neil"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "The Sword in the Stone"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "Hamlet"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "Don Quixote"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "Two Years Before the Mast"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "The Hobbit"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "Do Not Go Gentle into That Good Night"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "The Hitchhiker’s Guide to the Galaxy"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "Genesis"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "Gulliver’s Travels"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "The Education of a Bodybuilder"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "Beowulf"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "Dune"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "The Tao of Pooh"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "Jay"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "single father"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "20-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "16-kilogram snatch"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "24-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "mobility training"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "Taylor"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "new parent"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "Right of Passage"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "park-bench training"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "sleep disruption"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "youth barbell training"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "Sears Barbell Program"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "Bodybuilding and Self-Defense"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "Inside the Lion’s Den"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "retired police officer"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "walking"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "post-workout meal"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "cardio timing"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "T. H. White"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "decision-making"
+                    },
+                    {
+                        "id":  "o57",
+                        "label":  "education"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o3",
+                          "relation":  "was designed for",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "builds",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "uses",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "can conflict with excessive",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "completed",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "plans",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "can sequence",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "can sequence",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "can sequence",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "can sequence",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "can supplement",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "can organize",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "used",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "used",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "was written by",
+                          "object":  "o55"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "concerns",
+                          "object":  "o56"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "concerns",
+                          "object":  "o57"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "uses",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "uses",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "targets",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "uses",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "expects to become",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "suits",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "preceded",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "can guide",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "can guide",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "can guide",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "uses",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o53",
+                          "relation":  "can precede",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o54",
+                          "relation":  "depends on",
+                          "object":  "o53"
+                      }
+                  ]
+}

@@ -1,0 +1,302 @@
+﻿{
+    "playlist_position":  367,
+    "video_id":  "L_4CEGZCvWE",
+    "url":  "https://www.youtube.com/watch?v=L_4CEGZCvWE",
+    "official_title":  "ABC, Easy Strength, Fat Loss, \"Grease the Groove\", Building Strength \u0026 More | DJU Podcast #353",
+    "transcript":  {
+                       "file":  "../../transcripts/L_4CEGZCvWE_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Alfredo"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "fat loss"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "low-volume daily training"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "high-volume three-day training"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "double 16-kilogram kettlebells"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "Easy Strength progression"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "linear progression"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "gradual loading"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "Brody"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "former rugby player"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "early-40s trainee"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "energy"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "busy professional"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "Tanner"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "push"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "pull"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "hinge"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "squat"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "jump"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "movement matrix"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "ABCs and Fs of Training"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "Strength Training for the Youth Athlete"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "John"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "60-year-old trainee"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "practice of strength"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "absolute strength"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "hypertrophy"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "older lifter"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "Jason"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "aerobic base"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "kettlebell rounds"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "high heart-rate zone"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "Scott Johnston"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "Evoke Endurance"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "Phil Maffetone"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "Everybody Is an Athlete"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "low-intensity aerobic training"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o3",
+                          "relation":  "can use",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "can be performed as",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "can be performed as",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "can support",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "can use",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "does not require",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "is a",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "uses",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "improved",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "can use",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "includes",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "includes",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "includes",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "includes",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "includes",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "can include",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "contains",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "contains",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "can use",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "should preserve",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "works with",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "targets",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "can limit",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "wrote",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "develops",
+                          "object":  "o34"
+                      }
+                  ]
+}

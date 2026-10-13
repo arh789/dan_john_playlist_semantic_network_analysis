@@ -1,0 +1,378 @@
+﻿{
+    "playlist_position":  201,
+    "video_id":  "Q-_W-sP7HaU",
+    "url":  "https://www.youtube.com/watch?v=Q-_W-sP7HaU",
+    "official_title":  "Bodybuilding, BEST Program, KB Carries, Press Comparison | Dan John Podcast #184",
+    "transcript":  {
+                       "file":  "../../transcripts/Q-_W-sP7HaU_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "military press"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "bench press"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "whole-body tension"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "overhead pressing"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "clean and press"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "bodyweight press standard"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "shoulder development"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "posture"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "bench-press shoulder"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "throwing after bench pressing"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "Tom Fahey"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "discus thrower"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "strength standards"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "sport skill"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "Olympic lifts"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "wrestling"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "John Jesse"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "Wrestling Physical Conditioning Encyclopedia"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "power clean"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "front squat"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "loaded carries"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "work capacity"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "farmer strength"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "bear-hug carry"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "Zercher carry"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "kettlebell rack carry"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "snatch-grip barbell carry"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "sandbag training"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "easy hypertrophy"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "grip demand"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "back squat"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "handstand press-up"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "dip"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "pullover"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "rib-cage expansion"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "new parent"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "general fitness"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "sleep hygiene"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "one-minute meditation"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "one-minute mobility"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "Perfect Workout"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "half-kneeling press"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "hanging"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "hip thrust"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "clam shell"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "suitcase carry"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "walking"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "visible prepared vegetables"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o1",
+                          "relation":  "prefers",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "develops",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "supports",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "supports",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "can meet",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "can contribute to",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "can aggravate",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "gave",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "redirect attention toward",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "develop applicable strength for",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "wrote",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "prepares young athletes for",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "prepares young athletes for",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "develop",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "is developed by",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "resembles",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "resembles",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "supports",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "may limit",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "supports",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "supports",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "supports",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "was used for",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "supports",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "fits",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "combines",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "combines",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "includes",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "includes",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "includes",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "includes",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "make healthy eating easier for",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "extends",
+                          "object":  "o42"
+                      }
+                  ]
+}

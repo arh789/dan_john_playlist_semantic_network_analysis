@@ -1,0 +1,365 @@
+﻿{
+    "playlist_position":  271,
+    "video_id":  "P5weOl3r7vE",
+    "url":  "https://www.youtube.com/watch?v=P5weOl3r7vE",
+    "official_title":  "Aging Gracefully, Kettlebell Challenge, Programming, Strength, Changing Standards | DJU Podcast #257",
+    "transcript":  {
+                       "file":  "../../transcripts/P5weOl3r7vE_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "low ceiling"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "overhead press"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "half-kneeling press"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "52-year-old kettlebell trainee"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "aging gracefully"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "mid-twenties trainee"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "obesity prevention"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "ultra-processed food"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "body composition"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "sleep"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "alcohol"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "drug use"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "glute strength"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "overhead strength"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "mixed martial artist"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "grappling"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "striking"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "5/3/1 program"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "sport practice"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "double-kettlebell front squat"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "barbell back squat"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "double 24-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "Anaconda strength"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "hypertrophy"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "barbell loading"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "strength standard"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "Paul Lingo"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "high-school standard"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "Ethan Reeve"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "Wake Forest gold standard"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "Bosco standard"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "historical standard"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "changing population"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "book sequence"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "recreational athlete"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "Mass Made Simple"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "bodyweight-for-fifty squat"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "deadlift leverage"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "short arm"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "rack deadlift"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "trap-bar deadlift"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "sumo deadlift"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "grip strength"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "lifting strap"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "sustainable training"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "deadlift"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "constrains",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "fits under",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "develops",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "supports",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "undermines",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "supports",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "can undermine",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "can undermine",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "supports",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "supports",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can support",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "can support",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "must dominate training for",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "practices",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "practices",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "develops",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "can load",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "allows greater",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "can provide",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "provided",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "created",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "is a",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "is a",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "may require revision of",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "prepares for",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "affects",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "can accommodate",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "can accommodate",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "can accommodate",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "can limit",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "can bypass",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "supports",
+                          "object":  "o6"
+                      }
+                  ]
+}

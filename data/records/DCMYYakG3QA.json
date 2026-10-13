@@ -1,0 +1,309 @@
+﻿{
+    "playlist_position":  366,
+    "video_id":  "DCMYYakG3QA",
+    "url":  "https://www.youtube.com/watch?v=DCMYYakG3QA",
+    "official_title":  "KB Certifications, One Lift a Day Program, Easy Strength, Aging Well \u0026 More | DJU Podcast #352",
+    "transcript":  {
+                       "file":  "../../transcripts/DCMYYakG3QA_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Michael"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "bench press"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "deadlift"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "rotating heavy lift"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "comfort-zone load"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "autoregulation"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "Riley"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "32-year-old physician"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "young children"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "common cold"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "training interruption"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "light workout"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "return after illness"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "Phillip"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "27-year-old expectant father"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "teacher"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "Muay Thai"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "zone-2 running"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "strength and conditioning"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "busy schedule"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "new parent"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "Paul"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "stress reduction"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "body composition"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "diet"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "walking"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "Ryan"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "kettlebell Easy Strength"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "double 20-kilogram kettlebells"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "double 24-kilogram kettlebells"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "single 28-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "military press"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "double-kettlebell front squat"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "double-kettlebell deadlift"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "Turkish get-up"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "Noah"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "RKC certification"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "100 snatches in five minutes"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "Right of Passage"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "10,000 Swing Challenge"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "self-taught trainee"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o3",
+                          "relation":  "can use",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "can emphasize",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "can emphasize",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "supports",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "completed five weeks of",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "caused",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "can precede",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "practiced",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "was combined with",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "was combined with",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "has",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "can improve",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "can support",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "completed",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "owns",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "owns",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "can include",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "can include",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "can include",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "can include",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "completed",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "completed",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "targets",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "can validate",
+                          "object":  "o44"
+                      }
+                  ]
+}

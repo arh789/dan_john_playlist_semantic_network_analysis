@@ -1,0 +1,390 @@
+﻿{
+    "playlist_position":  173,
+    "video_id":  "oOOfjmQhKPk",
+    "url":  "https://www.youtube.com/watch?v=oOOfjmQhKPk",
+    "official_title":  "Improving the Press, Fixing Posture and Wrist Mobility, Gut Health | Dan John Podcast #159",
+    "transcript":  {
+                       "file":  "../../transcripts/oOOfjmQhKPk_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "ring chin-up personal record"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "35-kilogram ring chin-up"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "180-kilogram deadlift"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "pull-hinge athlete"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "overhead press difficulty"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "push athlete"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "movement-family response"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "office worker"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "forty computer hours weekly"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "lower right shoulder"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "forward shoulder posture"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "right shoulder-blade pain"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "structural assessment"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "physical therapist"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "chiropractor"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "sleeping position"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "left-hand keyboard position"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "right-hand mouse position"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "eight-hour postural exposure"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "one-hour corrective workout"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "frequent movement doses"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "suitcase carry"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "half-kneeling kettlebell press"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "hanging"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "upper-back relief"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "Original Strength"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "yoga movement"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "concentric training"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "eccentric training"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "negative-only training"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "barbell lowering"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "eccentric strength"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "Southwood program"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "high-school team"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "hang clean"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "floor clean"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "wrist mobility"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "front squat rack"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "cross-arm front squat"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "clean technique"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "fiber"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "fermented food"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "gut biome"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "sauerkraut"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "kimchi"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "kefir"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "psyllium husk"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "sugar-free Metamucil"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "vegetables"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "satiety"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "probiotic food"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "asymmetrical loading"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o1",
+                          "relation":  "produced",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o1",
+                          "relation":  "produced",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "indicates",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "explains uneven progress in",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "contrasts with",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "contribute to",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "reinforces",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "reinforces",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "causes",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "may require",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "may contribute to",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "cannot offset",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "interrupt",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "provides",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "provides",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "provides",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "provides",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "develops",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "emphasizes",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "applies force opposite to",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "teaches",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "should progress toward",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "affects",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "works around limited",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "supports",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "supports",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "is a",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "is a",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "is a",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "adds",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "contains",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "provide",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "can increase",
+                          "object":  "o51"
+                      }
+                  ]
+}

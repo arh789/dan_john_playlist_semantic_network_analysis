@@ -1,0 +1,306 @@
+﻿{
+    "playlist_position":  343,
+    "video_id":  "vlUeQ1Ejw8o",
+    "url":  "https://www.youtube.com/watch?v=vlUeQ1Ejw8o",
+    "official_title":  "Dan John Reveals His Lifelong Training Roadmap",
+    "transcript":  {
+                       "file":  "../../transcripts/vlUeQ1Ejw8o_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "lifelong training roadmap"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "birth-to-16 phase"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "17-to-35 phase"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "36-to-55 phase"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "56-plus phase"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "early-maturing adolescent"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "sport development"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "movement literacy"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "play"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "skill acquisition"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "explosive performance"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "competitive sport"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "career development"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "financial health"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "strength reserve"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "mobility"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "body composition"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "hypertrophy"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "walking"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "retirement health"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "Vicki"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "two-three-five framework"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "two-day training"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "three-day training"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "five-day training"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "upper-body exercise"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "lower-body exercise"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "push pattern"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "pull pattern"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "hinge pattern"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "squat pattern"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "barbell training"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "powerlifting program"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "personal finance"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "compound interest"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "contains",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "contains",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "contains",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "contains",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "can dominate",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "emphasizes",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "emphasizes",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "emphasizes",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "emphasizes",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "emphasizes",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "emphasizes",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "emphasizes",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "emphasizes",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "emphasizes",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "emphasizes",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "emphasizes",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "emphasizes",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "can structure",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "can structure",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "can structure",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "can combine",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "can combine",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "can include",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "can include",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "can include",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "can include",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "can include",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "can form",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "benefits from",
+                          "object":  "o37"
+                      }
+                  ]
+}

@@ -1,0 +1,439 @@
+﻿{
+    "playlist_position":  274,
+    "video_id":  "FllpoZwvC1c",
+    "url":  "https://www.youtube.com/watch?v=FllpoZwvC1c",
+    "official_title":  "Herculean Physique, Fat Loss, Kettlebells vs. Dumbbells, Snatch Test \u0026 More... | DJU Podcast #260",
+    "transcript":  {
+                       "file":  "../../transcripts/FllpoZwvC1c_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "42-year-old father"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "kettlebell"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "dumbbell"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "small-space training"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "incline bench press"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "minimalist program"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "work capacity"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "kettlebell snatch"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "set threshold"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "technical quality"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "strength endurance"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "law-enforcement fitness test"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "sit-up"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "push-up"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "running test"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "medical assessment"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "recurrent back injury"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "walking"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "ten-minute pre-meal walk"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "Stu McGill"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "The Gift of Injury"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "DEXA scan"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "body-fat distribution"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "physical therapist"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "massage"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "RKC snatch test"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "16-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "24-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "fatigue-state practice"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "ten-thousand-swing challenge"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "monthly challenge"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "clean-and-press challenge"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "double 24-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "two-three-five-ten ladder"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "hundred-repetition press workout"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "coaching relationship"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "athlete character"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "peak performance"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "Rite of Passage"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "5/3/1 program"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "Jim Wendler"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "Southwood program"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "power clean"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "military press"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "front squat"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "bench press"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "Herculean physique"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "workout generator"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "fat-loss workout"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "fasted morning walk"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "golden retriever"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "protein"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "vegetable"
+                    },
+                    {
+                        "id":  "o57",
+                        "label":  "water"
+                    },
+                    {
+                        "id":  "o58",
+                        "label":  "back injury"
+                    },
+                    {
+                        "id":  "o59",
+                        "label":  "fat loss"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o3",
+                          "relation":  "supports",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "supports",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "can combine kettlebell work with",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "can limit",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "should govern",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "should govern",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "can improve",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "includes",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "includes",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "includes",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "requires",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "supports recovery from",
+                          "object":  "o58"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "wrote",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "recommends",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "measures",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "can assess",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "can assist",
+                          "object":  "o58"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "can begin with",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "uses",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "prepares for",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "can use",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "can use",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "is a",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "develops",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "supports",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "can build",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "can build",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "was created by",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "can build",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "uses",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "uses",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "uses",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "uses",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o52",
+                          "relation":  "can be selected in",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o53",
+                          "relation":  "can include",
+                          "object":  "o54"
+                      },
+                      {
+                          "subject":  "o55",
+                          "relation":  "supports",
+                          "object":  "o59"
+                      },
+                      {
+                          "subject":  "o56",
+                          "relation":  "supports",
+                          "object":  "o59"
+                      },
+                      {
+                          "subject":  "o57",
+                          "relation":  "supports",
+                          "object":  "o59"
+                      }
+                  ]
+}

@@ -1,0 +1,307 @@
+﻿{
+    "playlist_position":  349,
+    "video_id":  "KcpyC3DPLWk",
+    "url":  "https://www.youtube.com/watch?v=KcpyC3DPLWk",
+    "official_title":  "KB Swings, Fat Loss, Double vs Single KBs, Strength and Conditioning \u0026 More | DJU Podcast #336",
+    "transcript":  {
+                       "file":  "../../transcripts/KcpyC3DPLWk_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Callum"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "10,000 Swing Challenge"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "32-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "500 swings"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "20 sets of 25 swings"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "grip strength"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "power"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "past injury"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "new parent"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "distributed training"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "Andy"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "single-kettlebell Armor Building Formula"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "cyclist"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "right-arm press"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "left-arm press"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "push press"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "physical therapist"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "structural issue"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "asymmetrical training"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "weaker-side rule"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "Jason"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "fat loss"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "calorie deficit"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "satiety"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "nutritious food"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "vegetables"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "fiber"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "zero-calorie beverage"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "food as recreation"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "stress relief"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "set-point theory"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "GLP-1 medication"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "Lyle McDonald"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "rugby"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "old-boys rugby match"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "get-back-up drill"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "sprinting"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "uphill sprint"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "contact-sport preparation"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "Armor Building Formula"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "completed",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "used",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "equals",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "develops",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "develops",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "can improve",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "can suit",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "uses",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "reported imbalance between",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "reported imbalance between",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "may require",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "can assess",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "governs",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "supports",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "is increased by",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "is increased by",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "can support",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "can impede",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "can involve",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "relates to",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "writes about",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "prepares for",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "is a progression for",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "supports",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "supports",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "requires",
+                          "object":  "o40"
+                      }
+                  ]
+}

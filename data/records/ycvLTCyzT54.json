@@ -1,0 +1,368 @@
+﻿{
+    "playlist_position":  212,
+    "video_id":  "ycvLTCyzT54",
+    "url":  "https://www.youtube.com/watch?v=ycvLTCyzT54",
+    "official_title":  "Easy Strength, Program Design, Bodybuilding, O-Lifting, Omnibook \u0026 Self Defense | DJU Podcast #195",
+    "transcript":  {
+                       "file":  "../../transcripts/ycvLTCyzT54_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "fitness"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "performance"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "end goal"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "peaking program"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "challenge"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "process goal"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "5K run"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "incremental progression"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "Atkins induction"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "ten-thousand-swing challenge"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "principle-based program"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "walking"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "strength training"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "sleep"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "water"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "vegetables"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "one-day fast"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "Steve Justa"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "Rock Iron Steel"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "strength endurance"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "two-thousand-repetition workout"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "weighted vest"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "one-lift-a-day program"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "military press"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "Bodybuilding and Self-Defense"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "Miles Callum"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "basic bodybuilding"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "self-defense practice"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "clean and press"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "bodyweight press"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "bodyweight snatch"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "Brazilian jiu-jitsu"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "general training phase"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "workout generator"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "one-inch clean"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "one-inch snatch"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "Olympic-lift practice"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "press plateau"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "load reduction"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "Easy Strength for Olympic lifting"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "squat snatch"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "front squat"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "power clean and press"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "program feedback"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "program revision"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "coach-athlete dialogue"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "fat loss"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o5",
+                          "relation":  "terminates at",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "has a defined",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "can use",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "is a dietary",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "is a training",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "includes",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "includes",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "includes",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "supports gradual",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "wrote",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "advocates",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "develops",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "can develop",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "can develop",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "can center on",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "wrote",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "combines",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "combines",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "is paired with",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "supports",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "can use",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "can restore gaps before",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "teaches positions in",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "teaches positions in",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "can respond to",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "preserves ease within",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "can combine",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "can combine",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "can combine",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "drives",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "provides",
+                          "object":  "o47"
+                      }
+                  ]
+}

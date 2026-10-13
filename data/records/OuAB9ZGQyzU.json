@@ -1,0 +1,261 @@
+﻿{
+    "playlist_position":  140,
+    "video_id":  "OuAB9ZGQyzU",
+    "url":  "https://www.youtube.com/watch?v=OuAB9ZGQyzU",
+    "official_title":  "2022 - 10,000 Kettlebell Swing Challenge - Day 1",
+    "transcript":  {
+                       "file":  "../../transcripts/OuAB9ZGQyzU_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "10,000 Swing Challenge"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "day-one session"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "500 daily swings"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "20-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "65-year-old trainee"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "twenty training days"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "sets of ten swings"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "sets of fifteen swings"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "sets of twenty-five swings"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "sets of fifty swings"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "one hundred swing clusters"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "rest periods"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "grip fatigue"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "heart-rate recovery"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "swing technique"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "hip hinge"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "two-handed swing"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "fat-loss goal"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "Fat Loss Boost"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "Rusty Moore"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "three chicken portions"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "vegetables"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "noncaloric drinks"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "fourteen-day diet"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "daily walking"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "Olympic-lifting preparation"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "training journal"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "challenge pacing"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "work capacity"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "bodyweight monitoring"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "consistency"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o1",
+                          "relation":  "performs",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "is divided across",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "each prescribe",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "uses",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "is selected for",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "accumulate toward",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "combine with larger sets in",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "combine with larger sets in",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "combine with larger sets in",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "complete",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "manage",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "guides",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "drives",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "must remain stable during",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "supports",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "is designed by",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "limits food to",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "includes",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "permits",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "overlaps with",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "supplements",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "continues alongside",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "records",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "is required to complete",
+                          "object":  "o2"
+                      }
+                  ]
+}

@@ -1,0 +1,710 @@
+﻿{
+    "playlist_position":  232,
+    "video_id":  "b6Yo5j1Ff2Q",
+    "url":  "https://www.youtube.com/watch?v=b6Yo5j1Ff2Q",
+    "official_title":  "Peter Attia, Deadlifts, Anaconda Strength, Longevity, Home Training \u0026 Pull-Ups | DJU Podcast #215",
+    "transcript":  {
+                       "file":  "../../transcripts/b6Yo5j1Ff2Q_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "stomach vacuum"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "bodybuilding"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "yoga"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "abdominal wall"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "fat loss"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "fat oxidation"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "carbon dioxide"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "water"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "Anaconda strength"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "suitcase carry"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "bear-hug carry"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "ancient Greek tetrad"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "preparation day"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "all-out day"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "relaxation day"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "medium-hard day"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "weekly training schedule"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "light practice"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "hard training"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "tonic recovery"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "weekend play"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "mountain biking"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "bouldering"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "walking"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "deload week"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "three-week loading block"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "Lee James"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "York Barbell Club"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "Dick Smith"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "one-lift-a-day"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "seven-by-five"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "six-by-three"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "five-three-two"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "slingshot effect"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "Paul Northway"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "eccentric squat"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "vertical jump"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "trap-bar deadlift"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "touch-and-go repetition"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "bounce"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "lat tension"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "heel drive"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "leg press"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "hinge"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "lower back"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "pull-up"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "dip"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "three-five-twenty circuit"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "index card"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "metabolic conditioning"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "greasing the groove"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "waist circumference"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "recovery"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "sleep"
+                    },
+                    {
+                        "id":  "o57",
+                        "label":  "nutrition"
+                    },
+                    {
+                        "id":  "o58",
+                        "label":  "protein"
+                    },
+                    {
+                        "id":  "o59",
+                        "label":  "vegetable"
+                    },
+                    {
+                        "id":  "o60",
+                        "label":  "water intake"
+                    },
+                    {
+                        "id":  "o61",
+                        "label":  "liquid calorie"
+                    },
+                    {
+                        "id":  "o62",
+                        "label":  "Easy Strength for Fat Loss"
+                    },
+                    {
+                        "id":  "o63",
+                        "label":  "Peter Attia"
+                    },
+                    {
+                        "id":  "o64",
+                        "label":  "Outlive"
+                    },
+                    {
+                        "id":  "o65",
+                        "label":  "Michael Easter"
+                    },
+                    {
+                        "id":  "o66",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o67",
+                        "label":  "Bill Gifford"
+                    },
+                    {
+                        "id":  "o68",
+                        "label":  "Spring Chicken"
+                    },
+                    {
+                        "id":  "o69",
+                        "label":  "continuous glucose monitor"
+                    },
+                    {
+                        "id":  "o70",
+                        "label":  "oatmeal"
+                    },
+                    {
+                        "id":  "o71",
+                        "label":  "rice"
+                    },
+                    {
+                        "id":  "o72",
+                        "label":  "glycemic response"
+                    },
+                    {
+                        "id":  "o73",
+                        "label":  "protein and fat"
+                    },
+                    {
+                        "id":  "o74",
+                        "label":  "exercise timing"
+                    },
+                    {
+                        "id":  "o75",
+                        "label":  "stress"
+                    },
+                    {
+                        "id":  "o76",
+                        "label":  "non-starchy vegetable"
+                    },
+                    {
+                        "id":  "o77",
+                        "label":  "aerobic exercise"
+                    },
+                    {
+                        "id":  "o78",
+                        "label":  "Maffetone method"
+                    },
+                    {
+                        "id":  "o79",
+                        "label":  "journaling"
+                    },
+                    {
+                        "id":  "o80",
+                        "label":  "emotional health"
+                    },
+                    {
+                        "id":  "o81",
+                        "label":  "one-arm barbell press"
+                    },
+                    {
+                        "id":  "o82",
+                        "label":  "dumbbell press"
+                    },
+                    {
+                        "id":  "o83",
+                        "label":  "Turkish get-up"
+                    },
+                    {
+                        "id":  "o84",
+                        "label":  "windmill"
+                    },
+                    {
+                        "id":  "o85",
+                        "label":  "bent press"
+                    },
+                    {
+                        "id":  "o86",
+                        "label":  "setup cost"
+                    },
+                    {
+                        "id":  "o87",
+                        "label":  "large waist circumference"
+                    },
+                    {
+                        "id":  "o88",
+                        "label":  "strength training"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "is used in",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "is used in",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "trains",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "does not directly cause",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "produces",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "produces",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "develops",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "develops",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "includes",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "includes",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "includes",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "includes",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "can adapt",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "precedes",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "follows",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "can include",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "can include",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "can include",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "follows",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "trained at",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "coached at",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "can use",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "can use",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "can use",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "can produce",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "used",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "was paired with",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "can use",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "should avoid",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "supports",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "initiates",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "resembles",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "finishes with",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "can be friendly to",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "combines",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "combines",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "combines",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "can count rounds of",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "provides",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "supports",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o87",
+                          "relation":  "may indicate issue with",
+                          "object":  "o55"
+                      },
+                      {
+                          "subject":  "o87",
+                          "relation":  "may indicate issue with",
+                          "object":  "o56"
+                      },
+                      {
+                          "subject":  "o87",
+                          "relation":  "may indicate issue with",
+                          "object":  "o57"
+                      },
+                      {
+                          "subject":  "o58",
+                          "relation":  "supports",
+                          "object":  "o57"
+                      },
+                      {
+                          "subject":  "o59",
+                          "relation":  "supports",
+                          "object":  "o57"
+                      },
+                      {
+                          "subject":  "o60",
+                          "relation":  "supports",
+                          "object":  "o57"
+                      },
+                      {
+                          "subject":  "o61",
+                          "relation":  "can hinder",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o62",
+                          "relation":  "combines strength training with",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o63",
+                          "relation":  "wrote",
+                          "object":  "o64"
+                      },
+                      {
+                          "subject":  "o65",
+                          "relation":  "influenced",
+                          "object":  "o64"
+                      },
+                      {
+                          "subject":  "o66",
+                          "relation":  "appears in",
+                          "object":  "o64"
+                      },
+                      {
+                          "subject":  "o67",
+                          "relation":  "wrote",
+                          "object":  "o68"
+                      },
+                      {
+                          "subject":  "o69",
+                          "relation":  "measures",
+                          "object":  "o72"
+                      },
+                      {
+                          "subject":  "o70",
+                          "relation":  "can create",
+                          "object":  "o72"
+                      },
+                      {
+                          "subject":  "o71",
+                          "relation":  "can create",
+                          "object":  "o72"
+                      },
+                      {
+                          "subject":  "o73",
+                          "relation":  "can alter",
+                          "object":  "o72"
+                      },
+                      {
+                          "subject":  "o74",
+                          "relation":  "can alter",
+                          "object":  "o72"
+                      },
+                      {
+                          "subject":  "o56",
+                          "relation":  "can alter",
+                          "object":  "o72"
+                      },
+                      {
+                          "subject":  "o75",
+                          "relation":  "can alter",
+                          "object":  "o72"
+                      },
+                      {
+                          "subject":  "o76",
+                          "relation":  "can moderate",
+                          "object":  "o72"
+                      },
+                      {
+                          "subject":  "o77",
+                          "relation":  "can follow",
+                          "object":  "o88"
+                      },
+                      {
+                          "subject":  "o78",
+                          "relation":  "guides",
+                          "object":  "o77"
+                      },
+                      {
+                          "subject":  "o79",
+                          "relation":  "tracks",
+                          "object":  "o72"
+                      },
+                      {
+                          "subject":  "o64",
+                          "relation":  "discusses",
+                          "object":  "o80"
+                      },
+                      {
+                          "subject":  "o81",
+                          "relation":  "has high",
+                          "object":  "o86"
+                      },
+                      {
+                          "subject":  "o82",
+                          "relation":  "can replace",
+                          "object":  "o81"
+                      },
+                      {
+                          "subject":  "o81",
+                          "relation":  "can develop toward",
+                          "object":  "o83"
+                      },
+                      {
+                          "subject":  "o81",
+                          "relation":  "can develop toward",
+                          "object":  "o84"
+                      },
+                      {
+                          "subject":  "o81",
+                          "relation":  "can develop toward",
+                          "object":  "o85"
+                      }
+                  ]
+}

@@ -1,0 +1,262 @@
+﻿{
+    "playlist_position":  345,
+    "video_id":  "8rG33BJulDc",
+    "url":  "https://www.youtube.com/watch?v=8rG33BJulDc",
+    "official_title":  "ABF, Minimalist Training, Rebuilding Strength, Clean, Press, and Snatch \u0026 More | DJU Podcast #332",
+    "transcript":  {
+                       "file":  "../../transcripts/8rG33BJulDc_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Los Angeles Dodgers pitcher"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "mobility"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "body control"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "yoga"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "judo"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "back bridge"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "handstand"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "javelin throw"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "outlier athlete"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "30-round Armor Building Complex"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "minimalist training"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "Pacific Barbell Club"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "Dick Notmeyer"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "Olympic lifting coach"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "56-year-old beginner"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "dog walking"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "shoulder fracture"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "six-week immobilization"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "strength loss"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "rebuilding strength"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "high stress"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "variable sleep"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "new parent"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "home kettlebell training"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "autoregulation"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "clean and press"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "squat snatch"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "lifelong minimalism"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "barbell"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "kettlebell"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "training flexibility"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "injury recovery"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "throwing skill"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "traditional weightlifting"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "uses",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "uses",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "develops",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "develops",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "develops",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "develops",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "develops",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "may succeed without",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "includes",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "coached at",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "was an",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "required",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "caused",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "follows",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "causes",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "benefits from",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "adapts to",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "can anchor",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "can anchor",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "supports",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "requires",
+                          "object":  "o27"
+                      }
+                  ]
+}

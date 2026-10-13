@@ -1,0 +1,328 @@
+﻿{
+    "playlist_position":  361,
+    "video_id":  "ldI4y47ZoJM",
+    "url":  "https://www.youtube.com/watch?v=ldI4y47ZoJM",
+    "official_title":  "Easy Strength, KB Snatch, Building \u0026 Losing Muscle, KB Swings \u0026 More | DJU Podcast #347",
+    "transcript":  {
+                       "file":  "../../transcripts/ldI4y47ZoJM_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Andrew"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "burpee punishment"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "grass drill"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "behavior change"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "throws coach"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "Simon"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "57-year-old trainee"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "mountain hiking"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "10,000 daily steps"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "elevation gain"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "walking distance"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "recovery"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "70-pound fat-loss goal"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "body recomposition"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "Jake"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "ultramarathon"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "hypertrophy"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "bench press"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "curl"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "triceps extension"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "leg extension"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "Mushtaba"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "62-year-old trainee"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "kettlebell snatch"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "shoulder size"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "whole-body movement"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "Will"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "climber"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "medical residency"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "80-hour workweek"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "10,000 Swing Challenge"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "24-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "125 daily swings"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "sleep"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "protein"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "water"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "fruit"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "consistency"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "sport skill"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "high repetitions"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "training time"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o3",
+                          "relation":  "does not teach",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "was used for",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "does",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "combines",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "combines",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "affects",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "supports",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "targets",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "uses",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "prepares for",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can use",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can use",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can use",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "often uses",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "uses",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "contributed to",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "can supplement",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "can promote",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "is a",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "creates",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "limits",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "attempted",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "used",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "can build toward",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "supports",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "supports",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "supports",
+                          "object":  "o13"
+                      }
+                  ]
+}

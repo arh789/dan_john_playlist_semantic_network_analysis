@@ -1,0 +1,520 @@
+﻿{
+    "playlist_position":  222,
+    "video_id":  "VSMdrSNnAd0",
+    "url":  "https://www.youtube.com/watch?v=VSMdrSNnAd0",
+    "official_title":  "Easy Strength, Double Kettlebells, Loaded Carries, Deadlifts \u0026 More | Dan John Podcast #205",
+    "transcript":  {
+                       "file":  "../../transcripts/VSMdrSNnAd0_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "coaching fundamentals"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "sport knowledge"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "practice organization"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "checklist"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "adjacent sport"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "tic-tac-toe"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "checkers"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "chess"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "Connect Four"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "adaptability"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "cluster set"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "two-five ladder"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "one-two cluster"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "central nervous system fatigue"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "middle-school football"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "three-day training week"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "Southwood program"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "total-body day"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "power clean"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "military press"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "front squat"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "bench press"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "wristband group"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "conga line"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "hurdle walkover"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "bear crawl"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "triathlon"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "Percy Cerutty"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "two sets of five"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "deadlift variation"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "vertical press"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "vertical pull"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "ab wheel"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "suitcase carry"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "deadlift family"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "rack deadlift"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "duck-foot deadlift"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "snatch-grip deadlift"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "deficit deadlift"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "Jefferson deadlift"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "individual anatomy"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "Easy Strength for fat loss"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "Humane Burpee"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "barbell complex"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "Great Eight sprint"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "backward running"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "ruck"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "loaded carry risk"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "farmer walk"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "self-limiting exercise"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "muscle memory"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "strength retraining"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "hip injury"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "double twenty-kilogram kettlebells"
+                    },
+                    {
+                        "id":  "o57",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o58",
+                        "label":  "coaching adaptability"
+                    },
+                    {
+                        "id":  "o59",
+                        "label":  "changing state"
+                    },
+                    {
+                        "id":  "o60",
+                        "label":  "five-by-five volume"
+                    },
+                    {
+                        "id":  "o61",
+                        "label":  "three-repetition set"
+                    },
+                    {
+                        "id":  "o62",
+                        "label":  "practice station"
+                    },
+                    {
+                        "id":  "o63",
+                        "label":  "trunk"
+                    },
+                    {
+                        "id":  "o64",
+                        "label":  "trunk stability"
+                    },
+                    {
+                        "id":  "o65",
+                        "label":  "walking"
+                    },
+                    {
+                        "id":  "o66",
+                        "label":  "double-kettlebell clean"
+                    },
+                    {
+                        "id":  "o67",
+                        "label":  "double-kettlebell press"
+                    },
+                    {
+                        "id":  "o68",
+                        "label":  "double-kettlebell front squat"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o3",
+                          "relation":  "supports",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "supports",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "supports",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "develops",
+                          "object":  "o58"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "teaches",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "teaches response to",
+                          "object":  "o59"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "can modify",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "distributes",
+                          "object":  "o60"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "can replace",
+                          "object":  "o61"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "may increase",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can structure",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "can include",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "can include",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "can include",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "can include",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "organizes",
+                          "object":  "o62"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "organizes",
+                          "object":  "o62"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "can appear in",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "can appear in",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "can support",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "influenced",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "can organize",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "can organize",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "supports",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "trains",
+                          "object":  "o63"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "trains",
+                          "object":  "o64"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "belongs to",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "belongs to",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "belongs to",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "belongs to",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "belongs to",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "guides selection from",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "can provide conditioning within",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "can provide conditioning within",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "can provide conditioning within",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "can regress",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "can provide conditioning within",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "has low",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "has low",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "is a",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o54",
+                          "relation":  "benefits from",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o55",
+                          "relation":  "constrains",
+                          "object":  "o54"
+                      },
+                      {
+                          "subject":  "o65",
+                          "relation":  "can support recovery from",
+                          "object":  "o55"
+                      },
+                      {
+                          "subject":  "o56",
+                          "relation":  "suit",
+                          "object":  "o57"
+                      },
+                      {
+                          "subject":  "o57",
+                          "relation":  "includes",
+                          "object":  "o66"
+                      },
+                      {
+                          "subject":  "o57",
+                          "relation":  "includes",
+                          "object":  "o67"
+                      },
+                      {
+                          "subject":  "o57",
+                          "relation":  "includes",
+                          "object":  "o68"
+                      }
+                  ]
+}

@@ -1,0 +1,271 @@
+﻿{
+    "playlist_position":  191,
+    "video_id":  "Klea_u6ztQY",
+    "url":  "https://www.youtube.com/watch?v=Klea_u6ztQY",
+    "official_title":  "Best Exercises, Pull-ups, Newbie Gains, Presses vs. Jerks, Increasing 1RPM | Dan John Podcast #175",
+    "transcript":  {
+                       "file":  "../../transcripts/Klea_u6ztQY_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "middle-aged pull-up decline"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "thirty-three strict pull-ups"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "garage pull-up bar"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "three-to-five daily pull-ups"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "grease-the-groove"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "elbow recovery"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "bodyweight change"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "resistance-band hip thrust"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "deadlift transfer"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "back-squat transfer"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "posterior-chain assistance"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "newbie gains"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "return-after-layoff gains"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "German strength research"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "Physiology of Strength"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "hypertrophy curve"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "strength curve"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "skill curve"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "fitness-industry future"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "charlatans"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "undisclosed anabolic steroids"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "social-media influencer"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "double-kettlebell clean and jerk"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "clean and press"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "press hypertrophy"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "jerk overload"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "RKC"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "one-repetition maximum"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "eleven-repetition maximum"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "rep sensitivity"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "five sets of two"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "two sets of five"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "maximum strength"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "ab wheel"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "female collegiate throwers"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "annual programming"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "deadlift"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o3",
+                          "relation":  "enables",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "implement",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "affects",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "limits",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "supports",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "may transfer to",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "follow similar curve to",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "documents",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "contains",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "include",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "include",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "include",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "threaten",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "mislead through",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "provides more",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "allows heavier loads than",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "is taught in",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "poorly predicts",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "changes relationship to",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "emphasize",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "helped",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "determines placement of",
+                          "object":  "o11"
+                      }
+                  ]
+}

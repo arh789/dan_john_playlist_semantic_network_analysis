@@ -1,0 +1,389 @@
+﻿{
+    "playlist_position":  213,
+    "video_id":  "4dxq-Gwhnl4",
+    "url":  "https://www.youtube.com/watch?v=4dxq-Gwhnl4",
+    "official_title":  "Best Exercises, Kettlebell Bodybuilding Program, Easy Strength, Squats \u0026 More | Dan John Podcast 196",
+    "transcript":  {
+                       "file":  "../../transcripts/4dxq-Gwhnl4_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "deadlift improvement"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "pull-up improvement"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "military preparation"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "nursing school"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "ruck march"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "ruck load"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "ruck distance"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "foot blisters"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "pack straps"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "Maffetone running"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "squat pattern"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "tonic workout"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "military readiness"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "distance runner"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "Percy Cerutty"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "bench press"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "pull-up"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "cheat curl"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "deadlift"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "ab wheel"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "hill sprint"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "program accommodation"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "program variation"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "seasonal sport"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "three sets of ten"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "ten sets of three"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "minimalist program"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "exercise gap"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "kettlebell"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "one-stop training tool"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "kettlebell snatch"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "kettlebell clean"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "Turkish get-up"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "road-trip training"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "dips"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "double-kettlebell front squat"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "mass building"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "one-arm kettlebell bench press"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "double-kettlebell military press"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "high-repetition kettlebell deadlift"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "heavy-light-medium schedule"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "recovery"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "hypertrophy"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "off-season training"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "whole-body tension"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "improved",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "improved",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "must coexist with",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "combines",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "combines",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "can cause",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "stresses",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "can precede",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "supports",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "can remain in warm-up for",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "prescribed weights for",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "can use",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "can use",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "can use",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "can use",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "can use",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "supports",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "motivates",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "provides",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "contrasts with",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "can create",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "can address",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "is a",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "provides ballistic work with",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "provides cardiovascular work with",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "provides self-assessment with",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "can be performed with",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "can use one",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "can pair with",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "support",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "supports",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "develops cross-body",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "supports",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "supports",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "supports",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "supports",
+                          "object":  "o47"
+                      }
+                  ]
+}

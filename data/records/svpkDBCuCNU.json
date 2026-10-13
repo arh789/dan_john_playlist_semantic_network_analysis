@@ -1,0 +1,284 @@
+﻿{
+    "playlist_position":  329,
+    "video_id":  "svpkDBCuCNU",
+    "url":  "https://www.youtube.com/watch?v=svpkDBCuCNU",
+    "official_title":  "ABF, Loaded Carries, Losing Fat, Pull-ups, Alternating Barbell \u0026 KB, Travelling | DJU Podcast #317",
+    "transcript":  {
+                       "file":  "../../transcripts/svpkDBCuCNU_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Rainbow Beach"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "travel training"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "glute loop"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "mini band"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "pedometer"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "20,000 steps"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "meditation"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "Olympic Training Center"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "Relax and Win"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "Bud Winter"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "suitcase carry"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "lateral abdominal wall"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "28-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "fat loss program"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "weekend warrior"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "high-repetition press"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "48-year-old trainee"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "Olympic lifting novice"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "50-year-old trainee"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "50-pound weight loss"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "10,000 daily steps"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "rucking"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "program hopping"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "Wendler 5/3/1"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "40-day program"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "calisthenics"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "51-year-old judo athlete"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "barbell training"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "kettlebell training"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "100-press challenge"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "30-round ABC"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "double 20-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "progression delay"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "training while traveling"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "Olympic lifting"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o3",
+                          "relation":  "uses",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "uses",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "tracks",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "taught",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "wrote",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "trains",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "is a",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "can use",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "can use",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "can use",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "supports",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "can learn",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "supports",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "supports",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "can affect",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "can become target of",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "can become target of",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "can become target of",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "combines",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "combines",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "uses",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "uses",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "does not invalidate",
+                          "object":  "o15"
+                      }
+                  ]
+}

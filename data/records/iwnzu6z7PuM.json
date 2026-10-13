@@ -1,0 +1,350 @@
+﻿{
+    "playlist_position":  368,
+    "video_id":  "iwnzu6z7PuM",
+    "url":  "https://www.youtube.com/watch?v=iwnzu6z7PuM",
+    "official_title":  "ABF, Building Muscle, Mass Made Simple, Strength Standards, Minimalist Program | DJU Podcast #354",
+    "transcript":  {
+                       "file":  "../../transcripts/iwnzu6z7PuM_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Randy"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "Easy Strength for Fat Loss"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "body-fat loss"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "pencil legs"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "bird chest"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "push-up"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "squat"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "patience"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "one-pound monthly loss"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "Chris"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "runner"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "climber"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "front squat"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "Zercher squat"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "single-leg exercise"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "lunge"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "step-up"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "bilateral strength"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "sport practice"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "Anthony"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "pinched lumbar nerve"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "back reinjury"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "press"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "Turkish get-up"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "grind exercise"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "band-assisted hip thrust"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "glute loop"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "Tou"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "100-press goal"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "30-round Armor Building Complex"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "2-3-5-10 ladder"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "Doug"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "deadlift"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "Armor Building Formula 2"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "John"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "64-year-old trainee"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "bodybuilding workout"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "leg extension machine"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "arm-curl machine"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "triceps-extension machine"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "coach"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "high repetitions"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "joint health"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "single-leg strength"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "uses",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "supports",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "requires",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "can represent",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "can address",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "can address",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "is a",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "is a",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "develops",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "develops",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "can develop",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "includes",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "includes",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "has",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "caused",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "is a",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "is a",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "can use",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "sets",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "sets",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "can reach",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "can combine with",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "describes",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "uses",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "can include",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "can include",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "can include",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "can support",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "programs",
+                          "object":  "o41"
+                      }
+                  ]
+}

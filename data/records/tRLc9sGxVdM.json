@@ -1,0 +1,347 @@
+﻿{
+    "playlist_position":  146,
+    "video_id":  "tRLc9sGxVdM",
+    "url":  "https://www.youtube.com/watch?v=tRLc9sGxVdM",
+    "official_title":  "The Dan John Podcast - Ep 130 | Advice for Myself, Eclectic Careers, Heavy Hands, and More",
+    "transcript":  {
+                       "file":  "../../transcripts/tRLc9sGxVdM_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "30-year-old Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "older Dan John"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "1987 high-volume program"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "overtraining"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "periodized repetitions"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "two sets of twenty-five"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "sets of fifteen"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "sets of five"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "family life"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "two simultaneous careers"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "sleep"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "career balance"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "eclectic professional path"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "strength coach"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "professor"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "writer"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "Tommy Kono"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "lat development"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "glute development"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "athletic physique"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "ass as the real core"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "push-pull-hinge-squat-carry framework"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "hypertrophy training"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "32-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "sets of twenty-five swings"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "10,000 Swing Challenge"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "reduced swing reps"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "grip stress"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "heavy swing volume"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "HeavyHands"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "Leonard Schwartz"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "three-pound hand weights"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "ankle weights"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "30-pound weight vest"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "pump-and-walk method"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "public walking"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "kettlebell beginner"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "hip hinge"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "squat pattern"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "foot connection"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "kettlebell coach"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "RKC workshop"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "swing progression"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "goblet squat progression"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "Turkish get-up progression"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "technical competence"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "would advise",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "caused",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "began",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "followed",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "followed",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "changes priorities of",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "challenge",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "requires protecting",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "forms part of",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "forms part of",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "forms part of",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "emphasized",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "emphasized",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "supports",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "expresses the importance of",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "can organize",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "are possible with",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "may make heavier loading feasible in",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "increases",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "remains a challenge rather than a universal program for",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "was developed by",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "uses",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "can supplement",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "increases load during",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "must first learn",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "must first learn",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "supports",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "teaches",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "provides access to",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "depends on",
+                          "object":  "o38"
+                      }
+                  ]
+}

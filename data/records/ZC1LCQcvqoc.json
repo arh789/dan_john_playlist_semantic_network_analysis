@@ -1,0 +1,242 @@
+﻿{
+    "playlist_position":  342,
+    "video_id":  "ZC1LCQcvqoc",
+    "url":  "https://www.youtube.com/watch?v=ZC1LCQcvqoc",
+    "official_title":  "ABF Progression, Barbells, Lift \u0026 Sprint, Marathons, Practical Strength \u0026 More | DJU Podcast #330",
+    "transcript":  {
+                       "file":  "../../transcripts/ZC1LCQcvqoc_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "lift-and-sprint workout"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "lift-and-sled workout"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "Highland Games"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "discus throw"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "overhead squat"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "front squat"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "sprint"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "sled"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "practical strength"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "health goal"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "life planning"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "marathon"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "double 24-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "30-round Armor Building Complex"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "same-week goal"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "55-year-old former MMA fighter"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "double 16-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "press ladder"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "strength progression"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "overweight trainee"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "fat loss"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "recovery interval"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "running preparation"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "barbell"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "kettlebell"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "work capacity"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "training sequence"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "strength lift"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "combines",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "combines",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "combines",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "combines",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "supports",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "supports",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "can precede",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "can precede",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "can precede",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "competes for recovery with",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "uses",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "combines",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "combines",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "should separate",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "should separate",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "began with",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "progressed to",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "supports",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "supports",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "develops through",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "balances",
+                          "object":  "o26"
+                      }
+                  ]
+}

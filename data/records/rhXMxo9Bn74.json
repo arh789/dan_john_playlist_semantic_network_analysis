@@ -1,0 +1,352 @@
+﻿{
+    "playlist_position":  370,
+    "video_id":  "rhXMxo9Bn74",
+    "url":  "https://www.youtube.com/watch?v=rhXMxo9Bn74",
+    "official_title":  "Easy Strength, Squats, Combining Strength and Endurance Training, Pull-Ups \u0026 More | DJU Podcast #356",
+    "transcript":  {
+                       "file":  "../../transcripts/rhXMxo9Bn74_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Eric"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "distance runner"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "cross-country running"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "middle-distance running"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "strength training"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "Dan"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "36-year-old trainee"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "16-kilogram kettlebells"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "ladder fall"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "torn hamstring"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "physical therapy"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "walking"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "return to training"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "Anthony"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "Brazilian jiu-jitsu"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "climbing"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "weighted pull-up"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "neutral-grip pull-up"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "elbow aggravation"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "kettlebell clean and press"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "Chip"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "single-kettlebell Armor Building Complex"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "bilateral squat"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "lower-back pain"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "unilateral squat"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "Dustin"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "Hindu squat"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "Hindu push-up"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "Matt Furey"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "Tim Anderson"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "Original Strength"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "clean and press"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "Daniel"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "First 21 Days"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "overhead press"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "suitcase carry"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "Spencer"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "microplate"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "fractional loading"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "multi-sport high-school athlete"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "Olga"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "41-year-old table-tennis player"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "local league"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "skill return"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "pulling strength"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "strength program"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "table tennis"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "retirement"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "is a",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "can combine",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "completed",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "caused",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "supported",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "supported",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "included",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "practices",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "practices",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "develops",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "reduces",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can pair with",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "aggravates",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "can replace",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "promoted",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "promoted",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "works with",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "can form",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "includes",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "includes",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "includes",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "uses",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "can motivate",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "is a",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "competes in",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "can support",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "can follow",
+                          "object":  "o51"
+                      }
+                  ]
+}

@@ -1,0 +1,356 @@
+﻿{
+    "playlist_position":  280,
+    "video_id":  "Iap2krorkIE",
+    "url":  "https://www.youtube.com/watch?v=Iap2krorkIE",
+    "official_title":  "Best 15 Minute Workout, Easy Strength Pulls, Travel Workouts, KB Collection \u0026 More | DJU Podcast 266",
+    "transcript":  {
+                       "file":  "../../transcripts/Iap2krorkIE_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "national-park hiking trip"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "mountain-climbing program"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "travel interruption"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "training break"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "recovery"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "wedding"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "alcohol moderation"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "vertical push"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "horizontal push"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "vertical pull"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "horizontal pull"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "training balance"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "five-by-five"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "squat volume"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "kettlebell dead clean"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "kettlebell swing clean"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "dead-start strength"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "ballistic strength"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "barbell power snatch"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "six-month program"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "front-rack wrist mobility"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "barbell front squat"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "crossed-arm grip"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "strap-assisted grip"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "mobility drill"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "45-year-old father"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "4:30 a.m. ruck"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "fifteen-minute workout"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "overhead press family"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "double press"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "alternating press"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "touchdown press"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "single-arm press"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "two-three-five-ten ladder"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "fifteen-minute EMOM"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "Ricky"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "kettlebell collection"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "48-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "double 36-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "travel workout"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "hotel room"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "bodyweight exercise"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "busy parent"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "time efficiency"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o3",
+                          "relation":  "prepares for",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "can provide",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "supports",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "supports",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "includes",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "includes",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "includes",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "includes",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "balances push and pull with",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "develops",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "develops",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "can anchor",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "affects",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "can support",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "can support",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "can improve",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "is performed by",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "can follow",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "can use",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "can precede",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "includes",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "includes",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "includes",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "includes",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "can structure",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "can load",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "belongs to",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "can use",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "constrains",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "supports",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "supports",
+                          "object":  "o46"
+                      }
+                  ]
+}

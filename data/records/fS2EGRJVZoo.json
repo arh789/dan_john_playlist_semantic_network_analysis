@@ -1,0 +1,352 @@
+﻿{
+    "playlist_position":  365,
+    "video_id":  "fS2EGRJVZoo",
+    "url":  "https://www.youtube.com/watch?v=fS2EGRJVZoo",
+    "official_title":  "Easy Strength, Weekend Warrior, ABF, KB Swings, Breaking Plateaus \u0026 More | DJU Podcast #351",
+    "transcript":  {
+                       "file":  "../../transcripts/fS2EGRJVZoo_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Hunter"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "right-elbow hyperextension"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "elbow tendinitis"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "poor sleep"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "heavy loaded carry"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "sleep hygiene"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "dark room"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "cold room"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "sauna"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "hot bath"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "hand training"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "wrist training"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "shoulder training"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "Mike"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "humane burpee"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "10,000 Swing Challenge"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "1,000 weekly swings"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "push-up"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "Lutz"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "former volleyball player"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "twice-weekly sport practice"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "three-day strength plan"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "Justin"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "double 28-kilogram kettlebells"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "double 24-kilogram kettlebells"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "double 32-kilogram kettlebells"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "30-round Armor Building Complex"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "press plateau"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "high-stress job"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "Cole"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "busy father"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "Weekend Warrior"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "barbell"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "incline press"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "ab wheel"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "year-long program"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "home gym"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "seasonal variation"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "deload"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "elbow"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "recovery"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "has",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "contributes to",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "aggravates",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "aggravates",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "can improve",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "supports",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "supports",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "can support",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "can support",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "can support",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "can support",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "can support",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "includes",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "includes",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "includes",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "can bridge",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "can precede",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can be accumulated with",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "uses",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "can combine with",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "uses",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "uses",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "targets",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "limits",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "affects",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "uses",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "can use",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "can supplement",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "can supplement",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "can organize",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "can organize",
+                          "object":  "o41"
+                      }
+                  ]
+}

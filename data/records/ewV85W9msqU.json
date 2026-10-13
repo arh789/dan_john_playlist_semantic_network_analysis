@@ -1,0 +1,883 @@
+﻿{
+    "playlist_position":  66,
+    "video_id":  "ewV85W9msqU",
+    "url":  "https://www.youtube.com/watch?v=ewV85W9msqU",
+    "official_title":  "5 Interlocking Keys | Dan John Workshop",
+    "transcript":  {
+                       "file":  "../../transcripts/ewV85W9msqU_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Five Interlocking Keys"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "general-population clients"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "elite athletes"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "goals"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "assessments"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "coach as carriage"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "current position"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "desired destination"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "correct path"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "client and athlete goals"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "coach\u0027s highest priority"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "Play Like a Champion Today sign"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "conventional goal setting"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "elite sport and sales targets"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "shot-put improvement from 50 to 75 feet"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "professional and Olympic aspirations"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "one-percent population"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "basic fundamentals"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "boring work"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "negative current self-assessment"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "body dissatisfaction"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "relationship distress"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "clear starting point"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "unclear destination"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "Lee Peale"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "female body-fat photographs"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "25-percent body-fat depiction"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "unrealistic Point Z"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "72-year-old grandmother"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "Shape magazine cover model"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "photo manipulation"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "genetic advantages"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "not-a-goal"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "21-year-old self-image"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "63-year-old reality"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "Utah State discus athlete"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "reasonable individualized goal"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "Sherlock Holmes"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "problem solving"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "fat loss"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "mystery"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "love"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "lost keys in landfill"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "sufficient resources"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "solvable coaching problems"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "mystery-based marketing"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "hucksterism"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "results"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "constant fat-loss messaging"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "miracle pill"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "client fear of looking stupid"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "fitness versus fatness binary"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "movement mastery"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "comfortable public movement"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "women in the weight room"
+                    },
+                    {
+                        "id":  "o57",
+                        "label":  "community"
+                    },
+                    {
+                        "id":  "o58",
+                        "label":  "intentional community"
+                    },
+                    {
+                        "id":  "o59",
+                        "label":  "Coyote Point Kettlebell Club"
+                    },
+                    {
+                        "id":  "o60",
+                        "label":  "open group training"
+                    },
+                    {
+                        "id":  "o61",
+                        "label":  "fitness"
+                    },
+                    {
+                        "id":  "o62",
+                        "label":  "Nordic root meaning knit"
+                    },
+                    {
+                        "id":  "o63",
+                        "label":  "knittedness"
+                    },
+                    {
+                        "id":  "o64",
+                        "label":  "tone"
+                    },
+                    {
+                        "id":  "o65",
+                        "label":  "tuned condition"
+                    },
+                    {
+                        "id":  "o66",
+                        "label":  "vertical community"
+                    },
+                    {
+                        "id":  "o67",
+                        "label":  "Dale Nielsen"
+                    },
+                    {
+                        "id":  "o68",
+                        "label":  "power snatch and overhead squat"
+                    },
+                    {
+                        "id":  "o69",
+                        "label":  "the exercise"
+                    },
+                    {
+                        "id":  "o70",
+                        "label":  "solo basement training"
+                    },
+                    {
+                        "id":  "o71",
+                        "label":  "football season"
+                    },
+                    {
+                        "id":  "o72",
+                        "label":  "200 rushing yards per game"
+                    },
+                    {
+                        "id":  "o73",
+                        "label":  "inspiring coaching story"
+                    },
+                    {
+                        "id":  "o74",
+                        "label":  "Dick Notmeyer"
+                    },
+                    {
+                        "id":  "o75",
+                        "label":  "Ralph Maughan"
+                    },
+                    {
+                        "id":  "o76",
+                        "label":  "coaching lineage"
+                    },
+                    {
+                        "id":  "o77",
+                        "label":  "religion as linking back"
+                    },
+                    {
+                        "id":  "o78",
+                        "label":  "transmitted stories"
+                    },
+                    {
+                        "id":  "o79",
+                        "label":  "family handkerchief tradition"
+                    },
+                    {
+                        "id":  "o80",
+                        "label":  "daughter\u0027s wedding"
+                    },
+                    {
+                        "id":  "o81",
+                        "label":  "father\u0027s example"
+                    },
+                    {
+                        "id":  "o82",
+                        "label":  "brother\u0027s funeral"
+                    },
+                    {
+                        "id":  "o83",
+                        "label":  "tear-soaked blue handkerchief"
+                    },
+                    {
+                        "id":  "o84",
+                        "label":  "horizontal community"
+                    },
+                    {
+                        "id":  "o85",
+                        "label":  "Sub for Santa"
+                    },
+                    {
+                        "id":  "o86",
+                        "label":  "charity 5K and push-up events"
+                    },
+                    {
+                        "id":  "o87",
+                        "label":  "friends and family training together"
+                    },
+                    {
+                        "id":  "o88",
+                        "label":  "parent-child training"
+                    },
+                    {
+                        "id":  "o89",
+                        "label":  "fundraising and free workouts"
+                    },
+                    {
+                        "id":  "o90",
+                        "label":  "blood-cancer support"
+                    },
+                    {
+                        "id":  "o91",
+                        "label":  "gym owner cancer survivor"
+                    },
+                    {
+                        "id":  "o92",
+                        "label":  "client retention"
+                    },
+                    {
+                        "id":  "o93",
+                        "label":  "welcoming fitness chain"
+                    },
+                    {
+                        "id":  "o94",
+                        "label":  "simple forgiving machines"
+                    },
+                    {
+                        "id":  "o95",
+                        "label":  "easy ineffective workouts"
+                    },
+                    {
+                        "id":  "o96",
+                        "label":  "lack of results"
+                    },
+                    {
+                        "id":  "o97",
+                        "label":  "high-results unwelcoming gym"
+                    },
+                    {
+                        "id":  "o98",
+                        "label":  "client success"
+                    },
+                    {
+                        "id":  "o99",
+                        "label":  "belonging"
+                    },
+                    {
+                        "id":  "o100",
+                        "label":  "dignity"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "applies primarily to",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "is less focused on",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "includes",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "includes",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "interacts continuously with",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "moves a client from",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "moves a client toward",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "checks",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "are",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "illustrates daily reminder of",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "was designed largely for",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "is an example of",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "guide",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "belong to",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "still require",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can feel like",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "includes",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "includes",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "often know",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "often lack",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "provided",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "is poorly represented within",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "is an unrealistic",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "may choose",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "makes",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "also make",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "replaces",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "conflicts with",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "shapes",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "requires",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "represents",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "is a",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "is a",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "can be recovered through",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "illustrates",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "require",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "turns problems into",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "becomes",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "includes",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "dominates discussion of",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "falsely promises",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "includes",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o53",
+                          "relation":  "can intensify",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o54",
+                          "relation":  "reduces",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o54",
+                          "relation":  "creates",
+                          "object":  "o55"
+                      },
+                      {
+                          "subject":  "o56",
+                          "relation":  "particularly benefit from",
+                          "object":  "o55"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "includes",
+                          "object":  "o57"
+                      },
+                      {
+                          "subject":  "o58",
+                          "relation":  "creates",
+                          "object":  "o57"
+                      },
+                      {
+                          "subject":  "o59",
+                          "relation":  "is an example of",
+                          "object":  "o58"
+                      },
+                      {
+                          "subject":  "o60",
+                          "relation":  "expresses",
+                          "object":  "o58"
+                      },
+                      {
+                          "subject":  "o61",
+                          "relation":  "derives from",
+                          "object":  "o62"
+                      },
+                      {
+                          "subject":  "o62",
+                          "relation":  "supports concept of",
+                          "object":  "o63"
+                      },
+                      {
+                          "subject":  "o57",
+                          "relation":  "creates",
+                          "object":  "o63"
+                      },
+                      {
+                          "subject":  "o64",
+                          "relation":  "shares a root with",
+                          "object":  "o65"
+                      },
+                      {
+                          "subject":  "o58",
+                          "relation":  "helps create",
+                          "object":  "o65"
+                      },
+                      {
+                          "subject":  "o57",
+                          "relation":  "includes",
+                          "object":  "o66"
+                      },
+                      {
+                          "subject":  "o67",
+                          "relation":  "used",
+                          "object":  "o68"
+                      },
+                      {
+                          "subject":  "o67",
+                          "relation":  "called the power snatch and overhead squat",
+                          "object":  "o69"
+                      },
+                      {
+                          "subject":  "o70",
+                          "relation":  "used",
+                          "object":  "o69"
+                      },
+                      {
+                          "subject":  "o70",
+                          "relation":  "prepared for",
+                          "object":  "o71"
+                      },
+                      {
+                          "subject":  "o70",
+                          "relation":  "contributed to",
+                          "object":  "o72"
+                      },
+                      {
+                          "subject":  "o67",
+                          "relation":  "provides",
+                          "object":  "o73"
+                      },
+                      {
+                          "subject":  "o74",
+                          "relation":  "belongs to",
+                          "object":  "o76"
+                      },
+                      {
+                          "subject":  "o75",
+                          "relation":  "belongs to",
+                          "object":  "o76"
+                      },
+                      {
+                          "subject":  "o76",
+                          "relation":  "transmits",
+                          "object":  "o78"
+                      },
+                      {
+                          "subject":  "o77",
+                          "relation":  "means",
+                          "object":  "o76"
+                      },
+                      {
+                          "subject":  "o59",
+                          "relation":  "became",
+                          "object":  "o78"
+                      },
+                      {
+                          "subject":  "o79",
+                          "relation":  "appeared at",
+                          "object":  "o80"
+                      },
+                      {
+                          "subject":  "o81",
+                          "relation":  "established",
+                          "object":  "o79"
+                      },
+                      {
+                          "subject":  "o82",
+                          "relation":  "preceded",
+                          "object":  "o80"
+                      },
+                      {
+                          "subject":  "o83",
+                          "relation":  "linked the brother's funeral to",
+                          "object":  "o80"
+                      },
+                      {
+                          "subject":  "o79",
+                          "relation":  "illustrates",
+                          "object":  "o66"
+                      },
+                      {
+                          "subject":  "o57",
+                          "relation":  "includes",
+                          "object":  "o84"
+                      },
+                      {
+                          "subject":  "o85",
+                          "relation":  "is an example of",
+                          "object":  "o84"
+                      },
+                      {
+                          "subject":  "o86",
+                          "relation":  "are examples of",
+                          "object":  "o84"
+                      },
+                      {
+                          "subject":  "o87",
+                          "relation":  "strengthen",
+                          "object":  "o84"
+                      },
+                      {
+                          "subject":  "o88",
+                          "relation":  "is an example of",
+                          "object":  "o87"
+                      },
+                      {
+                          "subject":  "o89",
+                          "relation":  "extend",
+                          "object":  "o84"
+                      },
+                      {
+                          "subject":  "o91",
+                          "relation":  "motivated",
+                          "object":  "o90"
+                      },
+                      {
+                          "subject":  "o90",
+                          "relation":  "strengthens",
+                          "object":  "o84"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "attracts clients",
+                          "object":  "o92"
+                      },
+                      {
+                          "subject":  "o57",
+                          "relation":  "sustains",
+                          "object":  "o92"
+                      },
+                      {
+                          "subject":  "o93",
+                          "relation":  "used",
+                          "object":  "o94"
+                      },
+                      {
+                          "subject":  "o94",
+                          "relation":  "protected",
+                          "object":  "o100"
+                      },
+                      {
+                          "subject":  "o95",
+                          "relation":  "caused",
+                          "object":  "o96"
+                      },
+                      {
+                          "subject":  "o96",
+                          "relation":  "undermined",
+                          "object":  "o92"
+                      },
+                      {
+                          "subject":  "o97",
+                          "relation":  "can produce",
+                          "object":  "o98"
+                      },
+                      {
+                          "subject":  "o97",
+                          "relation":  "can lack",
+                          "object":  "o99"
+                      },
+                      {
+                          "subject":  "o98",
+                          "relation":  "fulfils",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o99",
+                          "relation":  "fulfils",
+                          "object":  "o57"
+                      },
+                      {
+                          "subject":  "o100",
+                          "relation":  "fulfils",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "must remain linked to",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "must coexist with",
+                          "object":  "o57"
+                      },
+                      {
+                          "subject":  "o57",
+                          "relation":  "must coexist with",
+                          "object":  "o100"
+                      }
+                  ]
+}

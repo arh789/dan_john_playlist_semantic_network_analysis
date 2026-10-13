@@ -1,0 +1,292 @@
+﻿{
+    "playlist_position":  182,
+    "video_id":  "u68B3EI12kA",
+    "url":  "https://www.youtube.com/watch?v=u68B3EI12kA",
+    "official_title":  "Kettlebell Bodybuilding, Creating Your Own Programs, Diet Tips \u0026 More... | Dan John Podcast #166",
+    "transcript":  {
+                       "file":  "../../transcripts/u68B3EI12kA_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "walking after lifting"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "spinal movement"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "suitcase carry"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "single-side farmer walk"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "spinal health"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "Stu McGill"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "hinge technique"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "deadlift"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "basic bodybuilding"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "mobility work"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "Olympic lifting"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "program design"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "push-pull-hinge-squat-carry"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "exercise selection"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "sets and repetitions"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "training frequency"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "recovery"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "kettlebell bodybuilding"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "clean and press"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "double-kettlebell front squat"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "muscle gain"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "five sets of two"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "three sets of three"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "traps"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "spinal erectors"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "glutes"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "thighs"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "religious fasting"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "Greek Orthodox calendar"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "Ramadan"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "Lent"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "Nassim Taleb"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "fast days"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "feast days"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "dietary structure"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "protein and vegetables"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "sustainable diet"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "self-created program"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "training journal"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o1",
+                          "relation":  "encourages",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "supports",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "validated",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "governs safety of",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "governs safety of",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "can follow",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "starts with",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "fills",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "must respect",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "supports",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "supports",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "supports",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "develop strength alongside",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "developed",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "developed",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "developed",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "structures",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "structures",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "uses",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "is a period of",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "is a period of",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "can improve",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "evaluates",
+                          "object":  "o40"
+                      }
+                  ]
+}

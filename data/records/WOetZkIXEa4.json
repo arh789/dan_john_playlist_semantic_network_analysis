@@ -1,0 +1,341 @@
+﻿{
+    "playlist_position":  346,
+    "video_id":  "WOetZkIXEa4",
+    "url":  "https://www.youtube.com/watch?v=WOetZkIXEa4",
+    "official_title":  "Staying Lean, Training to Failure, ABF, Walking, Recovery Tips, RKC Prep \u0026 More | DJU Podcast #333",
+    "transcript":  {
+                       "file":  "../../transcripts/WOetZkIXEa4_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Michael"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "double 16-kilogram kettlebells"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "30-round Armor Building Complex"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "100 presses"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "2-3-5-10 press ladder"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "anxiety"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "rest-day training"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "10,000 daily steps"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "walking"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "Dylan"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "heavy strength training"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "hurling"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "distance running"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "strong enough principle"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "Zach"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "Lean Made Simple"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "strength standards"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "hip thrust"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "Julian"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "bodyweight snatch"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "bodyweight clean and press"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "clean and jerk"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "Olympic weightlifting"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "Dick Notmeyer"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "Glenn Passey"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "Ryan"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "lower-back pain"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "physical therapist"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "Justin"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "RKC certification"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "snatch test"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "Barry"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "woodland hike"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "walking pace"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "Vikas"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "sleep"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "stress"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "lifestyle activity"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "structured meal plan"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "protein"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "fat loss"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "strength"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "completed",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "used",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "was performed with",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "used",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "can support",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "is a target for",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "combines",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "combines",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "limits",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "includes",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "can replace",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "track",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "targets",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "recommended",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "recommended",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "includes",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "reported",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "can assess",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "is used in",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "requires",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "can support preparation for",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "is a form of",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "changes intensity of",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "affects",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "affects",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "can support",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "organizes",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "was advised to use",
+                          "object":  "o3"
+                      }
+                  ]
+}

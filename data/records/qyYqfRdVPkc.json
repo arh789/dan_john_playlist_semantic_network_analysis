@@ -1,0 +1,321 @@
+﻿{
+    "playlist_position":  323,
+    "video_id":  "qyYqfRdVPkc",
+    "url":  "https://www.youtube.com/watch?v=qyYqfRdVPkc",
+    "official_title":  "Best Program for Fat Loss, KB vs Barbell ABF, Double KBs, Training with Injuries | DJU Podcast #311",
+    "transcript":  {
+                       "file":  "../../transcripts/qyYqfRdVPkc_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "high-school athlete"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "quadrant three"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "basic strength program"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "sport-specific exercise"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "Southwood program"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "power clean"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "military press"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "front squat"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "bench press"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "deadlift"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "calisthenics"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "abdominal work"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "double 20-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "100 presses"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "40-round Armor Building Complex"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "Brazilian jiu-jitsu"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "fat loss"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "Easy Strength for Fat Loss"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "95-pound dumbbell"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "suitcase deadlift"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "clean"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "push press"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "circus dumbbell squat"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "park-bench program"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "Southwood with kettlebells"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "Big Five 5x5"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "double kettlebell"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "one-kettlebell workout"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "Hard Style Kettlebell Challenge"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "off-day filler"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "33-year-old former fullback"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "sports surgery"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "wear and tear"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "year-round plan"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "structured fall program"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "injury accommodation"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "barbell"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "kettlebell"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "work capacity"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "can be",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "precedes",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "uses",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "uses",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "uses",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "uses",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "can add",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "can warm up",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "can warm up",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "can use",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "were completed in",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "develops",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "adds recovery demand to",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "targets",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "can be used for",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "can be used for",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "can be used for",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "can be used for",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "can use",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "uses",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "can be adapted to",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "can be",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "appears in",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "contributes to",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "needs",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "can use",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "can use",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "can use",
+                          "object":  "o41"
+                      }
+                  ]
+}

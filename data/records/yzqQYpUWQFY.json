@@ -1,0 +1,404 @@
+﻿{
+    "playlist_position":  209,
+    "video_id":  "yzqQYpUWQFY",
+    "url":  "https://www.youtube.com/watch?v=yzqQYpUWQFY",
+    "official_title":  "Kettlebell Strength Roadmap, Goblet Squats, Kettlebell Press \u0026 Old Man Fitness | DJU Podcast #192",
+    "transcript":  {
+                       "file":  "../../transcripts/yzqQYpUWQFY_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "over-55 training"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "local strength maximum"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "Masters weightlifting"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "farewell tour"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "lean body mass"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "body fat"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "mobility"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "spring"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "bodybuilding"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "machine training"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "high-repetition burn"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "strength practice"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "walking"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "active isolated stretching"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "Original Strength mobility"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "annual peaking cycle"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "Wendler 5/3/1"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "Marty Gallagher"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "Purposeful Primitive"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "beginner lifter"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "workout generator"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "push-pull-hinge-squat-carry"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "exercise family"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "overhead squat"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "front squat"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "back squat"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "hip thrust"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "seesaw press"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "ab wheel"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "brain training"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "meditation"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "chess"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "dance"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "orienteering"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "press rotation"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "bench press"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "incline press"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "military press"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "decline press"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "individual body proportions"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "Starting Strength"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "Mark Rippetoe"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "kettlebell training"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "kettlebell snatch"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "double-kettlebell press"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "athletic performance"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "lagging squat"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "deadlift"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "movement balance"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "squat family"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "Olympic snatch"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "strength"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "prioritizes",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "limits",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "prioritizes",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "preserves",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "supports",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "can provide",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "supports",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "develops",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "develops",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "can use",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "can use",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "wrote",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "teaches",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "organizes",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "belongs to",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "belongs to",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "belongs to",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "belongs to",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "can combine with",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "can combine with",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "supports",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "supports",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "combines movement with",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "combines movement with",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "cycles through",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "cycles through",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "cycles through",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "cycles through",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "affect",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "affect",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "criticized",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "develops",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "develops",
+                          "object":  "o54"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "can be prioritized over",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "supports",
+                          "object":  "o48"
+                      }
+                  ]
+}

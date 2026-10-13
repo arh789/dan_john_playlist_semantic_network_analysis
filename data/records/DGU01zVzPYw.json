@@ -1,0 +1,242 @@
+﻿{
+    "playlist_position":  322,
+    "video_id":  "DGU01zVzPYw",
+    "url":  "https://www.youtube.com/watch?v=DGU01zVzPYw",
+    "official_title":  "ABC, Functional Fitness, ABF, Delayed Onset Muscle Soreness \u0026 More | DJU Podcast #310",
+    "transcript":  {
+                       "file":  "../../transcripts/DGU01zVzPYw_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "form"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "fatigue"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "core tension"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "round count"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "injury prevention"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "technical breakdown"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "stop rule"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "coaching judgment"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "quality repetition"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "overhead kettlebell press"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "shoulder mobility limitation"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "Original Strength"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "floor press"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "bridge press"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "Running Back Complex"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "double-kettlebell clean"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "double-kettlebell front squat"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "temporary substitution"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "rehabilitation"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "range of motion"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "general population"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "delayed-onset muscle soreness"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "recovery"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "training adaptation"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "press progression"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "program integrity"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "injury prevention need"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "shoulder mobility"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o5",
+                          "relation":  "can degrade",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "supports",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "increases",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "increases",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "responds to",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "governs",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "takes priority over",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "requires",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "requires",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "restricts",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "can improve",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "can temporarily replace",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "can temporarily replace",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "omits",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "uses",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "uses",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "supports",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "improves",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "reflects",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "reduces",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "restores",
+                          "object":  "o29"
+                      }
+                  ]
+}

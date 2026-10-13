@@ -1,0 +1,300 @@
+﻿{
+    "playlist_position":  250,
+    "video_id":  "wvsT6OvDIMA",
+    "url":  "https://www.youtube.com/watch?v=wvsT6OvDIMA",
+    "official_title":  "Turkish Get-Ups, Easy Strength, Mass Made Simple, Mobility, Fat Loss \u0026 More... | DJU Podcast #234",
+    "transcript":  {
+                       "file":  "../../transcripts/wvsT6OvDIMA_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "supercompensation"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "rubber-band effect"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "training break"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "muscle gain"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "hypertrophy block"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "training philosophy"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "Dave Tate"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "Jim Wendler"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "Mass Made Simple"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "Mass Made Simpler"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "chin-up"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "dip"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "handstand push-up"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "high-repetition back squat"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "weighted repetition"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "bodyweight repetition"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "mobility"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "Turkish get-up"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "naked get-up"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "Brazilian get-up test"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "kneeling windmill"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "skull crusher"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "eye-of-the-needle drill"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "shoulder mobility"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "Easy Strength for Fat Loss"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "overnight fast"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "coffee"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "caffeine"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "free fatty acid"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "post-workout walk"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "green tea"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "hot beverage"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "five-times-52-weeks consistency"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "sleep"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "weight training"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "walking"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o5",
+                          "relation":  "can reveal",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "can create",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "can reveal",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "can be followed by",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "was discussed by",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "was discussed by",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "derives from",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "uses",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "uses",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "uses",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "uses",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "can progress through",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "can progress through",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "develops",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "is an unloaded",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "assesses",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "contains position resembling",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "can perform",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "develops",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "uses",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "can mobilize",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "can mobilize",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "can oxidize",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "is a",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "supports",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "supports",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "supports",
+                          "object":  "o27"
+                      }
+                  ]
+}

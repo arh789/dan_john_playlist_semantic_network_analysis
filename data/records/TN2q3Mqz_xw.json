@@ -1,0 +1,509 @@
+﻿{
+    "playlist_position":  262,
+    "video_id":  "TN2q3Mqz_xw",
+    "url":  "https://www.youtube.com/watch?v=TN2q3Mqz_xw",
+    "official_title":  "Bodybuilding Program, Improving Performance, Perfect Workout, Hardwiring \u0026 More... | DJU Podcast 247",
+    "transcript":  {
+                       "file":  "../../transcripts/TN2q3Mqz_xw_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "high-school basketball player"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "hill sprint"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "Pareto principle"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "first-step quickness"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "five-step quickness"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "agility"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "video analysis"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "cross-crawl"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "Original Strength"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "Tim Anderson"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "marching"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "skipping"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "sprinting"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "isometric hold"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "Bill March"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "Dick Smith"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "Olympic lift"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "plyometric"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "snapacity"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "Anaconda strength"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "suitcase carry"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "bear-hug carry"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "sandbag"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "miniband"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "monster walk"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "mixed martial artist"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "Mass Made Simple"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "weight class"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "bulking"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "endurance"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "fat loss"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "Olympic lifting"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "clean and press"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "snatch"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "clean and jerk"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "amateur cyclist"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "bike training"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "strength session"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "mental preparation"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "arousal level"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "competition simulation"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "Perfect Workout"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "half-kneeling press"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "dead hang"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "goblet-squat-to-overhead-squat"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "hip thrust"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "glute band"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "Great Eight carry circuit"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "sled pull"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "stone carry"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "Original Strength reset"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "one-lift-a-day"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "military press"
+                    },
+                    {
+                        "id":  "o57",
+                        "label":  "mobility"
+                    },
+                    {
+                        "id":  "o58",
+                        "label":  "sleep"
+                    },
+                    {
+                        "id":  "o59",
+                        "label":  "body composition"
+                    },
+                    {
+                        "id":  "o60",
+                        "label":  "evolutionary hardwiring"
+                    },
+                    {
+                        "id":  "o61",
+                        "label":  "junk food"
+                    },
+                    {
+                        "id":  "o62",
+                        "label":  "sedentary behavior"
+                    },
+                    {
+                        "id":  "o63",
+                        "label":  "athletic position"
+                    },
+                    {
+                        "id":  "o64",
+                        "label":  "isometric training"
+                    },
+                    {
+                        "id":  "o65",
+                        "label":  "power"
+                    },
+                    {
+                        "id":  "o66",
+                        "label":  "work capacity"
+                    },
+                    {
+                        "id":  "o67",
+                        "label":  "lateral strength"
+                    },
+                    {
+                        "id":  "o68",
+                        "label":  "bodyweight"
+                    },
+                    {
+                        "id":  "o69",
+                        "label":  "competition performance"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o3",
+                          "relation":  "can prepare",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "can prepare",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "can identify errors in",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "uses",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "created",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "supports",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "supports",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "supports",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "teaches",
+                          "object":  "o63"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "developed",
+                          "object":  "o64"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "coached",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "develops",
+                          "object":  "o65"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "develops",
+                          "object":  "o65"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "combines snap with",
+                          "object":  "o66"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "develops",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "develops",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "can load",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "adds resistance to",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "develops",
+                          "object":  "o67"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "increases",
+                          "object":  "o68"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "constrains",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "competes in",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "can restore athleticism after",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "is an",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "is an",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "is an",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "must be balanced with",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "trains",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "affects",
+                          "object":  "o69"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "includes",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "includes",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "includes",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "includes",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "includes",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "uses",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "can include",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "can include",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o54",
+                          "relation":  "develops",
+                          "object":  "o57"
+                      },
+                      {
+                          "subject":  "o55",
+                          "relation":  "can follow",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o56",
+                          "relation":  "can be used in",
+                          "object":  "o55"
+                      },
+                      {
+                          "subject":  "o57",
+                          "relation":  "can improve",
+                          "object":  "o58"
+                      },
+                      {
+                          "subject":  "o58",
+                          "relation":  "can improve",
+                          "object":  "o59"
+                      },
+                      {
+                          "subject":  "o60",
+                          "relation":  "can favor",
+                          "object":  "o61"
+                      },
+                      {
+                          "subject":  "o60",
+                          "relation":  "can favor",
+                          "object":  "o62"
+                      }
+                  ]
+}

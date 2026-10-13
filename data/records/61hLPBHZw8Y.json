@@ -1,0 +1,381 @@
+﻿{
+    "playlist_position":  162,
+    "video_id":  "61hLPBHZw8Y",
+    "url":  "https://www.youtube.com/watch?v=61hLPBHZw8Y",
+    "official_title":  "The Dan John Podcast - Ep 148 | Pilates, Two a Days, Shoveling, and More",
+    "transcript":  {
+                       "file":  "../../transcripts/61hLPBHZw8Y_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "powerlifting definition of strength"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Olympic-lift strength"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "kettlebell strength"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "absolute strength"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "speed strength"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "movement skill"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "La Sierra physical-education program"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "white team"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "red team"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "minimum standard"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "medium standard"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "ceiling standard"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "multi-day testing"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "twice-daily training"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "morning weightlifting"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "afternoon cardio"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "sport practice"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "home gym"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "training discipline"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "45-year-old bench presser"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "405-pound paused bench"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "430-pound target"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "500-pound target"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "genetic limit"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "powerlifting specificity"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "masters Highland Games"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "five-year preparation"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "kettlebell background"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "Olympic lifts"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "event practice"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "10,000 Swing Challenge"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "lasting grip"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "lasting swing technique"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "body-mass loss"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "kettlebell clean transfer"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "Olympic-lift transfer"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "shoveling"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "first responders"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "lower-back strain"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "farmer and ranch work"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "swings"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "specific work capacity"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "Pilates"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "Joseph Pilates"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "Alexander Technique"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "Feldenkrais"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "somatics"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "Rolfing"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "movement awareness"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "bench-squat-deadlift"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "strength"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "specific shoveling work capacity"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o1",
+                          "relation":  "emphasizes",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "differs from",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "is one specialized definition of",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "is one specialized definition of",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "shapes expression of",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "used",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "used",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "progressed toward",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "allowed assessment of",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "can combine",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "can combine",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "is a useful second session after",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "makes",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "is required for",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "precedes",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "may exceed current",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "is needed for",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "requires",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "can develop",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "support",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "leaves",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "leaves",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "persists only if habits continue after",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "transfers to",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "can aid",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "creates",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "may be assessed with",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "do not fully prepare",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "was developed by",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "belongs with movement systems such as",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "develops",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "develops",
+                          "object":  "o49"
+                      }
+                  ]
+}

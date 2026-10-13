@@ -1,0 +1,251 @@
+﻿{
+    "playlist_position":  316,
+    "video_id":  "Q75B6pSaw0M",
+    "url":  "https://www.youtube.com/watch?v=Q75B6pSaw0M",
+    "official_title":  "Strength Standards, Presses \u0026 Carries, Building Strength, Beginner Tips \u0026 More | DJU Podcast #303",
+    "transcript":  {
+                       "file":  "../../transcripts/Q75B6pSaw0M_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "strength coach"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "strength standard"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "quadrant framework"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "impact assessment"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "occupational labor"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "farmer"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "longshoreman"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "lumberjack"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "construction worker"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "Teamster"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "work capacity"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "Tommy Kono"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "Kono bodybuilding course"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "Weightlifting Olympic Style"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "barbell"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "bench"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "pullover"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "squat"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "classic exercise"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "beginner trainee"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "starting load"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "gradual progression"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "long-term view"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "press"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "strength development"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "muscle gain"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "training consistency"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "manual labor"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "Olympic lifter"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "coaches",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "depends on",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "performs",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "performs",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "performs",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "performs",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "performs",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "develops",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "created",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "appears in",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "uses",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "uses",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "includes",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "includes",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "is a",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "should start light in",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "precedes",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "requires",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "develops",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "can measure",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "can measure",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "supports",
+                          "object":  "o29"
+                      }
+                  ]
+}

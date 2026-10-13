@@ -1,0 +1,379 @@
+﻿{
+    "playlist_position":  246,
+    "video_id":  "AC6gpBAZU80",
+    "url":  "https://www.youtube.com/watch?v=AC6gpBAZU80",
+    "official_title":  "40KG Kettlebell, Best Exercises for Small Home Gyms, Armor Building Complex \u0026 More | DJU Podcast 230",
+    "transcript":  {
+                       "file":  "../../transcripts/AC6gpBAZU80_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "variable-resistance band"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "chain resistance"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "latex band"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "joint stress"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "home gym"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "mini band"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "glute loop"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "band walk"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "Mass Made Simple"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "off day"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "walking"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "cycling"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "yoga"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "recovery"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "high-school football player"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "sprint technique"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "agility"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "40-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "40-year-old trainee"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "long-term strength goal"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "Turkish get-up"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "clean and press"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "golf"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "club-head speed"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "medicine-ball throw"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "strength training"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "accuracy practice"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "double-kettlebell clean"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "double-kettlebell press"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "double-kettlebell front squat"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "24-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "32-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "thirty-round test"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "I-go-you-go rest"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "weighted vest"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "heavy hands"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "three-mile walk"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "hill walk"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "fat loss"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "cardiovascular health"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "sleep"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "protein"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "vegetable"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "Mediterranean salad"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "hip training"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o3",
+                          "relation":  "can reduce",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "can reduce",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "supports",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "can perform",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "supports",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "requires",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "can include",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "can include light",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "can include",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "can use",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "should be followed by",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "can be followed by",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "can pursue",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "can include",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "can include",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "can include",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "can include",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "can improve",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "can improve",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "should accompany",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "combines",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "combines",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "combines",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "is a baseline for",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "can be used for",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "can use",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "loads",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "loads",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "supports",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "supports",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "supports",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "supports",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "supports",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "provides",
+                          "object":  "o47"
+                      }
+                  ]
+}

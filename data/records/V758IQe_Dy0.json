@@ -1,0 +1,374 @@
+﻿{
+    "playlist_position":  211,
+    "video_id":  "V758IQe_Dy0",
+    "url":  "https://www.youtube.com/watch?v=V758IQe_Dy0",
+    "official_title":  "Easy Strength, Kettlebells vs. Dumbbells, Kettlebell Variations \u0026 GTG | DJU Podcast #194",
+    "transcript":  {
+                       "file":  "../../transcripts/V758IQe_Dy0_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "moderate alcohol use"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "beer"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "wine"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "unsafe water supply"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "fermentation"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "post-competition socializing"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "extra calories"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "alcohol misuse"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "greasing the groove"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "pull-up"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "Marine fitness test"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "submaximal repetition"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "middle-age pull-up syndrome"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "elbow pain"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "volume progression"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "sixteen-year-old trainee"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "school strength program"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "planned progression"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "coaching assessment"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "exercise readiness"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "double-kettlebell clean"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "ballistic movement"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "three sets of three"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "load variation"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "javelin thrower"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "brachiation"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "chains"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "accommodating resistance"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "banded swing"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "flag football"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "sled sprint"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "hill sprint"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "suitcase carry"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "sport skill practice"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "dumbbell"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "kettlebell"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "upper-body isolation"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "Turkish get-up"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "dumbbell swing"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "dumbbell snatch"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "kettlebell snatch"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "equipment inventory"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "learning curve"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "exercise selection"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "explosive power"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o6",
+                          "relation":  "made safer",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "can provide",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "can accompany",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "can become",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "improves",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "is tested by",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "governs",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "manifests as",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "should avoid",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "needs",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "matches exercise to",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "is a",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "can use",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "can include",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "constrains",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "supports shoulder health for",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "supports shoulder health for",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "provide",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "can develop",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "conditions for",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "conditions for",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "conditions for",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "includes catching for",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "is effective for",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "can perform",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "can perform",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "has advantage in",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "has advantage in",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "has a less natural arc than",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "has a less natural arc than",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "affects",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "differs between",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "differs between",
+                          "object":  "o38"
+                      }
+                  ]
+}

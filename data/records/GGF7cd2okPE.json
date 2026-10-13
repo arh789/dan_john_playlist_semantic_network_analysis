@@ -1,0 +1,470 @@
+﻿{
+    "playlist_position":  268,
+    "video_id":  "GGF7cd2okPE",
+    "url":  "https://www.youtube.com/watch?v=GGF7cd2okPE",
+    "official_title":  "4 Week Bodybuilding, Dan\u0027s KB Collection, Night Workouts, Benefits of Kettlebells | DJU Podcast #254",
+    "transcript":  {
+                       "file":  "../../transcripts/GGF7cd2okPE_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "home gym"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "48-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "double 32-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "double 24-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "double 20-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "double 16-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "kettlebell clean and press"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "group training"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "Inner Circle"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "accountability"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "career change"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "geographic move"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "decision"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "intuition"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "Robert Frost"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "two-three-five ladder"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "training cadence"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "traditional schedule"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "strength"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "conditioning"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "American football"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "rugby"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "collision occupation"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "ice hockey"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "recreational athlete"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "in-season training"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "late-night game"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "kettlebell training"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "upper-back tension"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "medical clearance"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "physical therapist"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "massage"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "Vladimir Janda"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "pectoralis"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "hip flexor"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "hamstring"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "biceps"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "deltoid"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "triceps"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "abdominal wall"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "glute"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "Stoney stretch"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "half-kneeling press"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "seesaw press"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "dead hang"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "four-week hypertrophy cycle"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "military press"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "deadlift"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "hill sprint"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "Heavyhands"
+                    },
+                    {
+                        "id":  "o57",
+                        "label":  "glute hypertrophy"
+                    },
+                    {
+                        "id":  "o58",
+                        "label":  "shoulder hypertrophy"
+                    },
+                    {
+                        "id":  "o59",
+                        "label":  "Peter program"
+                    },
+                    {
+                        "id":  "o60",
+                        "label":  "dip"
+                    },
+                    {
+                        "id":  "o61",
+                        "label":  "rack deadlift"
+                    },
+                    {
+                        "id":  "o62",
+                        "label":  "recovery"
+                    },
+                    {
+                        "id":  "o63",
+                        "label":  "aging"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o3",
+                          "relation":  "belongs in",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "can load",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "can load",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "can load",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "can load",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "provides",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can guide",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "requires",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "requires",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "creates",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "uses an alternative",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "must be coordinated with",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "requires",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "requires",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "requires",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "requires",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "supports",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "constrains",
+                          "object":  "o62"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "precedes training for",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "can assess",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "can address",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "described shortening of",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "described shortening of",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "described shortening of",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "described shortening of",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o63",
+                          "relation":  "can weaken",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o63",
+                          "relation":  "can weaken",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o63",
+                          "relation":  "can weaken",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o63",
+                          "relation":  "can weaken",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "stretches",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "stretches",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "strengthens",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "can reduce",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o59",
+                          "relation":  "combines",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o59",
+                          "relation":  "combines",
+                          "object":  "o54"
+                      },
+                      {
+                          "subject":  "o59",
+                          "relation":  "combines",
+                          "object":  "o55"
+                      },
+                      {
+                          "subject":  "o59",
+                          "relation":  "combines",
+                          "object":  "o56"
+                      },
+                      {
+                          "subject":  "o59",
+                          "relation":  "targets",
+                          "object":  "o57"
+                      },
+                      {
+                          "subject":  "o59",
+                          "relation":  "targets",
+                          "object":  "o58"
+                      },
+                      {
+                          "subject":  "o60",
+                          "relation":  "can complement",
+                          "object":  "o54"
+                      },
+                      {
+                          "subject":  "o61",
+                          "relation":  "is a variation of",
+                          "object":  "o54"
+                      }
+                  ]
+}

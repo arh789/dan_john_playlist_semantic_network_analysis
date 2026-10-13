@@ -1,0 +1,376 @@
+﻿{
+    "playlist_position":  206,
+    "video_id":  "jHuoleyAMW4",
+    "url":  "https://www.youtube.com/watch?v=jHuoleyAMW4",
+    "official_title":  "Mark Wildman, Easy Strength, Loaded Carries, Proper Strength Base \u0026 More  | Dan John Podcast #189",
+    "transcript":  {
+                       "file":  "../../transcripts/jHuoleyAMW4_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "clear food containers"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "prepared vegetables"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "Cook drill"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "suitcase carry"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "rack carry"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "waiter walk"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "long loaded-carry walk"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "time under load"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "weighted vest"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "heavy hands"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "endurance athlete"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "Percy Cerutty"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "deadlift"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "military press"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "pull-up"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "cheat curl"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "marathon runner"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "bodyweight bench press"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "double-bodyweight deadlift"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "flat shoes"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "heel elevation"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "double-kettlebell front squat"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "ankle mobility"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "weightlifting shoes"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "competition"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "goal accountability"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "kettlebell snatch pull"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "kettlebell sport"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "Mark Wildman"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "whole-body training"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "35-pound weight throw"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "weight pentathlon"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "general training base"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "skipping"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "hill sprint"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "deceleration"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "downhill running"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "box jump"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "lean body mass"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "mobility"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "ballistic training"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "age group"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "accumulation"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "intensification"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "transformation"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "sport specialization"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "spinal movement"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "half snatch"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "older age group"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "make visible",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "sequences",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "sequences",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "sequences",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "increases",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "intensifies",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "can improve",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "used strength work with",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "draws from",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "can use",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "can use",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "was expected to achieve",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "was expected to achieve",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "support",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "supports",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "can be accommodated by",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "creates",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "is sometimes called",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o1",
+                          "relation":  "respects but does not specialize in",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "emphasizes",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "is part of",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "prepares for",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "prepares for",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "creates",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "raises injury risk in",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "can reduce landing",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o52",
+                          "relation":  "prioritizes",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o52",
+                          "relation":  "prioritizes",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "precedes",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "precedes",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "supports",
+                          "object":  "o49"
+                      }
+                  ]
+}

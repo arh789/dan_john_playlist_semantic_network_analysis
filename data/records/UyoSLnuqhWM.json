@@ -1,0 +1,269 @@
+﻿{
+    "playlist_position":  198,
+    "video_id":  "UyoSLnuqhWM",
+    "url":  "https://www.youtube.com/watch?v=UyoSLnuqhWM",
+    "official_title":  "KB Snatch, Kettlebells for Elders, D1 S\u0026C, Sport Style \u0026 Self Programming | Dan John Podcast #181",
+    "transcript":  {
+                       "file":  "../../transcripts/UyoSLnuqhWM_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Division One football program"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "strength-and-conditioning coach"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "off-season training"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "in-season training"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "Tim Anderson mobility"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "Olympic lifts"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "multimillion-dollar facility"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "lean body mass"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "mobility"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "fast-twitch ability"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "over-55 trainee"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "swimmer"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "push-pull-hinge-squat-carry"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "appropriate loading"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "sport-style kettlebell snatch"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "hardstyle kettlebell snatch"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "half snatch"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "snatch high pull"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "palm pain"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "technique fault"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "certification coaching"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "65-year-old father"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "old back injury"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "fear of weights"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "low-back soreness"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "hip thrust"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "Bulgarian goat-bag swing"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "ballistic progression"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "spiritual attachment"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "Judaism"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "physical self"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "training joy"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "calmness"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "religious study"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "body stewardship"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "self-programming"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "training feedback"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "football athlete"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o1",
+                          "relation":  "uses",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o1",
+                          "relation":  "uses",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "supports",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "can be used in",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "should preserve",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "should preserve",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "should preserve",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "organizes training for",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "differs from",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "is criticized as",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "may cause",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "can correct",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "creates",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "prepares for",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "prepares for",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "must respect",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "coexists with",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "raises questions about",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "reframes",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "requires",
+                          "object":  "o38"
+                      }
+                  ]
+}

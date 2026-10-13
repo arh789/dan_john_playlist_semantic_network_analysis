@@ -1,0 +1,482 @@
+﻿{
+    "playlist_position":  261,
+    "video_id":  "icsLwAha6xY",
+    "url":  "https://www.youtube.com/watch?v=icsLwAha6xY",
+    "official_title":  "Which Kettlebell to Buy, Best Program for Fast Gains, Pull-Ups \u0026 Hypertrophy | DJU Podcast #246",
+    "transcript":  {
+                       "file":  "../../transcripts/icsLwAha6xY_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "elbow pain"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "injury recovery"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "medical care"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "kettlebell clean"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "pull-up"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "warm-up"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "atrial fibrillation"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "COVID-19"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "bodyweight gain"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "Easy Strength for Fat Loss"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "forty workouts"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "bodyweight loss"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "RKC certification"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "medical clearance"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "snatch test"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "20-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "Rite of Passage"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "clean and press"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "double-kettlebell front squat"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "workshop"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "technical coaching"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "16-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "double 16-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "double 20-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "24-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "28-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "home gym"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "squat depth"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "counterweight"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "barbell front squat"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "back squat"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "overhead squat"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "wrist mobility"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "shoulder mobility"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "thoracic-spine mobility"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "rest interval"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "one-minute rest"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "beginner"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "push-pull-legs split"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "squat pattern"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "deadlift pattern"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "powerlift"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "Olympic lift"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "kettlebell training"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "tumbling"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "calisthenics"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "hurdle walkover"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "three sets of eight"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "strength"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "hypertrophy"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "bicycle commute"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "cardiovascular conditioning"
+                    },
+                    {
+                        "id":  "o57",
+                        "label":  "protein intake"
+                    },
+                    {
+                        "id":  "o58",
+                        "label":  "overtraining"
+                    },
+                    {
+                        "id":  "o59",
+                        "label":  "alternating training block"
+                    },
+                    {
+                        "id":  "o60",
+                        "label":  "barbell training block"
+                    },
+                    {
+                        "id":  "o61",
+                        "label":  "stamina"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "requires",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "supports",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "can prevent",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "can prevent",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "can cause",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "reduces",
+                          "object":  "o61"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "can rebuild",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "can reduce",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "can use",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "precedes preparation for",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "requires",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "can use",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "prepares for",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "uses",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "prepares for",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "prepares for",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "prepares for",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "tests readiness for",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "prepares for",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "can equip",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "can equip",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "can equip",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "may be less useful than",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "allows greater",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "uses",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "may limit",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "requires",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "requires",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "requires",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "is a",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "should learn",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "should learn",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "should learn",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "should learn",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "should learn",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "should learn",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "should learn",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "should learn",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o52",
+                          "relation":  "can develop",
+                          "object":  "o54"
+                      },
+                      {
+                          "subject":  "o55",
+                          "relation":  "develops",
+                          "object":  "o56"
+                      },
+                      {
+                          "subject":  "o57",
+                          "relation":  "supports",
+                          "object":  "o54"
+                      },
+                      {
+                          "subject":  "o55",
+                          "relation":  "adds to risk of",
+                          "object":  "o58"
+                      },
+                      {
+                          "subject":  "o59",
+                          "relation":  "can separate",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o60",
+                          "relation":  "can alternate with",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o59",
+                          "relation":  "can preserve",
+                          "object":  "o55"
+                      }
+                  ]
+}

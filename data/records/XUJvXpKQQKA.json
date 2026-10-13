@@ -1,0 +1,353 @@
+﻿{
+    "playlist_position":  214,
+    "video_id":  "XUJvXpKQQKA",
+    "url":  "https://www.youtube.com/watch?v=XUJvXpKQQKA",
+    "official_title":  "Steve Maxwell, Worst Exercises, Squats, Bodyweight Training, Kettlebells \u0026 More... | DJU Podcast 197",
+    "transcript":  {
+                       "file":  "../../transcripts/XUJvXpKQQKA_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "squat teaching progression"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "overhead squat"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "front squat"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "back squat"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "heel elevation"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "ankle mobility"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "six-point rock"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "pelvic mobility"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "dead hang"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "shoulder mobility"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "wrist mobility"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "lean body mass"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "professional strength coach"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "practical coaching experience"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "formal education"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "professional certification"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "critical reading"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "mentor"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "facility-specific strength standard"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "technical quality"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "Big Blue Club"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "Coyote Point Kettlebell Club"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "group introduction"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "group needs assessment"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "Original Strength warm-up"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "Humane Burpee"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "training community"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "Talking Stick"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "leadership succession"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "Steve Maxwell"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "kettlebell snatch injury"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "bodyweight exercise"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "kettlebell exercise"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "equipment neutrality"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "push-up overuse"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "shoulder injury"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "hip thrust"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "exercise preference"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "goal fit"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "coaching judgment"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "equipment inventory"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "training session"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "begins with",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "progresses to",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "progresses to",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "progresses to",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "accommodates",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "develops",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "develops",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "supports",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "supports",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "needs",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "benefits from",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "can gain",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "supports",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "supports",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "depends on",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "qualifies",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "used",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "built",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "supports",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "guides",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "precedes",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "can provide hard work in",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "supports discussion within",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "keeps healthy",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "criticized",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "influenced",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "can also cause",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "can cause",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "applies to",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "applies to",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "depends on",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "should not replace",
+                          "object":  "o43"
+                      }
+                  ]
+}

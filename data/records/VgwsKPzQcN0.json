@@ -1,0 +1,371 @@
+﻿{
+    "playlist_position":  348,
+    "video_id":  "VgwsKPzQcN0",
+    "url":  "https://www.youtube.com/watch?v=VgwsKPzQcN0",
+    "official_title":  "Best Type of Cardio, Easy Strength, Deadlifts, ABF, Fatigue Management \u0026 More | DJU Podcast #335",
+    "transcript":  {
+                       "file":  "../../transcripts/VgwsKPzQcN0_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "post-workout walking"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "rowing machine"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "steady-state cardio"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "cardio machine"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "heart rate"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "10,000 daily steps"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "Mark"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "10,000 Swing Challenge"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "Easy Strength for Fat Loss"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "Rite of Passage"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "annual training plan"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "Jim"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "vertical bird dog"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "suitcase position"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "rack position"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "waiter position"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "balance"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "Maxwell"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "trapezius dominance"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "neck pain"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "DNA"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "Liam"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "Original Strength"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "martial arts"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "black-belt test"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "push-up endurance"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "chin-up"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "Henry"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "ab wheel"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "shoulder pain"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "rock climbing"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "Danny"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "kickstand deadlift"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "glute activation"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "two-foot stance"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "single-leg training"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "Allan"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "double 20-kilogram kettlebells"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "single 24-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "assisted clean"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "single-arm press"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "Henrik"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "dog walking"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "pedometer"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "split workout"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "fatigue"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "brain fog"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "shoulder health"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o3",
+                          "relation":  "can replace",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "can use",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "governs",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "contributes to",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "can sequence",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "can sequence",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "can sequence",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "can use",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "can use",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "can use",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "challenges",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "can contribute to",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "can influence",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "uses",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "uses",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "requires",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "can develop",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "supports",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "can aggravate",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "can contribute to",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "promotes",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "uses",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "reduces balance demands of",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "uses",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "can use",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "can position",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "measures",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "can contribute to",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "can reduce acute",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "can contribute to",
+                          "object":  "o51"
+                      }
+                  ]
+}

@@ -1,0 +1,350 @@
+﻿{
+    "playlist_position":  310,
+    "video_id":  "i77AfzYPzWU",
+    "url":  "https://www.youtube.com/watch?v=i77AfzYPzWU",
+    "official_title":  "Superhero Training Program, Squats, Minimalist Workout, Increasing KB Weight | DJU Podcast #297",
+    "transcript":  {
+                       "file":  "../../transcripts/i77AfzYPzWU_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "superhero training"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "martial arts"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "parkour"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "daily lifting"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "sled work"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "prowler"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "hill sprint"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "rope climb"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "terrain knowledge"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "first aid"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "49-year-old firefighter"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "work capacity"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "complex training"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "strength"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "conditioning"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "muscle mass"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "recovery"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "everyday strength"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "225-pound standard"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "405-pound deadlift"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "Perfect Workout"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "sprint distance"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "heart-rate recovery"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "double 28-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "double 32-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "30-round EMOM"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "clean technique"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "squat tension"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "load progression"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "Dan Martin Program Minimum"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "walking"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "footwear"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "minimalist shoe"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "poor squat depth"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "lunge"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "medical assessment"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "one-lift-a-day"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "front squat"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "press"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "snatch-grip deadlift"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "three-day program"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "drug-enhanced bodybuilding program"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "strength standard"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "squat depth"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "natural trainee"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "requires",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "requires",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "can use",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "can use",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "can use",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "requires",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "requires",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "needs",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "develops",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "must balance",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "constrains",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "is an",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "is a",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "can supplement",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "can use",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "can support",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "challenges",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "challenges",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "must preserve",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "includes",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "is a type of",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "can require",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "can rebuild",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "does not necessarily replace",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "can be a",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "can include",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "can include",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "can include",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "may not suit",
+                          "object":  "o48"
+                      }
+                  ]
+}

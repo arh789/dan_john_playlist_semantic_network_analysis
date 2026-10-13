@@ -1,0 +1,297 @@
+﻿{
+    "playlist_position":  376,
+    "video_id":  "YjO43XiMisA",
+    "url":  "https://www.youtube.com/watch?v=YjO43XiMisA",
+    "official_title":  "Goblet Squat, Progressing After 50, Kettlebell vs. Barbell ABC, Building Muscle | DJU Podcast #362",
+    "transcript":  {
+                       "file":  "../../transcripts/YjO43XiMisA_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Gareth"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "54-year-old self-taught trainee"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "three-day training week"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "50-pound kettlebell"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "60-pound kettlebell"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "40-pound weight loss"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "What the Hell effect"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "Turkish get-up"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "workout rotation"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "coach"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "Dan"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "barbell landmine"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "landmine complex"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "rotation"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "anti-rotation"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "power"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "barbell complex"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "Jason"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "Mass Made Simple"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "kettlebell"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "barbell"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "2-1-3 complex"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "movement dynamics"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "Evan"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "elevated blood pressure"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "light load"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "low repetitions"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "daily training"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "farmer carry"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "protein intake"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "muscle gain"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "Tufts Health and Nutrition Letter"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "AARP"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "0.82 grams protein per pound"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "kettlebell training"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "seventh training day"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "is a",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "uses",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "uses",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "uses",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "achieved",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "created",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "includes",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "includes",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "includes",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "can support",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "can support",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "can support",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "is a",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "owns",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "owns",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "differs from",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "can use",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "has",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "uses",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "uses",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "can occupy",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "supports",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "recommends",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "recommends",
+                          "object":  "o39"
+                      }
+                  ]
+}

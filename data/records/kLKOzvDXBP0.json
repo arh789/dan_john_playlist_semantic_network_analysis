@@ -1,0 +1,379 @@
+﻿{
+    "playlist_position":  148,
+    "video_id":  "kLKOzvDXBP0",
+    "url":  "https://www.youtube.com/watch?v=kLKOzvDXBP0",
+    "official_title":  "The Dan John Podcast - Ep 132 | High Rep KB Squats, Natural Movements, Lateral Carries, and More",
+    "transcript":  {
+                       "file":  "../../transcripts/kLKOzvDXBP0_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "clean and jerk"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "front-rack position"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "high elbows"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "elbow drop"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "jerk drive"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "Dick Notmeyer"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "Jim Schmitz"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "barbell ladder"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "one-to-five ladder"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "repeated ladders"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "fatigue management"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "Right of Passage"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "high-repetition squat"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "kettlebells"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "sandbags"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "bear-hug squat"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "double-kettlebell front squat"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "back squat"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "muscle gain"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "food intake"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "sleep"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "kettlebell sport"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "competition kettlebells"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "double 40-kilogram front squat"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "low-repetition strength work"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "endurance performance"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "heavy loaded carry"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "lower-body lift"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "old low-back injury"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "anaconda strength"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "dedicated carry day"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "farmer carry"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "bear-hug carry"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "sled work"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "genetics"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "geography"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "movement aptitude"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "chess instruction"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "lateral carry"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "backward sled drag"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "sideways hill walk"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "awkward movement"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "delayed-onset muscle soreness"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "repeated-bout effect"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "father and three sons"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "lifting and throwing session"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "Olympic lifts"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "throwing practice"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "snatch thigh contact"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "bar proximity"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "Swedish weightlifters"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "no-contact lifting style"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "set of five"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "uses",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "are maintained during",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "coached no",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "coached no",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "is a form of",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "return to easy singles after",
+                          "object":  "o54"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "manages",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "uses",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "can provide",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "can provide",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "can provide",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "supports",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "supports",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "supports",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "can support",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "provides",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "can aggravate",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "can combine poorly with",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "separates",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "is tolerated better than",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "influence",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "influences access to coaching for",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "may create",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "is preferred to",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "reduces",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "share low",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "can be interleaved with",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "helps maintain",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o52",
+                          "relation":  "emphasized",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o53",
+                          "relation":  "contrasts with",
+                          "object":  "o50"
+                      }
+                  ]
+}

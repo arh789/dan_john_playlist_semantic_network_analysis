@@ -1,0 +1,279 @@
+﻿{
+    "playlist_position":  186,
+    "video_id":  "0ZxGGgGNvGA",
+    "url":  "https://www.youtube.com/watch?v=0ZxGGgGNvGA",
+    "official_title":  "Single Arm KB Swings, Building Cardio Capacity, Cleans \u0026 Double KB Movements | Dan John Podcast #170",
+    "transcript":  {
+                       "file":  "../../transcripts/0ZxGGgGNvGA_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "cardiovascular capacity"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "blood donation"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "male hematocrit"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "iron levels"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "heart health"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "Maffetone method"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "hill sprint"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "high-intensity interval"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "walking"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "full-body conditioning"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "hypertrophy"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "fat loss"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "strength gain"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "wrestling season"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "adolescent growth"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "lean-first strategy"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "mass-first strategy"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "Park Bench training"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "Bus Bench training"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "exercise variety"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "goal-oriented program"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "kettlebell clean prerequisite"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "rack position"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "thumb-to-chest position"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "elbow position"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "rack walk"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "kettlebell snatch prerequisite"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "biceps-to-ear lockout"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "waiter walk"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "single-arm jerk"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "double-kettlebell clean"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "double rack walk"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "double push press"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "double push jerk"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "ballistic movement"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "movement quality"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "speed on bad movement"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "shoulder mobility"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "mass gain"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "reduces",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "affects",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "builds",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "builds",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "builds",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "builds aerobic base for",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "can produce",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "supports later",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "can precede",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "is more",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "allows more",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "includes",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "requires",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "tests",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "includes",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "tests",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "requires",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "prepares",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "prepares",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "prepares",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "requires",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "increases risk in",
+                          "object":  "o35"
+                      }
+                  ]
+}

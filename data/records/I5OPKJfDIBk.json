@@ -1,0 +1,326 @@
+﻿{
+    "playlist_position":  314,
+    "video_id":  "I5OPKJfDIBk",
+    "url":  "https://www.youtube.com/watch?v=I5OPKJfDIBk",
+    "official_title":  "Park Bench Program, Easy Strength, Sleep, Barbell vs. Kettlebell ABF, Curls | DJU Podcast #301",
+    "transcript":  {
+                       "file":  "../../transcripts/I5OPKJfDIBk_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Dan Martin Program Minimum"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "park-bench program"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "24-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "fat loss"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "outdoor cardio"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "walking"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "push-up"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "mobility drill"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "father"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "college-bound son"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "gym training"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "bro split"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "Easy Strength for Fat Loss"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "shared workout"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "law-enforcement officer"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "real-world strength"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "strength standard"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "transfer portal"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "college football player"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "strength coach"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "program turnover"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "athletic development"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "12-hour sleep challenge"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "Lights Out"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "sleep duration"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "exercise recovery"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "Brian"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "kettlebell Armor Building Complex"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "50-kilogram barbell"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "hang power clean"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "military press"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "overhead squat"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "barbell Armor Building Formula"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "barbell curl"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "squat volume"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "load mismatch"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "is a",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "can use",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "can support",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "can supplement",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "includes",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "can include",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "can include",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "can include",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "trains with",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "prefers",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "prefers",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can combine",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can combine",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "needs",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "supports",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "measures",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "moves",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "can result from",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "can disrupt",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "shapes",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "tests",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "affects",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "inspired",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "was adapted to",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "is used in",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "is used in",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "is used in",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "limits load in",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "can compensate for",
+                          "object":  "o42"
+                      }
+                  ]
+}

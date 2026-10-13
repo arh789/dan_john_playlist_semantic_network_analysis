@@ -1,0 +1,326 @@
+﻿{
+    "playlist_position":  141,
+    "video_id":  "k3VEUnZidys",
+    "url":  "https://www.youtube.com/watch?v=k3VEUnZidys",
+    "official_title":  "The Dan John Podcast - Ep 125 | Archery, Being Single, Hang vs Full Cleans, and More",
+    "transcript":  {
+                       "file":  "../../transcripts/k3VEUnZidys_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "conflicting fitness advice"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "program hopping"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "minimal training"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "daily gym sessions"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "consistent routine"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "fundamental human movements"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "push"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "pull"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "hinge"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "squat"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "single professional"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "dating frustration"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "life timetable"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "friendships and community"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "writing habit"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "daily writing practice"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "Wandering Weights"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "stream-of-consciousness drafting"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "editing and organization"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "fiction writing"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "admired writers"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "home gym"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "kettlebells"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "TRX"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "tire and sledgehammer"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "sandbags"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "bands"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "pull-up and dip tower"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "three-day whole-body program"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "mobility sessions"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "walking and cycling"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "Rusty Moore"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "fat-loss programs"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "Gregor Gracie"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "principle-based coaching"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "hardstyle kettlebell training"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "Olympic weightlifting"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "technical practice"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "hang clean"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "full clean"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "archery practice"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "sport skill"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "minimal training results"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "relationship status"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "brand loyalty"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o1",
+                          "relation":  "encourages",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "produces",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "becomes effective through",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "covers",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "include",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "include",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "include",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "include",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "include",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "experiences",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "intensifies",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "provide value independent of",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "produces",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "precedes",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "contains",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "contains",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "contains",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "supplement",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "supply conditioning around",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "creates",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "explains recommendations better than",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "can coexist with",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "limits fatigue while supporting",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "reduces range compared with",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "prioritizes",
+                          "object":  "o43"
+                      }
+                  ]
+}

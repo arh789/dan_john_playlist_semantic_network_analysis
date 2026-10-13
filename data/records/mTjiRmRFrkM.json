@@ -1,0 +1,559 @@
+﻿{
+    "playlist_position":  241,
+    "video_id":  "mTjiRmRFrkM",
+    "url":  "https://www.youtube.com/watch?v=mTjiRmRFrkM",
+    "official_title":  "Double KB Exercises, 10k Swings, First Pull-Up, Fitness Gear, Optimal Rest \u0026 More | DJU Podcast #225",
+    "transcript":  {
+                       "file":  "../../transcripts/mTjiRmRFrkM_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "ten-thousand-swing challenge"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "28-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "conditioning"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "grip strength"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "heavy bag"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "shadow boxing"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "kettlebell mile"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "Easy Strength for Fat Loss"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "general physical preparation"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "Transformation Program"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "program expiration point"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "rest interval"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "thirty-thirty-thirty workout"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "circuit training"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "barbell complex"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "snatch-grip Romanian deadlift"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "hang snatch"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "overhead squat"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "back squat"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "Olympic lifting"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "five-minute recovery"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "first pull-up"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "assisted pull-up machine"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "greasing the groove"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "hypertrophy and mobility program"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "dead hang"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "flexed-arm hang"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "fighter pull-up program"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "double-kettlebell clean and jerk"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "long-cycle clean and jerk"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "I-go-you-go format"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "double-kettlebell snatch"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "ballistic catch"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "Return of the Kettlebell"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "two-four-six ladder"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "hill sprint"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "sled pull"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "backward sled drag"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "knee health"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "forward lean"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "fishtailing sled"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "power curl"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "snatch pull"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "clean pull"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "Al Oerter"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "Pizza Steve"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "rugby player"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "college football"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "Air Force Academy"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "Army"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "Navy"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "glute loop"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "hip thrust"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "clam shell"
+                    },
+                    {
+                        "id":  "o57",
+                        "label":  "mini band"
+                    },
+                    {
+                        "id":  "o58",
+                        "label":  "band walk"
+                    },
+                    {
+                        "id":  "o59",
+                        "label":  "measuring tape"
+                    },
+                    {
+                        "id":  "o60",
+                        "label":  "waist circumference"
+                    },
+                    {
+                        "id":  "o61",
+                        "label":  "travel equipment"
+                    },
+                    {
+                        "id":  "o62",
+                        "label":  "short rest interval"
+                    },
+                    {
+                        "id":  "o63",
+                        "label":  "training density"
+                    },
+                    {
+                        "id":  "o64",
+                        "label":  "thirty-second rest interval"
+                    },
+                    {
+                        "id":  "o65",
+                        "label":  "heavy strength effort"
+                    },
+                    {
+                        "id":  "o66",
+                        "label":  "explosive power"
+                    },
+                    {
+                        "id":  "o67",
+                        "label":  "snatch"
+                    },
+                    {
+                        "id":  "o68",
+                        "label":  "clean"
+                    },
+                    {
+                        "id":  "o69",
+                        "label":  "repetition count"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "uses",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "improved",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "improved",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "improves performance on",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "improves performance in",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "supports",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "can follow",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "develops",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "develops",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "has a",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "has a",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o62",
+                          "relation":  "increases",
+                          "object":  "o63"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "uses",
+                          "object":  "o64"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "uses short",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "combines",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "combines",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "combines",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "combines",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "can teach",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o65",
+                          "relation":  "may require",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "can train",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "can train",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "progresses",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "progresses",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "can develop",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "can follow",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "can use",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "can use",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "may be harder than",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "requires",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "increases risk in",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "uses",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "resembles",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "supports",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "allows greater",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "can suffer from",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "can develop",
+                          "object":  "o66"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "can replace",
+                          "object":  "o67"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "can replace",
+                          "object":  "o68"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "used",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "used",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "used",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "can use higher",
+                          "object":  "o69"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "can use higher",
+                          "object":  "o69"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "competes in",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o52",
+                          "relation":  "competes in",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o53",
+                          "relation":  "competes in",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o54",
+                          "relation":  "can perform",
+                          "object":  "o55"
+                      },
+                      {
+                          "subject":  "o54",
+                          "relation":  "can perform",
+                          "object":  "o56"
+                      },
+                      {
+                          "subject":  "o57",
+                          "relation":  "can perform",
+                          "object":  "o58"
+                      },
+                      {
+                          "subject":  "o59",
+                          "relation":  "measures",
+                          "object":  "o60"
+                      },
+                      {
+                          "subject":  "o61",
+                          "relation":  "includes",
+                          "object":  "o54"
+                      },
+                      {
+                          "subject":  "o61",
+                          "relation":  "includes",
+                          "object":  "o57"
+                      },
+                      {
+                          "subject":  "o61",
+                          "relation":  "includes",
+                          "object":  "o59"
+                      }
+                  ]
+}

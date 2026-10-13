@@ -1,0 +1,260 @@
+﻿{
+    "playlist_position":  154,
+    "video_id":  "oD6zrpVfvV4",
+    "url":  "https://www.youtube.com/watch?v=oD6zrpVfvV4",
+    "official_title":  "The Dan John Podcast - Ep 139 | Milk Before Bed, Creatine for Teens, Weight over Bar, and More",
+    "transcript":  {
+                       "file":  "../../transcripts/oD6zrpVfvV4_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "double-kettlebell snatch"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "double overhead squat"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "independent overhead loads"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "skull injury risk"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "risk-to-benefit ratio"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "exercise novelty"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "single-kettlebell alternative"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "one-two-three-four assessment"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "two-minute plank"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "Easy Strength for Fat Loss"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "retesting"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "testing error"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "male standard"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "female standard"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "general strength"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "Mass Made Simple"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "176-pound starting weight"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "186-pound finishing weight"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "ten-pound mass gain"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "basketball practice"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "slower movement"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "adaptation period"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "hill sprints"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "sport reintroduction"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "explosiveness"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "no-hands double Turkish get-up"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "double Turkish get-up"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "regular Turkish get-up"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "local surgeon"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "ambulance service"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "unnecessary complexity"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "loaded overhead transition"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o1",
+                          "relation":  "creates",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "increase",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "argues against",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "argues against",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "reduces complexity compared with",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "does not justify poor",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "includes",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "improved",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "did not guarantee",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "must be considered during",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "treats failure differently from",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "increased weight from",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "increased weight to",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can initially cause",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "allows sport skill to adjust to",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "supports return to",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "can restore",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "should follow mass-focused",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "is a form of",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "increases risk during",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "is preferred to",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "may benefit from accidents caused by",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "may respond to accidents caused by",
+                          "object":  "o27"
+                      }
+                  ]
+}

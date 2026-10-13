@@ -1,0 +1,366 @@
+﻿{
+    "playlist_position":  202,
+    "video_id":  "wEM5UoU2pro",
+    "url":  "https://www.youtube.com/watch?v=wEM5UoU2pro",
+    "official_title":  "BEST Program for BOTH Physique and Strength, Squats, Using Belts \u0026 More... | Dan John Podcast #185",
+    "transcript":  {
+                       "file":  "../../transcripts/wEM5UoU2pro_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "theology"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "philosophy"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "geometry"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "Givens"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "training goal"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "available equipment"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "age"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "Archangel Raphael"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "Sirius Black"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "comfort during loss"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "ethical judgment"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "performance-enhancing drugs"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "fitness industry"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "false natural claims"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "social-media standards"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "Inner Circle"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "two-decade vision"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "two-year vision"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "daily action"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "weightlifting belt"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "beltless front squat"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "Anaconda strength"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "abdominal bracing"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "three sets of eight"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "five sets of five"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "three sets of five"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "five sets of three"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "push-pull-squat template"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "hinge movement"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "one-minute rest"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "transformation program"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "rack deadlift"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "power clean"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "heel elevation"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "weightlifting shoes"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "full squat"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "individual anatomy"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "powerlifting"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "Olympic lifting"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "discus throwing"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "high-school touchdown"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "South San Francisco High School"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "individual sport"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "team sport"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "is grounded in",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "is grounded in",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "teaches the use of",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "is a",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "is a",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "modifies",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "is associated with",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "provided",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "shapes views on",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "distort",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "contribute to sickness in",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "examines",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "guides",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "guides",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "develops",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "can supplement",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "supports",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "intensifies",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "can progress to",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "can progress to",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "can progress to",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "can use",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "requires exercise-specific programming beyond",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "should accompany",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "can use",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "can serve as",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "can serve as",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "helps",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "provide",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "affects",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "can transfer to",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "prevented achievement of",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "gave direct control over",
+                          "object":  "o43"
+                      }
+                  ]
+}

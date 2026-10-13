@@ -1,0 +1,414 @@
+﻿{
+    "playlist_position":  287,
+    "video_id":  "5qQQZJPamAU",
+    "url":  "https://www.youtube.com/watch?v=5qQQZJPamAU",
+    "official_title":  "Minimalist Training, Armor Building, Loaded Carries, Weight Loss \u0026 Skinny Fat | DJU Podcast #273",
+    "transcript":  {
+                       "file":  "../../transcripts/5qQQZJPamAU_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "400-metre race"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "track session"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "sprint training"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "high-repetition press"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "recipe"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "training consistency"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "67-year-old trainee"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "50-pound weight loss"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "loose skin"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "slow weight loss"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "skin elasticity"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "hypertrophy training"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "dermatologist"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "boutique gym"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "health"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "longevity"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "kettlebell-only gym"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "suspension trainer"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "hip thrust"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "floor transfer"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "Secret Service snatch test"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "kettlebell snatch"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "ten-minute test"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "hand switch"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "snatch technique"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "shoulder health"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "skinny-fat office worker"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "citizen patrol volunteer"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "intimidating appearance"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "bus-bench program"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "rucking"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "backpack"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "reflexive strength"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "posture"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "new parent"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "conditioning"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "Easy Strength for Fat Loss"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "complex training"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "single-kettlebell clean and press"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "32-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "push press"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "two-three-five ladder"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "Valarie Allman"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "discus throw"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "A Contrarian Approach to the Discus Throw"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "farmer walk"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "overhead squat"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "hill sprint"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "master thrower"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o3",
+                          "relation":  "develops",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "prepares for",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "can complement",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "can supplement",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "can supplement",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "precedes program variation in",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "may preserve",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "can create",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "can assess",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "may alter appearance of",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "can serve",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "can focus on",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "can focus on",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "can supplement",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "trains",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "supports",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "uses",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "lasts",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "is permitted in",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "protects",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "seeks",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "can serve as",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "develops",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "uses",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "develops",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "supports",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "can suit",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "can rebuild",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "can follow",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "can use",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "can use",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "can structure",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "competes in",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "teaches",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "supports",
+                          "object":  "o54"
+                      },
+                      {
+                          "subject":  "o52",
+                          "relation":  "supports",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o53",
+                          "relation":  "supports",
+                          "object":  "o54"
+                      }
+                  ]
+}

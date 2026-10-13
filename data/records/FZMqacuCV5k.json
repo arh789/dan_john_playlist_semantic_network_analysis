@@ -1,0 +1,335 @@
+﻿{
+    "playlist_position":  170,
+    "video_id":  "FZMqacuCV5k",
+    "url":  "https://www.youtube.com/watch?v=FZMqacuCV5k",
+    "official_title":  "Strength Standards, The Perfect Workout \u0026 Dan’s Formula to Success | Dan John Podcast #156",
+    "transcript":  {
+                       "file":  "../../transcripts/FZMqacuCV5k_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "three-year podcast anniversary"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "156 weekly episodes"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "best way to train"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "individual context"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "Brian"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "success definition"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "Earl Nightingale"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "Derek Sivers"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "CD Baby"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "business model"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "life balance"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "clarity of purpose"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "Father Michael Himes"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "Midsummer Night’s Dream"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "rabbinic quotation"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "intellectual clarity"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "Easy Strength Omnibook"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "2002 training program"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "broken wrist"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "three-day weekly plan"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "day-one lifting"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "day-two lifting"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "three conditioning workouts"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "limited exercise selection"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "training adaptation"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "strength standards"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "movement standards"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "bodyweight standards"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "perfect workout question"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "push"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "pull"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "hinge"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "squat"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "walking"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "recovery"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "consistency"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "goal alignment"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "simple repeatable plan"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "training success"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "long-term practice"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "training benchmark"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "perfect workout template"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o1",
+                          "relation":  "equals",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "depends on",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "asked about",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "influences",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "founded",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "influences",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "supports",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "is part of",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "demonstrated",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "quoted",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "influenced",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "constrained",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "used",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "alternated",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "alternated",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "included",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "made",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "can emerge from",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "provide",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "complement",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "depend on",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "cannot ignore",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "belongs in",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "belongs in",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "belongs in",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "belongs in",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "belongs in",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "supports",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "turns",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "defines",
+                          "object":  "o40"
+                      }
+                  ]
+}

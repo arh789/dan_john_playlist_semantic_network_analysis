@@ -1,0 +1,347 @@
+﻿{
+    "playlist_position":  283,
+    "video_id":  "bg_e5nx-pzg",
+    "url":  "https://www.youtube.com/watch?v=bg_e5nx-pzg",
+    "official_title":  "KB Bodybuilding, Armor Building Formula, Best Exercises, Replacing Squats \u0026 More | DJU Podcast #269",
+    "transcript":  {
+                       "file":  "../../transcripts/bg_e5nx-pzg_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "fire academy"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "fire cadet"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "classroom training"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "mock fireground drill"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "occupational readiness"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "work capacity"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "sled drag"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "stair climb"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "double-kettlebell clean"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "double-kettlebell press"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "double-kettlebell front squat"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "biceps"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "hamstring"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "sprinting"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "running back"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "American football"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "kettlebell clean and press"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "overhead press"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "shoulder hypertrophy"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "barnyard-wide shoulders"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "bodybuilding"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "clothing fit"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "barbell back squat"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "long-legged athlete"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "belt squat"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "front squat"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "squat replacement"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "frontline firefighter"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "shift work"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "constant readiness"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "complex training"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "knee instability"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "medical care"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "farmer walk"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "backward hill walk"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "backpedaling"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "night shift"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "sleep"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "Gaelic football"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "training schedule"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "recovery"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "knee health"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "trains",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "develops",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "develops",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "develops",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "develops",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "develops",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "combines",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "combines",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "combines",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "trains",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "supported",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "participates in",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "develops",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "develops",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "supports",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "can change",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "may struggle with",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "can replace",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "can replace",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "constrains training of",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "can prepare",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "requires",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "requires",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "can support",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "can support",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "can support",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "disrupts",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "supports",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "must balance",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "must protect",
+                          "object":  "o45"
+                      }
+                  ]
+}

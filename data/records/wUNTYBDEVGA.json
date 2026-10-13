@@ -1,0 +1,361 @@
+﻿{
+    "playlist_position":  285,
+    "video_id":  "wUNTYBDEVGA",
+    "url":  "https://www.youtube.com/watch?v=wUNTYBDEVGA",
+    "official_title":  "ABF \u0026 Fat Loss, Overhead Squats, Turkish Getups, Kettlebell Cardio \u0026 More | DJU Podcast #271",
+    "transcript":  {
+                       "file":  "../../transcripts/wUNTYBDEVGA_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "chain resistance"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "Bigger Faster Stronger"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "main lift"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "injury accommodation"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "Olympic lift"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "Easy Strength for Fat Loss"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "eight-week result"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "ten-pound loss"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "long-term fat loss"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "nine-month block"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "body-composition change"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "overhead squat"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "chin-up"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "trap-bar deadlift"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "dip"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "suitcase carry"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "whole-body program"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "Turkish get-up"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "naked get-up"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "RKC"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "mobility assessment"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "24-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "strict press"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "push press"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "two-three-five ladder"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "two-three-five-ten ladder"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "progressive repetition"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "single-bell Armor Building Complex"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "double-bell Armor Building Complex"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "goblet clean"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "goblet press"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "wrist strength"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "half-marathon"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "three-day running"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "three-day kettlebell training"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "cross-training"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "swimming"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "core strength"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "back pain"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "triathlon"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "water training"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "recovery"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "Armor Building Complex"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o3",
+                          "relation":  "provides",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "can load",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "can support",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "produced",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "includes",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "may use",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "benefits from",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "can follow",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "can include",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "can include",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "can include",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "can include",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "can include",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "can be assessed with",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "teaches",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "provides",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "can load",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "can complete",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "can extend",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "can progress toward",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "can use",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "can use",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "can use",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "requires",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "requires",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "provides",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "can be part of",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can be part of",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "develops",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "can reduce",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "includes",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "supports",
+                          "object":  "o46"
+                      }
+                  ]
+}

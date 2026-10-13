@@ -1,0 +1,801 @@
+﻿{
+    "playlist_position":  106,
+    "video_id":  "pQq8kF8Z5eg",
+    "url":  "https://www.youtube.com/watch?v=pQq8kF8Z5eg",
+    "official_title":  "The Dan John Podcast - Ep 90 | Mentors, Wide Stance Swings, Training Variety, and More",
+    "transcript":  {
+                       "file":  "../../transcripts/pQq8kF8Z5eg_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "69-year-old man with fractured pelvis"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "poor knees and no lifting history"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "stretched pelvic tendons and ligaments"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "medical clearance"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "machine-based rehabilitation"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "leg press, leg curl, and leg extension"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "horizontal and vertical push and pull machines"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "machine stability and safety"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "suspension-trainer squat"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "push, pull, hinge, squat, and loaded carry"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "Original Strength groundwork"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "falling and ground-to-standing ability"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "six-day weekly training"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "37-year-old salon worker and parent"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "morning exercise and mental clarity"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "fourth-day brain fog"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "thirty-minute sessions"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "one or two no-load mobility days"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "two or three conventional lifting days"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "workout generator"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "push, pull, hinge, squat, carry, mobility, and flexibility"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "mentor"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "deceased former mentors"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "imaginary advisory council"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "Abraham Lincoln"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "Jesus of Nazareth and Merlin"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "listening to opposing views"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "Napoleon Hill and early personal-development traditions"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "Dick Notmeyer and Dave Turner"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "teacher appears when student is ready"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "heels-only Olympic-lifting technique"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "Bulgarian national-team influence"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "mid-foot balance advice"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "toe-dominant pull"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "forward missed lift"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "first pull"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "successful snatch and clean"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "24-kilogram wide-handle kettlebell"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "wide swing stance"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "300-swing or 10,000-swing challenge"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "knee action in the hinge"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "squatty swing"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "fire-hose grip"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "towel-through-handle swing"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "adductor discomfort"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "college basketball players"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "very tall athletes and long levers"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "one-arm overhead press, bench press, and row"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "beautiful movement before load"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "calisthenics"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "hip thrust and Bulgarian goat-bag swing"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "rack deadlift"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "floor-based barbell lifts"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "throwers program"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "Climb Every Mountain program"
+                    },
+                    {
+                        "id":  "o57",
+                        "label":  "Brazilian jiu-jitsu three times weekly"
+                    },
+                    {
+                        "id":  "o58",
+                        "label":  "six- or seven-day training load"
+                    },
+                    {
+                        "id":  "o59",
+                        "label":  "explosive block"
+                    },
+                    {
+                        "id":  "o60",
+                        "label":  "rucking and climbing block"
+                    },
+                    {
+                        "id":  "o61",
+                        "label":  "alternating two-month training emphases"
+                    },
+                    {
+                        "id":  "o62",
+                        "label":  "36-year-old industrial firefighter and rock climber"
+                    },
+                    {
+                        "id":  "o63",
+                        "label":  "80-pound firefighting gear"
+                    },
+                    {
+                        "id":  "o64",
+                        "label":  "maximal strength without added size"
+                    },
+                    {
+                        "id":  "o65",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o66",
+                        "label":  "vertical push and pull"
+                    },
+                    {
+                        "id":  "o68",
+                        "label":  "swings, farmer walk, and ab wheel"
+                    },
+                    {
+                        "id":  "o69",
+                        "label":  "rule of ten"
+                    },
+                    {
+                        "id":  "o70",
+                        "label":  "three sets of three and five sets of two"
+                    },
+                    {
+                        "id":  "o71",
+                        "label":  "short sub-thirty-minute workout"
+                    },
+                    {
+                        "id":  "o72",
+                        "label":  "rock-climbing practice"
+                    },
+                    {
+                        "id":  "o73",
+                        "label":  "occupational rucking"
+                    },
+                    {
+                        "id":  "o74",
+                        "label":  "100-kilogram thick-bar deadlift limit"
+                    },
+                    {
+                        "id":  "o75",
+                        "label":  "unavailable additional plates"
+                    },
+                    {
+                        "id":  "o76",
+                        "label":  "clean pull or high pull"
+                    },
+                    {
+                        "id":  "o77",
+                        "label":  "non-rotating axle bar"
+                    },
+                    {
+                        "id":  "o78",
+                        "label":  "clean injury risk"
+                    },
+                    {
+                        "id":  "o79",
+                        "label":  "above-knee block position"
+                    },
+                    {
+                        "id":  "o80",
+                        "label":  "grip failure"
+                    },
+                    {
+                        "id":  "o81",
+                        "label":  "C grip"
+                    },
+                    {
+                        "id":  "o82",
+                        "label":  "good morning"
+                    },
+                    {
+                        "id":  "o83",
+                        "label":  "light high repetitions"
+                    },
+                    {
+                        "id":  "o84",
+                        "label":  "butt-back hinge cue"
+                    },
+                    {
+                        "id":  "o85",
+                        "label":  "older-adult strength restoration"
+                    },
+                    {
+                        "id":  "o86",
+                        "label":  "training variety"
+                    },
+                    {
+                        "id":  "o87",
+                        "label":  "decision-making model"
+                    },
+                    {
+                        "id":  "o88",
+                        "label":  "Olympic-lifting balance"
+                    },
+                    {
+                        "id":  "o89",
+                        "label":  "high-repetition swing experiment"
+                    },
+                    {
+                        "id":  "o90",
+                        "label":  "long-lever athlete modification"
+                    },
+                    {
+                        "id":  "o91",
+                        "label":  "concurrent martial-arts recovery"
+                    },
+                    {
+                        "id":  "o92",
+                        "label":  "strength-to-weight ratio"
+                    },
+                    {
+                        "id":  "o93",
+                        "label":  "equipment-constrained progression"
+                    },
+                    {
+                        "id":  "o94",
+                        "label":  "movement quality"
+                    },
+                    {
+                        "id":  "o95",
+                        "label":  "groundwork frequency"
+                    },
+                    {
+                        "id":  "o96",
+                        "label":  "tendon and ligament adaptation"
+                    },
+                    {
+                        "id":  "o97",
+                        "label":  "fat loss and muscle gain"
+                    },
+                    {
+                        "id":  "o98",
+                        "label":  "solution-focused coaching"
+                    },
+                    {
+                        "id":  "o99",
+                        "label":  "specific-athlete experimentation"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o1",
+                          "relation":  "has",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o1",
+                          "relation":  "has",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "must precede training for the",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "is preferred initially for the",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "uses",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "uses",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "provides",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "can reintroduce the squat to the",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "organizes whole-body work for the",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "supports",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o95",
+                          "relation":  "develops",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "is requested by the",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "motivates the",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "suggests excessive load within the",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "limits each day in the",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "support recovery within the",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "support",
+                          "object":  "o97"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "can generate the",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "covers",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "create a need for an",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "can include",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "can include",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "models",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "described forms of the",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "are living or remembered",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "describes readiness for a new",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "supports a",
+                          "object":  "o87"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "was reinforced by",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "contrasts with",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "can become a",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "can cause a",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "supports the",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "supports a",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "may require a",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "is tested during the",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "matters more than foot width in the",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "is a risk during the",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "is an alternative grip for the",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "is an alternative setup for the",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "signals failure of the",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "often include",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "can accommodate",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "precedes heavy load for",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "supports",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "supports squat learning for",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o52",
+                          "relation":  "support the hinge for",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o53",
+                          "relation":  "supports the hinge for",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o54",
+                          "relation":  "may not fit",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o90",
+                          "relation":  "is required for",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o55",
+                          "relation":  "can precede the",
+                          "object":  "o56"
+                      },
+                      {
+                          "subject":  "o57",
+                          "relation":  "adds to the",
+                          "object":  "o58"
+                      },
+                      {
+                          "subject":  "o59",
+                          "relation":  "characterizes the",
+                          "object":  "o55"
+                      },
+                      {
+                          "subject":  "o60",
+                          "relation":  "characterizes the",
+                          "object":  "o56"
+                      },
+                      {
+                          "subject":  "o61",
+                          "relation":  "supports",
+                          "object":  "o86"
+                      },
+                      {
+                          "subject":  "o91",
+                          "relation":  "constrains the",
+                          "object":  "o58"
+                      },
+                      {
+                          "subject":  "o62",
+                          "relation":  "carries",
+                          "object":  "o63"
+                      },
+                      {
+                          "subject":  "o62",
+                          "relation":  "requires",
+                          "object":  "o64"
+                      },
+                      {
+                          "subject":  "o65",
+                          "relation":  "supports",
+                          "object":  "o64"
+                      },
+                      {
+                          "subject":  "o65",
+                          "relation":  "can include",
+                          "object":  "o66"
+                      },
+                      {
+                          "subject":  "o65",
+                          "relation":  "can include the",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o65",
+                          "relation":  "can include",
+                          "object":  "o68"
+                      },
+                      {
+                          "subject":  "o69",
+                          "relation":  "guides",
+                          "object":  "o65"
+                      },
+                      {
+                          "subject":  "o70",
+                          "relation":  "implement the",
+                          "object":  "o69"
+                      },
+                      {
+                          "subject":  "o71",
+                          "relation":  "leaves time for",
+                          "object":  "o72"
+                      },
+                      {
+                          "subject":  "o73",
+                          "relation":  "provides work-specific loaded carrying for the",
+                          "object":  "o62"
+                      },
+                      {
+                          "subject":  "o92",
+                          "relation":  "is prioritized by the",
+                          "object":  "o62"
+                      },
+                      {
+                          "subject":  "o74",
+                          "relation":  "is constrained by",
+                          "object":  "o75"
+                      },
+                      {
+                          "subject":  "o76",
+                          "relation":  "can extend the",
+                          "object":  "o74"
+                      },
+                      {
+                          "subject":  "o77",
+                          "relation":  "makes a full clean a",
+                          "object":  "o78"
+                      },
+                      {
+                          "subject":  "o79",
+                          "relation":  "can be used for a",
+                          "object":  "o76"
+                      },
+                      {
+                          "subject":  "o80",
+                          "relation":  "limits acceleration during the",
+                          "object":  "o76"
+                      },
+                      {
+                          "subject":  "o81",
+                          "relation":  "supports grip on the",
+                          "object":  "o77"
+                      },
+                      {
+                          "subject":  "o82",
+                          "relation":  "is another option under",
+                          "object":  "o75"
+                      },
+                      {
+                          "subject":  "o83",
+                          "relation":  "can make the",
+                          "object":  "o82"
+                      },
+                      {
+                          "subject":  "o84",
+                          "relation":  "guides the",
+                          "object":  "o82"
+                      },
+                      {
+                          "subject":  "o93",
+                          "relation":  "describes the problem around the",
+                          "object":  "o74"
+                      },
+                      {
+                          "subject":  "o94",
+                          "relation":  "governs the training of",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o96",
+                          "relation":  "is a concern after the",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o98",
+                          "relation":  "favours changing environments rather than only identifying problems",
+                          "object":  "o86"
+                      },
+                      {
+                          "subject":  "o99",
+                          "relation":  "is required for the proposed sequence of",
+                          "object":  "o55"
+                      }
+                  ]
+}

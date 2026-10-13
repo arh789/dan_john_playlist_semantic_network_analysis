@@ -1,0 +1,411 @@
+﻿{
+    "playlist_position":  150,
+    "video_id":  "qkCzCS7GzuM",
+    "url":  "https://www.youtube.com/watch?v=qkCzCS7GzuM",
+    "official_title":  "The Dan John Podcast - Ep 135 | Protein, Hungover PRs, Overhead Squats, and More",
+    "transcript":  {
+                       "file":  "../../transcripts/qkCzCS7GzuM_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "annual fitness test"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "2,000 road miles"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "100-mile century ride"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "1,000-pound lift total"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "mobility"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "strength"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "endurance"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "nagging aches"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "McGill Big Three"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "pandemic training group"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "general group workout"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "home-gym supplements"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "push-pull-hinge-squat-carry gaps"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "year-round planning"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "exercise rotation"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "military press"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "incline press"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "decline press"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "dips"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "bench press"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "front squat"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "overhead squat"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "flexibility and mobility"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "hungover performance"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "hammer world record"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "built-in excuse"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "performance anxiety"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "getting out of one’s own way"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "44-year-old dieter"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "fat-loss diet"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "four-day hypertrophy training"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "clumsiness"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "broken dishes"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "energy depletion"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "forgetfulness"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "irritability"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "deload"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "increased calories"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "office-worker posture"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "poor shoulder mobility"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "PVC overhead squat"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "20-kilogram bar"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "shoulder dislocates"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "hang from a bar"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "58-year-old trainee"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "10,000 Swing Challenge"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "24-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "training discipline"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "50-to-60 grams protein"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "food-based protein"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "protein supplements"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "body weight"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "one gram per pound"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "Pat Flynn"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "personal record"
+                    },
+                    {
+                        "id":  "o57",
+                        "label":  "protein intake"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o1",
+                          "relation":  "measures",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o1",
+                          "relation":  "measures",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o1",
+                          "relation":  "measures",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "contribute to",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "contributes to",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "contributes to",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "supports management of",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "provides",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "close",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "can use",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "can rotate to",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "can rotate to",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "can rotate to",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "adds squat variation and improves",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "adds squat variation and improves",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "reduces",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "is interpreted through",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "can produce unexpected",
+                          "object":  "o56"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "can cause",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "can appear as",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "can appear as",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "can appear as",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "responds to",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "may respond to",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "contributes to",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "reveals",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "can alternate with",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "can improve",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "uses",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "improves later",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "consumes",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "comes from",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o55",
+                          "relation":  "recommends increasing",
+                          "object":  "o57"
+                      },
+                      {
+                          "subject":  "o53",
+                          "relation":  "informs appropriate",
+                          "object":  "o57"
+                      }
+                  ]
+}

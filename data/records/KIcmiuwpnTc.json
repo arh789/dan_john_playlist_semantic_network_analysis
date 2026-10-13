@@ -1,0 +1,326 @@
+﻿{
+    "playlist_position":  200,
+    "video_id":  "KIcmiuwpnTc",
+    "url":  "https://www.youtube.com/watch?v=KIcmiuwpnTc",
+    "official_title":  "KB Press, Goblet vs. Front Squats, Bodyweight Training \u0026 Loaded Carries | Dan John Podcast #183",
+    "transcript":  {
+                       "file":  "../../transcripts/KIcmiuwpnTc_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "52-year-old trainee"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "167-pound bodyweight"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "muscle maintenance"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "health and longevity"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "workout generator"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "training frequency"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "session duration"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "intensity selection"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "pole-vault athlete"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "barbell and plates"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "45-pound kettlebell"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "25-pound kettlebell"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "grass-seed bag"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "manure bag"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "playground sand"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "prom night odor"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "sandbag carry"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "ACL injury"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "rugby tackle avoidance"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "awkward landing"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "MRI"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "ACL repair surgery"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "preoperative preparation"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "physical therapy plan"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "upper-body training"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "dips"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "chin-ups"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "muscle-mass maintenance"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "bodyweight training"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "hip thrust"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "clamshell"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "glute loop"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "15-to-1 countdown"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "squat limitation"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "hinge limitation"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "handstand walk"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "front squat"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "deep squat teaching"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "squat between legs"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "warm-up movement"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "Olympic lifting preparation"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "upper-body strength"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "bodyweight limitation"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "deep squat"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o5",
+                          "relation":  "sets",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "sets",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "sets",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o1",
+                          "relation":  "seeks",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "supports",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "support",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "can use",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "is preferred over",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "can form",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "caused",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "assesses",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "requires",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "governs",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "maintain",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "maintain",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "can maintain",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "trains hinge without full",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "alternates",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "alternates",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "eventually reaches",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "eventually reaches",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "teaches",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "teaches",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "warms up for",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "supports",
+                          "object":  "o44"
+                      }
+                  ]
+}

@@ -1,0 +1,396 @@
+﻿{
+    "playlist_position":  171,
+    "video_id":  "5QM5pJYmKlc",
+    "url":  "https://www.youtube.com/watch?v=5QM5pJYmKlc",
+    "official_title":  "Training Fasted, Overcoming Plateaus \u0026 Knees Over Toes | Dan John Podcast #157",
+    "transcript":  {
+                       "file":  "../../transcripts/5QM5pJYmKlc_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "training fasted"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "cortisol"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "catabolism"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "fat loss"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "workout duration"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "marathon"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "death-march training"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "short Easy Strength session"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "individual tolerance"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "meal timing"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "knees-over-toes position"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "knee-behind-toes position"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "genetics"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "DNA"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "hypermobility"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "performance tradeoff"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "healthy feet"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "ankle health"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "violin-tuning analogy"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "28-year-old police applicant"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "140-pound weight loss"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "agility test"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "push-up requirement"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "forty push-ups"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "five-to-six comfortable push-ups"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "fifteen max push-ups"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "incline push-up"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "frequent submaximal practice"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "three-repetition bouts"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "progressive push-up ladder"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "deadlift plateau"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "350-pound deadlift"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "26-year-old trainee"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "George Leonard"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "Mastery"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "stop deadlifting temporarily"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "Olympic lifts"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "snatch"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "clean and jerk"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "alternative hinge"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "plateau practice"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "13th Warrior"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "Eaters of the Dead"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "Michael Crichton"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "Beowulf"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "firefighter"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "collision occupation"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "joint wear"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "unilateral ladder load"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "aging out of Olympic lifts"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "light technical practice"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "recovery emphasis"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "long-term movement"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "athlete mobility"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "police agility test"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "deadlift"
+                    },
+                    {
+                        "id":  "o57",
+                        "label":  "deadlift pattern"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o1",
+                          "relation":  "may raise",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "creates more",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "changes effects of",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "may be tolerated during",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "governs",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "influence",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "influences",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "can create",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "support",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "describes managing",
+                          "object":  "o54"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "preceded",
+                          "object":  "o55"
+                      },
+                      {
+                          "subject":  "o55",
+                          "relation":  "requires",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "can seed",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "can occur repeatedly in",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "builds toward",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "is a",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "wrote",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "reframes",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "can break",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "maintain hinge power while away from",
+                          "object":  "o56"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "contains an explosive",
+                          "object":  "o57"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "contains an explosive",
+                          "object":  "o57"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "can refresh",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "adapts",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "wrote",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "reinterprets",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "creates",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "works in",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "contributes to",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "reflects accumulated",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "may retain Olympic-lift benefit with",
+                          "object":  "o52"
+                      }
+                  ]
+}

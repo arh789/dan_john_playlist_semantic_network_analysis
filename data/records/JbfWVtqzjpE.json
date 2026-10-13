@@ -1,0 +1,324 @@
+﻿{
+    "playlist_position":  378,
+    "video_id":  "JbfWVtqzjpE",
+    "url":  "https://www.youtube.com/watch?v=JbfWVtqzjpE",
+    "official_title":  "ABF, Crossfit, Hybrid Training, Post-Workout Cardio, Fat Loss, KB Swings \u0026 More | DJU Podcast #364",
+    "transcript":  {
+                       "file":  "../../transcripts/JbfWVtqzjpE_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Andrew"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "CrossFit"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "Lauren Glassman"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "progression"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "complex exercise"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "sustainability"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "bodybuilding triset"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "Zone Diet"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "Dave Draper"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "Laree Draper"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "September 11 attacks"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "power clean"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "back squat"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "power snatch"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "front squat"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "minimalist training"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "three-day strength week"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "post-workout walking"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "processed food"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "Mickey"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "expectant father"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "newborn care"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "kettlebell training"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "Eric"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "40-pound weight loss"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "Turkish get-up"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "clean and press"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "squat"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "jump rope"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "mobility routine"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "sandbag training"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "A/B alternation"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "four-day training week"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "three-day training week"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "American football"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "track and field"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "health"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "strength"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "work capacity"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "warm-up"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "recovery"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "asked about rebooting",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "programmed",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "used",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "used",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "was associated with",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "was associated with",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "can improve",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "can use",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "can use",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "can use",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "can use",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "can use",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can follow",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "benefits from avoiding",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "is an",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "requires",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "requires",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "achieved",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "uses",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "uses",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "uses",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "uses",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "serves as",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "supports",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "can alternate",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "can alternate",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "may suit",
+                          "object":  "o35"
+                      }
+                  ]
+}

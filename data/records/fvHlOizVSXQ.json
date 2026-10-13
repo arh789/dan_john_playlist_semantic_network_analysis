@@ -1,0 +1,322 @@
+﻿{
+    "playlist_position":  311,
+    "video_id":  "fvHlOizVSXQ",
+    "url":  "https://www.youtube.com/watch?v=fvHlOizVSXQ",
+    "official_title":  "Using KBs Without Ballistics, 10k Swing Challenge, ABF, Trap Bar Deadlifts \u0026 More | DJU Podcast #298",
+    "transcript":  {
+                       "file":  "../../transcripts/fvHlOizVSXQ_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "58-year-old father"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "two sons"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "Easy Strength for Fat Loss"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "ten-thousand-swing challenge"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "landmine"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "landmine press"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "push pattern"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "pull pattern"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "hinge pattern"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "squat pattern"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "63-year-old prospective trainer"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "big-box gym"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "50-plus client"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "strength"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "longevity"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "progressive resistance exercise"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "trainer certification"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "Bulgarian goat-bag swing"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "ten-thousand-hip-thrust challenge"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "hip-thrust machine"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "high-repetition challenge"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "runner"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "ultrarunner"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "trail running"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "gear carry"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "running recovery"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "kettlebell grind"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "kettlebell ballistic"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "press"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "front squat"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "swing"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "clean"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "snatch"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "lower-back tear"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "physical therapist"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "barbell training"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "trap-bar deadlift"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "67-year-old trainee"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "quadriceps"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "seasonal strength training"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "summer hiking"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "bodybuilding phase"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "lower back"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "performs",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "perform",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "uses",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "trains",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "can train",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "supports",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "wants to serve",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "supports",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "can replace",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "uses",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "can use",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "can support",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "requires",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "constrains",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "includes",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "includes",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "includes",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "includes",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "includes",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "is managed with",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "can be used without",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "can reduce stress on",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "may train more",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "can use",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "can accompany",
+                          "object":  "o43"
+                      }
+                  ]
+}

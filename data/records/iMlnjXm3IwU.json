@@ -1,0 +1,450 @@
+﻿{
+    "playlist_position":  291,
+    "video_id":  "iMlnjXm3IwU",
+    "url":  "https://www.youtube.com/watch?v=iMlnjXm3IwU",
+    "official_title":  "ABF, Squat Strength Standards, KB Progression, Dan\u0027s Favorite Foods \u0026 More | DJU Podcast #277",
+    "transcript":  {
+                       "file":  "../../transcripts/iMlnjXm3IwU_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "60-year-old patient"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "total hip replacement"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "pistol-grip hip"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "preoperative conditioning"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "exercise machine"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "swimming"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "exercise bicycle"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "treadmill"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "intermittent fasting"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "Brad Pilon"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "protein"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "vegetable"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "water"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "fermented food"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "Metamucil"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "constipation"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "pain medication"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "walking"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "stair safety"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "home preparation"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "home gym"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "24-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "suspension trainer"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "ab wheel"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "single-kettlebell press"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "floor press"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "half-kneeling press"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "single-leg press stance"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "kettlebell progression"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "fermentation"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "yogurt"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "kombucha"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "sauerkraut"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "Rite of Passage"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "double 24-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "high-protein diet"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "caloric deficit"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "daily walk"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "sleep deprivation"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "safe form"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "touch football"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "64-year-old player"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "speed"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "agility"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "change of direction"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "balance"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "push pattern"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "pull pattern"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "hinge pattern"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "squat pattern"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "suitcase carry"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "hill sprint"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "fat loss"
+                    },
+                    {
+                        "id":  "o57",
+                        "label":  "core strength"
+                    },
+                    {
+                        "id":  "o58",
+                        "label":  "whole-body program"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "will undergo",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "can lead to",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "can use",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "can use",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "can use",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "can support",
+                          "object":  "o56"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "writes about",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "can reduce",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "can cause",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "supports recovery from",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "supports recovery from",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "supports recovery from",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "can contain",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "can contain",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "can contain",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "extends use of",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "extends use of",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "extends use of",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "uses",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "is a",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "is a",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "is a",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "uses",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "can precede",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "supports",
+                          "object":  "o56"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "supports",
+                          "object":  "o56"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "supports",
+                          "object":  "o56"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "can reduce",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "requires",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "requires",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "requires",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "requires",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o54",
+                          "relation":  "is a",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o54",
+                          "relation":  "develops",
+                          "object":  "o57"
+                      },
+                      {
+                          "subject":  "o55",
+                          "relation":  "develops",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o55",
+                          "relation":  "can serve",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o58",
+                          "relation":  "includes",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o58",
+                          "relation":  "includes",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o58",
+                          "relation":  "includes",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o58",
+                          "relation":  "includes",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o58",
+                          "relation":  "includes",
+                          "object":  "o53"
+                      }
+                  ]
+}

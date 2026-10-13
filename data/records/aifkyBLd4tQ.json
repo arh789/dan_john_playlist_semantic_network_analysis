@@ -1,0 +1,920 @@
+﻿{
+    "playlist_position":  114,
+    "video_id":  "aifkyBLd4tQ",
+    "url":  "https://www.youtube.com/watch?v=aifkyBLd4tQ",
+    "official_title":  "The Dan John Podcast - Ep 98 | Home Ownership, The Big 21, Secret Service Test, and More",
+    "transcript":  {
+                       "file":  "../../transcripts/aifkyBLd4tQ_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "16-year-old six-foot 135-pound water-polo player"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "varsity-team goal"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "eight-week tryout deadline"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "coach\u0027s size-gain instruction"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "Mass Made Simple"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "six-week mass program"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "summer water-polo practices and tournaments"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "three weekly strength sessions"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "two-to-four-mile runs"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "Brazilian jiu-jitsu"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "high-repetition squats"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "twice-weekly lifting"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "increased food intake"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "long easy swims"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "four-to-six-month mass adaptation period"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "narrow high-school water-polo window"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "first home ownership"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "monthly seasonal checklist"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "snow shovel, snow blower, or plow"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "electric lawn mower and blower"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "weed trimming and lawn care"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "February-March aeration, power raking, and fertilizer"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "experienced neighbors"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "seasonal cooling-system changeover"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "daily home inspection"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "monthly drain and cabinet check"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "utility shutoff locations"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "periodic professional home inspection"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "damaged air-conditioner pipe insulation"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "municipal home and landscaping information"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "local public-library maintenance resources"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "Soju and Tuba kettlebell press program"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "one-to-three-repetition pressing"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "24-kilogram press progress"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "32-kilogram press"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "higher-repetition pressing"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "work capacity and hypertrophy"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "three sets of eight with one-minute rest"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "nervous-system practice"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "volume-before-intensity principle"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "12-to-20-repetition beginner work"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "45-second work and 15-second rest sets"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "Southwood program"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "eight-six-four repetition sequence"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "power clean, military press, front squat, and optional bench press"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "Easy Strength for Olympic lifting"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "mobility warm-up and complex"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "snatch and clean-and-jerk practice"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "45-minute ruck, HeavyHands walk, cycle, or row"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "five weekly Olympic-lifting sessions"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "approximately 50 weekly snatches"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "approximately 25 weekly clean and jerks"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "Big 21 program"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "nine workouts across three weeks"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "three sets of five plus six ascending singles"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "preplanned final-attempt spreadsheet"
+                    },
+                    {
+                        "id":  "o57",
+                        "label":  "conservative first-cycle loads"
+                    },
+                    {
+                        "id":  "o58",
+                        "label":  "three-day whole-body rebuilding phase"
+                    },
+                    {
+                        "id":  "o59",
+                        "label":  "sprint technique and football skill practice"
+                    },
+                    {
+                        "id":  "o60",
+                        "label":  "second Big 21 cycle"
+                    },
+                    {
+                        "id":  "o61",
+                        "label":  "100 20-kilogram snatches in five minutes"
+                    },
+                    {
+                        "id":  "o62",
+                        "label":  "200 20-kilogram snatches in ten minutes"
+                    },
+                    {
+                        "id":  "o63",
+                        "label":  "32-kilogram strict press"
+                    },
+                    {
+                        "id":  "o64",
+                        "label":  "RKC preparation program"
+                    },
+                    {
+                        "id":  "o65",
+                        "label":  "Rite of Passage"
+                    },
+                    {
+                        "id":  "o66",
+                        "label":  "24-kilogram 200-rep snatch and 48-kilogram press benchmark"
+                    },
+                    {
+                        "id":  "o67",
+                        "label":  "102-kilogram competition class"
+                    },
+                    {
+                        "id":  "o68",
+                        "label":  "96-kilogram competition goal"
+                    },
+                    {
+                        "id":  "o69",
+                        "label":  "vegetables at every meal"
+                    },
+                    {
+                        "id":  "o70",
+                        "label":  "twice-daily fermented foods"
+                    },
+                    {
+                        "id":  "o71",
+                        "label":  "minimal alcohol"
+                    },
+                    {
+                        "id":  "o72",
+                        "label":  "improved sleep"
+                    },
+                    {
+                        "id":  "o73",
+                        "label":  "Original Strength, suspension work, pressing, and weighted walking"
+                    },
+                    {
+                        "id":  "o74",
+                        "label":  "bodybuilding with continued walking"
+                    },
+                    {
+                        "id":  "o75",
+                        "label":  "weight regain"
+                    },
+                    {
+                        "id":  "o76",
+                        "label":  "set-point theory"
+                    },
+                    {
+                        "id":  "o77",
+                        "label":  "fat as famine protection and toxin storage"
+                    },
+                    {
+                        "id":  "o78",
+                        "label":  "subsidized soy, corn, wheat, and dairy"
+                    },
+                    {
+                        "id":  "o79",
+                        "label":  "engineered addictive food"
+                    },
+                    {
+                        "id":  "o80",
+                        "label":  "protein, water, vegetables, and sleep hygiene"
+                    },
+                    {
+                        "id":  "o81",
+                        "label":  "historic 215-to-230-pound optimal competition range"
+                    },
+                    {
+                        "id":  "o82",
+                        "label":  "273-pound body weight"
+                    },
+                    {
+                        "id":  "o83",
+                        "label":  "unnecessary mass for discus throwing"
+                    },
+                    {
+                        "id":  "o84",
+                        "label":  "feet-together back squat"
+                    },
+                    {
+                        "id":  "o85",
+                        "label":  "front squat preference"
+                    },
+                    {
+                        "id":  "o86",
+                        "label":  "knee and hip stress"
+                    },
+                    {
+                        "id":  "o87",
+                        "label":  "1980s bodybuilding claims"
+                    },
+                    {
+                        "id":  "o88",
+                        "label":  "quadriceps isolation"
+                    },
+                    {
+                        "id":  "o89",
+                        "label":  "Olympic lifters\u0027 quadriceps"
+                    },
+                    {
+                        "id":  "o90",
+                        "label":  "front, overhead, and back squats"
+                    },
+                    {
+                        "id":  "o91",
+                        "label":  "Ryan Crouser shot-put world record"
+                    },
+                    {
+                        "id":  "o92",
+                        "label":  "two-three transition"
+                    },
+                    {
+                        "id":  "o93",
+                        "label":  "lower-body lead and trailing upper body"
+                    },
+                    {
+                        "id":  "o94",
+                        "label":  "bow-and-arrow stretch"
+                    },
+                    {
+                        "id":  "o95",
+                        "label":  "effortless elite throw"
+                    },
+                    {
+                        "id":  "o96",
+                        "label":  "delayed thrower judgment"
+                    },
+                    {
+                        "id":  "o97",
+                        "label":  "four-to-five-day weekly Brazilian jiu-jitsu practice"
+                    },
+                    {
+                        "id":  "o98",
+                        "label":  "bear-hug carry"
+                    },
+                    {
+                        "id":  "o99",
+                        "label":  "pressure-breathing control"
+                    },
+                    {
+                        "id":  "o100",
+                        "label":  "bear crawl"
+                    },
+                    {
+                        "id":  "o101",
+                        "label":  "farmer walk"
+                    },
+                    {
+                        "id":  "o102",
+                        "label":  "grip strength"
+                    },
+                    {
+                        "id":  "o103",
+                        "label":  "sled and prowler work"
+                    },
+                    {
+                        "id":  "o104",
+                        "label":  "basic weight training"
+                    },
+                    {
+                        "id":  "o105",
+                        "label":  "mat time, genetics, and mindset"
+                    },
+                    {
+                        "id":  "o106",
+                        "label":  "73-year-old active physician"
+                    },
+                    {
+                        "id":  "o107",
+                        "label":  "post-smoking weight gain"
+                    },
+                    {
+                        "id":  "o108",
+                        "label":  "declining bottle-opening ability"
+                    },
+                    {
+                        "id":  "o110",
+                        "label":  "health age"
+                    },
+                    {
+                        "id":  "o111",
+                        "label":  "late-life weight training"
+                    },
+                    {
+                        "id":  "o112",
+                        "label":  "loaded carries and ground work"
+                    },
+                    {
+                        "id":  "o113",
+                        "label":  "hinge, squat, push, and pull"
+                    },
+                    {
+                        "id":  "o114",
+                        "label":  "resistance machines"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o1",
+                          "relation":  "pursues the",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "constrains preparation for the",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "motivates the",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "is a",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "competes with recovery needed for",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "conflicts with the mass goal of the",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "is deprioritized during the",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "is recommended in place of",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "supports the",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "supports the",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "maintains water-specific conditioning during the",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "would ideally follow",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "justifies prioritizing",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "is organized by a",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "should anticipate",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "supports",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "prepares seasonal",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "can help build the",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "should include",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "reduces delayed discovery of home problems such as those found in a",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "should be identified early in",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "can identify",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "can be repaired for energy savings after a",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "supports local decisions within",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "supports",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "uses",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "produced",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "produced",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "can build",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "is one form of",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "provides",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "places",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "before",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "is an example of volume under the",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "is an example of volume under the",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "uses an",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "includes",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "includes",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "includes",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "includes",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "uses",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "can accumulate",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "can accumulate",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o53",
+                          "relation":  "uses",
+                          "object":  "o54"
+                      },
+                      {
+                          "subject":  "o54",
+                          "relation":  "contains",
+                          "object":  "o55"
+                      },
+                      {
+                          "subject":  "o56",
+                          "relation":  "sets the progression of the",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o57",
+                          "relation":  "is recommended for the first",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o58",
+                          "relation":  "can separate the first Big 21 cycle from the",
+                          "object":  "o60"
+                      },
+                      {
+                          "subject":  "o59",
+                          "relation":  "can accompany the",
+                          "object":  "o58"
+                      },
+                      {
+                          "subject":  "o61",
+                          "relation":  "is the starting capacity for",
+                          "object":  "o62"
+                      },
+                      {
+                          "subject":  "o63",
+                          "relation":  "is paired as a goal with",
+                          "object":  "o62"
+                      },
+                      {
+                          "subject":  "o64",
+                          "relation":  "prepares for",
+                          "object":  "o62"
+                      },
+                      {
+                          "subject":  "o65",
+                          "relation":  "can develop the",
+                          "object":  "o63"
+                      },
+                      {
+                          "subject":  "o66",
+                          "relation":  "is the more demanding analogue of the combined goals",
+                          "object":  "o62"
+                      },
+                      {
+                          "subject":  "o67",
+                          "relation":  "precedes the",
+                          "object":  "o68"
+                      },
+                      {
+                          "subject":  "o69",
+                          "relation":  "supports the",
+                          "object":  "o68"
+                      },
+                      {
+                          "subject":  "o70",
+                          "relation":  "supports the",
+                          "object":  "o68"
+                      },
+                      {
+                          "subject":  "o71",
+                          "relation":  "supports the",
+                          "object":  "o68"
+                      },
+                      {
+                          "subject":  "o72",
+                          "relation":  "has accompanied progress toward the",
+                          "object":  "o68"
+                      },
+                      {
+                          "subject":  "o73",
+                          "relation":  "is an example of",
+                          "object":  "o74"
+                      },
+                      {
+                          "subject":  "o74",
+                          "relation":  "supports maintenance against",
+                          "object":  "o75"
+                      },
+                      {
+                          "subject":  "o76",
+                          "relation":  "attempts to explain",
+                          "object":  "o75"
+                      },
+                      {
+                          "subject":  "o77",
+                          "relation":  "helps explain biological pressure toward",
+                          "object":  "o75"
+                      },
+                      {
+                          "subject":  "o78",
+                          "relation":  "contributes to foods described as",
+                          "object":  "o79"
+                      },
+                      {
+                          "subject":  "o80",
+                          "relation":  "is recommended against",
+                          "object":  "o75"
+                      },
+                      {
+                          "subject":  "o81",
+                          "relation":  "was superior to the later",
+                          "object":  "o82"
+                      },
+                      {
+                          "subject":  "o82",
+                          "relation":  "created",
+                          "object":  "o83"
+                      },
+                      {
+                          "subject":  "o85",
+                          "relation":  "is preferred over the",
+                          "object":  "o84"
+                      },
+                      {
+                          "subject":  "o84",
+                          "relation":  "can impose",
+                          "object":  "o86"
+                      },
+                      {
+                          "subject":  "o87",
+                          "relation":  "promoted the",
+                          "object":  "o84"
+                      },
+                      {
+                          "subject":  "o84",
+                          "relation":  "was claimed to produce",
+                          "object":  "o88"
+                      },
+                      {
+                          "subject":  "o89",
+                          "relation":  "develop without deliberate",
+                          "object":  "o88"
+                      },
+                      {
+                          "subject":  "o90",
+                          "relation":  "are preferred to",
+                          "object":  "o88"
+                      },
+                      {
+                          "subject":  "o91",
+                          "relation":  "displayed an exceptional",
+                          "object":  "o92"
+                      },
+                      {
+                          "subject":  "o92",
+                          "relation":  "combined",
+                          "object":  "o93"
+                      },
+                      {
+                          "subject":  "o93",
+                          "relation":  "created a",
+                          "object":  "o94"
+                      },
+                      {
+                          "subject":  "o94",
+                          "relation":  "produced an",
+                          "object":  "o95"
+                      },
+                      {
+                          "subject":  "o95",
+                          "relation":  "can require",
+                          "object":  "o96"
+                      },
+                      {
+                          "subject":  "o98",
+                          "relation":  "teaches",
+                          "object":  "o99"
+                      },
+                      {
+                          "subject":  "o100",
+                          "relation":  "may support",
+                          "object":  "o97"
+                      },
+                      {
+                          "subject":  "o101",
+                          "relation":  "develops",
+                          "object":  "o102"
+                      },
+                      {
+                          "subject":  "o103",
+                          "relation":  "provides general preparation for",
+                          "object":  "o97"
+                      },
+                      {
+                          "subject":  "o104",
+                          "relation":  "supports",
+                          "object":  "o97"
+                      },
+                      {
+                          "subject":  "o105",
+                          "relation":  "is presented as more decisive than exercise specificity for",
+                          "object":  "o97"
+                      },
+                      {
+                          "subject":  "o106",
+                          "relation":  "has experienced",
+                          "object":  "o107"
+                      },
+                      {
+                          "subject":  "o108",
+                          "relation":  "indicates decline in",
+                          "object":  "o102"
+                      },
+                      {
+                          "subject":  "o102",
+                          "relation":  "is an indicator of",
+                          "object":  "o110"
+                      },
+                      {
+                          "subject":  "o111",
+                          "relation":  "may improve quality of life for the",
+                          "object":  "o106"
+                      },
+                      {
+                          "subject":  "o112",
+                          "relation":  "can rebuild capacity in the",
+                          "object":  "o106"
+                      },
+                      {
+                          "subject":  "o113",
+                          "relation":  "provides a movement framework for the",
+                          "object":  "o106"
+                      },
+                      {
+                          "subject":  "o114",
+                          "relation":  "may be appropriate for the",
+                          "object":  "o106"
+                      }
+                  ]
+}

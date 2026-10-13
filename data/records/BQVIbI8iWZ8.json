@@ -1,0 +1,531 @@
+﻿{
+    "playlist_position":  264,
+    "video_id":  "BQVIbI8iWZ8",
+    "url":  "https://www.youtube.com/watch?v=BQVIbI8iWZ8",
+    "official_title":  "Swings, Easy Strength, GTG vs. Regular Training, Pullups \u0026 Excessive Training | DJU Podcast #249",
+    "transcript":  {
+                       "file":  "../../transcripts/BQVIbI8iWZ8_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "dead hang"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "Kawai study"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "pull-up bar"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "wide grip"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "narrow grip"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "chin-up grip"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "parallel grip"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "thirty-second hang"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "two-minute hang"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "pull-up test"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "child\u0027s pose"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "Laree Draper"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "pandiculation"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "goblet-squat hold"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "one-minute mobility"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "Tim Anderson"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "sauna reset"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "neck nod"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "cross-crawl"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "daily mobility"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "tonic Thursday"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "24-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "16-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "Easy Strength for Fat Loss"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "sleep"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "nutrition"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "seventy-five swings"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "thirty-minute walk"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "Airdyne bicycle"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "body composition"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "compound bow"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "scale weight"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "waist measurement"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "weight bumper"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "Engineer\u0027s Diet"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "five-by-fifty-two consistency"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "strongman competition"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "kettlebell snatch"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "trail walking"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "deadlift"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "bench press"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "Zercher squat"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "military press"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "event practice"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "Prowler push"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "grip fatigue"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "Stu McGill"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "morning spinal hydration"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "back injury risk"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "greasing the groove"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "Phil Maffetone"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "every-hour-on-the-hour practice"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "overhead squat"
+                    },
+                    {
+                        "id":  "o57",
+                        "label":  "Romanian deadlift"
+                    },
+                    {
+                        "id":  "o58",
+                        "label":  "farmer walk"
+                    },
+                    {
+                        "id":  "o59",
+                        "label":  "rope climb"
+                    },
+                    {
+                        "id":  "o60",
+                        "label":  "equipment availability"
+                    },
+                    {
+                        "id":  "o61",
+                        "label":  "Starting Strength"
+                    },
+                    {
+                        "id":  "o62",
+                        "label":  "bodyweight gain"
+                    },
+                    {
+                        "id":  "o63",
+                        "label":  "knee pain"
+                    },
+                    {
+                        "id":  "o64",
+                        "label":  "program compatibility"
+                    },
+                    {
+                        "id":  "o65",
+                        "label":  "pull-up"
+                    },
+                    {
+                        "id":  "o66",
+                        "label":  "walk"
+                    },
+                    {
+                        "id":  "o67",
+                        "label":  "training program"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o3",
+                          "relation":  "supports",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "enables",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "can use",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "can use",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "can use",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "can use",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "is a minimum dose of",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "alternates",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "alternates",
+                          "object":  "o65"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "can substitute for",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "taught",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "can be applied to",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "combines",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "combines",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "created",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "uses",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "uses",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "expands",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "can load male",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "can load female",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "supports",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "supports",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "can follow",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "can follow",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "can replace",
+                          "object":  "o66"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "can improve",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "can improve use of",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "does not fully represent",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "can track",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "sets a range for",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "uses",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "supports",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "requires",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "can prepare for",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "can prepare for",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "can prepare for",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "can prepare for",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "develops conditioning without",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "may increase",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "warns about",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o53",
+                          "relation":  "uses",
+                          "object":  "o55"
+                      },
+                      {
+                          "subject":  "o54",
+                          "relation":  "advocates",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o56",
+                          "relation":  "can use",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o57",
+                          "relation":  "can use",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o58",
+                          "relation":  "can use",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o59",
+                          "relation":  "can use",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o60",
+                          "relation":  "constrains",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o61",
+                          "relation":  "can increase",
+                          "object":  "o62"
+                      },
+                      {
+                          "subject":  "o63",
+                          "relation":  "can constrain",
+                          "object":  "o61"
+                      },
+                      {
+                          "subject":  "o64",
+                          "relation":  "must be checked before combining",
+                          "object":  "o67"
+                      }
+                  ]
+}

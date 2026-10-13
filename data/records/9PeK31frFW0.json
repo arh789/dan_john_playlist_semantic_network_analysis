@@ -1,0 +1,472 @@
+﻿{
+    "playlist_position":  223,
+    "video_id":  "9PeK31frFW0",
+    "url":  "https://www.youtube.com/watch?v=9PeK31frFW0",
+    "official_title":  "Easy Strength, Kettlebell Workouts, Bigger Biceps \u0026 Mind Muscle Connection  | Dan John Podcast #206",
+    "transcript":  {
+                       "file":  "../../transcripts/9PeK31frFW0_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "mind-muscle connection"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "bodybuilding"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "Vince Gironda"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "Reg Park"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "exercise variation"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "individual proportions"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "wide-grip neck press"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "V-dip"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "five-by-five program"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "compound lift"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "muscle isolation"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "Bret Contreras"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "spinal erector"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "Olympic lift"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "high-repetition squat"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "group fitness class"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "high intensity"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "recovery day"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "Rite of Passage"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "cardio boxing"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "training interference"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "Brazilian jiu-jitsu"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "weekend training"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "tonic workout"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "sauna"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "cold pool"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "sleep hygiene"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "protein intake"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "meditation"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "food preparation"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "triathlon"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "bilateral swimming"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "Phil Maffetone"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "vertical press"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "vertical pull"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "deadlift variation"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "ab wheel"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "suitcase carry"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "bike-run transition"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "barbell curl"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "power curl"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "military press"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "triceps"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "Transformation Program"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "double-kettlebell clean"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "double-kettlebell front squat"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "badminton"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "practice frequency"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "strength as skill"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "park-bench training"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "thirty-second hang"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "goblet-squat hold"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "muscle activation"
+                    },
+                    {
+                        "id":  "o57",
+                        "label":  "whole-body hypertrophy"
+                    },
+                    {
+                        "id":  "o58",
+                        "label":  "same-day consolidation"
+                    },
+                    {
+                        "id":  "o59",
+                        "label":  "recovery"
+                    },
+                    {
+                        "id":  "o60",
+                        "label":  "biceps"
+                    },
+                    {
+                        "id":  "o61",
+                        "label":  "mobility"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "is emphasized in",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "favored",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "favored",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "favored",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "favored",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "favored",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "influence",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "studies",
+                          "object":  "o56"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "develops",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "can stimulate",
+                          "object":  "o57"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "requires",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "can conflict with",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "can be reduced by",
+                          "object":  "o58"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "can consolidate",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "can consolidate",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "supports",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "supports",
+                          "object":  "o59"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "supports",
+                          "object":  "o59"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "supports",
+                          "object":  "o59"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "supports",
+                          "object":  "o59"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "supports",
+                          "object":  "o59"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "supports",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "can support",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "supported recovery into",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "influenced endurance use of",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "can counter cycling posture in",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "can support swimming in",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "can support",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "can support",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "develops stability for",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "should be practiced for",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "trains",
+                          "object":  "o60"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "loads",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "trains",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "pairs",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "pairs",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "includes",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "includes",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "can support",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "develops",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o53",
+                          "relation":  "can use",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o54",
+                          "relation":  "supports",
+                          "object":  "o61"
+                      },
+                      {
+                          "subject":  "o55",
+                          "relation":  "supports",
+                          "object":  "o61"
+                      }
+                  ]
+}

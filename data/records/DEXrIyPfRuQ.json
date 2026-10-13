@@ -1,0 +1,333 @@
+﻿{
+    "playlist_position":  315,
+    "video_id":  "DEXrIyPfRuQ",
+    "url":  "https://www.youtube.com/watch?v=DEXrIyPfRuQ",
+    "official_title":  "Minimalist Program, MMS, KB Snatch, Summer Program, Mobility Work, Loaded Carries | DJU Podcast #302",
+    "transcript":  {
+                       "file":  "../../transcripts/DEXrIyPfRuQ_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "double 20-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "28-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "30-round EMOM"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "press progression"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "36-round target"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "overloaded isometric"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "mid-range hold"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "John McKean"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "gluteal amnesia"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "minimalist swing program"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "deadlift break"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "glute activation"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "clean and press"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "barbell deadlift"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "double-kettlebell front squat"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "squat strength"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "time constraint"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "seasonal planning"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "Wendler 5/3/1"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "Boring But Big"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "summer program"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "mobility work"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "kettlebell floor press"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "supine bridge"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "mini band"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "isometric bridge"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "Mass Made Simple"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "kettlebell option"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "half-kneeling press"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "high-repetition goblet squat"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "Lean Made Simple"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "caloric restriction"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "kettlebell snatch"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "18-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "grip endurance"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "five-minute snatch test"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "hand asymmetry"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "100 repetitions"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "minimalist training"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "can use",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "requires",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "can progress toward",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "promoted",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "uses",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "can address",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "uses",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "can accompany",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "develops",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "can pair with",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "better preserves",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "encourages",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "can include",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "can include",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "can emphasize",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "can emphasize",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "can be used in",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "develops",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "loads",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "can accompany",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "does not directly translate to",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "can use",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "can use",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "used",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "uses",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "limits",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "affects",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "is target for",
+                          "object":  "o42"
+                      }
+                  ]
+}

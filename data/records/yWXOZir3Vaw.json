@@ -1,0 +1,363 @@
+﻿{
+    "playlist_position":  282,
+    "video_id":  "yWXOZir3Vaw",
+    "url":  "https://www.youtube.com/watch?v=yWXOZir3Vaw",
+    "official_title":  "The 48KG Beast Tamer Challenge, ABC, Anaconda Strength, Morning Workouts \u0026 More | DJU Podcast #268",
+    "transcript":  {
+                       "file":  "../../transcripts/yWXOZir3Vaw_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "reading habit"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "writing habit"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "phone distraction"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "television distraction"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "alternate press"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "morning workout"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "daily priming"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "competition preparation"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "training log"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "Beast Tamer challenge"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "48-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "one-arm press"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "weighted pull-up"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "single-leg pistol"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "Iron Maiden challenge"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "24-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "rule of ten"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "load variation"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "six-to-eight-week practice"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "anaconda strength"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "counterbalance"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "Easy Strength for Fat Loss"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "65-pound weight loss"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "three-and-a-half-year period"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "Heavyhands"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "high-repetition snatch"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "high-repetition swing"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "high-repetition get-up"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "sustainable fat loss"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "Tough Mudder"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "ten-mile run"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "obstacle course"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "rope climb"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "wall climb"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "crawling"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "swimming"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "pull-up"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "deadlift"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "running practice"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "kettlebell conditioning"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "fun training"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o4",
+                          "relation":  "can reduce",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "can reduce",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "provides",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "can include",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "can include",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "can provide",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "supports",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "requires",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "requires",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "requires",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "uses",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "uses",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "can prepare for",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "limits volume in",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "limits volume in",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "limits volume in",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "supports",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "uses",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "can make heavy",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "supported",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "occurred over",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "can support",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "can support",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "can support",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "can support",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "includes",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "includes",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "can include",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "can include",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "can include",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "can include",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "prepares for",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "prepares for",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "can complement",
+                          "object":  "o43"
+                      }
+                  ]
+}

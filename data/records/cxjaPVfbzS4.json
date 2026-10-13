@@ -1,0 +1,293 @@
+﻿{
+    "playlist_position":  356,
+    "video_id":  "cxjaPVfbzS4",
+    "url":  "https://www.youtube.com/watch?v=cxjaPVfbzS4",
+    "official_title":  "ABF, Building Strength \u0026 Muscle, KB Squats, Strength Standards, Books \u0026 More | DJU Podcast #343",
+    "transcript":  {
+                       "file":  "../../transcripts/cxjaPVfbzS4_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Isidro"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "home training"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "strongman sandbag"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "kettlebell"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "bodyweight movement"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "Easy Strength for Fat Loss"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "Backyard Games"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "sandbag-to-shoulder"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "metabolic conditioning"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "Matt"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "Great Books tradition"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "Liam"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "taekwondo"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "hip impingement"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "hip osteoarthritis"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "Celtic hips"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "two-handed swing"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "Easy Strength Omnibook"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "James"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "Joseph Lightfoot"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "strength standards"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "discus thrower"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "snatch standard"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "clean standard"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "bench-press standard"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "squat standard"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "international performance"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "age 36-to-55"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "kettlebell sport"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "10-minute snatch test"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "RKC snatch test"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "16-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "Right of Passage"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "200-snatch protocol"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "walking"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "kettlebell snatch"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "uses",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "includes",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "includes",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "includes",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "pairs",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "includes",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "includes",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "includes",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "requires",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "practices",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "has",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "has",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can predispose to",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "can remain in",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "can limit",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "asked about",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "should support",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "can use",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "can use",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "uses",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "uses",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "can accompany",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "is used in",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "changes interpretation of",
+                          "object":  "o25"
+                      }
+                  ]
+}

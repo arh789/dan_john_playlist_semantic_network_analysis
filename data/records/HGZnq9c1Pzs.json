@@ -1,0 +1,356 @@
+﻿{
+    "playlist_position":  301,
+    "video_id":  "HGZnq9c1Pzs",
+    "url":  "https://www.youtube.com/watch?v=HGZnq9c1Pzs",
+    "official_title":  "ABF, Longevity, Building Muscle, ES4FL, Deadlifts, Barbells After 60, Squats | DJU Podcast #287",
+    "transcript":  {
+                       "file":  "../../transcripts/HGZnq9c1Pzs_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "over-60 female trainee"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "barbell training"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "push pattern"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "pull pattern"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "hinge pattern"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "squat pattern"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "15-kilogram barbell"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "narrow bench"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "raised foot support"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "deadlift"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "press"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "61-year-old lifter"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "hip replacement"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "pistol-grip hip"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "preoperative conditioning"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "postoperative walking"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "physical therapist"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "strength recovery"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "single kettlebell"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "16-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "24-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "32-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "press progression"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "Boyd Epley formula"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "five sets of fifteen"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "ten sets of ten"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "Super Squats"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "Mass Made Simple"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "high-repetition back squat"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "time under tension"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "body support"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "easy hypertrophy"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "Easy Strength for Fat Loss"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "longevity program"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "leg extension"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "leg curl"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "triceps extension machine"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "quadriceps"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "hamstring"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "triceps"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "half-hour walk"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "body composition"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "strength training"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "can learn",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "can include",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "can include",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "can include",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "can include",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "can include",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "can suit",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "can adapt",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "can introduce",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "trains",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "can result from",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "supports recovery from",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "supports",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "guides",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "precedes",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "precedes",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "can demonstrate readiness for",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "can demonstrate readiness for",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "informs",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "uses",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "uses",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "creates",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "extends",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "offers alternative to",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "can form part of",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "can form part of",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "trains",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "trains",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "trains",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "supports",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "supports",
+                          "object":  "o38"
+                      }
+                  ]
+}

@@ -1,0 +1,271 @@
+﻿{
+    "playlist_position":  362,
+    "video_id":  "YYZ-LacvPAk",
+    "url":  "https://www.youtube.com/watch?v=YYZ-LacvPAk",
+    "official_title":  "ABF, Fat Loss, Single KB Training, KB Jerk, Mobility, Squats \u0026 More | DJU Podcast #348",
+    "transcript":  {
+                       "file":  "../../transcripts/YYZ-LacvPAk_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "A Christmas Carol"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "Charles Dickens"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "Declaration of Independence"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "Thomas Jefferson"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "social contract"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "Scott"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "double 24-kilogram kettlebells"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "double 32-kilogram kettlebells"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "training density"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "30-round goal"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "Adrian"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "35-year-old expectant father"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "single adjustable kettlebell"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "single-kettlebell Armor Building Complex"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "hand-to-hand swing"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "three-day training week"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "Patrick"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "56-year-old trainee"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "double 20-kilogram kettlebells"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "single 16-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "squat fatigue"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "upper-lower strength imbalance"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "injury avoidance"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "Nicholas"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "35-year-old father"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "disabled child"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "lifting and carrying child"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "fitness stability"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "home office"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "training consistency"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "family mission statement"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "Never Let Go"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "make a difference"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "same work in less time"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "personal motto"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o3",
+                          "relation":  "wrote",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "discusses",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "drafted",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "uses",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "uses",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "can press",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "means",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "requires",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "is a",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "owns",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "uses",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "can repeat",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "uses",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "owns",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "reveals",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "matters to",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "is a",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "cares for",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "requires",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "supports",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "is a",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "is a",
+                          "object":  "o37"
+                      }
+                  ]
+}

@@ -1,0 +1,374 @@
+﻿{
+    "playlist_position":  208,
+    "video_id":  "abt3M3GCdQc",
+    "url":  "https://www.youtube.com/watch?v=abt3M3GCdQc",
+    "official_title":  "Bodyweight Training, Loaded Carries, Building Core Strength \u0026 Breathing Methods | DJU Podcast #191",
+    "transcript":  {
+                       "file":  "../../transcripts/abt3M3GCdQc_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Easy Strength for fat loss"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "military press"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "weighted pull-up"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "deadlift variation"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "ab wheel"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "suitcase carry"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "post-workout walk"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "gradual fat loss"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "rapid weight loss"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "strength span"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "health span"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "older lifter"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "lean body mass"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "body fat"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "joint mobility"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "spring"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "kettlebell snatch"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "Olympic lifts"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "Great Eight sprints"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "long COVID"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "chronic illness recovery"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "bit-by-bit progression"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "push-pull-hinge-squat-carry"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "training habit"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "isometric exercise"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "glute bridge"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "load progression"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "core stability"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "left-right asymmetry"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "grip strength"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "neck injury"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "snow shoveling"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "Wim Hof method"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "breath control"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "deep belly breathing"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "competition arousal"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "written checklist"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "Sherlock Holmes"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "Georges Hebert"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "natural method"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "boxing"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "savate"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "physical culture"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "globe dumbbell"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "movement study"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "skill practice"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "rapid weight regain"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "includes",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "includes",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "includes",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "includes",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "includes",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "includes",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "reduces risk of",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "supports",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "should preserve",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "should limit",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "should preserve",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "should preserve",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "develops",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "develops",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "develop",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "develop",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "requires",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "can rebuild",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "precedes",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "can begin",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "can begin",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "develops",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "can reflect",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "can affect",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "can prepare for",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "uses",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "provides",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "manages",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "developed",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "practiced",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "practiced",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "appeared in historical",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "improves",
+                          "object":  "o48"
+                      }
+                  ]
+}

@@ -1,0 +1,383 @@
+﻿{
+    "playlist_position":  160,
+    "video_id":  "52ma9uN4RNA",
+    "url":  "https://www.youtube.com/watch?v=52ma9uN4RNA",
+    "official_title":  "The Dan John Podcast - Ep 145 | Broad Jump, Breakfast or IF, Running to Strength, and More",
+    "transcript":  {
+                       "file":  "../../transcripts/52ma9uN4RNA_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "high-school football players"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "track season"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "sprinters"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "shot putters"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "fully automatic timing"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "football speed"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "extra weight sessions"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "standing broad jump"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "power test"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "40-year-old trainee"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "jump practice"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "throws coach"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "UK throwing group"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "long queue between throws"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "low repetition volume"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "technical learning"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "multiple throwing stations"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "power lifts"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "RKC Level One"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "Olympic lifts"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "learning curve"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "Olympic-lifting coach"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "strength-coach competence"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "breakfast"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "intermittent fasting"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "scholastic athlete"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "3 p.m. practice"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "training nutrition"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "changing recommendations"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "heart-rate variability"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "resting heart rate"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "planned rest day"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "body feedback"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "programmed recovery"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "Phil Maffetone"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "Mass Made Simple Lite"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "rotating exercise variations"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "three whole-body days"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "body-part emphasis"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "twenty-rep tonic deadlift"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "runner"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "three strength days"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "ab wheel"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "press"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "deadlift"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "weighted carry"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "hanging"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "goblet-squat hold"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "running resilience"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "trail-running season"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "strength-focused phase"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "throwing volume"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "training schedule"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "specific goals"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "develops",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "demonstrate",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "validates",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "offer power athletes for",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "may reduce need for",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "is primarily a",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "resembles mechanics of",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "can improve familiarity with",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "reduces",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "increase",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o53",
+                          "relation":  "supports",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "reduces",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "supplement",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "expand",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "supports",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "makes all-day",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "depends on",
+                          "object":  "o54"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "can reflect",
+                          "object":  "o55"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "provides",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "provides",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "can trigger",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "should align with",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "promotes monitoring",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "uses",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "rotates",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "provides light hinge work in",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "uses",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "supports",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "supports",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o52",
+                          "relation":  "can follow",
+                          "object":  "o51"
+                      }
+                  ]
+}

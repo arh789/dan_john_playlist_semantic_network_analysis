@@ -1,0 +1,335 @@
+﻿{
+    "playlist_position":  174,
+    "video_id":  "8vnhDNRJShU",
+    "url":  "https://www.youtube.com/watch?v=8vnhDNRJShU",
+    "official_title":  "Heavy Turkish Getups, Easy Strength, Velocity Diet \u0026 More... | Dan John Podcast #160",
+    "transcript":  {
+                       "file":  "../../transcripts/8vnhDNRJShU_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Velocity Diet 4.0"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "four protein shakes daily"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "one solid meal"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "Lindsay"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "earlier meal timing"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "family diet experiment"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "personal experimentation"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "week-three weigh-in"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "strongman contest"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "weight pentathlon"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "shot put"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "discus"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "hammer"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "weight throw"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "javelin"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "technical event practice"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "strength maintenance"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "Turkish get-up"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "individual coaching"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "technique complexity"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "prone get-up variation"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "prone plank"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "unloaded rolling transition"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "mobility drill"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "Original Strength"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "six-point rock"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "standing reset"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "heavy Turkish get-up"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "load control"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "spotter requirement"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "605-pound triple squat"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "spotter fear"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "relative heaviness"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "trap-bar deadlift"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "bar sway"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "rotational deadlift error"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "Jefferson deadlift position"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "exercise safety"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "progressive loading"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "coaching supervision"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "prone position"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o1",
+                          "relation":  "uses",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o1",
+                          "relation":  "uses",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "moved",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "performs",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "precedes recommendations about",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "tracks",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "can prepare",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "supported",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "includes",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "includes",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "includes",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "includes",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "includes",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "must accompany",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "requires",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "improves",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "begins in",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "can transition into",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "connects",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "can supply",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "can precede",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "is defined by concern over",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "indicates",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "stopped",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "is required before",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "reduces risk in",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "can still exhibit",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "can create",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "resembles",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "requires avoiding",
+                          "object":  "o38"
+                      }
+                  ]
+}

@@ -1,0 +1,1023 @@
+﻿{
+    "playlist_position":  60,
+    "video_id":  "tPjVQqRknKw",
+    "url":  "https://www.youtube.com/watch?v=tPjVQqRknKw",
+    "official_title":  "The Dan John Podcast - Ep 51 | Deadlifts or Squats, Complex Weight, and More",
+    "transcript":  {
+                       "file":  "../../transcripts/tPjVQqRknKw_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Sean"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "kettlebell Easy Strength"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "10K obstacle-course race"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "12-week preparation"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "30 kilometres of easy running"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "three to five weekly runs"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "long Sunday run"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "upper-body obstacle work"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "pull-ups and monkey bars"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "park-course circuit"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "Easy Strength for Fat Loss template"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "ab wheel, press, pull-up, deadlift, and swing"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "long walks"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "tired obstacle practice"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "medicine-ball work"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "Mountain Climber program"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "mobility, strength, and hypertrophy"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "Gabriel"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "lifelong low mobility"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "poor squat"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "poor sit-and-reach"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "bulking goal"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "pressing-strength imbalance"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "single-leg or Bulgarian split squat"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "functional movement screen"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "individual anatomy"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "deadlift potential"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "flexibility"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "athletic performance"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "sprinter and jumper stiffness"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "Kinobody"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "Bulgarian split-squat bulking"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "Mike"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "squat-versus-deadlift choice"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "binary framing"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "squat"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "mobility work"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "heavy squat numbers"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "throwing performance"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "deadlift"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "strength and athleticism"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "Eric"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "Mass Made Simple"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "women seeking mass gain"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "six-week program"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "2-3-5 pressing scheme"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "women\u0027s pressing increments"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "bench height"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "lower-leg length"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "foot support"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "squat-rack pin height"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "appropriate kettlebell and dumbbell increments"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "equipment accommodation"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "Armin"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "mobility after age 50"
+                    },
+                    {
+                        "id":  "o57",
+                        "label":  "Tim Anderson"
+                    },
+                    {
+                        "id":  "o58",
+                        "label":  "Original Strength"
+                    },
+                    {
+                        "id":  "o59",
+                        "label":  "Pressing Reset"
+                    },
+                    {
+                        "id":  "o60",
+                        "label":  "rocking and nodding"
+                    },
+                    {
+                        "id":  "o61",
+                        "label":  "chronic hip problem"
+                    },
+                    {
+                        "id":  "o62",
+                        "label":  "infant crawling development"
+                    },
+                    {
+                        "id":  "o63",
+                        "label":  "goal adherence"
+                    },
+                    {
+                        "id":  "o64",
+                        "label":  "diet cleanup and weight loss"
+                    },
+                    {
+                        "id":  "o65",
+                        "label":  "daily pirate map"
+                    },
+                    {
+                        "id":  "o66",
+                        "label":  "shark habits"
+                    },
+                    {
+                        "id":  "o67",
+                        "label":  "binary decisions"
+                    },
+                    {
+                        "id":  "o68",
+                        "label":  "morning coffee routine"
+                    },
+                    {
+                        "id":  "o69",
+                        "label":  "daily gratitude"
+                    },
+                    {
+                        "id":  "o70",
+                        "label":  "habit formation"
+                    },
+                    {
+                        "id":  "o71",
+                        "label":  "motivation"
+                    },
+                    {
+                        "id":  "o72",
+                        "label":  "consistent showing up"
+                    },
+                    {
+                        "id":  "o73",
+                        "label":  "little and often over the long haul"
+                    },
+                    {
+                        "id":  "o74",
+                        "label":  "Attempts"
+                    },
+                    {
+                        "id":  "o75",
+                        "label":  "menu"
+                    },
+                    {
+                        "id":  "o76",
+                        "label":  "shopping list"
+                    },
+                    {
+                        "id":  "o77",
+                        "label":  "food preparation"
+                    },
+                    {
+                        "id":  "o78",
+                        "label":  "household food decluttering"
+                    },
+                    {
+                        "id":  "o79",
+                        "label":  "comfort food"
+                    },
+                    {
+                        "id":  "o80",
+                        "label":  "Simon"
+                    },
+                    {
+                        "id":  "o81",
+                        "label":  "grip limitation"
+                    },
+                    {
+                        "id":  "o82",
+                        "label":  "palmar fascia collapse"
+                    },
+                    {
+                        "id":  "o83",
+                        "label":  "lifting straps"
+                    },
+                    {
+                        "id":  "o84",
+                        "label":  "Olympic lifts"
+                    },
+                    {
+                        "id":  "o85",
+                        "label":  "powerlifting deadlift"
+                    },
+                    {
+                        "id":  "o86",
+                        "label":  "snatch-grip deadlift"
+                    },
+                    {
+                        "id":  "o87",
+                        "label":  "medical therapies"
+                    },
+                    {
+                        "id":  "o88",
+                        "label":  "Ian"
+                    },
+                    {
+                        "id":  "o89",
+                        "label":  "extra cardio"
+                    },
+                    {
+                        "id":  "o90",
+                        "label":  "Mass Made Simple mass gain"
+                    },
+                    {
+                        "id":  "o91",
+                        "label":  "six-week commitment"
+                    },
+                    {
+                        "id":  "o92",
+                        "label":  "conflicting simultaneous goals"
+                    },
+                    {
+                        "id":  "o93",
+                        "label":  "Jay\u0027s parents"
+                    },
+                    {
+                        "id":  "o94",
+                        "label":  "active trainees in their seventies"
+                    },
+                    {
+                        "id":  "o95",
+                        "label":  "age-related muscle and weight loss"
+                    },
+                    {
+                        "id":  "o96",
+                        "label":  "homebound training"
+                    },
+                    {
+                        "id":  "o97",
+                        "label":  "light dumbbells and resistance bands"
+                    },
+                    {
+                        "id":  "o98",
+                        "label":  "lean-body-mass loss after 35"
+                    },
+                    {
+                        "id":  "o99",
+                        "label":  "Jan and Terry Todd"
+                    },
+                    {
+                        "id":  "o100",
+                        "label":  "Lift Your Way to Youthful Fitness"
+                    },
+                    {
+                        "id":  "o101",
+                        "label":  "Younger Next Year"
+                    },
+                    {
+                        "id":  "o102",
+                        "label":  "six weekly exercise days"
+                    },
+                    {
+                        "id":  "o103",
+                        "label":  "push, pull, and squat"
+                    },
+                    {
+                        "id":  "o104",
+                        "label":  "goblet squat and press"
+                    },
+                    {
+                        "id":  "o105",
+                        "label":  "three sets of eight to ten"
+                    },
+                    {
+                        "id":  "o106",
+                        "label":  "progressive loading"
+                    },
+                    {
+                        "id":  "o107",
+                        "label":  "Reverend"
+                    },
+                    {
+                        "id":  "o108",
+                        "label":  "barbell complexes"
+                    },
+                    {
+                        "id":  "o109",
+                        "label":  "sets of eight, five, or three"
+                    },
+                    {
+                        "id":  "o110",
+                        "label":  "Complex A and Complex C"
+                    },
+                    {
+                        "id":  "o111",
+                        "label":  "45-pound bar"
+                    },
+                    {
+                        "id":  "o112",
+                        "label":  "65-to-95-pound progression"
+                    },
+                    {
+                        "id":  "o113",
+                        "label":  "165-pound failed complex"
+                    },
+                    {
+                        "id":  "o114",
+                        "label":  "conditioning"
+                    },
+                    {
+                        "id":  "o115",
+                        "label":  "ego restraint"
+                    },
+                    {
+                        "id":  "o116",
+                        "label":  "Chris"
+                    },
+                    {
+                        "id":  "o117",
+                        "label":  "general reading and personal growth"
+                    },
+                    {
+                        "id":  "o118",
+                        "label":  "Forty Years with a Whistle"
+                    },
+                    {
+                        "id":  "o119",
+                        "label":  "coaching mentors"
+                    },
+                    {
+                        "id":  "o120",
+                        "label":  "Dan John\u0027s life story"
+                    },
+                    {
+                        "id":  "o121",
+                        "label":  "books\u0027 influence"
+                    },
+                    {
+                        "id":  "o122",
+                        "label":  "Intervention"
+                    },
+                    {
+                        "id":  "o123",
+                        "label":  "working with people"
+                    },
+                    {
+                        "id":  "o125",
+                        "label":  "updated goal-setting and Easy Strength"
+                    },
+                    {
+                        "id":  "o126",
+                        "label":  "The Stone and the Stone"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "completed",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "is preparing for",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "has",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "is supported by",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "can be distributed across",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "contributes to",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "requires",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "includes",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "combines running with",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "uses",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "is suggested for",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "support",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "should include",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "may include",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "combines",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "can support",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "has",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "includes",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "includes",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "has",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "motivates",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "is proposed around",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "may identify causes of",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "may explain",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "may favor",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "does not always improve",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "may support",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "uses",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "may support",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "asks about",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "is criticized as",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "provides",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "do not consistently predict",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "is favored for",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "and o41 both contribute to",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "completed",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "asks about",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "uses",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "works for",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "require attention to",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "should match",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "corrects mismatch between",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o52",
+                          "relation":  "should accommodate",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o54",
+                          "relation":  "is needed for",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "requires no program change for",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o55",
+                          "relation":  "asks about",
+                          "object":  "o56"
+                      },
+                      {
+                          "subject":  "o57",
+                          "relation":  "created",
+                          "object":  "o58"
+                      },
+                      {
+                          "subject":  "o58",
+                          "relation":  "includes",
+                          "object":  "o59"
+                      },
+                      {
+                          "subject":  "o58",
+                          "relation":  "uses",
+                          "object":  "o60"
+                      },
+                      {
+                          "subject":  "o60",
+                          "relation":  "helped",
+                          "object":  "o61"
+                      },
+                      {
+                          "subject":  "o58",
+                          "relation":  "draws on",
+                          "object":  "o62"
+                      },
+                      {
+                          "subject":  "o55",
+                          "relation":  "also asks about",
+                          "object":  "o63"
+                      },
+                      {
+                          "subject":  "o63",
+                          "relation":  "applies to",
+                          "object":  "o64"
+                      },
+                      {
+                          "subject":  "o65",
+                          "relation":  "structures",
+                          "object":  "o70"
+                      },
+                      {
+                          "subject":  "o66",
+                          "relation":  "reduce repeated decisions through",
+                          "object":  "o67"
+                      },
+                      {
+                          "subject":  "o68",
+                          "relation":  "is an example of",
+                          "object":  "o66"
+                      },
+                      {
+                          "subject":  "o69",
+                          "relation":  "is organized by",
+                          "object":  "o65"
+                      },
+                      {
+                          "subject":  "o70",
+                          "relation":  "is favored over",
+                          "object":  "o71"
+                      },
+                      {
+                          "subject":  "o72",
+                          "relation":  "creates",
+                          "object":  "o63"
+                      },
+                      {
+                          "subject":  "o73",
+                          "relation":  "supports",
+                          "object":  "o72"
+                      },
+                      {
+                          "subject":  "o74",
+                          "relation":  "discusses",
+                          "object":  "o63"
+                      },
+                      {
+                          "subject":  "o75",
+                          "relation":  "creates",
+                          "object":  "o76"
+                      },
+                      {
+                          "subject":  "o76",
+                          "relation":  "guides",
+                          "object":  "o77"
+                      },
+                      {
+                          "subject":  "o78",
+                          "relation":  "supports",
+                          "object":  "o64"
+                      },
+                      {
+                          "subject":  "o79",
+                          "relation":  "can undermine",
+                          "object":  "o64"
+                      },
+                      {
+                          "subject":  "o80",
+                          "relation":  "has",
+                          "object":  "o81"
+                      },
+                      {
+                          "subject":  "o82",
+                          "relation":  "causes",
+                          "object":  "o81"
+                      },
+                      {
+                          "subject":  "o83",
+                          "relation":  "can work around",
+                          "object":  "o81"
+                      },
+                      {
+                          "subject":  "o83",
+                          "relation":  "can assist",
+                          "object":  "o84"
+                      },
+                      {
+                          "subject":  "o83",
+                          "relation":  "does not solve competition grip in",
+                          "object":  "o85"
+                      },
+                      {
+                          "subject":  "o83",
+                          "relation":  "can assist",
+                          "object":  "o86"
+                      },
+                      {
+                          "subject":  "o87",
+                          "relation":  "may treat",
+                          "object":  "o82"
+                      },
+                      {
+                          "subject":  "o88",
+                          "relation":  "asks about",
+                          "object":  "o89"
+                      },
+                      {
+                          "subject":  "o89",
+                          "relation":  "reduces",
+                          "object":  "o90"
+                      },
+                      {
+                          "subject":  "o91",
+                          "relation":  "requires prioritizing",
+                          "object":  "o90"
+                      },
+                      {
+                          "subject":  "o92",
+                          "relation":  "undermines",
+                          "object":  "o91"
+                      },
+                      {
+                          "subject":  "o93",
+                          "relation":  "are",
+                          "object":  "o94"
+                      },
+                      {
+                          "subject":  "o94",
+                          "relation":  "experience",
+                          "object":  "o95"
+                      },
+                      {
+                          "subject":  "o95",
+                          "relation":  "motivates",
+                          "object":  "o96"
+                      },
+                      {
+                          "subject":  "o96",
+                          "relation":  "uses",
+                          "object":  "o97"
+                      },
+                      {
+                          "subject":  "o98",
+                          "relation":  "accelerates before",
+                          "object":  "o95"
+                      },
+                      {
+                          "subject":  "o99",
+                          "relation":  "wrote",
+                          "object":  "o100"
+                      },
+                      {
+                          "subject":  "o101",
+                          "relation":  "recommends",
+                          "object":  "o102"
+                      },
+                      {
+                          "subject":  "o96",
+                          "relation":  "can center on",
+                          "object":  "o103"
+                      },
+                      {
+                          "subject":  "o103",
+                          "relation":  "can include",
+                          "object":  "o104"
+                      },
+                      {
+                          "subject":  "o103",
+                          "relation":  "can use",
+                          "object":  "o105"
+                      },
+                      {
+                          "subject":  "o106",
+                          "relation":  "supports",
+                          "object":  "o95"
+                      },
+                      {
+                          "subject":  "o107",
+                          "relation":  "asks about",
+                          "object":  "o108"
+                      },
+                      {
+                          "subject":  "o108",
+                          "relation":  "work best with",
+                          "object":  "o109"
+                      },
+                      {
+                          "subject":  "o110",
+                          "relation":  "can begin with",
+                          "object":  "o111"
+                      },
+                      {
+                          "subject":  "o112",
+                          "relation":  "can progress loading for",
+                          "object":  "o108"
+                      },
+                      {
+                          "subject":  "o113",
+                          "relation":  "illustrates excessive loading in",
+                          "object":  "o108"
+                      },
+                      {
+                          "subject":  "o114",
+                          "relation":  "limits load in",
+                          "object":  "o108"
+                      },
+                      {
+                          "subject":  "o115",
+                          "relation":  "protects performance in",
+                          "object":  "o108"
+                      },
+                      {
+                          "subject":  "o116",
+                          "relation":  "asks about",
+                          "object":  "o117"
+                      },
+                      {
+                          "subject":  "o118",
+                          "relation":  "addresses",
+                          "object":  "o117"
+                      },
+                      {
+                          "subject":  "o118",
+                          "relation":  "discusses",
+                          "object":  "o119"
+                      },
+                      {
+                          "subject":  "o118",
+                          "relation":  "contains",
+                          "object":  "o120"
+                      },
+                      {
+                          "subject":  "o118",
+                          "relation":  "shows",
+                          "object":  "o121"
+                      },
+                      {
+                          "subject":  "o122",
+                          "relation":  "explains",
+                          "object":  "o123"
+                      },
+                      {
+                          "subject":  "o74",
+                          "relation":  "contains",
+                          "object":  "o125"
+                      },
+                      {
+                          "subject":  "o126",
+                          "relation":  "is another recommended starting book for",
+                          "object":  "o117"
+                      }
+                  ]
+}

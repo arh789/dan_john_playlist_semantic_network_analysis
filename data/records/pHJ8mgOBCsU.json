@@ -1,0 +1,327 @@
+﻿{
+    "playlist_position":  369,
+    "video_id":  "pHJ8mgOBCsU",
+    "url":  "https://www.youtube.com/watch?v=pHJ8mgOBCsU",
+    "official_title":  "ABF, KB Press, Auto-Regulation, Hyrox, Lifting Belts \u0026 Straps, Clean and Press | DJU Podcast #355",
+    "transcript":  {
+                       "file":  "../../transcripts/pHJ8mgOBCsU_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Mick"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "bodyweight clean and press"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "barbell clean"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "overhead press"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "198-centimeter trainee"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "80-kilogram bodyweight"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "50-kilogram press"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "clean technique"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "progressive resistance"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "Jeff"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "40-mile birthday run"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "40-round Armor Building Formula"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "29-mile race"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "30-pound weight loss"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "kettlebell Armor Building Formula"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "barbell Easy Strength"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "barbell Armor Building Formula"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "single-sided Easy Strength"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "split squat"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "kettlebell snatch"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "one-arm row"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "Neil"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "lifting belt"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "knee sleeve"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "squat"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "deadlift"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "injury risk"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "general fitness"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "Capil"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "36-year-old physician"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "Hyrox"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "full-body split"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "105-kilogram bodyweight"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "running preparation"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "work capacity"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "Ferris"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "sedentary office worker"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "five-day Easy Strength"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "martial arts"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "variable sport frequency"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "training autoregulation"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "ab roller"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "lifted load"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "Easy Strength"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "targets",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "weighs",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "has",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "supports",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "supports",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "targets",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "targets",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "prepares for",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "achieved",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "can precede",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can include",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can include",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can include",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "can increase",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "is optional for",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "can support",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "plans",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "requires",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "requires",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "is used by",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "uses",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "practices",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "requires",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "can be reduced around",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "can include",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "can include",
+                          "object":  "o44"
+                      }
+                  ]
+}

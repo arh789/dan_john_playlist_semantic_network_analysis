@@ -1,0 +1,421 @@
+﻿{
+    "playlist_position":  277,
+    "video_id":  "adhz0kd6OSo",
+    "url":  "https://www.youtube.com/watch?v=adhz0kd6OSo",
+    "official_title":  "Programming Manifesto, Armor Building Complex, Longevity, Easy Strength | Dan John Podcast #263",
+    "transcript":  {
+                       "file":  "../../transcripts/adhz0kd6OSo_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "shift work"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "program hopping"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "anti-programming manifesto"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "weekly log"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "four-week review"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "push pattern"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "pull pattern"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "hinge pattern"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "squat pattern"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "ground work"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "abdominal work"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "walking"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "rucking"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "mobility"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "sweating"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "training gap"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "barn-door exercise"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "double-kettlebell clean"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "double-kettlebell press"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "double-kettlebell front squat"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "exercise modification"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "The Eagle"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "double 24-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "squat milestone"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "push"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "pull"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "deadlift"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "ab wheel"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "training balance"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "fun training"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "one-lift-a-day"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "training program"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "discipline"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "consistency"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "60-plus athlete"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "longevity"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "muscle mass"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "leanness"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "health"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "daily routine"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "fasting"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "oral hygiene"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "sleep"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "strength training"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "hypertrophy block"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "Easy Strength for Fat Loss"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "workout generator"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "seasonal planning"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "youth goal"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "attempt standard"
+                    },
+                    {
+                        "id":  "o57",
+                        "label":  "success standard"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "can cause",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "uses",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "feeds",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "tracks",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "tracks",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "tracks",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "tracks",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "tracks",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "tracks",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "tracks",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "tracks",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "reveals",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "combines",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "combines",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "combines",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can modify",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "should preserve purpose of",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "can combine with",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "uses",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "contains",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "can establish",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "is a",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "still requires",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "supports",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "can prioritize",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "can prioritize",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "can prioritize",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "supports",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "can be part of",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "can be part of",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "supports",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "preserves",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "preserves",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o52",
+                          "relation":  "supports",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o53",
+                          "relation":  "supports",
+                          "object":  "o54"
+                      },
+                      {
+                          "subject":  "o56",
+                          "relation":  "can precede",
+                          "object":  "o57"
+                      }
+                  ]
+}

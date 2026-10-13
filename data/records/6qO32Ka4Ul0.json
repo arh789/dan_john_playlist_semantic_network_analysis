@@ -1,0 +1,312 @@
+﻿{
+    "playlist_position":  385,
+    "video_id":  "6qO32Ka4Ul0",
+    "url":  "https://www.youtube.com/watch?v=6qO32Ka4Ul0",
+    "official_title":  "ABF, Mobility, Rotating Programs, Recovery, Squats, Muscle Imbalances \u0026 More | DJU Podcast #371",
+    "transcript":  {
+                       "file":  "../../transcripts/6qO32Ka4Ul0_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Spencer"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "tennis player"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "golfer"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "strength training"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "mobility"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "performance"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "John Grimek"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "toe-touch test"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "Gary Player"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "Isaac"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "approaching-50 trainee"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "barbell training"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "unilateral dumbbell training"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "side-to-side asymmetry"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "low volume"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "submaximal effort"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "consistency"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "longevity"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "recovery"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "master athlete"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "heavy-light training"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "barbell day"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "left-side workout"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "right-side workout"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "whole-body workout"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "Road Warrior program"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "Mike"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "41-year-old father"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "three children"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "three weekly lifting sessions"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "easy cardio"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "bike trailer"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "family hiking"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "home gym"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "time constraint"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "Original Strength movement"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "inter-set mobility"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "dedicated mobility day"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "good-enough solution"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o5",
+                          "relation":  "can improve",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "does not necessarily reduce",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "can benefit from",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "can benefit from",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "performed",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "used",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "uses",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "can alternate",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "can alternate",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "reveals",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "uses",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "uses",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "uses",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "supports",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "can use",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "can alternate with",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "includes",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "includes",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "includes",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "has",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "uses",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "can include",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "can include",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "reduces",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "can serve as",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "can replace",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "describes",
+                          "object":  "o39"
+                      }
+                  ]
+}

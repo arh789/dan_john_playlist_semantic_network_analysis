@@ -1,0 +1,348 @@
+﻿{
+    "playlist_position":  347,
+    "video_id":  "XCXi0vpEgTY",
+    "url":  "https://www.youtube.com/watch?v=XCXi0vpEgTY",
+    "official_title":  "ABF, Density Training, Squats, Explosive Strength, Minimalist Training \u0026 More | DJU Podcast #334",
+    "transcript":  {
+                       "file":  "../../transcripts/XCXi0vpEgTY_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Jay"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "boxing"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "high-repetition press"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "barbell program"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "explosive strength"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "Jake"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "ultramarathon"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "Percy Cerutty"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "double-bodyweight deadlift"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "bodyweight bench press"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "back squat"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "pull-up"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "overhead press"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "hang clean"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "fatigue"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "Casper"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "running fitness"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "45-kilometer running week"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "kettlebell Easy Strength"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "strength gain"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "muscle gain"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "Brian"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "51-year-old trainee"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "kettlebell density complex"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "humane burpee"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "push-up"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "plank"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "Devin"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "minimalist training"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "one-arm press"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "farmer walk"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "44-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "40-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "75-pound dumbbell"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "120-pound dumbbell"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "load"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "volume"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "training frequency"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "exercise selection"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "trains for",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "can support",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "includes",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "can develop",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "uses",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "prepares for",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "expected",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "expected",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "can include",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "can include",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "can include",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "can include",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "can increase",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "maintains",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "runs",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "supported",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "can develop",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "can develop",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "can use",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "includes",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "includes",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "includes",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "can replace",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "can combine",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "can combine",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "can use",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "can use",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "is a variable in",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "is a variable in",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "is a variable in",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "is a variable in",
+                          "object":  "o35"
+                      }
+                  ]
+}

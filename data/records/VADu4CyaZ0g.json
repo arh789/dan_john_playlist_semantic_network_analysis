@@ -1,0 +1,514 @@
+﻿{
+    "playlist_position":  155,
+    "video_id":  "VADu4CyaZ0g",
+    "url":  "https://www.youtube.com/watch?v=VADu4CyaZ0g",
+    "official_title":  "The Dan John Podcast - Ep 140 | Carrying Kbs, Strength and Weight Loss, Biome Breaks, and More",
+    "transcript":  {
+                       "file":  "../../transcripts/VADu4CyaZ0g_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "33-year-old male"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "78-to-72-kilogram weight loss"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "astronomical cholesterol"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "family heart-disease history"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "genetic risk"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "pescetarian diet"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "fish"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "vegetables and fruit"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "reduced saturated fat"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "press strength decline"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "bodyweight change"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "double 28-kilogram press"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "squat strength"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "medical guidance"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "homemade sauerkraut"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "Scottish listener"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "cabbage"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "salt fermentation"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "mason jar"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "live bacteria"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "kimchi"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "apple"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "Biome Break"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "carrot juice"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "porridge"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "chia seeds"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "meal size"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "Rite of Passage"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "kettlebell clean and press"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "pull-up"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "press ladders"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "kettlebell swings"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "kettlebell snatches"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "repeatable program"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "RKC preparation"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "Big Five movements"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "Louie Simmons"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "original Westside Barbell"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "Bill West"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "box squat"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "deficit pull"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "good morning"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "training experimentation"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "25-year-old plumber"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "Marine veteran"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "digging"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "water heaters"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "cast-iron pipe"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "crawling"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "knee and elbow pain"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "Easy Strength kettlebells"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "occupational wear and tear"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "Highland games"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "38-year-old doctor"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "three-year-old child"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "long work hours"
+                    },
+                    {
+                        "id":  "o57",
+                        "label":  "double clean and press"
+                    },
+                    {
+                        "id":  "o58",
+                        "label":  "squats"
+                    },
+                    {
+                        "id":  "o59",
+                        "label":  "swings and get-ups"
+                    },
+                    {
+                        "id":  "o60",
+                        "label":  "daily mile walk"
+                    },
+                    {
+                        "id":  "o61",
+                        "label":  "annual shoulder injury"
+                    },
+                    {
+                        "id":  "o62",
+                        "label":  "AC joint"
+                    },
+                    {
+                        "id":  "o63",
+                        "label":  "rotator cuff"
+                    },
+                    {
+                        "id":  "o64",
+                        "label":  "upper-back injury"
+                    },
+                    {
+                        "id":  "o65",
+                        "label":  "recovery reduction"
+                    },
+                    {
+                        "id":  "o66",
+                        "label":  "four-to-five weekly sessions"
+                    },
+                    {
+                        "id":  "o67",
+                        "label":  "age and parenthood"
+                    },
+                    {
+                        "id":  "o68",
+                        "label":  "saturated fat"
+                    },
+                    {
+                        "id":  "o69",
+                        "label":  "recovery"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o4",
+                          "relation":  "indicates",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "requires",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "uses",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "uses",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "reduces",
+                          "object":  "o68"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "coincides with",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "often affects",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "often affects",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "became harder during",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "uses",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "preserves",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "contains",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "provides",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "can be paired with",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "includes",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "includes",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "contains",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "uses",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "uses",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "structure",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "finishes with",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "can finish with",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "describes intended use of",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "can use",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "studied",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "was run by",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "used",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "used",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "used",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "characterized",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "performs",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "moves",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "carries",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o52",
+                          "relation":  "contributes to",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "must complement rather than duplicate",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o53",
+                          "relation":  "provides a sport goal for",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o54",
+                          "relation":  "has",
+                          "object":  "o56"
+                      },
+                      {
+                          "subject":  "o54",
+                          "relation":  "performs",
+                          "object":  "o66"
+                      },
+                      {
+                          "subject":  "o66",
+                          "relation":  "include",
+                          "object":  "o57"
+                      },
+                      {
+                          "subject":  "o66",
+                          "relation":  "include",
+                          "object":  "o59"
+                      },
+                      {
+                          "subject":  "o60",
+                          "relation":  "supplements",
+                          "object":  "o66"
+                      },
+                      {
+                          "subject":  "o67",
+                          "relation":  "may reduce",
+                          "object":  "o69"
+                      },
+                      {
+                          "subject":  "o65",
+                          "relation":  "can contribute to",
+                          "object":  "o61"
+                      },
+                      {
+                          "subject":  "o61",
+                          "relation":  "includes",
+                          "object":  "o62"
+                      },
+                      {
+                          "subject":  "o61",
+                          "relation":  "includes",
+                          "object":  "o63"
+                      }
+                  ]
+}

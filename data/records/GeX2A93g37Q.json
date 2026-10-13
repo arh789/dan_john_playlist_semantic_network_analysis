@@ -1,0 +1,351 @@
+﻿{
+    "playlist_position":  384,
+    "video_id":  "GeX2A93g37Q",
+    "url":  "https://www.youtube.com/watch?v=GeX2A93g37Q",
+    "official_title":  "The Odyssey, Choosing Your Values, Training Regrets, Overtraining \u0026 Rep Ranges | DJU Podcast #370",
+    "transcript":  {
+                       "file":  "../../transcripts/GeX2A93g37Q_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Tony"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "Christopher Nolan"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "The Odyssey"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "Homer"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "The Iliad"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "Western morality"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "fate"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "Arthur Schopenhauer"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "Friedrich Nietzsche"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "Velocity Diet"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "Jason"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "12-kilogram kettlebells"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "24-kilogram kettlebells"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "weight loss"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "muscle gain"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "self-improvement"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "meaningful life"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "fitness"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "order"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "generosity"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "personal values"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "Dylan"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "30-year-old self"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "Middle East parasite"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "back injury"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "sprint triathlon"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "bilateral breathing"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "swimming"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "cycling"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "training regret"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "Mike"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "early-40s trainee"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "10-to-15-pound muscle goal"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "compound lift"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "vertical press"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "horizontal press"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "pull"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "hinge"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "deadlift"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "squat"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "three-day training week"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "three sets of six-to-eight"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "double progression"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "moderate-heavy load"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o3",
+                          "relation":  "directed",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "was written by",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "was written by",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "relates to",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "relates to",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "asked about",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "asked about",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "completed",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "progressed from",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "progressed toward",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "produced",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "produced",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can use",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "include",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "include",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "include",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "affected",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "led to",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "includes",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "includes",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "supports",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "targets",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "can organize",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "includes",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "includes",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "includes",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "includes",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "includes",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "uses",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "increases",
+                          "object":  "o47"
+                      }
+                  ]
+}

@@ -1,0 +1,241 @@
+﻿{
+    "playlist_position":  341,
+    "video_id":  "XyajyCo1pfc",
+    "url":  "https://www.youtube.com/watch?v=XyajyCo1pfc",
+    "official_title":  "Planning Your Next Training Year, Squats, Dad Strength, ABC, Bench Press \u0026 More | DJU Podcast #329",
+    "transcript":  {
+                       "file":  "../../transcripts/XyajyCo1pfc_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "late-30s father"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "two young children"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "home training"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "barbell"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "dumbbell"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "two kettlebells"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "hack squat"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "heel elevation"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "squat rack absence"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "old-school exercise"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "two-day barbell program"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "two-three-five scheme"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "front squat"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "dip"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "overhead press"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "Romanian deadlift"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "barbell complex"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "simplified workout"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "Intervention"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "bench press"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "military press"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "clean and press"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "200-pound clean and press"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "athletic strength"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "heavy bench press"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "delayed soreness"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "annual training plan"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "dad strength"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "time constraint"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "exercise selection"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "training recovery"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o3",
+                          "relation":  "motivate",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "uses",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "uses",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "uses",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "encourages",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "can use",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "uses",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "can include",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "can include",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "can include",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "can include",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "can finish",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "discusses",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "can better represent",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "can demonstrate",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "is rare",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "can cause",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "encourages",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "organizes",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "governs",
+                          "object":  "o28"
+                      }
+                  ]
+}

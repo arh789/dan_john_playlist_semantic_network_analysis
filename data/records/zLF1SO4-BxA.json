@@ -1,0 +1,218 @@
+﻿{
+    "playlist_position":  331,
+    "video_id":  "zLF1SO4-BxA",
+    "url":  "https://www.youtube.com/watch?v=zLF1SO4-BxA",
+    "official_title":  "ABF, Pull-ups, Loaded Carries, Warm-up Tips, Dan\u0027s Gym, Sports Movies \u0026 More | DJU Podcast #319",
+    "transcript":  {
+                       "file":  "../../transcripts/zLF1SO4-BxA_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "mental warm-up"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "past-present-future review"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "training log"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "weightlifting meet"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "Dave Turner peaking program"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "rack position"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "kettlebell front squat"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "double kettlebell"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "weight progression"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "rack endurance"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "pull-up"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "warm-up"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "Olympic-style lifter"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "endurance athlete"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "wrestling coach"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "classroom teacher"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "home gym"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "training group"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "sports movie"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "father"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "20-month-old daughter"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "trusted relationship"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "sets and repetitions"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "friendship"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "dark night of the soul"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "social support"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "boundary setting"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "uses",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "supports",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "prepares for",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "uses",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "limits",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "requires",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "must preserve",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "can include",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "can include",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "can also be",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "can also be",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "supports",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "requires",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "cares for",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "provides",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "can end",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "tests",
+                          "object":  "o29"
+                      }
+                  ]
+}

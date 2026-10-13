@@ -1,0 +1,253 @@
+﻿{
+    "playlist_position":  187,
+    "video_id":  "KnGNjIhvA7U",
+    "url":  "https://www.youtube.com/watch?v=KnGNjIhvA7U",
+    "official_title":  "NEW Easy Strength Book, Bodybuilding, Motivation, Weight Loss | Dan John Podcast #171",
+    "transcript":  {
+                       "file":  "../../transcripts/KnGNjIhvA7U_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Easy Strength Omnibook"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Dan John University"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "early digital release"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "printed edition"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "Black Friday release"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "66-year-old trainee"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "80-pound weight gain"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "former bodybuilder"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "former powerlifter"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "former runner"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "motivation problem"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "personal adversity"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "health urgency"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "want-to change"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "must-do change"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "daily walking"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "food quality"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "strength training"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "bodybuilding split"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "university hockey players"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "leg-and-shoulder day"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "back-and-chest day"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "five-by-five back squat"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "five-by-five deadlift"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "consecutive heavy days"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "recovery interference"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "hockey practice"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "athlete schedule"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "whole-body program"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "movement balance"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "weight loss"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "identity change"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "habit formation"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "training template"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "long-term plan"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o1",
+                          "relation":  "is released through",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "precedes",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "offers",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "has",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "is part of past identity of",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "separates want-to change from",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "can create",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "supports",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "supports",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "supports",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "supports",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "follow",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "includes",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "includes",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "occurs before",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "create",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "adds to",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "may better support",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "supports",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "organizes",
+                          "object":  "o35"
+                      }
+                  ]
+}

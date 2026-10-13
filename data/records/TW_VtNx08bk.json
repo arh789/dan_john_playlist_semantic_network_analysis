@@ -1,0 +1,329 @@
+﻿{
+    "playlist_position":  312,
+    "video_id":  "TW_VtNx08bk",
+    "url":  "https://www.youtube.com/watch?v=TW_VtNx08bk",
+    "official_title":  "Best Strength Program, Squats, Easy Strength ABF, Strength Standards, \u0026 More | DJU Podcast #299",
+    "transcript":  {
+                       "file":  "../../transcripts/TW_VtNx08bk_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "29-year-old former football player"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "Gaelic hip"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "pistol-grip hip"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "knee surgery"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "hip pain"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "squat"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "farmer walk"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "thigh muscle"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "sports injury"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "medical assessment"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "longevity investment"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "Now What"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "actor"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "deliberate practice"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "subjective feedback"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "one-to-ten rating"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "craft skill"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "program completion"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "ten-thousand-swing challenge"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "Perfect Workout"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "Kettlebell Workout Companion"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "46-year-old theology student"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "Wednesday-Thursday-Friday schedule"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "press day"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "Armor Building Complex day"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "weekend-warrior program"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "55-year-old triathlete"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "half-Ironman"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "glute strength"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "grip strength"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "over-55 training"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "high repetitions"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "Original Strength"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "sauna"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "hypertrophy"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "mobility"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "strength training"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "retirement saving"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "compound interest"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "health habit"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "workout options"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o3",
+                          "relation":  "can contribute to",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "can contribute to",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "can alter",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "should evaluate",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "can maintain",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "can maintain",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "changes training age of",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "acts as",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "can inform",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "receives",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "can measure",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "develops",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "is a standard for",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "can follow",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "can follow",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "contains",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "constrains",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "can occur before",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "supports",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "prepares for",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "develops",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "develops",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "emphasizes",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "emphasizes",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "emphasizes",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "emphasizes",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "uses",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "resembles",
+                          "object":  "o42"
+                      }
+                  ]
+}

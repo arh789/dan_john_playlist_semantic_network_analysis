@@ -1,0 +1,397 @@
+﻿{
+    "playlist_position":  151,
+    "video_id":  "oipvXjzf6qg",
+    "url":  "https://www.youtube.com/watch?v=oipvXjzf6qg",
+    "official_title":  "The Dan John Podcast - Ep 136 | Kbs vs. Olympic Lifts, Tabata Swings, Being Mellow, and More",
+    "transcript":  {
+                       "file":  "../../transcripts/oipvXjzf6qg_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Olympic lifting"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "clean and press"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "clean and jerk"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "upper-body hypertrophy"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "kettlebells"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "bodyweight movements"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "equipment availability"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "technical coaching"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "kettlebell substitute"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "Sleepless in Seattle standards"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "double 32-kilogram kettlebells"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "double-kettlebell squat"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "double-kettlebell press"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "double-kettlebell hinge"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "barbell standards"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "kettlebell standards"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "physical asymmetry"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "youth fitness standards"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "endurance-dominant child"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "power-dominant child"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "sport identification"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "Tabata protocol"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "twenty-second work interval"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "ten-second rest interval"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "barbell front squat"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "two-arm kettlebell swing"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "four minutes perfect technique"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "bottom-to-bottom squat"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "mellowness"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "kindness"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "empathy"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "personal advantages"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "rehab-clinic beginner"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "skinny weak trainee"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "basic exercise mix"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "moderate repetitions"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "progressive loading"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "Transformation Program"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "kettlebell snatch substitution"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "six sets of eight"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "single-sided work"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "whip snatch"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "clean-grip snatch"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "hook grip"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "standard grip"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "Tommy Kono"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "alternating grip practice"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "sleep quality"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "dark room"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "mattress and pillow"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "first-time father"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "infant sleep"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "Transformation Program short workout"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "one-lift-a-day program"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "fourteen-minute workout"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "provides more",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "may suit general trainees better than",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "determines whether to use",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "supports",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "can approximate but not fully replace",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "include",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "can expose",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "can expose",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "can identify",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "can identify",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "can follow",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "alternates",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "alternates",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "works well for",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "requires",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "uses",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "is distinguished from",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "supports deliberate",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "motivate",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "needs",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "builds",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "does not reproduce two barbell exercises in",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "creates excessive volume in",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "doubles exposure in",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "is paired with",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "recommended alternating",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "includes",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "is a foundation of",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "support",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o52",
+                          "relation":  "should prioritize",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o54",
+                          "relation":  "lasts about",
+                          "object":  "o56"
+                      },
+                      {
+                          "subject":  "o55",
+                          "relation":  "fits life of",
+                          "object":  "o52"
+                      }
+                  ]
+}

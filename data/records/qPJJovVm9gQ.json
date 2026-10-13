@@ -1,0 +1,414 @@
+﻿{
+    "playlist_position":  325,
+    "video_id":  "qPJJovVm9gQ",
+    "url":  "https://www.youtube.com/watch?v=qPJJovVm9gQ",
+    "official_title":  "\"What the Hell\" Effect, Loaded Carries, Olympic Lifts, Travel, Staying Consistent | DJU Podcast #313",
+    "transcript":  {
+                       "file":  "../../transcripts/qPJJovVm9gQ_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "310-pound police detective"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "traveling job"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "14-pound weight loss"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "black coffee"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "walking"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "inconsistent schedule"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "National Guard soldier"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "Army Combat Fitness Test"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "deadlift"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "sprint-drag-carry"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "push-up"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "plank"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "two-mile run"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "hill sprint"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "farmer walk"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "sled drag"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "kettlebell snatch"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "distance run"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "rucking"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "52-year-old woman"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "Olympic lifting"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "agility"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "strength"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "athleticism"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "longevity"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "injury risk"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "What the Hell effect"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "double clean and press"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "single snatch"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "heavy swing"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "long cycle"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "everyday strength"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "grip strength"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "190-kilogram deadlift"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "40-day Easy Strength"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "training consistency"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "training ADHD"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "improvised loaded carry"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "farmer bar"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "loadable implement"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "32-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "15-year-old multi-sport athlete"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "volleyball"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "basketball"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "track and field"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "Irish dancing"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "shot put"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "discus"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "javelin"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "high jump"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "youth development"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "has",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "supported",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "creates",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "takes",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "includes",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "includes",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "includes",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "includes",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "includes",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "supports",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "supports",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "supports",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "supports",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "supports",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "can learn",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "can develop",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "can support",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "should govern",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "can create",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "can create",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "can create",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "can create",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "improves",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "improves",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "supports",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "reduces",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "is an",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "can exceed",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "plays",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "plays",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "competes in",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "practices",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "includes",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "includes",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "includes",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "includes",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o54",
+                          "relation":  "should support",
+                          "object":  "o45"
+                      }
+                  ]
+}

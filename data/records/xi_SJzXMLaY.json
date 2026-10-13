@@ -1,0 +1,354 @@
+﻿{
+    "playlist_position":  159,
+    "video_id":  "xi_SJzXMLaY",
+    "url":  "https://www.youtube.com/watch?v=xi_SJzXMLaY",
+    "official_title":  "The Dan John Podcast - Ep 144 | Tracking Metrics, Graduate Studies, Waking Up at 300lbs and More",
+    "transcript":  {
+                       "file":  "../../transcripts/xi_SJzXMLaY_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Romanian deadlift"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "stiff-leg deadlift"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "snatch-grip deadlift"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "rack pull"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "thick-bar deadlift"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "deficit deadlift"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "Bret Contreras"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "top-down hinge"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "knee clearance"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "poor RDL coaching"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "training diary"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "body weight"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "press performance"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "creatine weight gain"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "bowel movement"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "sugar-free orange drink"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "hydration metric"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "sleep quality"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "resting heart rate"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "caloric intake"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "two-number goal system"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "Earl Nightingale"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "daily goal review"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "long-term goals"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "goal achievement"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "graduate studies"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "opportunity cost"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "30-year-old parent"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "three-month-old son"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "high-paying unhappy job"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "teaching degree"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "part-time school"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "career change"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "family obligations"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "second master’s degree"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "mother beginning lifting"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "squat"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "deadlift"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "press"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "elbow pain"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "shopping-bag history"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "joint-pain workaround"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "lifting straps"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "exercise substitution"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "300-pound bodyweight"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "health wake-up call"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "weight-loss decision"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "hydration"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o1",
+                          "relation":  "is a",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o1",
+                          "relation":  "can serve as an Easy Strength variation of",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "distorts",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "was recommended by",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "is used in",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "is used in",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "records",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "correlates with",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "can raise",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "can include",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "supports",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "can record",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "can record",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "focuses",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "taught",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "supports",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "carry",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "increases",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "reduces disruption from",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "enables",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "motivates",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "was harder with",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "performs",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "provokes",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "preceded",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "may provide",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "may provide",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "triggers",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "motivates",
+                          "object":  "o48"
+                      }
+                  ]
+}

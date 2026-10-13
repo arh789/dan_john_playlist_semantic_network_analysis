@@ -1,0 +1,364 @@
+﻿{
+    "playlist_position":  158,
+    "video_id":  "dQCy5pyFoEk",
+    "url":  "https://www.youtube.com/watch?v=dQCy5pyFoEk",
+    "official_title":  "The Dan John Podcast - Ep 143 | Family Time, Throwing, Round Back Training, and More",
+    "transcript":  {
+                       "file":  "../../transcripts/dQCy5pyFoEk_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "father of two young children"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "sleep deprivation"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "garden-shed gym"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "extreme temperatures"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "family time"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "short training sessions"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "Transformation Program"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "one-lift-a-day"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "minimum effective training"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "medicine-ball throwing"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "lifters"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "six-pound medicine ball"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "throw for height"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "backward throw for distance"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "jump throw"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "throwing volume"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "goblet squat substitution"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "unknown program acronym"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "double-kettlebell rack squat"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "back-squat benchmark"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "rounded-back training"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "Jefferson curl"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "back extension"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "hyperextension"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "reverse hyperextension"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "Olympic-lift posture"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "Dick Notmeyer"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "weighted hyperextension"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "gradual spinal loading"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "Carry and Connect"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "Melbourne men’s health group"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "hour-long walk"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "sandbag carry"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "40-to-80-kilogram sandbag"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "social connection"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "teacher career"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "former military preparation"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "quadrant-two athlete"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "active-shooter response"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "general physical capacity"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "physical-therapy patient"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "starting resistance"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "five-repetition maximum"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "one-repetition maximum"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "exercise machine selector"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "elderly underdosing"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "clinical judgment"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "training time"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "goblet squat"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o1",
+                          "relation":  "experiences",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "limits",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "exposes training to",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "fit around",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "provides",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "provides",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "adds explosiveness for",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "supports high-quality",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "is a form of",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "is a form of",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "is a form of",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "depends on demands of",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can exceed loading of",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "cannot be matched easily by",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "uses",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "loads feet rather than torso unlike",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "prescribed",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "reinforced",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "is required for",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "meets in",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "combines",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "combines",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "uses",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "is fostered by",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "built",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "still benefits from",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "can demand",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "can estimate",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "is inappropriate for many",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "simplifies",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "results from overly cautious",
+                          "object":  "o47"
+                      }
+                  ]
+}

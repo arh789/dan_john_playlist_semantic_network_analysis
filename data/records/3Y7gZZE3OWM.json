@@ -1,0 +1,591 @@
+﻿{
+    "playlist_position":  237,
+    "video_id":  "3Y7gZZE3OWM",
+    "url":  "https://www.youtube.com/watch?v=3Y7gZZE3OWM",
+    "official_title":  "Putting on SIZE \u0026 MUSCLE, Ladder Training, Greasing the Groove \u0026 Best Squats | Dan John Podcast #220",
+    "transcript":  {
+                       "file":  "../../transcripts/3Y7gZZE3OWM_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "children\u0027s reading"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "Great Books tradition"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "Harry Potter"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "Dr. Seuss"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "Goodnight Moon"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "Pat the Bunny"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "The Sword in the Stone"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "T. H. White"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "The Westing Game"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "Holes"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "young-adult fiction"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "chapter book"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "two-three-five-ten ladder"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "12-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "daily press"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "training adaptation"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "Dave Draper squat bar"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "high-repetition back squat"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "chain resistance"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "injury accommodation"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "discus thrower"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "rugby player"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "muscle mass"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "strength"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "front squat"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "snatch"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "clean"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "bodybuilding assistance"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "weekend heavy session"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "bench press"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "military press"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "deadlift"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "chin-up"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "adductor strain"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "running"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "mountain climbing"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "reverse barbell lunge"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "ab wheel"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "overhead squat"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "back squat"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "zercher squat"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "Stu McGill"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "Percy Cerutty"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "hill run"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "greasing the groove"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "typing skill"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "Olympic snatch"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "discus camp"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "kettlebell certification"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "Turkish get-up"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "sprint"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "vertical jump"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "broad jump"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "timed repetition"
+                    },
+                    {
+                        "id":  "o57",
+                        "label":  "high-school football player"
+                    },
+                    {
+                        "id":  "o58",
+                        "label":  "wrestling"
+                    },
+                    {
+                        "id":  "o59",
+                        "label":  "hurdling"
+                    },
+                    {
+                        "id":  "o60",
+                        "label":  "track and field"
+                    },
+                    {
+                        "id":  "o61",
+                        "label":  "Mass Made Simple"
+                    },
+                    {
+                        "id":  "o62",
+                        "label":  "football conditioning"
+                    },
+                    {
+                        "id":  "o63",
+                        "label":  "garbage bodybuilding"
+                    },
+                    {
+                        "id":  "o64",
+                        "label":  "power clean"
+                    },
+                    {
+                        "id":  "o65",
+                        "label":  "relay team"
+                    },
+                    {
+                        "id":  "o66",
+                        "label":  "agility work"
+                    },
+                    {
+                        "id":  "o67",
+                        "label":  "high-repetition squat"
+                    },
+                    {
+                        "id":  "o68",
+                        "label":  "food intake"
+                    },
+                    {
+                        "id":  "o69",
+                        "label":  "children\u0027s book"
+                    },
+                    {
+                        "id":  "o70",
+                        "label":  "restorative practice"
+                    },
+                    {
+                        "id":  "o71",
+                        "label":  "available load"
+                    },
+                    {
+                        "id":  "o72",
+                        "label":  "wrist injury"
+                    },
+                    {
+                        "id":  "o73",
+                        "label":  "rugby practice"
+                    },
+                    {
+                        "id":  "o74",
+                        "label":  "squat mobility"
+                    },
+                    {
+                        "id":  "o75",
+                        "label":  "lunge"
+                    },
+                    {
+                        "id":  "o76",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o77",
+                        "label":  "throwing practice"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "can follow",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "can be read as",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "wrote",
+                          "object":  "o69"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "is a",
+                          "object":  "o69"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "is a",
+                          "object":  "o69"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "wrote",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "is",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "is",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "can use",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "can use",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "can feel",
+                          "object":  "o70"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "responds to",
+                          "object":  "o71"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "can accommodate",
+                          "object":  "o72"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can use",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "supports training of",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "may seek",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "may seek",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "can precede",
+                          "object":  "o73"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "can precede",
+                          "object":  "o73"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "can precede",
+                          "object":  "o73"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "can precede",
+                          "object":  "o73"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "can include",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "can include",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "can include",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "can accompany",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "may contribute to",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "can contribute to",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "can contribute to",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "can replace painful",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "develops",
+                          "object":  "o74"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "develops",
+                          "object":  "o74"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "warned about",
+                          "object":  "o75"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "recommended",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "recommended",
+                          "object":  "o76"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "recommended",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "develops",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "can develop",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "uses frequent",
+                          "object":  "o77"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "uses repeated",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o54",
+                          "relation":  "may use",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o55",
+                          "relation":  "may use",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o53",
+                          "relation":  "requires",
+                          "object":  "o56"
+                      },
+                      {
+                          "subject":  "o56",
+                          "relation":  "protects quality of",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o57",
+                          "relation":  "can use",
+                          "object":  "o58"
+                      },
+                      {
+                          "subject":  "o57",
+                          "relation":  "can use",
+                          "object":  "o59"
+                      },
+                      {
+                          "subject":  "o57",
+                          "relation":  "can use",
+                          "object":  "o60"
+                      },
+                      {
+                          "subject":  "o61",
+                          "relation":  "can prepare",
+                          "object":  "o57"
+                      },
+                      {
+                          "subject":  "o61",
+                          "relation":  "builds",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o61",
+                          "relation":  "uses",
+                          "object":  "o67"
+                      },
+                      {
+                          "subject":  "o61",
+                          "relation":  "requires high",
+                          "object":  "o68"
+                      },
+                      {
+                          "subject":  "o63",
+                          "relation":  "can precede",
+                          "object":  "o61"
+                      },
+                      {
+                          "subject":  "o64",
+                          "relation":  "can support",
+                          "object":  "o62"
+                      },
+                      {
+                          "subject":  "o65",
+                          "relation":  "develops",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o66",
+                          "relation":  "helps adapt new",
+                          "object":  "o24"
+                      }
+                  ]
+}

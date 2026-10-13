@@ -1,0 +1,335 @@
+﻿{
+    "playlist_position":  139,
+    "video_id":  "IsdGBs-wmC4",
+    "url":  "https://www.youtube.com/watch?v=IsdGBs-wmC4",
+    "official_title":  "The Dan John Podcast - Ep 124 | KB Mile, Pushing Children, Avoiding MAPS, and More",
+    "transcript":  {
+                       "file":  "../../transcripts/IsdGBs-wmC4_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "fitness fads"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Soviet and Bulgarian labels"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "unsupported training claims"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "MAPS training systems"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "suspension training"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "kettlebells"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "loaded carries"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "goblet squats"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "Thomas DeLorme rep ranges"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "15-to-30 total reps"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "rule of ten"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "75-to-125 swings"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "three sets of eight"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "five sets of five"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "five sets of three"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "twice-weekly lifting"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "elite discus thrower"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "throwing practice"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "strength development"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "load variation"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "intensity variation"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "percentage charts"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "daily readiness"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "parent-directed youth fitness"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "child autonomy"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "organized sport"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "free play"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "one light kettlebell"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "half-kneeling press"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "single-arm row"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "high-repetition snatch"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "hundred-rep sets"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "Turkish get-up"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "program hopping"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "paralysis by analysis"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "mediocre training results"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "consistent program completion"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "28-year-old trainee"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "simple training plan"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "KB mile"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "walking with a kettlebell"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "suitcase carry"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "rack carry"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "overhead carry"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "marketing labels"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "kettlebell conditioning"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "training stress"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "parental ambition"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "can disguise",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o1",
+                          "relation":  "should be judged by evidence rather than",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "are treated skeptically as",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "were initially doubted but proved useful for",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "support",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "falls within",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "falls within",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "implements",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "provides volume for",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "can support",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "leaves recovery and time for",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "changes",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "is difficult to separate from",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "poorly represent",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "can undermine",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "supports",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "should follow the child rather than",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "can be made harder through",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "can be used for",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "may use",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "produces",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "drives",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "counters",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "combines walking with",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "can rotate",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "can rotate",
+                          "object":  "o44"
+                      }
+                  ]
+}

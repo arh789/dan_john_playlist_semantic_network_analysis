@@ -1,0 +1,307 @@
+﻿{
+    "playlist_position":  330,
+    "video_id":  "6R_3B84rdlc",
+    "url":  "https://www.youtube.com/watch?v=6R_3B84rdlc",
+    "official_title":  "Pressing the Beast, Front vs Back Squat, Combining Endurance \u0026 Strength, Pull-ups | DJU Podcast #318",
+    "transcript":  {
+                       "file":  "../../transcripts/6R_3B84rdlc_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Beast kettlebell"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "48-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "13-repetition press"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "pressing background"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "runner"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "double 16-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "lower-back blowout"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "sciatica"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "fear of reinjury"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "medical advice"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "front squat"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "back squat"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "Utah Jazz"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "John Stockton"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "Mark Eaton"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "Karl Malone"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "Walter Palmer"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "chin-up record"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "14 chin-ups"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "55-year-old lifter"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "middle-aged pull-up syndrome"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "elbow pain"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "blood donation"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "American Red Cross"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "five annual donations"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "fasted walk"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "training recovery"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "41-year-old shift worker"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "three children"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "running"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "swimming"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "overhead press"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "pull-up"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "glute bridge"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "upper-lower split"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "endurance training"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "strength training"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "exercise order"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "shift work"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "weighs",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "used",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "supports",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "began",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "can cause",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "follows",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "should govern",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "differs from",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o1",
+                          "relation":  "worked with",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "played for",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "played for",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "played for",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "played for",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "is a",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "can cause",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "can use",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "describe frequency of",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "can precede",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "affects",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "constrains",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "is an",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "is an",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "is a",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "is a",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "is a",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "balances",
+                          "object":  "o38"
+                      }
+                  ]
+}

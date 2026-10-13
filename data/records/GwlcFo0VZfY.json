@@ -1,0 +1,402 @@
+﻿{
+    "playlist_position":  210,
+    "video_id":  "GwlcFo0VZfY",
+    "url":  "https://www.youtube.com/watch?v=GwlcFo0VZfY",
+    "official_title":  "Clean \u0026 Press Program, Kettlebells for BJJ, Gaining Strength \u0026 Good Fitness Data | DJU Podcast #193",
+    "transcript":  {
+                       "file":  "../../transcripts/GwlcFo0VZfY_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "point-poke-snap model"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "point strength"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "voluntary contraction"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "snap"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "snapacity"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "whole-body bracing"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "suitcase carry"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "plank"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "overhead squat"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "lockout deadlift"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "three sets of eight"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "Olympic lift"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "kettlebell ballistic"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "pre-stretch"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "high knees"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "butt kickers"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "hill sprint"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "psyllium husk"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "dietary fiber"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "gut microbiome"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "hard gainer"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "Brazilian jiu-jitsu"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "training stress"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "hypertrophy progression"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "fish oil"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "fitness tracker"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "sleep data"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "paper training journal"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "long-term adherence"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "barbell clean and press"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "transformation program"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "front squat"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "arm training"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "single repetition"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "three-day clean-and-press program"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "hardstyle kettlebell training"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "kettlebell sport"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "grappling conditioning"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "sport practice"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "competition kettlebell"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "Joe Rogan"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "weightlifting shoe"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "heel elevation"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "squat catch"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "barefoot lifting"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "hook grip"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "athletic tape"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "training equipment"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "athletic performance"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "includes",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "includes",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "includes",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "means repeated",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "develops",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "develops",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "develops",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "develop",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "develops",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "develops",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "creates",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "develop",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "develop",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "develops",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "provides",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "supports",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "adds to",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "can contribute to label",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "can use",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "may support",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "can provide",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "supports",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "requires",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "anchors",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "uses",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "supplements",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "supplements",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "tests",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "supports",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "provides",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "can be used for",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "uses",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "provides",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "supports",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "can reach submaximal",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "can require",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "should support",
+                          "object":  "o51"
+                      }
+                  ]
+}

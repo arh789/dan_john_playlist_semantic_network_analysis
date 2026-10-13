@@ -1,0 +1,587 @@
+﻿{
+    "playlist_position":  242,
+    "video_id":  "NastRmc-S9o",
+    "url":  "https://www.youtube.com/watch?v=NastRmc-S9o",
+    "official_title":  "Adjustable Kettlebells, Minimalism, Best Exercises, Push-ups, O-Lifting  | Dan John Podcast #226",
+    "transcript":  {
+                       "file":  "../../transcripts/NastRmc-S9o_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Army Special Forces candidate"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "mental resilience"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "never-quit attitude"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "team loyalty"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "attention to detail"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "post-deployment program"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "hypertrophy and mobility program"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "rucking"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "orienteering"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "compass"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "map"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "decision under fatigue"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "lacrosse drill"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "pull-up alternative"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "row"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "high pull"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "power clean"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "power snatch"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "suspension trainer"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "T-Y-I drill"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "single-arm row"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "Vince Gironda"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "middle-age pull-up syndrome"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "Southwood Program"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "14-year-old rugby player"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "military press"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "front squat"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "bench press"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "eight-six-four progression"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "barbell complex"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "Easy Strength for Olympic Lifting"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "general conditioning"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "Olympic lift"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "dead hang"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "goblet squat hold"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "Original Strength"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "Tim Anderson"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "Stoney stretch"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "windmill stick"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "mobility training"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "hot yoga"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "cross-country runner"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "push-up"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "plank"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "bear crawl"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "crab walk"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "single-leg Romanian deadlift"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "suitcase carry"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "sled push"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "sled pull"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "Humane Burpee"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "manual resistance row"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "adjustable kettlebell"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "adjustable dumbbell"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "fixed-weight kettlebell"
+                    },
+                    {
+                        "id":  "o57",
+                        "label":  "equipment durability"
+                    },
+                    {
+                        "id":  "o58",
+                        "label":  "lifting belt"
+                    },
+                    {
+                        "id":  "o59",
+                        "label":  "push-up challenge"
+                    },
+                    {
+                        "id":  "o60",
+                        "label":  "one-thousand push-ups"
+                    },
+                    {
+                        "id":  "o61",
+                        "label":  "horizontal row"
+                    },
+                    {
+                        "id":  "o62",
+                        "label":  "standing barbell press"
+                    },
+                    {
+                        "id":  "o63",
+                        "label":  "seated press"
+                    },
+                    {
+                        "id":  "o64",
+                        "label":  "seesaw press"
+                    },
+                    {
+                        "id":  "o65",
+                        "label":  "half-kneeling kettlebell press"
+                    },
+                    {
+                        "id":  "o66",
+                        "label":  "clean and press"
+                    },
+                    {
+                        "id":  "o67",
+                        "label":  "pull-up"
+                    },
+                    {
+                        "id":  "o68",
+                        "label":  "latissimus dorsi"
+                    },
+                    {
+                        "id":  "o69",
+                        "label":  "pull pattern"
+                    },
+                    {
+                        "id":  "o70",
+                        "label":  "press"
+                    },
+                    {
+                        "id":  "o71",
+                        "label":  "warm-up sets"
+                    },
+                    {
+                        "id":  "o72",
+                        "label":  "easy-strength approach"
+                    },
+                    {
+                        "id":  "o73",
+                        "label":  "upright posture"
+                    },
+                    {
+                        "id":  "o74",
+                        "label":  "shoulder hypertrophy"
+                    },
+                    {
+                        "id":  "o75",
+                        "label":  "hip"
+                    },
+                    {
+                        "id":  "o76",
+                        "label":  "vertical press strength"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "requires",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "includes",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "includes",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "requires",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "is also called",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "practices",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "practices",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "uses",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "uses",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "trains",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "can replace",
+                          "object":  "o67"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "can replace",
+                          "object":  "o67"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "can replace",
+                          "object":  "o67"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "trains",
+                          "object":  "o68"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "can perform",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "can perform",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "recommended pause in",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o67",
+                          "relation":  "can contribute to",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "can train",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "includes",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "includes",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "includes",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "includes",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "uses",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "warms up for",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "uses",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "develops",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "supports",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "supports",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "was created by",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "assesses",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "assesses",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "can develop",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "can use",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "can use",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "can use",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "can use",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "can use",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "can use",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "can use",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "can use",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o52",
+                          "relation":  "combines",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o53",
+                          "relation":  "can provide",
+                          "object":  "o69"
+                      },
+                      {
+                          "subject":  "o55",
+                          "relation":  "can loosen during",
+                          "object":  "o70"
+                      },
+                      {
+                          "subject":  "o54",
+                          "relation":  "may have lower",
+                          "object":  "o57"
+                      },
+                      {
+                          "subject":  "o56",
+                          "relation":  "has high",
+                          "object":  "o57"
+                      },
+                      {
+                          "subject":  "o58",
+                          "relation":  "can be used after",
+                          "object":  "o71"
+                      },
+                      {
+                          "subject":  "o60",
+                          "relation":  "can use",
+                          "object":  "o72"
+                      },
+                      {
+                          "subject":  "o61",
+                          "relation":  "balances",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o62",
+                          "relation":  "is preferred over",
+                          "object":  "o63"
+                      },
+                      {
+                          "subject":  "o63",
+                          "relation":  "requires",
+                          "object":  "o73"
+                      },
+                      {
+                          "subject":  "o64",
+                          "relation":  "develops",
+                          "object":  "o74"
+                      },
+                      {
+                          "subject":  "o65",
+                          "relation":  "mobilizes",
+                          "object":  "o75"
+                      },
+                      {
+                          "subject":  "o66",
+                          "relation":  "develops",
+                          "object":  "o76"
+                      }
+                  ]
+}

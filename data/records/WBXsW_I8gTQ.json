@@ -1,0 +1,355 @@
+﻿{
+    "playlist_position":  165,
+    "video_id":  "WBXsW_I8gTQ",
+    "url":  "https://www.youtube.com/watch?v=WBXsW_I8gTQ",
+    "official_title":  "Breaking PRs, Training for Military, Tall Guys, and More | Dan John Podcast - Ep151",
+    "transcript":  {
+                       "file":  "../../transcripts/WBXsW_I8gTQ_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "judo"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "wrestling"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "American football"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "ground contact"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "rolling and falling"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "football player"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "outdoor summer training"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "kettlebell"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "ten-pound medicine ball"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "high-school track"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "sprints"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "jumps"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "throws"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "hill sprints"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "Contrarian Approach to the Discus Throw"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "tall lanky athlete"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "rack deadlift"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "box deadlift"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "deep floor pull"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "squat movement"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "spinal balance"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "shoulder health"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "hip health"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "knee health"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "bodybuilding repetitions"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "15-to-25 reps"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "military population"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "overuse pattern"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "surgical history"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "parachuting risk"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "Swiss-bar bench press"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "landmine press"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "belt squat"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "crawling"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "goblet-hold pattern"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "split kneeling"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "movement restoration"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "barbell storage"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "outdoor plates"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "weather protection"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "405-pound deadlift goal"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "22-day cycle"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "incline bench personal record"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "thick-bar deadlift personal record"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "pull-up improvement"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "snatch-grip deadlift improvement"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "low-fatigue practice"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o1",
+                          "relation":  "teaches",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "benefit",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "benefits",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "can combine",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "can combine",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "provides",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "provides",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "provides",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "add conditioning to",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "guides",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "reduces range for",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "reduces range for",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "balances hinge strength in",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "should be monitored in",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "provide bodybuilding work for",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "accumulates",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "may have",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "influences exercise choice for",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "accommodates",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "accommodates",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "accommodates",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "supports",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "supports",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "preserves",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "requires appropriate",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "uses",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "produced",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "produced",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "produced",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "produced",
+                          "object":  "o47"
+                      }
+                  ]
+}

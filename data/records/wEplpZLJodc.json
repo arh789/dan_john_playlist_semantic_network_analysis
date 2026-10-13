@@ -1,0 +1,307 @@
+﻿{
+    "playlist_position":  195,
+    "video_id":  "wEplpZLJodc",
+    "url":  "https://www.youtube.com/watch?v=wEplpZLJodc",
+    "official_title":  "SQUAT Program, Old People Workouts, Whole Body Exercises, ROM on Squats | Dan John Podcast #178",
+    "transcript":  {
+                       "file":  "../../transcripts/wEplpZLJodc_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "66-year-old trainee"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "glute development"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "resistance band"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "hip thrust"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "clamshell"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "15-to-1 countdown"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "Bret Contreras equipment"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "road workout"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "thumbs into floor"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "shoulder opening"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "knee sleeves"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "competitive squatter"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "federation rules"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "overtraining"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "support gear"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "Squat 101"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "Mass Made Simple"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "twelve-week squat block"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "45-year-old sprinter"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "track competition"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "post-program choice"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "Inner Circle"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "intermittent fasting"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "early-morning lifting"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "post-workout protein window"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "fasted training"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "Lean Made Simple"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "Slade Jones"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "Bus Bench program"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "Park Bench training"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "hip range of motion"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "ankle range of motion"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "SI-joint tightness"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "squat depth"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "time off"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "Original Strength"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "whole-body military press"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "Anatomy Trains"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "snatch practice"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "snatch-grip deadlift"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "competitive squat"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "squat"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "mobility"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "military press"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "whole-body exercise"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "linked system"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o1",
+                          "relation":  "seeks",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "loads",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "alternates",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "alternates",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "supports",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "may increase",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "can mask",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "precedes",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "combines",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "should consider",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "can occur during",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "is less absolute than commonly claimed during",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "was written by",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "is a",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "depends on",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "depends on",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "appears at bottom of",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "can assess",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "can improve",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "is a",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "describes body as",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "supports",
+                          "object":  "o39"
+                      }
+                  ]
+}

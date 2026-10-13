@@ -1,0 +1,266 @@
+﻿{
+    "playlist_position":  197,
+    "video_id":  "pAT4qK6Se4g",
+    "url":  "https://www.youtube.com/watch?v=pAT4qK6Se4g",
+    "official_title":  "Easy Strength, BEST Exercises, Fat Loss Program, TOP Supplements \u0026 More... | Dan John Podcast #180",
+    "transcript":  {
+                       "file":  "../../transcripts/pAT4qK6Se4g_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "five sets of two"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "strength framework"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "Conditioning for a Purpose"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "high-school strength article"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "safe slow start"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "simple progression"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "best exercise question"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "push-pull-hinge-squat-carry"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "individual goal"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "fat-loss program"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "five-month fat-loss block"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "June-to-September training"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "diet duration"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "nonexclusive goal"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "maintenance phase"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "omega-3 supplement"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "fish oil"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "Phil Maffetone"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "Mark Halpern"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "nighttime supplements"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "magnesium"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "vitamin D"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "protein intake"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "vegetables"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "water"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "sleep"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "walking"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "workout generator"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "exercise selection"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "fat-loss plateau"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "training variety"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "sustainable habit"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "supplement limits"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "permanent training goal"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "nutrition guidance"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "fat loss"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o1",
+                          "relation":  "is a",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "recommended",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "supports",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "uses",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "depends on",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "organizes",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "runs from",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "should not be",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "should follow",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "provides",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "influences",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "influences",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "may include",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "may include",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "supports",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "support",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "supports",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "supports",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "supports",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "provides",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "matters more than",
+                          "object":  "o34"
+                      }
+                  ]
+}

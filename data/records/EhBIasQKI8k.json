@@ -1,0 +1,311 @@
+﻿{
+    "playlist_position":  248,
+    "video_id":  "EhBIasQKI8k",
+    "url":  "https://www.youtube.com/watch?v=EhBIasQKI8k",
+    "official_title":  "Building Muscle with Kettlebells, Bulking \u0026 Cutting, Goblet Squats, Presses \u0026 More | DJU Podcast 232",
+    "transcript":  {
+                       "file":  "../../transcripts/EhBIasQKI8k_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "kettlebell hypertrophy"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "military press"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "double-kettlebell front squat"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "48-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "24-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "28-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "heavy goblet squat"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "uneven kettlebell pair"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "lean body mass"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "slow bulk"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "calorie intake"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "automatic calorie deficit"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "cutting phase"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "box jump"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "plyometric training"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "landing mechanics"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "longevity"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "air travel"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "travel pillow"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "minimal packing"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "cold-weather beanie"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "hybrid athlete"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "marathon"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "powerlifting competition"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "long run"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "strength session"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "event-specific practice"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "weight pentathlon"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "side press"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "bent press"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "windmill"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "kettlebell military press"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "latissimus dorsi"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "shoulder"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "goblet-squat-to-overhead-squat drill"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "hip mobility"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "thoracic mobility"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "energy expenditure"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "stable calorie intake"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "lateral lean"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "can use",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "can use",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "can load",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "can form",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "can create",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "can be used in",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "aims to add",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "increases",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "can become",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "can create",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "is a form of",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "requires safe",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "protects",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "supports",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "belongs in",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "combines",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "combines",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "must be balanced with",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "prepares",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "requires multiple",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "combines pressing with",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "uses",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "develops",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "uses",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "develops",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "develops",
+                          "object":  "o39"
+                      }
+                  ]
+}

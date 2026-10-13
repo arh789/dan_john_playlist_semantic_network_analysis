@@ -1,0 +1,316 @@
+﻿{
+    "playlist_position":  320,
+    "video_id":  "W8PMK4_SdDs",
+    "url":  "https://www.youtube.com/watch?v=W8PMK4_SdDs",
+    "official_title":  "ABF, Overtraining, Olympic Lifting, Strength Standards, Recovery Tips \u0026 More | DJU Podcast #308",
+    "transcript":  {
+                       "file":  "../../transcripts/W8PMK4_SdDs_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "58-year-old family caregiver"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "strength training"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "body composition"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "joint mobility"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "walking"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "three-day schedule"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "30-to-40-minute workout"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "Olympic lifter"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "200-kilogram total"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "85-kilogram snatch"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "115-kilogram clean and jerk"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "three-day Olympic program"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "lift frequency"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "accessory day"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "shoulder replacement"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "postoperative rehabilitation"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "medical professional"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "mobility exercise"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "strength recovery"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "annual training plan"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "strong enough"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "kettlebell load"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "Beast kettlebell"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "seasonal cold"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "two-month layoff"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "lost strength"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "lost resilience"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "six-week rebuild"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "overtraining"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "recovery"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "sleep"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "nutrition"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "mobility"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "walking volume"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "Olympic lifting standard"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "family care"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "program adherence"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "over-55 training"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "training goal"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "strength"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "uses",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "supports",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "emphasizes",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "emphasizes",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "emphasizes",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "can use",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "fits",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "combines",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "combines",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "can increase",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "supplements",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "requires",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "guides",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "supports",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "can center on",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "is a high",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "depends on",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "caused",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "caused",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "caused",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "restored",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "can slow",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "supports",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "supports",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "supports",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "supports",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "supports",
+                          "object":  "o22"
+                      }
+                  ]
+}

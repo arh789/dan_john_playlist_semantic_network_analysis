@@ -1,0 +1,355 @@
+﻿{
+    "playlist_position":  145,
+    "video_id":  "HYRsRutlRlU",
+    "url":  "https://www.youtube.com/watch?v=HYRsRutlRlU",
+    "official_title":  "The Dan John Podcast - Ep 129 | 48kg KBs, Shift Work, Goals at 65, and More",
+    "transcript":  {
+                       "file":  "../../transcripts/HYRsRutlRlU_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "35-year-old son"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "48-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "24-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "young children"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "inconsistent training"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "kyphosis"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "injury concern"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "heavy kettlebell technique"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "qualified coaching"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "minimalist training"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "47-year-old trainee"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "thirty-pound weight gain"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "fifteen pounds lean mass"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "fat loss"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "long-term sustainable diet"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "strength retention"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "fractured foot surgery"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "avid runner"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "stress relief"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "weight management"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "postoperative recovery"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "spousal coaching"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "walking"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "HeavyHands"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "upper-body ergometer"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "police officer"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "night shift"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "day shift"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "SWAT team"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "Brazilian jiu-jitsu"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "twelve-hour shifts"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "well-rounded tactical fitness"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "65th-birthday goals"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "sub-eight-minute mile"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "bodyweight push press"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "ten pull-ups"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "one hundred push-ups"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "300-pound trap-bar deadlift"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "65-mile bike ride"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "six-minute goblet-squat test"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "10K running"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "sub-45-minute 10K"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "running after lifting"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "Rule of 1200"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "training volume"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "recovery"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "training schedule"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "belongs to",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "contribute to",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "increases",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "is advisable before using",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "offers safer practice before",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "produced",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "includes reported",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "drives",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "is desired during",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "interrupts",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "uses running for",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "uses running for",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "depends on clearance after",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "can add training to",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "is limited by relationship dynamics during",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "complicates",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "changes training opportunities for",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "requires",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "adds sport demand to",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "must shape weekly",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "is one of",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "is one of",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "is one of",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "is disproportionately endurance-heavy among",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "is one of",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "is one of",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "provides a squat standard for",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "can accompany",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "connects",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "must preserve",
+                          "object":  "o47"
+                      }
+                  ]
+}

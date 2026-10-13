@@ -1,0 +1,391 @@
+﻿{
+    "playlist_position":  303,
+    "video_id":  "9jppTuMoqRY",
+    "url":  "https://www.youtube.com/watch?v=9jppTuMoqRY",
+    "official_title":  "Minimalist Program, Getting Shredded, KB Swings, Easy Strength, Overtraining | DJU Podcast #289",
+    "transcript":  {
+                       "file":  "../../transcripts/9jppTuMoqRY_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "34-year-old trainee"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "ten-year training hiatus"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "fat loss"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "strength"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "appearance goal"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "kettlebell training"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "calorie counting"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "calorie deficit"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "Fitbit app"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "weighted-vest walk"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "40-pound vest"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "30-pound weight loss"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "program completion"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "getting shredded"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "intermittent fasting"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "lift-and-sprint workout"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "hill sprint"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "three-round limit"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "collision sport"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "throwing athlete"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "once-weekly hypertrophy"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "DeLorme method"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "three sets of eight"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "three sets of ten"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "three sets of twelve"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "Olympic lifting"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "Wendler 5/3/1"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "high-repetition press"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "training recovery"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "overtraining"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "pull-up decline"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "unchanged bodyweight"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "muscle atrophy"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "fat gain"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "body composition"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "Romanian deadlift"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "front squat"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "overhead press"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "kettlebell snatch"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "kettlebell clean"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "minimalist program"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "martial arts"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "handstand"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "split flexibility"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "multiple goals"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "frequent practice"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "program change"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "training priority"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o9",
+                          "relation":  "supports",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "tracks",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "can combine with",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "uses",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "achieved",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "precedes",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "requires",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "can create",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "can combine",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "can combine",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "governs",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "supports",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "supports",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "uses",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "progresses to",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "progresses to",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "can supplement",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "can supplement",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "can use",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "limits",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "can contribute to",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "can conceal",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "can accompany",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "changes",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "can include",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "can include",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "can include",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "can include",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "can include",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "can include",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "can combine with",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "develops",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "develops",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "require",
+                          "object":  "o52"
+                      }
+                  ]
+}

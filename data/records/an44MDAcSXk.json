@@ -1,0 +1,287 @@
+﻿{
+    "playlist_position":  177,
+    "video_id":  "an44MDAcSXk",
+    "url":  "https://www.youtube.com/watch?v=an44MDAcSXk",
+    "official_title":  "Double KBs Over Singles, Lifting At 65+, Increasing Resistance In Other Ways | Dan John Podcast #162",
+    "transcript":  {
+                       "file":  "../../transcripts/an44MDAcSXk_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "limited barbell load"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "165-pound barbell"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "snatch-grip deadlift"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "elevated deadlift"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "frog-stance deadlift"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "thick-grip attachment"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "range-of-motion increase"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "grip difficulty"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "tempo change"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "additional repetitions"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "progressive resistance"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "in-season wrestlers"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "football players"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "wrestling practice"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "total-body strength"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "total-body conditioning"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "Mass Made Simple"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "track throwers"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "double-kettlebell front squat"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "rugby strength"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "squat depth"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "rack mobility"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "double-kettlebell clean"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "single-kettlebell training"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "bilateral loading"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "65-plus lifter"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "strength maintenance"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "age-adjusted load"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "technique quality"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "training consistency"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "bodyweight exercise"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "resistance bands"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "equipment scarcity"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "athletic graduation"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "team performance"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "coach comparison"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "additional load"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "training volume"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "raw strength numbers"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o1",
+                          "relation":  "can be intensified with",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o1",
+                          "relation":  "can be intensified with",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "changes leverage under",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "increases",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "progresses resistance without",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "progresses resistance without",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "progress",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "does not require only",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "develops",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "benefit from",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "was influenced by training",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "prepares",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "limits",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "establishes load for",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "supports",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "distinguishes double from",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "supports",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "supports",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "supports",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "address",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "can reduce",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "cannot rely only on",
+                          "object":  "o41"
+                      }
+                  ]
+}

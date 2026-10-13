@@ -1,0 +1,348 @@
+﻿{
+    "playlist_position":  176,
+    "video_id":  "Vl1CFUco4zI",
+    "url":  "https://www.youtube.com/watch?v=Vl1CFUco4zI",
+    "official_title":  "Jerk and Press Differences, Hypertrophy, Balancing Sport and Strength | Dan John Podcast #161",
+    "transcript":  {
+                       "file":  "../../transcripts/Vl1CFUco4zI_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "jerk"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "press"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "heavy overhead load"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "overhead lockout"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "joint alignment"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "short press-out"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "scapular support"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "kettlebell jerk"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "barbell jerk"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "Olympic-lifting coach"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "time under tension"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "hypertrophy"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "skill-based sport"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "strength training"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "recovery"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "yin-yang model"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "12-year-old athlete"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "innate strength"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "basic technique"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "discus throwing"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "technical development"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "strength development"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "seasonal emphasis"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "higher-repetition calves"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "higher-repetition deltoids"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "1960s bodybuilding theory"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "Arnold Schwarzenegger"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "Frank Zane"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "calf genetics"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "upper-back strength"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "old-time strongman"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "Olympic lifter"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "powerlifter"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "heavy ground pull"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "700-pound deadlift"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "fifty pull-ups"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "upper-back size"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "walking gait"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "59-year-old kettlebell trainee"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "paid gait consultation"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "poor professional service"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "simple walking practice"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "mobility change"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "aging athlete"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "kettlebell coach"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o1",
+                          "relation":  "allows",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "strengthens",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "requires",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "develops",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o1",
+                          "relation":  "can improve",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "can improve control for",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "benefits from",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "benefits from",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "increases",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "supports",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "must balance",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "represents balance of",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "has",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "expands alongside",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "can shift between",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "can shift toward",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "promoted",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "used",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "used",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "may matter more than",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "develops",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "uses",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "uses",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "uses",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "produces more upper-back size than",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "develop pull endurance rather than",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "provided",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "notices",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "was the limited advice from",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "can alter",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "should monitor",
+                          "object":  "o38"
+                      }
+                  ]
+}

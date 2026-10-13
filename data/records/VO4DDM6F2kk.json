@@ -1,0 +1,418 @@
+﻿{
+    "playlist_position":  292,
+    "video_id":  "VO4DDM6F2kk",
+    "url":  "https://www.youtube.com/watch?v=VO4DDM6F2kk",
+    "official_title":  "Easy Strength with ABF, Training for Longevity, Home Gym Essentials, Dad Workout | DJU Podcast #278",
+    "transcript":  {
+                       "file":  "../../transcripts/VO4DDM6F2kk_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "strength training"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "walking"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "nutrition"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "sleep"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "compound interest"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "long-term health"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "longevity"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "56-year-old trainee"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "incline treadmill"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "outdoor walking"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "swimming"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "swimming technique"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "joint impact"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "32-pound fat loss"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "linear periodization"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "eight-repetition phase"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "five-repetition phase"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "three-repetition phase"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "two-repetition phase"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "medical exam"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "heart rate"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "blood pressure"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "daily weigh-in"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "tape measure"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "waistline"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "first-time father"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "newborn"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "family preparation"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "home gym"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "single kettlebell"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "single barbell"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "short workout"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "meal planning"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "dark room"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "cool room"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "non-revolving barbell"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "15-kilogram barbell"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "Marty Gallagher"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "equipment limitation"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "54-year-old coach"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "torn biceps"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "sarcopenia"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "blood-flow restriction training"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "incline bench press"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "deadlift variation"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "squat volume"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "baseball throwing"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "risk management"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "health marker"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "walking with newborn"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "supports",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "supports",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "supports",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "supports",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "describes accumulation of",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "can replace",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "can replace",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "affects difficulty of",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "achieved",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "can use",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "progresses to",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "progresses to",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "progresses to",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "supports",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "is a",
+                          "object":  "o54"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "is a",
+                          "object":  "o54"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "measures",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "prepares for",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "supports",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "can equip",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "can equip",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "can accompany",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o55",
+                          "relation":  "resembles",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "supports",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "supports sleep of",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "supports sleep of",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "trained with",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "can be a",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "does not prevent",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "can accelerate",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "can address",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "requires informed use after",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "can combine with",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "creates",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "can supplement",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "can supplement",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o52",
+                          "relation":  "loads",
+                          "object":  "o43"
+                      }
+                  ]
+}

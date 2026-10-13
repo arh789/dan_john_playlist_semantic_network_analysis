@@ -1,0 +1,431 @@
+﻿{
+    "playlist_position":  215,
+    "video_id":  "czAnxKtKe6c",
+    "url":  "https://www.youtube.com/watch?v=czAnxKtKe6c",
+    "official_title":  "Pavel, StrongFirst \u0026 RKC Split, Easy Strength, Hypertrophy, CrossFit \u0026 Weight Loss | DJU Podcast 198",
+    "transcript":  {
+                       "file":  "../../transcripts/czAnxKtKe6c_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Secret Service snatch test"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "24-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "two-hundred snatches"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "ten-minute limit"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "half-bodyweight press"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "kettlebell snatch"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "whole-body cardiovascular work"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "CrossFit"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "Olympic-lift practice"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "box jump"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "burpee"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "rhabdomyolysis"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "exercise injury"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "kettlebell sport"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "golf"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "rotational training"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "spinal injury risk"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "windmill"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "suitcase carry"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "Olympic lifts"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "power lifts"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "mixed training"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "sport-specific practice"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "Pavel Tsatsouline"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "Dragon Door"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "StrongFirst"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "RKC split"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "in-season training"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "administrative priorities"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "written job description"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "written confirmation"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "repetition"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "good morning"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "hinge pattern"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "back squat confusion"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "hyperextension"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "reverse hyperextension"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "training to failure"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "machine exercise"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "spotter"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "fasting"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "sixteen-eight schedule"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "coffee"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "post-workout meal"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "protein"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "vegetables"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "fermented food"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "hot water"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "empirical experience"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "kettlebell training"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "RKC"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "coaching priority"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "lower-back hypertrophy"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "bench press to failure"
+                    },
+                    {
+                        "id":  "o57",
+                        "label":  "research evidence"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "uses",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "requires",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "uses",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "can pair with",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "provides",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "included",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "requires strict control to reduce",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "can be overused within",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "has been associated with",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "differs from general",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "can increase",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "assesses rotational mobility for",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "develops rotational stability for",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "build foundation for",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "build foundation for",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "combines strength work with",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "co-authored",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "hosted",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "created",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "separated",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "addresses",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "clarifies",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "documents",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "implements",
+                          "object":  "o54"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "trains",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "can create",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "supports",
+                          "object":  "o55"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "supports",
+                          "object":  "o55"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "is safer with",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o56",
+                          "relation":  "requires",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "is a form of",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "is used during",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "ends",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "emphasizes",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "emphasizes",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "includes",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "can accompany",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "can supplement",
+                          "object":  "o57"
+                      }
+                  ]
+}

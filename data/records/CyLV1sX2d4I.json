@@ -1,0 +1,276 @@
+﻿{
+    "playlist_position":  336,
+    "video_id":  "CyLV1sX2d4I",
+    "url":  "https://www.youtube.com/watch?v=CyLV1sX2d4I",
+    "official_title":  "KB Press, Rite of Passage, Easy Strength, ABC, Walking, Minimalism, Fat Loss | DJU Podcast #324",
+    "transcript":  {
+                       "file":  "../../transcripts/CyLV1sX2d4I_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "shift worker"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "Easy Strength Olympic lifting"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "overnight shift"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "workout combination"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "single-bell Armor Building Complex"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "28-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "uneven double kettlebell"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "32-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "systemic load"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "two sets of five"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "Easy Strength for Fat Loss"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "repetition options"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "athletic gap"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "team sport"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "walking"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "diminishing return"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "enough principle"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "double clean and press"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "double 28-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "20-round EMOM"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "experienced minimalist"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "fatherhood"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "cycling"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "75 swings"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "two-three-five press"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "minimalist program"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "student"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "single kettlebell collection"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "Rite of Passage"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "16-kilogram press"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "24-kilogram swing"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "wrist injury"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "kettlebell progression"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "space constraint"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "financial constraint"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "uses",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "uses",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "constrains",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "can progress to",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "can combine",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "can combine",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "increases",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "can structure",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "can conceal",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "can reach",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "governs",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "can use",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "can use",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "prioritizes",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "prioritizes",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "can combine",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "can combine",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "owns",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "shapes",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "shapes",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "can use",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "can use",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "limits",
+                          "object":  "o35"
+                      }
+                  ]
+}

@@ -1,0 +1,247 @@
+﻿{
+    "playlist_position":  327,
+    "video_id":  "X_6xyu0BMNg",
+    "url":  "https://www.youtube.com/watch?v=X_6xyu0BMNg",
+    "official_title":  "Easy Strength, Planning Workouts, Program for Seniors, Training Setbacks \u0026 More | DJU Podcast #315",
+    "transcript":  {
+                       "file":  "../../transcripts/X_6xyu0BMNg_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "bodyweight"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "waistline"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "progress photograph"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "accountability partner"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "neck measurement"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "shoulder measurement"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "chest measurement"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "thigh measurement"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "calf measurement"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "arm measurement"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "Frank Zane"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "track and field measurement"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "half-hour deadlift challenge"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "61 repetitions"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "300-pound deadlift"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "senior-center trainee"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "frail adult"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "deconditioned adult"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "do-no-harm principle"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "chair squat"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "walking"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "20-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "two-year training gap"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "time-poor parent"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "program setback"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "gradual return"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "workout planning"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "training journal"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "senior program"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "progress measurement"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "visual assessment"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "objective result"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "is a",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "is a",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "is a",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "can review",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "prioritized",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "uses",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "used",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "completed",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "governs",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "can serve",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "can serve",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "can serve",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "can use",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "requires",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "needs",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "can follow",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "supports",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "can provide",
+                          "object":  "o29"
+                      }
+                  ]
+}

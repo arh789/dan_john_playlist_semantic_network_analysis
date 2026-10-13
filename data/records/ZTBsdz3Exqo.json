@@ -1,0 +1,429 @@
+﻿{
+    "playlist_position":  216,
+    "video_id":  "ZTBsdz3Exqo",
+    "url":  "https://www.youtube.com/watch?v=ZTBsdz3Exqo",
+    "official_title":  "Easy Strength, Best Exercises, Kettlebells, Regressions, Bodybuilding \u0026 More | Dan John Podcast #199",
+    "transcript":  {
+                       "file":  "../../transcripts/ZTBsdz3Exqo_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "business travel"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "one-bag travel"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "hotel sleep"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "eye mask"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "hydration"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "restaurant salad"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "extra vegetables"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "fajitas"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "electrolyte water"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "car cooler"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "Pyrex container"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "overnight oats"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "salmon lox"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "herbal tea"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "travel discipline"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "glute loop"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "miniband"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "meniscus tear"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "Easy Strength for fat loss"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "vertical press"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "vertical pull"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "rack deadlift"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "trap-bar deadlift"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "hanging bent-knee raise"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "knee-friendly cardio"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "pain monitoring"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "cortisol"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "park-bench training"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "bodyweight press"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "press frequency"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "seasonal cyclist"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "Turkish get-up"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "workout density"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "mountain biking"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "shoulder pain"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "medical evaluation"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "one-arm kettlebell press"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "thoracic mobility"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "physical therapy"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "dead hang"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "wall slide"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "short story"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "poetry"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "reading habit"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "Vince Gironda"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "eight-by-eight program"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "hypertrophy volume"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "Honest Workout"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "high-repetition training"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "excessive training stress"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "shoulder mobility"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o3",
+                          "relation":  "simplifies",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "can be improved by",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "supports discipline during",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "can include",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "can provide",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "supports",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "carries",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "holds",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "support prepared nutrition during",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "can accompany",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "can replace alcohol during",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "organizes nutrition during",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "supports exercise during",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "supports exercise during",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "motivates use of",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "can accommodate",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "includes",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "includes",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "can reduce knee demand after",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "can reduce knee demand after",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "can be used in",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "guides return from",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o53",
+                          "relation":  "can elevate",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "can prioritize",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "develops",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "can use",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "can use",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "can use",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "limits interference with",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "should precede training through",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "permits",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "can address",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "can support",
+                          "object":  "o54"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "can support",
+                          "object":  "o54"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "can establish",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "can establish",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "developed",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "creates",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "is known as",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o52",
+                          "relation":  "supports",
+                          "object":  "o50"
+                      }
+                  ]
+}

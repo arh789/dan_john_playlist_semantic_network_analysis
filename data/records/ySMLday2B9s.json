@@ -1,0 +1,393 @@
+﻿{
+    "playlist_position":  149,
+    "video_id":  "ySMLday2B9s",
+    "url":  "https://www.youtube.com/watch?v=ySMLday2B9s",
+    "official_title":  "The Dan John Podcast - Ep 134 | EMOM Programs, Balancing Sport and Lifting, High Rep Work, and More",
+    "transcript":  {
+                       "file":  "../../transcripts/ySMLday2B9s_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "EMOM training"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "timed rest periods"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "old circuit training"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "30/30 for 30 protocol"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "Olympic Training Center"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "one-minute rest"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "testosterone response"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "growth-hormone response"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "work density"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "towboat worker"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "fourteen-days-on schedule"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "fourteen-days-off schedule"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "limited boat space"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "bodyweight training"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "kettlebell training"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "barbell training"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "Olympic lifting"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "powerlifting"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "alternating training blocks"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "sport practice"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "thrower who lifts"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "lifter who throws"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "track-and-field history"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "90-percent throwing practice"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "walking"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "pull-ups"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "sprinting"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "Perry O’Brien"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "weight-room emphasis"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "Humane Burpee"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "Dan Martin Program Minimum"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "24-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "32-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "50-to-200 swings"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "15-to-50 goblet squats"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "30-to-150 push-ups"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "ten-to-fifteen-minute workout"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "five weekly sessions"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "double-kettlebell swing"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "Left of Passage"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "farmer walk"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "rack walk"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "seesaw press"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "double-kettlebell snatch"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "quiet professional"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "special-forces secrecy"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "operational information"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "Turkish get-up"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "gluteal amnesia"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "half-kneeling-to-stand transition"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "hip thrust"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "glute strength"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "movement patterning"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "fiance coaching"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "relationship dynamics"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o1",
+                          "relation":  "uses",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "already used the structure now called",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "alternates work and rest through",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "was associated with",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "was associated with",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o1",
+                          "relation":  "controls",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "follows",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "follows",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "favors",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "can emphasize",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "can emphasize",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "connect the two work schedules for",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "prioritizes",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "prioritizes",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "characterized part of",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "helped increase",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "resembles",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "uses",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "uses",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "uses",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "can sustain",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "is accepted unlike",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "combines",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "combines",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "combines",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "combines",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "protects",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "embodies",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "may impair",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "develops",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o53",
+                          "relation":  "may matter more than strength in",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o54",
+                          "relation":  "is complicated by",
+                          "object":  "o55"
+                      }
+                  ]
+}

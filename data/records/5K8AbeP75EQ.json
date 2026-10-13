@@ -1,0 +1,395 @@
+﻿{
+    "playlist_position":  203,
+    "video_id":  "5K8AbeP75EQ",
+    "url":  "https://www.youtube.com/watch?v=5K8AbeP75EQ",
+    "official_title":  "BEAR Strength Program, Technique Importance, Aesthetics, Throwing \u0026 More | Dan John Podcast #186",
+    "transcript":  {
+                       "file":  "../../transcripts/5K8AbeP75EQ_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Yuriy Sedykh"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "Anatoliy Bondarchuk"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "hammer throw"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "step-up exercise"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "training myth"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "single-workout observation"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "athlete training system"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "discernment"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "Inner Circle"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "Lyle McDonald"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "leg curl"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "off-season assistance work"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "Judo"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "eight-year-old child"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "discipline"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "martial-arts culture"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "Strong Curves"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "Glute Lab"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "Bret Contreras"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "fourteen-year-old trainee"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "aesthetic goal"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "track-and-field athlete"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "hip thrust"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "chin-up"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "deadlift"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "squat"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "bench press"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "self-directed learning"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "Olympic-lift technique"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "kettlebell snatch"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "discus technique"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "practice"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "coaching correction"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "creativity"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "suitcase carry"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "personal trainer"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "client movement mastery"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "client results"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "training community"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "MMA fighter"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "military press"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "pull-up"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "deadlift variation"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "cheat curl"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "ab rollout"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "bear-hug carry"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "bear crawl"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "playground sandbag"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "Anaconda strength"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "grappling clinch strength"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "rejected",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "centered on",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "misrepresents",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "coached",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "is required for",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "provides context for",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "observed",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "was temporary",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "teaches",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "supports",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "supports",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "wrote",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "wrote",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "can exemplify",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "appears in",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "develops",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "refines",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "developed",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "produced",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "produced",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "should create",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "should produce",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "supports",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "supports",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "is prescribed within",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "is prescribed within",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "is prescribed within",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "is prescribed within",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "is prescribed within",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "develops",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "develops",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "can follow",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "provides load for",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o52",
+                          "relation":  "supports",
+                          "object":  "o53"
+                      }
+                  ]
+}

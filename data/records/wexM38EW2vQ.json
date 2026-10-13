@@ -1,0 +1,420 @@
+﻿{
+    "playlist_position":  164,
+    "video_id":  "wexM38EW2vQ",
+    "url":  "https://www.youtube.com/watch?v=wexM38EW2vQ",
+    "official_title":  "Biggest Insights from the  Last 150 Episodes | Dan John Podcast - Ep150",
+    "transcript":  {
+                       "file":  "../../transcripts/wexM38EW2vQ_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "150 podcast episodes"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "three years of production"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "listener questions"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "Brian Gultney"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "Dan John University"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "workout generator"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "available equipment"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "known exercises"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "training frequency"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "individual needs"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "Wandering Weights"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "exercise selection"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "powerlifting program"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "kettlebell program"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "barbell program"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "10,000 Swing Challenge"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "500 daily barbell repetitions"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "dumbbell training"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "upper-body push"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "dumbbell row"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "dumbbell squat limitation"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "dumbbell hinge limitation"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "Original Strength"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "Easy Strength for Olympic lifting"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "suspension trainer"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "ab wheel"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "hip thrust"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "program switching"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "training compromise"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "busy parents"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "one-lift-a-day"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "Transformation Program"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "Big Five longevity practices"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "daily movement restoration"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "walking"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "protein-vegetables-water"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "sleep hygiene"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "intermittent fasting"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "Velocity Diet"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "six daily protein shakes"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "sustainable lifetime practice"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "children’s free play"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "bicycle play"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "hyper-specific questions"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "elite-athlete media claims"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "showboating for cameras"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "fabricated magazine program"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "push-pull-hinge-squat-carry"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "15-to-30 repetitions"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "mobility between sets"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "snapacity"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "longevity"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "pull movement"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "training goal"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "general lesson"
+                    },
+                    {
+                        "id":  "o57",
+                        "label":  "elite-athlete training"
+                    },
+                    {
+                        "id":  "o58",
+                        "label":  "work capacity"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o4",
+                          "relation":  "helped create",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "contains",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "uses",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "uses",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "uses",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "serves",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "dovetails with",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "should follow",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "does not transfer directly to",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "does not transfer directly to",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "works well for",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "supports",
+                          "object":  "o54"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "constrains",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "constrains",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "can rotate with",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "follows changes in",
+                          "object":  "o55"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "is necessary for",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "fits",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "fits",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "include",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "include",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "include",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "include",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "include",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "uses",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "is less sustainable than",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "guides",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "includes",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "should be broadened to",
+                          "object":  "o56"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "distorts",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "distorts",
+                          "object":  "o57"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "can use",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "can use",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o52",
+                          "relation":  "combines rapid contraction with",
+                          "object":  "o58"
+                      },
+                      {
+                          "subject":  "o52",
+                          "relation":  "supports",
+                          "object":  "o53"
+                      }
+                  ]
+}

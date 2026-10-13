@@ -1,0 +1,400 @@
+﻿{
+    "playlist_position":  288,
+    "video_id":  "PuVvdtdBbkw",
+    "url":  "https://www.youtube.com/watch?v=PuVvdtdBbkw",
+    "official_title":  "Training Smarter, ABC, Recovery Hacks, Auto Regulation, Maintaining Muscle \u0026 More | DJU Podcast #274",
+    "transcript":  {
+                       "file":  "../../transcripts/PuVvdtdBbkw_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "new father"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "baby"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "sleep deprivation"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "daily training"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "training flexibility"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "family responsibility"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "13-year-old runner"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "cross-country running"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "shower temperature"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "recovery"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "hill sprint"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "fundamental lifting"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "hot shower"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "cold shower"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "John Jesse"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "Physical Conditioning Encyclopedia"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "autoregulation"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "instinctive training"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "readiness check"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "emotional stress"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "hard training"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "injury"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "quadrant two"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "high-level qualities"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "American football"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "rugby"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "military service"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "powerlifting standard"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "waistline goal"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "single priority"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "barbell pullover"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "silver-era bodybuilding"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "bent-arm pullover"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "javelin thrower"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "bench press"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "shoulder mobility"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "Harry Paschall"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "military press"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "classic exercise"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "51-year-old lifter"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "strength maintenance"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "muscle mass"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "Olympic lifting"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "aging"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "Southwood program"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "power clean"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "exercise naming"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "workout generator"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "exercise video"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "Jefferson deadlift"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "strength"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "cares for",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "can cause",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "constrains",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "can fit",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "supports",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "is practiced by",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "supports",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "supports",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "can affect",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "was written by",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "uses",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "can alter",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "can cause",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can reduce",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "requires",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "can demand",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "can demand",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "can demand",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "can precede",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "limits pursuit of",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "uses",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "is a",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "may use",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "can restrict",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "documented",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "is a",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "seeks",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "supports",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "reduces",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "can test",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "uses",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "can create ambiguity in",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "links to",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "clarifies",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o52",
+                          "relation":  "illustrates ambiguity in",
+                          "object":  "o49"
+                      }
+                  ]
+}

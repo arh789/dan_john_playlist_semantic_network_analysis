@@ -1,0 +1,396 @@
+﻿{
+    "playlist_position":  153,
+    "video_id":  "pWTysBd6vcE",
+    "url":  "https://www.youtube.com/watch?v=pWTysBd6vcE",
+    "official_title":  "The Dan John Podcast - Ep 138 | Creatine, Milk before Bed, Losing Weight, and More",
+    "transcript":  {
+                       "file":  "../../transcripts/pWTysBd6vcE_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "JV girls lacrosse team"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "in-season training"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "weight-room access"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "off-season strength"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "off-season explosiveness"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "field practice"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "complex training"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "medicine-ball exercises"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "bodyweight exercises"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "movement drills"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "14-year-old male athlete"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "wrestling"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "track and field"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "football"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "creatine supplementation"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "puberty"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "sleep"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "protein at every meal"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "weight-class sport"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "natural development"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "lateral movement"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "quiet head"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "sport practice"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "lateral shuffle"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "agility"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "six-week gym layoff"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "30-percent load reduction"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "squat session"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "overhead-press session"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "two-day soreness lag"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "delayed-onset muscle soreness"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "five-day soreness"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "gradual return"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "middle-school basketball"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "bench press"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "cleans"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "deadlifts"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "pull-ups"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "military press"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "farmer walks"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "defensive stance"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "full-fat milk"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "pre-bed milk"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "alcohol replacement"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "dessert replacement"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "94-to-89-kilogram weight loss"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "lactose tolerance"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "lifter nutrition"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "GOMAD diet"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "calorie intake"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "protein source"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o1",
+                          "relation":  "lacks",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "can maintain",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "can maintain",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "can include",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "fit constraints of",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "participates in",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "participates in",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "participates in",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "provides large natural gains for",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "supports",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "supports",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "may add unwanted mass for",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "develops",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "improves control during",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "depends more on practice than isolated",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "preceded",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "triggered",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "produced",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "lasted",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "should be slower after",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "already uses",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "already uses",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "already uses",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "already uses",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "fills a movement gap for",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "add loaded carries for",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "improves",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "uses",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "replaces",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "replaces",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "continued despite",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "determines suitability of",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "contributes",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "provides",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "is distinct from occasional",
+                          "object":  "o44"
+                      }
+                  ]
+}

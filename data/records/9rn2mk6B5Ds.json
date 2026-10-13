@@ -1,0 +1,326 @@
+﻿{
+    "playlist_position":  307,
+    "video_id":  "9rn2mk6B5Ds",
+    "url":  "https://www.youtube.com/watch?v=9rn2mk6B5Ds",
+    "official_title":  "Workout Plan for Muscle \u0026 Strength, Loaded Carries, KB Swings, Counting Macros | DJU Podcast #293",
+    "transcript":  {
+                       "file":  "../../transcripts/9rn2mk6B5Ds_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "golfer"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "golf swing speed"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "cross-body movement"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "kettlebell training"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "Turkish get-up"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "suitcase carry"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "one-arm swing"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "mixed-weight swing"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "discus throw"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "TPI"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "single clean"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "double clean"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "kettlebell snatch"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "clean and press"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "ten-thousand-swing challenge"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "movement progression"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "57-year-old trainee"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "food tracking"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "macronutrient tracking"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "body composition"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "calorie intake"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "insulin response"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "processed food"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "food diary"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "24-year-old trainer"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "parent"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "health advice"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "outside expert"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "habit change"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "tugboat"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "Olympic lifting"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "Turkish get-down"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "waiter walk"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "limited space"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "30-minute walk"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "training consistency"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "golf swing"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o5",
+                          "relation":  "can support",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "trains",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "trains",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "trains",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "challenges",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "shares rotation with",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "studies",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "contains",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "contains",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "contains",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "can replace dedicated",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "uses",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "emphasizes",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can move beyond",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "supports",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "supports",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "affects",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "encourages excess",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "records",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "may resist",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "can reinforce",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "must be chosen by",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "constrains",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "is treated as",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "completes",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "can connect",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "can still allow",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "supports",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "can be practiced on",
+                          "object":  "o34"
+                      }
+                  ]
+}

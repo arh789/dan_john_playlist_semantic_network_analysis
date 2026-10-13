@@ -1,0 +1,494 @@
+﻿{
+    "playlist_position":  228,
+    "video_id":  "dl3vPYBjIF8",
+    "url":  "https://www.youtube.com/watch?v=dl3vPYBjIF8",
+    "official_title":  "Easy Strength, Kettlebells, Bodybuilding, TRX Rows, Press Strength \u0026 More... | Dan John Podcast #211",
+    "transcript":  {
+                       "file":  "../../transcripts/dl3vPYBjIF8_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "competition pressure"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "Al Oerter"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "bad weather"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "stadium conditions"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "practice variation"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "competition checklist"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "competition experience"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "six-for-six lifting"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "Tommy Kono"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "opening attempt"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "heavy total"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "Dave Turner"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "two-three-five-ten ladder"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "training density"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "training volume"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "single-arm press"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "vacation training"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "glute loop"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "miniband"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "deload week"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "heavy sled"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "discus throw"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "Highland Games"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "Anaconda strength"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "Sleep in Seattle standards"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "suspension trainer"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "one-arm suspension row"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "T-Y-I drill"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "middle-age pull-up syndrome"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "high-repetition pulling"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "strength standard"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "technical weakness"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "bodybuilding"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "Reg Park"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "five-by-five program"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "compound exercise"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "military press"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "bench press"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "pull-up"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "row"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "squat"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "deadlift"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "curl"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "ab wheel"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "power bodybuilding"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "instinctive training"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "training experience"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "belt squat"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "twice-weekly training"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "high-repetition squat"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "minimalist program"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "program minimum"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "Simple and Sinister"
+                    },
+                    {
+                        "id":  "o57",
+                        "label":  "peaking"
+                    },
+                    {
+                        "id":  "o58",
+                        "label":  "competition anxiety"
+                    },
+                    {
+                        "id":  "o59",
+                        "label":  "competition performance"
+                    },
+                    {
+                        "id":  "o60",
+                        "label":  "competition"
+                    },
+                    {
+                        "id":  "o61",
+                        "label":  "training habit"
+                    },
+                    {
+                        "id":  "o62",
+                        "label":  "vacation"
+                    },
+                    {
+                        "id":  "o63",
+                        "label":  "recovery"
+                    },
+                    {
+                        "id":  "o64",
+                        "label":  "squat pattern"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "can disrupt",
+                          "object":  "o57"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "prepared for",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "resembles difficult",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "prepares for",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "reduces",
+                          "object":  "o58"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "improves",
+                          "object":  "o59"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "builds",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "valued frequent",
+                          "object":  "o60"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "can determine",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "used",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "develops",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "increases",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "can use",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "can reinforce",
+                          "object":  "o61"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "supports",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "supports",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o62",
+                          "relation":  "can instead provide",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "can combine with",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "develops",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "supported",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "supported",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "can perform",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "can perform",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "can accommodate",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "identifies whether",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "used",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "uses",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "can use",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "can use",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "can use",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "can use",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "can use",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "can use",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "can use",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "can use",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "uses",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "requires",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "reveals needed",
+                          "object":  "o63"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "loads",
+                          "object":  "o64"
+                      },
+                      {
+                          "subject":  "o52",
+                          "relation":  "can separate",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o52",
+                          "relation":  "can separate",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o53",
+                          "relation":  "can fit",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o54",
+                          "relation":  "requires",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o55",
+                          "relation":  "is a",
+                          "object":  "o54"
+                      },
+                      {
+                          "subject":  "o56",
+                          "relation":  "is a",
+                          "object":  "o54"
+                      }
+                  ]
+}

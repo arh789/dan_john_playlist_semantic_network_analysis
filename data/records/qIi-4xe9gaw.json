@@ -1,0 +1,346 @@
+﻿{
+    "playlist_position":  156,
+    "video_id":  "qIi-4xe9gaw",
+    "url":  "https://www.youtube.com/watch?v=qIi-4xe9gaw",
+    "official_title":  "The Dan John Podcast - Ep 141 | Peasant Strength, ES Conditioning, People Throwing, and More",
+    "transcript":  {
+                       "file":  "../../transcripts/qIi-4xe9gaw_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "peasant-farmer hand strength"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "farm labor"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "sunrise-to-sundown work"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "hand tendons"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "neurological grip strength"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "farmer carry"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "suitcase carry"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "lower-intensity volume"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "higher-intensity variation"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "volume-before-intensity tradition"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "high-repetition squat"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "heavy squat"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "recovery cost"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "person-throwing event"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "95-kilogram person"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "discus throw"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "physics of acceleration"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "release angle"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "pool throwing"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "clean-grip flip"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "caber-toss motion"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "Marine Corps fitness test"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "nineteen pull-ups"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "twenty-five pull-up target"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "thirty-five pull-up cushion"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "grease-the-groove"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "weighted pull-up"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "right-arm strength loss"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "left-right asymmetry"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "twisted push-up"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "medical assessment"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "spinal and soft-tissue injury"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "scapular winging"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "rib cage"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "thrower shoulder adaptation"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "James Parker"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "chiropractic treatment"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "68-year-old lawyer"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "StrongLifts 5x5"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "back squat and press"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "sarcopenia"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "muscle mass"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "strength training"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "protein intake"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "Easy Strength conditioning"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "loaded carries"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "pull-up volume"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "develops",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "supplies volume for",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "contributes to",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "loads",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "loads",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "traditionally precedes",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "can combine volume with",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "creates large",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "limits throwing",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "limits throwing",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "resembles",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "was used for",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "fell below",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "prepares for testing at",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "builds",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "can supplement",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "creates",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "causes",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "risks",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "requires",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "describes scapula position relative to",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "can resemble",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "provided",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "completed",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "develop",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "helps resist",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "is relevant to",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "supports",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "provide",
+                          "object":  "o45"
+                      }
+                  ]
+}

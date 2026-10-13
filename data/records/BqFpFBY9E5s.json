@@ -1,0 +1,372 @@
+﻿{
+    "playlist_position":  381,
+    "video_id":  "BqFpFBY9E5s",
+    "url":  "https://www.youtube.com/watch?v=BqFpFBY9E5s",
+    "official_title":  "ABF, Training Once a Week, Easy Strength, Overtraining, Getting a Coach \u0026 More | DJU Podcast #367",
+    "transcript":  {
+                       "file":  "../../transcripts/BqFpFBY9E5s_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Jeremy"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "retired Air Force veteran"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "seven marathons"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "hybrid event"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "running"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "kettlebell"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "safe challenge"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "Percy Cerutty"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "Andrew Gunn"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "Kyle"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "tibial stress fracture"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "overtraining"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "marathon"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "triathlon"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "40-day Easy Strength"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "bench-press improvement"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "Ironman"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "endurance training"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "strength training"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "Evan"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "full-time father"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "two children"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "inconsistent schedule"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "adjustable kettlebells"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "strongman sandbags"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "Weekend Warrior"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "once-weekly training"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "Bill"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "life coach"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "nutrition coach"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "accountability"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "structure"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "Fitness Forge"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "Intervention"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "Can You Go?"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "Now What?"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "1-2-3-4 assessment"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "Dennis"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "71-year-old trainee"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "SAIL class"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "low-impact aerobics"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "balance training"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "light dumbbells"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "program rotation"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "six-day training week"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "recovery"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "triathlon training"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "training need"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "is a",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "completed",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "combines",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "combines",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "is a goal of",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "wrote about",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "experienced",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "contributed to",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "completed",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "produced",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "should support",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "combines",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "combines",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "has",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "is an option in",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "support",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "support",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "provides",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "provides",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "combines",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "combines",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "combines",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "identifies",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "attends",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "includes",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "includes",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "includes",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "rotates",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "rotates",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "increases demand on",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "is a concern for",
+                          "object":  "o41"
+                      }
+                  ]
+}

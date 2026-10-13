@@ -1,0 +1,254 @@
+﻿{
+    "playlist_position":  339,
+    "video_id":  "s8iTAwaGRsw",
+    "url":  "https://www.youtube.com/watch?v=s8iTAwaGRsw",
+    "official_title":  "Norwegian 4×4, ABF, Double vs Single ABC, Easy Strength, Uneven KB Training | DJU Podcast #327",
+    "transcript":  {
+                       "file":  "../../transcripts/s8iTAwaGRsw_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "30-year-old trainee"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "school worker"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "home gym"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "garage"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "equipment-program fit"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "three-day lifting"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "67-year-old trainee"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "barbell Armor Building Formula"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "Norwegian four-by-four"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "four-minute hard interval"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "three-minute easy interval"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "four rounds"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "cardiovascular training"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "paralyzed trainee"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "waist-down paralysis"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "strength coach"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "rack"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "barbell"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "kettlebell"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "gym membership"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "medical team"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "nutrition journal"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "check mark"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "missing information"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "food log"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "single Armor Building Complex"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "double Armor Building Complex"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "uneven kettlebell training"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "offset load"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "training accessibility"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "machine work"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "program constraint"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o3",
+                          "relation":  "can serve",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "shares space with",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "governs",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "can fit",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "uses",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "uses",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "uses",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "uses",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "uses",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "develops",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "affects",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "assists",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "should guide",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can support",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "can improve",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "uses",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "reveals",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "is a",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "differs from",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "uses",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "can arise from",
+                          "object":  "o33"
+                      }
+                  ]
+}

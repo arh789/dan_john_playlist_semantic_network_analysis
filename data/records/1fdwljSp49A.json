@@ -1,0 +1,275 @@
+﻿{
+    "playlist_position":  335,
+    "video_id":  "1fdwljSp49A",
+    "url":  "https://www.youtube.com/watch?v=1fdwljSp49A",
+    "official_title":  "ABF, Squats, Original Strength, Loaded Carries, Rack \u0026 Deficit Deadlifts \u0026 More | DJU Podcast #323",
+    "transcript":  {
+                       "file":  "../../transcripts/1fdwljSp49A_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "62-year-old lifter"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "three-quarter deadlift"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "rack deadlift"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "deficit deadlift"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "range of motion"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "heavy load"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "light load"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "35-year-old special-education teacher"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "home squat rack"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "barbell progression"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "Olympic lifting"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "training group"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "broad skill range"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "session scaling"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "kettlebell"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "bodyweight exercise"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "55-year-old trainee"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "knee limitation"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "weekly squat"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "clean"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "farmer walk"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "barbell deadlift"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "squat replacement"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "full-body workout"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "two sets to failure"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "prison training"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "low-back soreness"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "spinal erector"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "Original Strength"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "rack pull"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "deficit pull"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "joint tolerance"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "program modification"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "kettlebell training"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "squat volume"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "deadlift"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o3",
+                          "relation":  "can mean",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "can mean",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "reduces",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "increases",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "can be used in",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "follows",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "supports",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "contains",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "serves",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "can use",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "can use",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "restricts",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "can replace some",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "can replace some",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "can replace some",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "responds to",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "caused",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "loads",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "can support",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "can support",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "is a",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "is a",
+                          "object":  "o5"
+                      }
+                  ]
+}

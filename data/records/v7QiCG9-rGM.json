@@ -1,0 +1,299 @@
+﻿{
+    "playlist_position":  324,
+    "video_id":  "v7QiCG9-rGM",
+    "url":  "https://www.youtube.com/watch?v=v7QiCG9-rGM",
+    "official_title":  "ABF, Traveling, Double vs. Single KB, Press Strength, Dips, Clean \u0026 Press \u0026 More | DJU Podcast #312",
+    "transcript":  {
+                       "file":  "../../transcripts/v7QiCG9-rGM_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "athleticism"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "physique"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "travel interruption"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "65-year-old Batman"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "risk-reward ratio"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "injury history"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "medical support"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "mobility"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "strength maintenance"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "Nigeria trip"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "bodyweight training"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "resistance band"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "half-marathon"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "travel workout"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "push press"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "strict overhead press"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "general health"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "Return of the Kettlebell"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "clean and press"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "push jerk"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "double-kettlebell clean"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "12-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "16-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "20-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "narrow stance"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "sumo stance"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "body proportions"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "home trainee"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "vertical press"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "horizontal press"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "bodyweight overhead press"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "145-pound strict press"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "210-pound bodyweight"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "dip"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "floor press"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "equipment limitation"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "improves",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "improves",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "requires",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "informs",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "supports",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "supports",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "creates",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "can use",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "can use",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "precedes",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "differs from",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "supports",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "discusses",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "can progress to",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "can progress to",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "can use",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "can constrain",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "can accommodate",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "affect",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "uses",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "prevents",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "is a goal for",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "progresses toward",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "can provide",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "can provide",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "supports",
+                          "object":  "o11"
+                      }
+                  ]
+}

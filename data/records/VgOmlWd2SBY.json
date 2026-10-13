@@ -1,0 +1,341 @@
+﻿{
+    "playlist_position":  306,
+    "video_id":  "VgOmlWd2SBY",
+    "url":  "https://www.youtube.com/watch?v=VgOmlWd2SBY",
+    "official_title":  "Building Muscle \u0026 Strength, Workout Program for Dads, Diet Tricks, Olympic Lifts | DJU Podcast #292",
+    "transcript":  {
+                       "file":  "../../transcripts/VgOmlWd2SBY_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "home gym"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "adjustable kettlebell"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "40-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "48-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "barbell"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "heavy club"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "pull-up bar"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "gymnastic ring"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "hip thrust"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "deadlift"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "Zercher squat"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "competition anxiety"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "young athlete"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "experience"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "Now What"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "performance routine"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "45-year-old Olympic lifter"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "Olympic lifting technique"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "park-bench program"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "Dave Turner program"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "deadlift strength"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "overhead press"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "chin-up"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "two-goal conflict"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "61-year-old lifter"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "barbell clean and press"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "hypertrophy"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "program progression"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "100-pound press"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "diet consistency"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "high stress"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "goal-setting course"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "journal"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "to-do list"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "daily weigh-in"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "sleep supplement"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "meal preparation"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "new father"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "From Dad to Grad"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "parenting"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "Do Not Panic"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "short workout"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "walking"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "squat rack"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "can contain",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "can contain",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "can contain",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "can be performed without",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "can be performed without",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "can be performed without",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "reduces",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "can reduce",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "discusses",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "practices",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "develops",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "can develop",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "can develop",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "can develop",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "can divide",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "uses",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "develops",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "can lead to",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "supports",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "can be stored in",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "can be stored in",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "supports",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "can disrupt",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "can clarify",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "benefits from",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "benefits from",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "contains advice on",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "guides",
+                          "object":  "o41"
+                      }
+                  ]
+}

@@ -1,0 +1,388 @@
+﻿{
+    "playlist_position":  275,
+    "video_id":  "mlC97wl6jq4",
+    "url":  "https://www.youtube.com/watch?v=mlC97wl6jq4",
+    "official_title":  "Easy Strength, Increasing Pull-ups, Strength Endurance, 2 Minute BW Carry \u0026 More | DJU Podcast 261",
+    "transcript":  {
+                       "file":  "../../transcripts/mlC97wl6jq4_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "cycling collision"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "rib fracture"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "broken nose"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "laceration"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "hospitalization"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "rehabilitation"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "machine training"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "bodybuilding exercise"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "joint health"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "17-year-old high jumper"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "six-foot-nine high jump"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "Division I program"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "Fosbury Flop"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "landing pit"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "intelligent training"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "two-minute bodyweight farmer carry"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "Peter Attia"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "Mike Easter"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "farmer walk"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "suitcase carry"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "trap-bar carry"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "double 24-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "32-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "125-pound sandbag"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "four-to-six-week block"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "loaded-carry progression"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "Milo of Croton"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "pull-up"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "doorway pull-up bar"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "weighted pull-up"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "repetition progression"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "strength endurance"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "kettlebell snatch"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "half snatch"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "full snatch"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "general strength and conditioning"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "vertical lift"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "Dragondoor"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "alternating dumbbell curl and press"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "high repetition"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "cardio effect"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "Heavyhands"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "Leonard Schwartz"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "Pan Aerobics"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "movement efficiency"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "high jump"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "loaded carry"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "can cause",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "can cause",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "can cause",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "precedes",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "can support",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "can support",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "performed",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "attracts",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "improves",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "enables",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "supports",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "describes",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "is associated with",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "uses two-sided",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "uses one-sided",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "can test",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "can train",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "can train",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "can train",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "can develop",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "trained with progressive",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "can progress",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "constrains",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "can replace",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "develops",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "can alternate with",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "supports",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "differs from",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "combines",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "uses",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "creates",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "created",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "used term",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "uses intentionally low",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "differs from",
+                          "object":  "o40"
+                      }
+                  ]
+}

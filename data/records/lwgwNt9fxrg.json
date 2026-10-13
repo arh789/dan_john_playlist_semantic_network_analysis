@@ -1,0 +1,292 @@
+﻿{
+    "playlist_position":  183,
+    "video_id":  "lwgwNt9fxrg",
+    "url":  "https://www.youtube.com/watch?v=lwgwNt9fxrg",
+    "official_title":  "Best Rep Ranges, Lifting After Hip Surgery, Glute Benefits \u0026 Athleticism | Dan John Podcast #167",
+    "transcript":  {
+                       "file":  "../../transcripts/lwgwNt9fxrg_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "retired Marine"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "mid-50s trainee"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "multiple deployments"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "jiu-jitsu"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "shoulder surgery"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "broken ribs"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "torn MCL"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "total hip replacement"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "pre-surgery fitness"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "40-day Easy Strength"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "twenty preoperative days"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "pain inflammation"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "postoperative recovery"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "push movement"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "pull movement"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "best rep range"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "rule of ten"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "15-to-30 repetitions"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "three sets of eight"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "five sets of five"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "five sets of three"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "hip thrust"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "deadlift"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "clean"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "snatch"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "squat family"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "prowler"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "sled pull"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "hill sprint"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "glute strength"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "hip strength"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "athleticism"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "female physique athletes"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "discipline"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "technical learning"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "golf performance"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "older trainee"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "movement quality"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "joint wear"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "five sets of two"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o1",
+                          "relation":  "has history of",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "contribute to",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "motivates",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "provides",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "complete part of",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "precedes",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "supports",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "can use",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "include",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "include",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "include",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "develops",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "develops",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "develops",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "develops",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "develops",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "develops",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "develops",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "develops",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "supports",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "influenced preparation of",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "is required for",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "matters for",
+                          "object":  "o38"
+                      }
+                  ]
+}

@@ -1,0 +1,317 @@
+﻿{
+    "playlist_position":  302,
+    "video_id":  "irkF5GU9sQ4",
+    "url":  "https://www.youtube.com/watch?v=irkF5GU9sQ4",
+    "official_title":  "Minimalist Training, One-Arm Swings, ABC, Best KB, Easy Strength for Hypertrophy | DJU Podcast #288",
+    "transcript":  {
+                       "file":  "../../transcripts/irkF5GU9sQ4_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "ten-thousand-swing challenge"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "one-arm swing"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "two-hand swing"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "rotation"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "ballistic movement"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "chin-sternum-zipper alignment"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "grip strength"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "left-hand day"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "right-hand day"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "one-lift-a-day program"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "single kettlebell"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "Turkish get-up"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "clean and press"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "kettlebell snatch"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "weekly schedule"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "mountain biking"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "rock climbing"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "downhill skiing"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "cross-country skiing"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "seasonal training"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "strength phase"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "hypertrophy phase"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "sport season"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "good habit"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "little-and-often principle"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "Sparrowhawk"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "32-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "goblet squat ladder"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "suitcase carry"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "moving plank"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "Eagle"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "double 24-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "double-kettlebell front squat"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "farmer walk"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "work capacity"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "load selection"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "Armor Building Complex"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "can use",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "typically uses",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "increases risk during",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "limits",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "develops",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "can alternate with",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "can use",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "can include",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "can include",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "can include",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "can include",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "can include",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "can separate",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "can separate",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "can emphasize",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "can emphasize",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "can emphasize",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "teaches",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "supports",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "uses",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "combines",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "combines",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "acts as",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "uses",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "combines",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "combines",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "tests",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "governs",
+                          "object":  "o35"
+                      }
+                  ]
+}

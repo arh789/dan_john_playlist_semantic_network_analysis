@@ -1,0 +1,377 @@
+﻿{
+    "playlist_position":  308,
+    "video_id":  "0bJVN6iAvAo",
+    "url":  "https://www.youtube.com/watch?v=0bJVN6iAvAo",
+    "official_title":  "Anaconda Strength, Loaded Carries, Strength Standards, \"Bro Splits\", Sleep \u0026 More | DJU Podcast #294",
+    "transcript":  {
+                       "file":  "../../transcripts/0bJVN6iAvAo_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "31-year-old trainee"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "95-kilogram bodyweight"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "strength standard"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "health"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "longevity"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "five-day program"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "two-day program"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "shift work"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "annual goal"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "bodyweight bench press"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "bodyweight military press"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "Horn Walk"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "forward walk"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "backward walk"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "anaconda strength"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "front squat"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "chin-sternum-zipper line"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "heartbeat walk"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "suitcase carry"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "rack carry"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "waiter carry"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "training journal"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "daily activity"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "past performance"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "future planning"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "56-year-old former bodybuilder"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "alcohol"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "calorie density"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "Pinot Noir"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "Irish whiskey"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "Guinness"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "bro split"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "horizontal press"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "vertical press"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "hinge pattern"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "single-arm press"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "40-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "48-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "Power to the People"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "strict overhead press"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "40-year-old trainee"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "five-year goal"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "injury risk"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "20-pound annual increase"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "training schedule"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "calories"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "deadlift"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "maintains",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "is a",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "can be a",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "constrains",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "is a",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "is a",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "is a",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "can use",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "can use",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "develops",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "supports",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "supports",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "can extend",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "is a",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "is a",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "is a",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "records",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "preserves",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "supports",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "adds",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "contains",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "contains",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "contains",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "often emphasizes",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "can correct imbalance from",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "can correct imbalance from",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "is a target for",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "is an advanced target for",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "pairs press with",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "pursues",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "can support",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "should govern",
+                          "object":  "o46"
+                      }
+                  ]
+}

@@ -1,0 +1,241 @@
+﻿{
+    "playlist_position":  180,
+    "video_id":  "ox87UGJa2lg",
+    "url":  "https://www.youtube.com/watch?v=ox87UGJa2lg",
+    "official_title":  "Top 3 HOME GYM Essentials | Dan John",
+    "transcript":  {
+                       "file":  "../../transcripts/ox87UGJa2lg_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "home-gym space"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "dorm room"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "one-car garage"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "two-car garage"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "four-car garage"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "covered porch"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "seasonal temperature"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "dumbbells"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "kettlebells"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "barbell"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "squat rack"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "parking space"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "equipment storage"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "primary kettlebell"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "20-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "28-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "ab wheel"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "stainless-steel ab wheel"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "suspension trainer"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "ceiling anchor"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "doorway anchor"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "three-piece starter gym"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "Olympic bar"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "bumper plates"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "lifting platform"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "training goals"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "budget"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "staged purchasing"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "exercise variety"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "general fitness"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "Olympic lifting"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "equipment selection"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o1",
+                          "relation":  "determines",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "favors",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "favors",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "requires",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "can fit",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "reduces",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "is affected by",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "includes",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "includes",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "includes",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "may be",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "may be",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "secures",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "is less trusted for",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "supports",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "requires",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "requires",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "benefits from",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "depends on",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "depends on",
+                          "object":  "o26"
+                      }
+                  ]
+}

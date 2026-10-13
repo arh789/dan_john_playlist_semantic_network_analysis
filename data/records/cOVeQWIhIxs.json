@@ -1,0 +1,290 @@
+﻿{
+    "playlist_position":  190,
+    "video_id":  "cOVeQWIhIxs",
+    "url":  "https://www.youtube.com/watch?v=cOVeQWIhIxs",
+    "official_title":  "Swings Instead of Deadlifts, Kettlebells vs. O-Lifting, Periodization | Dan John Podcast #174",
+    "transcript":  {
+                       "file":  "../../transcripts/cOVeQWIhIxs_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "63-year-old lifter"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "conventional deadlift"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "risk-reward decision"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "good morning"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "row"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "Romanian deadlift"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "pull-up"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "heavy kettlebell swing"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "power clean history"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "snatch history"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "raw double-bodyweight deadlift"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "older-lifter recovery"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "Highland Games"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "Olympic weightlifting"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "Living Off workout"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "405-pound front squat"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "three sets of eight"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "400-meter run"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "75-second lap"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "24-repetition capacity"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "one-repetition maximum"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "periodization"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "work-capacity phase"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "strength phase"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "snapacity"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "explosive repeatability"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "Brazilian jiu-jitsu"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "dizziness"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "forward roll"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "vestibular adaptation"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "typical day"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "family time"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "community work"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "seasonal schedule"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "Easy Strength for Olympic lifts"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "14-year-old son"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "three-day training"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "university teaching"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "student patience"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "repeated questions"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "deadlift strength"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "work capacity"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "parent"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o1",
+                          "relation":  "questions",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "can replace some",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "trains around",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "trains around",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "supports",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "limits",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "uses",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "uses",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "create",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "differs for",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "differs for",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "precedes",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "combines power with",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "provokes",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "may reduce",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "requires",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "changes",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "is part of",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "can be adapted to",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "trains with",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "is challenged by",
+                          "object":  "o40"
+                      }
+                  ]
+}

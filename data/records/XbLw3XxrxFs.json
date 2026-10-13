@@ -1,0 +1,321 @@
+﻿{
+    "playlist_position":  161,
+    "video_id":  "XbLw3XxrxFs",
+    "url":  "https://www.youtube.com/watch?v=XbLw3XxrxFs",
+    "official_title":  "The Dan John Podcast - Ep 147 | Deloads, Sport Style Kbs, Mind Shifts, and More",
+    "transcript":  {
+                       "file":  "../../transcripts/XbLw3XxrxFs_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "kettlebell sport"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "long-cycle clean and jerk"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "sport-style snatch"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "efficient technique"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "hardstyle kettlebell"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "power emphasis"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "general training"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "minor competitive sport"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "technical learning"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "47-year-old lifter"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "COVID gym closure"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "deadlift recovery"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "loaded-carry recovery"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "press recovery"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "squat recovery"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "chin-up decline"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "twelve chin-ups"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "five chin-ups"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "dead hang"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "negative chin-up"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "elbow health"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "grease-the-groove"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "bodyweight change"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "two-decade goal"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "145-pound tactical athlete"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "mobility"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "strength"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "health"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "half-bodyweight kettlebell press"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "Secret Service snatch test"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "marathon"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "one-mile swim"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "park-bench mindset"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "concrete standard"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "long-term identity"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "deload"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "training plateau"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "mindset shift"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "recovery week"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "chin-up recovery"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "chin-up capacity"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "chin-up practice"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o1",
+                          "relation":  "uses",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o1",
+                          "relation":  "uses",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "prioritizes",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "prioritizes",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "can add value without competition in",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "caused",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "was faster than",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "was faster than",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "was faster than",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "was faster than",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "fell to",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can rebuild",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "can rebuild",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "limits aggressive",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "can rebuild",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "affects",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "seeks",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "can combine",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "can combine",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "can combine",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "is a",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "is a",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "is a",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "is a",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "conflicts with overly narrow",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "can guide",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "provides",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "can reinterpret",
+                          "object":  "o37"
+                      }
+                  ]
+}

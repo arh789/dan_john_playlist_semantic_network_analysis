@@ -1,0 +1,365 @@
+﻿{
+    "playlist_position":  167,
+    "video_id":  "J2oGs7wmQM8",
+    "url":  "https://www.youtube.com/watch?v=J2oGs7wmQM8",
+    "official_title":  "Pressing the 48kg, Wall Squats, Youth Soccer and More | Dan John Podcast 153",
+    "transcript":  {
+                       "file":  "../../transcripts/J2oGs7wmQM8_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "48-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "heavy kettlebell press"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "Olympic-lifting background"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "barbell overhead strength"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "pressing progression"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "lighter kettlebells"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "repetition base"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "wall squat sit"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "isometric hold"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "Gail Olinekova"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "Legs"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "Portland State University"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "temporary exercise phase"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "43-year-old father"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "two youth soccer players"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "explosiveness"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "maximal strength"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "ankle mobility"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "hip mobility"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "lateral acceleration"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "sprinting practice"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "jumping practice"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "coaching children"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "60-year-old lifter"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "spring in the step"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "Clarence Bass"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "Terry Todd"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "Olympic lifts"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "daily movement quality"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "one-arm Olympic lifts"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "damaged wrist"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "physical therapist"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "exercise adaptation"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "one-arm snatch"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "one-arm clean"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "one-arm jerk"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "ancient Greek pentathlon"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "running"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "jumping"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "discus"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "javelin"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "wrestling"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "boxing"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "seasonal training"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "throwing skill"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "well-rounded athlete"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "youth soccer players"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "athlete"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o3",
+                          "relation":  "supports",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "made initial",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "builds toward",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "develop",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "supports",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "is an",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "recommended",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "was written by",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "is suggested for",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "depends partly on",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "depends on",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "depends on",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "need",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "develops",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "develops",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "differs from being",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "wants",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "discussed spring with",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "help retain",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "prevents conventional",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "endorses",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "adapts",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "adapts",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "adapts",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "includes",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "includes",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "includes",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "includes",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "includes",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "sometimes replaced running in",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "can organize",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "must be learned for",
+                          "object":  "o37"
+                      }
+                  ]
+}

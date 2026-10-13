@@ -1,0 +1,402 @@
+﻿{
+    "playlist_position":  163,
+    "video_id":  "pD7lf3XpIn0",
+    "url":  "https://www.youtube.com/watch?v=pD7lf3XpIn0",
+    "official_title":  "The Dan John Podcast - Ep 149 | Clarence Bass, Vasectomies, Easy Strength Plateaus and More",
+    "transcript":  {
+                       "file":  "../../transcripts/pD7lf3XpIn0_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "water-polo player"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "wrestling in water"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "ball throwing"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "swimming"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "eggbeater kick"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "aquatic efficiency"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "dry-land training"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "strength program"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "construction worker"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "physical job"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "41-year-old trainee"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "recovery time"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "kettlebell training"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "Original Strength"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "Tim Anderson"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "Pressing Reset"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "mobility"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "injury prevention"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "ballistic technique"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "Clarence Bass"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "Ripped series"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "Ripped 3"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "lean aging"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "training philosophy"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "snapacity"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "snap"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "work capacity"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "collision sports"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "throwing repetitions"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "minimum effective dose"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "33-year-old infantry officer"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "Olympic weightlifting return"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "Easy Strength for Olympic Lifting"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "sled pulls"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "loaded carries"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "front squats"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "heavy pulls"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "technical lifts"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "vasectomy"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "athletic performance"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "longevity"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "eight-day recovery"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "medical uncertainty"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "64-year-old golfer"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "Humane Burpee"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "strength plateau"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "cardiovascular conditioning"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "once-weekly strength emphasis"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "healthy aging"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "golf-club carry"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "floor transfer"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "overhead suitcase lift"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "grandchild lift"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "water-polo performance"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "extra squat volume"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o1",
+                          "relation":  "uses",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o1",
+                          "relation":  "uses",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o1",
+                          "relation":  "uses",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o1",
+                          "relation":  "uses",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "governs",
+                          "object":  "o55"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "must support rather than copy",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "reduces",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "supports",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "was written by",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "must account for workload of",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "must be checked before adding volume to",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "wrote",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "documents",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "is central to",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "combines",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "combines",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "require repeated",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "develop",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "supports",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "can replace some",
+                          "object":  "o56"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "can replace some",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "remain central to",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "has uncertain effect on",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "has uncertain effect on",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "limits claims about",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "builds",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "builds",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "does not necessarily resolve",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "can complement golf and",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "includes",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "includes",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "includes",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "includes",
+                          "object":  "o54"
+                      }
+                  ]
+}

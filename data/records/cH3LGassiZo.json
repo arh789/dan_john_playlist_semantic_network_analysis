@@ -1,0 +1,367 @@
+﻿{
+    "playlist_position":  144,
+    "video_id":  "cH3LGassiZo",
+    "url":  "https://www.youtube.com/watch?v=cH3LGassiZo",
+    "official_title":  "The Dan John Podcast - Ep 128 | Long Limbs, Stress Binging, Hot Yoga, and More",
+    "transcript":  {
+                       "file":  "../../transcripts/cH3LGassiZo_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "new father"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "six-month-old child"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "restricted training schedule"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "fifteen-minute weekday sessions"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "longer weekend sessions"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "kettlebells"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "barbell"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "pull-up bar"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "two-day training"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "push-pull-hinge-squat-carry"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "COVID daycare closures"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "parental stress"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "stress eating"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "easily available food"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "planned meals"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "protein and vegetables"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "environmental food control"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "overhead press goal"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "bodyweight overhead press"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "135-pound press"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "185-pound bodyweight"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "one-lift-a-day program"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "two weekly press sessions"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "high press frequency"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "10,000 Swing Challenge"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "500-swing session"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "16-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "24-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "32-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "swollen big toe"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "gout assessment"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "barefoot swings"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "foot arches"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "correlation and causation"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "43-year-old software developer"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "sedentary work"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "knee and back pain"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "hot yoga"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "general fitness"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "workout generator"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "consistent program"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "Transformation Program"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "fifteen-minute workouts"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "Easy Strength for Olympic lifting"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "Mass Made Simple"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "muscle size"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "strength gain"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "long-limbed trainee"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "exercise leverage"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "recovery"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o1",
+                          "relation":  "has",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "permits",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "permits",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "can organize",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "fits",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "increase",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "triggers",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "enables",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "reduce reliance on",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "support",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "helps interrupt",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "defines",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "is below",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "can emphasize",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "increase exposure toward",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "must be balanced with",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "uses repeated",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "preceded",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "was checked with",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "can fatigue",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "cannot establish that swings caused",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "contributes to",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "improves",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "can supply",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "can complement",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "uses",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "can follow",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "prioritizes",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "may level off while",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "experiences different",
+                          "object":  "o50"
+                      }
+                  ]
+}

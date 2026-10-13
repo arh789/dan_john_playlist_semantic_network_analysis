@@ -1,0 +1,472 @@
+﻿{
+    "playlist_position":  267,
+    "video_id":  "IM1LKtL_mnc",
+    "url":  "https://www.youtube.com/watch?v=IM1LKtL_mnc",
+    "official_title":  "Arnold Challenge, Best Program, 60+ Year Old Training, Explosive Strength \u0026 More | DJU Podcast #253",
+    "transcript":  {
+                       "file":  "../../transcripts/IM1LKtL_mnc_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Ramadan"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "fasting period"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "religious practice"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "intermittent fasting"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "training intensity"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "hydration window"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "six kettlebell movements"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "kettlebell snatch"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "kettlebell clean"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "Turkish get-up"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "kettlebell press"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "emotional resilience"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "service to others"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "role model"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "good habit"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "system"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "goblet-squat position"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "bear-hug carry"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "bear-hug squat"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "Bottoms-Up goblet-squat curl"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "Anaconda strength"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "Arnold Pump and Run Challenge"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "bodyweight bench press"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "five-kilometre run"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "thirty-repetition goal"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "lactic-acid tolerance"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "greasing the groove"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "teen contact-sport athlete"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "hockey"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "Mass Made Simple"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "pre-workout supplement"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "coffee"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "sixty-year-old athlete"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "walking"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "hiking"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "Zone 2 cardio"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "rucking"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "overhead press"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "strength reserve"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "front squat"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "deadlift"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "explosive strength"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "golf"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "joint wear"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "Original Strength"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "Tim Anderson"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "rock"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "neck nod"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "roll"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "egg roll"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "cross-crawl"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "marching"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "Frozone drill"
+                    },
+                    {
+                        "id":  "o57",
+                        "label":  "Olympic lift"
+                    },
+                    {
+                        "id":  "o58",
+                        "label":  "medicine-ball throw"
+                    },
+                    {
+                        "id":  "o59",
+                        "label":  "exercise"
+                    },
+                    {
+                        "id":  "o60",
+                        "label":  "contact sport"
+                    },
+                    {
+                        "id":  "o61",
+                        "label":  "running"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "includes",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "governs",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "should account for",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "supports training during",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "include",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "include",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "include",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "include",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "include",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "include",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "can build",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o59",
+                          "relation":  "can support",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "teaches children",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "supports",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "develops",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "develops",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "develops",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "combines",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "combines",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "requires",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "can improve",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "can build mass for",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "is a",
+                          "object":  "o60"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "can serve as",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "reduces joint impact versus",
+                          "object":  "o61"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "provides",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "adds load to",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "supports",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "supports aging of",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "builds",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "builds",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "supports",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "was created by",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "uses",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "uses",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "uses",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "uses",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "uses",
+                          "object":  "o54"
+                      },
+                      {
+                          "subject":  "o55",
+                          "relation":  "develops",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o56",
+                          "relation":  "develops",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "develops",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o57",
+                          "relation":  "develops",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o58",
+                          "relation":  "develops",
+                          "object":  "o45"
+                      }
+                  ]
+}

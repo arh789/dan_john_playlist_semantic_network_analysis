@@ -1,0 +1,368 @@
+﻿{
+    "playlist_position":  350,
+    "video_id":  "-o9MaQtaMSE",
+    "url":  "https://www.youtube.com/watch?v=-o9MaQtaMSE",
+    "official_title":  "Training After 30, Minimalist Program, Mobility, ABF, KB Press and Swing \u0026 More | DJU Podcast #337",
+    "transcript":  {
+                       "file":  "../../transcripts/-o9MaQtaMSE_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Charles"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "double 20-kilogram kettlebells"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "double-kettlebell press"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "alternating press"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "seesaw press"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "Tom"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "Pavel Tsatsouline"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "long rest interval"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "distributed training"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "every-hour-on-the-hour training"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "medical recovery"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "kettlebell"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "dumbbell"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "Sean"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "mountain biking"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "hiking"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "twice-weekly training"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "overhead press"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "24-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "32-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "2-3-5-10 ladder"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "Justin"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "Bill Gifford"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "Spring Chicken"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "Bill Bryson"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "The Body"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "A Walk in the Woods"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "longevity"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "Joe"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "push-pull-legs split"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "Weekend Warrior"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "recovery"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "three-day training week"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "Miroslav"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "wrist mobility"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "front squat"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "Zercher squat"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "Frankenstein squat"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "physical therapy"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "Frank"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "RKC certification"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "weight loss"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "masters swimming"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "swim technique"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "swim intervals"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "Armor Building Formula 2"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "five-day training week"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "performs",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "uses",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "normally includes",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "is a variation of",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "is a variation of",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "discussed",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "uses",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "is a form of",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "can support",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "prefers",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "prefers",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can combine",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can combine",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "can use",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "can use",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "can structure",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "wrote",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "wrote",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "wrote",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "concerns",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "combined with",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "can impair",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "can improve",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "affects",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "can replace",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "can replace",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "can restore",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "attended",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "uses",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "uses",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "can complement",
+                          "object":  "o46"
+                      }
+                  ]
+}

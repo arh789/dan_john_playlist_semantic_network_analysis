@@ -1,0 +1,384 @@
+﻿{
+    "playlist_position":  294,
+    "video_id":  "Ru8VAmhYybg",
+    "url":  "https://www.youtube.com/watch?v=Ru8VAmhYybg",
+    "official_title":  "WTH Effect, Fat Loss After ABF, Doing Your First Full-Up, KB Strength Training | DJU Podcast #280",
+    "transcript":  {
+                       "file":  "../../transcripts/Ru8VAmhYybg_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "eight-week program"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "lean body mass"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "squat"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "press"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "cutting phase"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "two-week recovery block"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "Perfect Workout"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "half-kneeling press"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "hang"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "hip thrust"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "Bulgarian goat-bag swing"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "overhead squat"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "suitcase carry"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "mobility"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "stabilizer muscle"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "heavier kettlebell"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "Bataan Memorial Death March"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "26.2-mile ruck"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "35-pound ruck"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "White Sands Missile Range"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "home gym"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "rucking progression"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "Olympic triathlon"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "endurance athlete"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "cardio training"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "two-day strength program"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "push-pull-squat-hinge-carry circuit"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "kettlebell complex"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "high-repetition press"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "shoulder mobility"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "swimming"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "poor overhead range"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "lower-back compensation"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "daily hanging"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "weightlifting belt"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "high-school athlete"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "250-athlete group"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "bar hang"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "pull-up"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "suspension-trainer pull-up"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "pull-up progression"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "coaching logistics"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "dead hang"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "uses",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "develops",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "uses",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "uses",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "can follow",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "can structure",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "includes",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "includes",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "includes",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "includes",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "includes",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "includes",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "trains",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "develops",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "can be used in later",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "requires",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "uses",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "occurs at",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "prepares for",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "can accompany",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "prepares for",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "prepares for",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "can use",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "can include",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "can alternate with",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "supports",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "can cause",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "supports",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "can reveal",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "creates",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "can practice",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "can practice",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "progresses toward",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "does not alone guarantee",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "requires",
+                          "object":  "o48"
+                      }
+                  ]
+}

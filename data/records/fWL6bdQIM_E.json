@@ -1,0 +1,272 @@
+﻿{
+    "playlist_position":  321,
+    "video_id":  "fWL6bdQIM_E",
+    "url":  "https://www.youtube.com/watch?v=fWL6bdQIM_E",
+    "official_title":  "Barbell Training, Squats, KB Olympic Lifts, Rite of Passage, Mobility \u0026 More | DJU Podcast #309",
+    "transcript":  {
+                       "file":  "../../transcripts/fWL6bdQIM_E_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Rite of Passage"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "28-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "32-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "weighted pull-up"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "five-pound load"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "double 24-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "press strength"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "squat volume"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "discus throw"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "Oklahoma wind"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "world record"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "wind assistance"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "boxing"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "39-year-old desk worker"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "kettlebell training"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "barbell training"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "dumbbell training"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "punching power"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "two-day lifting"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "hardstyle kettlebell clean and jerk"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "kettlebell snatch"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "barbell clean and jerk"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "barbell snatch"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "Olympic lifting"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "ballistic training"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "equipment availability"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "technical skill"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "bodyweight standard"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "excess body fat"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "clean and press standard"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "snatch standard"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "mobility"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "training choice"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "power"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "can use",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "can progress to",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "includes",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "can use",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "can use",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "develops",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "can complement",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "can use",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "can use",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "is a",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "is a",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "is an",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "is an",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "influences",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "influences",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "develops",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "develops",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "can apply to",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "can apply to",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "makes harder",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "can assist",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "affects",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "supports",
+                          "object":  "o26"
+                      }
+                  ]
+}

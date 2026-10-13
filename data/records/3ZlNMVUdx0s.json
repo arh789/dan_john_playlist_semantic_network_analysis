@@ -1,0 +1,501 @@
+﻿{
+    "playlist_position":  244,
+    "video_id":  "3ZlNMVUdx0s",
+    "url":  "https://www.youtube.com/watch?v=3ZlNMVUdx0s",
+    "official_title":  "Best Version of ABC, KB Routines, 6 Week Bulk, Best Way to Train, Deadlifts \u0026 More | DJU Podcast 228",
+    "transcript":  {
+                       "file":  "../../transcripts/3ZlNMVUdx0s_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "double-kettlebell clean"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "double-kettlebell press"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "double-kettlebell front squat"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "24-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "32-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "28-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "pressing plateau"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "Rite of Passage"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "clean-and-press ladder"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "pull-up"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "kettlebell snatch"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "push press"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "push jerk"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "self-regulation"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "sushi ginger"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "pickled onion"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "sauerkraut"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "fermented food"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "fiber"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "health"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "hinge pattern"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "squat pattern"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "athleticism"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "longevity"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "muscle mass"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "back squat"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "sport specificity"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "three-key coaching model"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "clean-grip deadlift"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "snatch-grip deadlift"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "lifting strap"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "grip strength"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "hand callus"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "touch-and-go deadlift"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "push-up"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "bench press"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "calisthenics volume"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "maximum strength"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "continuous clean and press"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "arm hypertrophy"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "RKC preparation program"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "snatch test"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "snatch technique"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "aggressive descent"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "bell casting"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "Mass Made Simple"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "six-week bulk"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "high-repetition squat"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "barbell complex"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "calorie counting"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "food journal"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "protein"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "repeat program cycle"
+                    },
+                    {
+                        "id":  "o57",
+                        "label":  "pressing capacity"
+                    },
+                    {
+                        "id":  "o58",
+                        "label":  "conditioning demand"
+                    },
+                    {
+                        "id":  "o59",
+                        "label":  "Korean market"
+                    },
+                    {
+                        "id":  "o60",
+                        "label":  "salt"
+                    },
+                    {
+                        "id":  "o61",
+                        "label":  "sugar"
+                    },
+                    {
+                        "id":  "o62",
+                        "label":  "lower back"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "combines",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "combines",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "combines",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "can be used in",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "can exceed",
+                          "object":  "o57"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "bridges",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "uses",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "includes",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "can improve",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "can follow",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "can follow",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "can substitute in",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "can substitute in",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "increases",
+                          "object":  "o58"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "governs",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "can be purchased from",
+                          "object":  "o59"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "uses",
+                          "object":  "o60"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "uses",
+                          "object":  "o61"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "is a",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "supports",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "supports",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "often transfers to",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "supports",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "builds",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "can support",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "prioritizes",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "uses narrower grip than",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "allows loading of",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "can reduce",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "can soften",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "can retain tension with",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "requires",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "requires",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "develops",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "can coexist with",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "develops",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "develops",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "prepares for",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "improves",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "harms",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "loads",
+                          "object":  "o62"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "is a",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "uses",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "uses",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "does not require",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o54",
+                          "relation":  "supports",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o55",
+                          "relation":  "supports",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o56",
+                          "relation":  "can improve",
+                          "object":  "o49"
+                      }
+                  ]
+}

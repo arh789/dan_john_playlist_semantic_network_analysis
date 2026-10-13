@@ -1,0 +1,289 @@
+﻿{
+    "playlist_position":  377,
+    "video_id":  "7oAH2jvbvm8",
+    "url":  "https://www.youtube.com/watch?v=7oAH2jvbvm8",
+    "official_title":  "KB Cleans, Loaded Carries, Alternating Programs, Rotational Strength \u0026 More | DJU Podcast #363",
+    "transcript":  {
+                       "file":  "../../transcripts/7oAH2jvbvm8_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Nick"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "new father"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "kettlebell"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "pull-up bar"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "Right of Passage"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "walking"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "single-kettlebell clean and press"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "pull-up ladder"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "program alternation"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "George"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "double 24-kilogram kettlebells"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "single 32-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "double 32-kilogram kettlebells"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "double-kettlebell clean"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "backswing"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "rack position"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "technical practice"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "John"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "former baseball player"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "former hockey player"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "golf"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "rotational strength"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "athleticism"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "Weekend Warrior"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "sport practice"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "medicine-ball throw"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "Randall"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "Kettlebell Companion"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "get-back-up drill"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "children"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "family exercise"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "belly position"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "side position"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "back position"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "plank position"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "cross-crawl restriction"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "Fitness Forge"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "is a",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "alternates",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "alternates",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "uses",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "uses",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "supplements",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "can clean",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "can clean",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "targets",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "uses",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "finishes in",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "supports",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "plays",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "develops",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "supports",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "can train",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "read",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "can involve",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "includes",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "includes",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "includes",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "includes",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "progresses",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "contains",
+                          "object":  "o31"
+                      }
+                  ]
+}

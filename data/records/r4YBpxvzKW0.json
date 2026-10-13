@@ -1,0 +1,270 @@
+﻿{
+    "playlist_position":  188,
+    "video_id":  "r4YBpxvzKW0",
+    "url":  "https://www.youtube.com/watch?v=r4YBpxvzKW0",
+    "official_title":  "Responding to Mark Rippetoe, Kettlebells vs Barbells, Building Abs, KB Press - Dan John Podcast #172",
+    "transcript":  {
+                       "file":  "../../transcripts/r4YBpxvzKW0_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "minimal home gym"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "kettlebell"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "ab wheel"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "suspension trainer"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "five-dollar ab wheel"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "Sorinex ab wheel"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "equipment breakage"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "half-kneeling press"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "suspension row"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "band hip thrust"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "band drop set"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "abdominal contraction"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "knee abduction"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "overhead squat"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "suitcase carry"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "post-workout walk"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "eight-minute workout"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "push movement"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "pull movement"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "hinge movement"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "squat movement"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "progressive resistance"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "resistance bands"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "trunk strength"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "glute strength"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "general fitness"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "barbell training"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "kettlebell training"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "exercise transfer"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "annual training schedule"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "off-season phase"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "early preseason"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "technical lifts"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "female collegiate throwers"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "push-pull-hinge-squat-carry"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "training goal"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o1",
+                          "relation":  "includes",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o1",
+                          "relation":  "includes",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o1",
+                          "relation":  "includes",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "resists",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "provides",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "provides",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "provides",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "provides",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "provides",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "progresses",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "combines with",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "covers",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "follows",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "develops",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "develops",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "enable",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "differs from",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "depends on",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "contains",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "precedes",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "helped",
+                          "object":  "o36"
+                      }
+                  ]
+}

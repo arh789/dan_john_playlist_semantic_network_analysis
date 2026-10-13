@@ -1,0 +1,655 @@
+﻿{
+    "playlist_position":  233,
+    "video_id":  "v1QxHVsiV-8",
+    "url":  "https://www.youtube.com/watch?v=v1QxHVsiV-8",
+    "official_title":  "BEST Program, Pull-Ups, Busy People Fitness, OHP, Peter Attia \u0026 Longevity | Dan John Podcast #216",
+    "transcript":  {
+                       "file":  "../../transcripts/v1QxHVsiV-8_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "new father"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "minimalist mass program"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "weighted dip"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "weighted chin-up"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "Mass Made Simple"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "high-repetition squat"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "food intake"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "double-kettlebell squat"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "24-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "overhead press"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "16-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "volume"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "load"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "density"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "waiter press"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "bottoms-up press"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "vertical forearm"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "push press"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "individual anatomy"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "startup CEO"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "busy schedule"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "workout generator"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "movement regression"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "three-by-twelve"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "three-by-ten"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "three-by-eight"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "deload"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "weekend warrior schedule"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "Easy Strength for Fat Loss"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "walking"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "Maffetone method"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "zone-two cardio"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "sprinting"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "Barry Ross"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "Charlie Francis"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "seasonal training"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "Olympic lifting"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "powerlifting"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "play"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "bodybuilding"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "long-term development"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "artificial intelligence"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "coach"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "mentor"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "compassion"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "Dick Notmeyer"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "Paint the dog"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "Road to Emmaus"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "elbow pain"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "pull-up"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "ab wheel"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "towel pull-up"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "thick grip"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "suspension trainer"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "T-Y-I drill"
+                    },
+                    {
+                        "id":  "o57",
+                        "label":  "suspension row"
+                    },
+                    {
+                        "id":  "o58",
+                        "label":  "human carry"
+                    },
+                    {
+                        "id":  "o59",
+                        "label":  "Hacksaw Ridge"
+                    },
+                    {
+                        "id":  "o60",
+                        "label":  "Desmond Doss"
+                    },
+                    {
+                        "id":  "o61",
+                        "label":  "wounded soldier"
+                    },
+                    {
+                        "id":  "o62",
+                        "label":  "motivation"
+                    },
+                    {
+                        "id":  "o63",
+                        "label":  "sandbag carry"
+                    },
+                    {
+                        "id":  "o64",
+                        "label":  "farmer walk"
+                    },
+                    {
+                        "id":  "o65",
+                        "label":  "barbell complex"
+                    },
+                    {
+                        "id":  "o66",
+                        "label":  "firefighter"
+                    },
+                    {
+                        "id":  "o67",
+                        "label":  "health span"
+                    },
+                    {
+                        "id":  "o68",
+                        "label":  "The Physiology of Strength"
+                    },
+                    {
+                        "id":  "o69",
+                        "label":  "Theodor Hettinger"
+                    },
+                    {
+                        "id":  "o70",
+                        "label":  "Thomas DeLorme"
+                    },
+                    {
+                        "id":  "o71",
+                        "label":  "Bryan Mann"
+                    },
+                    {
+                        "id":  "o72",
+                        "label":  "hard strength day"
+                    },
+                    {
+                        "id":  "o73",
+                        "label":  "tonic day"
+                    },
+                    {
+                        "id":  "o74",
+                        "label":  "rucking"
+                    },
+                    {
+                        "id":  "o75",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o76",
+                        "label":  "Saturday"
+                    },
+                    {
+                        "id":  "o77",
+                        "label":  "Sunday"
+                    },
+                    {
+                        "id":  "o78",
+                        "label":  "Wednesday"
+                    },
+                    {
+                        "id":  "o79",
+                        "label":  "aerobic training"
+                    },
+                    {
+                        "id":  "o80",
+                        "label":  "strength training"
+                    },
+                    {
+                        "id":  "o81",
+                        "label":  "four to eight years"
+                    },
+                    {
+                        "id":  "o82",
+                        "label":  "mentoring"
+                    },
+                    {
+                        "id":  "o83",
+                        "label":  "DeLorme protocol"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o3",
+                          "relation":  "can combine",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "can combine",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "can use squat portion of",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "uses",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "requires high",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "can use",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "can use",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "can progress",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "can progress",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "can progress",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "can improve",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "can improve",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "supports",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can overload",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "affects",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "constrains",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "supports",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "adapts",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "can precede",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "can precede",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "can precede",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "places hard training on",
+                          "object":  "o76"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "places hard training on",
+                          "object":  "o77"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "places small workout on",
+                          "object":  "o78"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "pairs strength with",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "guides",
+                          "object":  "o79"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "supports",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o80",
+                          "relation":  "supports",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "coached",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "coached",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "can emphasize fall",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "can emphasize winter",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "can emphasize spring",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "can emphasize summer",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "can emphasize summer",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "can span",
+                          "object":  "o81"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "cannot replace",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "provides",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "provides",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "mentored",
+                          "object":  "o1"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "was comforted by",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "illustrates",
+                          "object":  "o82"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "can limit",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o52",
+                          "relation":  "can replace painful",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o53",
+                          "relation":  "changes grip in",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o54",
+                          "relation":  "changes grip in",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o55",
+                          "relation":  "can perform",
+                          "object":  "o56"
+                      },
+                      {
+                          "subject":  "o55",
+                          "relation":  "can perform",
+                          "object":  "o57"
+                      },
+                      {
+                          "subject":  "o60",
+                          "relation":  "appears in",
+                          "object":  "o59"
+                      },
+                      {
+                          "subject":  "o60",
+                          "relation":  "performed",
+                          "object":  "o58"
+                      },
+                      {
+                          "subject":  "o58",
+                          "relation":  "moves",
+                          "object":  "o61"
+                      },
+                      {
+                          "subject":  "o62",
+                          "relation":  "affects performance of",
+                          "object":  "o58"
+                      },
+                      {
+                          "subject":  "o63",
+                          "relation":  "prepares for",
+                          "object":  "o58"
+                      },
+                      {
+                          "subject":  "o64",
+                          "relation":  "prepares for",
+                          "object":  "o58"
+                      },
+                      {
+                          "subject":  "o65",
+                          "relation":  "supports preparation of",
+                          "object":  "o66"
+                      },
+                      {
+                          "subject":  "o69",
+                          "relation":  "wrote",
+                          "object":  "o68"
+                      },
+                      {
+                          "subject":  "o70",
+                          "relation":  "developed",
+                          "object":  "o83"
+                      },
+                      {
+                          "subject":  "o71",
+                          "relation":  "studied",
+                          "object":  "o83"
+                      },
+                      {
+                          "subject":  "o67",
+                          "relation":  "can use two weekly",
+                          "object":  "o72"
+                      },
+                      {
+                          "subject":  "o73",
+                          "relation":  "supports recovery from",
+                          "object":  "o72"
+                      },
+                      {
+                          "subject":  "o74",
+                          "relation":  "can be used on",
+                          "object":  "o73"
+                      },
+                      {
+                          "subject":  "o75",
+                          "relation":  "can be used on",
+                          "object":  "o73"
+                      }
+                  ]
+}

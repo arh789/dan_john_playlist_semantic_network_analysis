@@ -1,0 +1,281 @@
+﻿{
+    "playlist_position":  199,
+    "video_id":  "868WcCQuunE",
+    "url":  "https://www.youtube.com/watch?v=868WcCQuunE",
+    "official_title":  "KB Swing, Easy Strength, Dan Martin, Electrolytes, Lonnie Lowry \u0026 More... | Dan John Podcast #182",
+    "transcript":  {
+                       "file":  "../../transcripts/868WcCQuunE_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "long-term trainee"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "age-related leanness"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "training reduction"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "Utah State underwater weighing"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "8.9-percent body fat"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "265-pound snatch"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "365-pound clean and jerk"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "travel stiffness"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "air travel"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "dehydration"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "mobility loss"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "compact suitcase"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "travel system"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "protein food"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "water"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "walking"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "hotel training"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "sodium recommendation"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "2,300 milligrams sodium"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "home-prepared food"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "fast food"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "high salt taste"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "electrolytes"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "fermented foods"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "homemade sauerkraut"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "Dan Martin Program Minimum"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "Dan Martin"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "Dave Draper message board"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "San Jose weightlifting community"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "Oakland Raiders"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "school workshop"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "professional friendship"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "Bret Contreras interview"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "Lonnie Lowery"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "nutrition episode"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "guest contact"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "age"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "sodium intake"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "hydration"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "fermented food"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o4",
+                          "relation":  "measured",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o1",
+                          "relation":  "finds leanness harder with",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "causes",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "causes",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "supports",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "reduces",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "reduces",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "controls",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "contains perceptible",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "is a",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "relate to",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "is a",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "is associated with",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "met Dan John through",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "knew",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "helped with",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "connects Dan John and",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "motivates request for",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "is proposed for",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "is needed to reach",
+                          "object":  "o34"
+                      }
+                  ]
+}

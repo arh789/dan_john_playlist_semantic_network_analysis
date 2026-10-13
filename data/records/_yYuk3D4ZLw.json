@@ -1,0 +1,372 @@
+﻿{
+    "playlist_position":  383,
+    "video_id":  "_yYuk3D4ZLw",
+    "url":  "https://www.youtube.com/watch?v=_yYuk3D4ZLw",
+    "official_title":  "Longevity Secrets, Seasonal Lifting, Finding a Coach, Maintaining Strength, Books | DJU Podcast #369",
+    "transcript":  {
+                       "file":  "../../transcripts/_yYuk3D4ZLw_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Oliver"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "33-year-old new parent"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "dad bod"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "training longevity"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "Datathlon"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "100-meter sprint"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "1,500-meter run"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "standing long jump"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "upper-body strength test"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "Spartan race"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "annual assessment"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "Jim"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "self-improvement"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "mediocrity"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "adversity narrative"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "good-enough plateau"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "rags-to-riches story"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "James"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "West London"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "kettlebell coach"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "technique check"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "club"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "mace"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "trainer qualification"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "phone interview"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "Sean"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "former Division I fullback"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "hypertrophy"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "bodybuilding"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "mountain biking"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "road cycling"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "hiking"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "paddling"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "seasonal lifting break"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "mobility"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "glute activation"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "Canadian Rockies summer"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "Phil"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "66-year-old trainee"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "longevity"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "ectomorph"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "home gym"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "dumbbell"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "kettlebell"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "sandbag"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "suspension trainer"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "dead hang"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "muscle gain"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "information overload"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "self-improvement narrative"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "is a",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "created",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "includes",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "includes",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "includes",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "includes",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "can use",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "supports",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "asked about overcoming",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "differs from",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "is a",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "seeks",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "can provide",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "can help select",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "can help select",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "was a",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "uses",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "uses",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "uses",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "uses",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "uses",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "motivates",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "can support",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "can support",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "targets",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "contains",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "contains",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "contains",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "contains",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "reports difficulty with",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "complicates",
+                          "object":  "o41"
+                      }
+                  ]
+}

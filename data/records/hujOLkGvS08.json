@@ -1,0 +1,315 @@
+﻿{
+    "playlist_position":  178,
+    "video_id":  "hujOLkGvS08",
+    "url":  "https://www.youtube.com/watch?v=hujOLkGvS08",
+    "official_title":  "Bret Contreras REVEALS His GLUTE WORKOUT to Dan John | Dan John Podcast",
+    "transcript":  {
+                       "file":  "../../transcripts/hujOLkGvS08_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Bret Contreras"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "Glute Guy"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "2006 Los Angeles seminar"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "long-term professional relationship"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "hip thrust"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "glute training"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "hip replacement"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "exercise skepticism"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "new exercise adoption"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "T Nation"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "2009 writing career"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "conventional deadlift"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "sumo deadlift"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "squat"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "bench press"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "Romanian deadlift"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "chin-up"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "program similarity"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "industry cliques"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "spinal flexion debate"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "crunch exercise"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "female physique athlete"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "glute hypertrophy"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "barbell hip thrust"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "bodyweight hip thrust"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "glute bridge"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "abduction exercise"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "posterior-chain strength"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "athletic performance"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "muscle activation"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "progressive overload"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "exercise research"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "coaching evidence"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "lower-body program"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "individual anatomy"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "training variation"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "high-load work"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "high-repetition work"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "recovery"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "glute activation"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "exercise selection"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "training volume"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o1",
+                          "relation":  "interviews",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "is known as",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o1",
+                          "relation":  "met Bret Contreras at",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "changed views on",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "initially targeted",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "increased appreciation for",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "developed and popularized",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "began writing for",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "requires",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "trains",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "can coexist with",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "appears in programs alongside",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "appears in",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "balances",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "is obscured by",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "involved",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "changed preparation of",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "supports",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "progresses toward",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "develops",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "supplements",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "applies to",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "informs",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "modifies",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "can combine with",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "limits",
+                          "object":  "o43"
+                      }
+                  ]
+}

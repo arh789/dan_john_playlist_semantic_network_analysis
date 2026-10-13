@@ -1,0 +1,381 @@
+﻿{
+    "playlist_position":  300,
+    "video_id":  "93BQLLtWgc4",
+    "url":  "https://www.youtube.com/watch?v=93BQLLtWgc4",
+    "official_title":  "Easy Strength, Mixing ABC with Rite of Passage, ABF vs. MMS, Best \"FUN\" Program | DJU Podcast #286",
+    "transcript":  {
+                       "file":  "../../transcripts/93BQLLtWgc4_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "52-year-old athlete"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "hybrid routine"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "three-times-weekly body-part training"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "set cycling"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "endurance training"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "strength reserve"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "Strength and Health magazine"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "Larry Myers"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "marathoner"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "bodyweight bench press"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "double-bodyweight deadlift"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "40-day program"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "back-to-back cycle"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "39-year-old trainee"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "Mass Made Simple"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "five-kilogram gain"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "double 20-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "Rite of Passage"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "clean and press"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "pull-up"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "barbell complex"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "snatch-grip deadlift"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "Romanian deadlift"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "overhead squat"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "eight-repetition set"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "press limitation"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "weekly alternation"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "easy day"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "medium day"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "hard day"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "training complexity"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "62-year-old cyclist"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "lean body mass"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "body fat"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "waist measurement"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "scale weight"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "progress photograph"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "cycling performance"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "hypertrophy"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "book purchase"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "equipment purchase"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "program adherence"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "body composition"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o3",
+                          "relation":  "uses",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "uses",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "has roots in",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "builds",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "wrote about",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "can target",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "can target",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "uses",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "combines two",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "produced",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "uses",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "loads",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "mixes",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "incorporates elements of",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "uses",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "uses",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "can include",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "can include",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "can include",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "governs load in",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "can alternate",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "can alternate",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "uses fewer",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "uses more",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "uses most",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "can warm up",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "increases when combining",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "increases when combining",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "uses",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "can increase",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "helps distinguish",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "tracks",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "tracks",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "can affect",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "supports",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "supports",
+                          "object":  "o46"
+                      }
+                  ]
+}

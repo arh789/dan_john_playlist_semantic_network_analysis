@@ -1,0 +1,420 @@
+﻿{
+    "playlist_position":  276,
+    "video_id":  "Oba8hzd6cg4",
+    "url":  "https://www.youtube.com/watch?v=Oba8hzd6cg4",
+    "official_title":  "Rite of Passage, Best Hypertrophy, Ab Workouts, Skinny Fat, KB Swings \u0026 More | Dan John Podcast #262",
+    "transcript":  {
+                       "file":  "../../transcripts/Oba8hzd6cg4_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Rite of Passage"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "clean and press"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "pull-up"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "kettlebell snatch"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "rowing machine"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "ten-thousand-swing challenge"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "training plateau"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "four-week challenge"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "hundred-push-up challenge"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "youth athlete"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "throwing skill"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "throwing game"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "right shoelace cue"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "thigh-slap cue"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "strongman summer camp"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "teenager"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "farmer walk"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "sled drag"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "sandbag carry"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "team relay"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "moderate-distance running"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "fifteen-to-twenty-mile week"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "kettlebell training"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "three-run schedule"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "three-kettlebell schedule"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "recovery day"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "two-three-five ladder"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "two-three-five-ten ladder"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "single-kettlebell clean and press"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "hypertrophy"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "fifty repetitions"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "physical fitness"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "spiritual fitness"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "body"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "soul"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "abdominal wall"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "ab wheel"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "suitcase carry"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "hanging bent-knee leg raise"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "Olympic lifting"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "bench press"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "shoulder health"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "eight-to-twelve repetitions"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "skinny-fat body composition"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "25-year-old beginner"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "double 16-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "muscle mass"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "strength"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "mobility"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "sleep"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "protein"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "vegetable"
+                    },
+                    {
+                        "id":  "o57",
+                        "label":  "walking"
+                    },
+                    {
+                        "id":  "o58",
+                        "label":  "body composition"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "uses",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "can pair with",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "finishes with",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "finishes with",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "uses",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "can break",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "is a",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "teaches",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "supports",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "supports",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "can include",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "can include",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "can include",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "engages",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "can combine with",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "can fit",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "must allow",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "builds toward",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "can use",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "develops",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "relates to",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "relates to",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "trains",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "trains",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "trains",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "supports",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "can support",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "can support",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "can address",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "can load",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o54",
+                          "relation":  "supports",
+                          "object":  "o58"
+                      },
+                      {
+                          "subject":  "o55",
+                          "relation":  "supports",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o56",
+                          "relation":  "supports",
+                          "object":  "o58"
+                      },
+                      {
+                          "subject":  "o57",
+                          "relation":  "supports",
+                          "object":  "o58"
+                      },
+                      {
+                          "subject":  "o52",
+                          "relation":  "supports",
+                          "object":  "o53"
+                      }
+                  ]
+}

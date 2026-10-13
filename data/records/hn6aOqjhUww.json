@@ -1,0 +1,382 @@
+﻿{
+    "playlist_position":  352,
+    "video_id":  "hn6aOqjhUww",
+    "url":  "https://www.youtube.com/watch?v=hn6aOqjhUww",
+    "official_title":  "Anaconda Strength, Overhead Press, Loaded Carries, Building Muscle, Fasting | DJU Podcast #339",
+    "transcript":  {
+                       "file":  "../../transcripts/hn6aOqjhUww_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Greg"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "73-year-old trainee"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "double 16-kilogram kettlebells"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "10-round complex"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "23-round complex"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "9,200 daily steps"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "8-week training block"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "Sam"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "double 28-kilogram kettlebells"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "double 24-kilogram kettlebells"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "sandbag"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "strongman sandbag"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "unstable load"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "Anaconda strength"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "softener-salt pellets"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "Bill"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "foot issues"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "motorcycle injury"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "water walking"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "pool"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "backward walking"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "sideways walking"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "Original Strength gait work"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "walking poles"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "Shawn"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "Martin Berkhan"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "Lean Gains"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "intermittent fasting"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "reverse pyramid training"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "compound lift"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "Jake"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "bodyweight clean and press"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "bodyweight snatch"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "clean and jerk"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "Glenn Passey"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "overhead press plateau"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "ultramarathon"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "dumbbell bench press"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "Chris"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "rock climbing"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "strength-to-weight ratio"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "heavy low-repetition training"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "hypertrophy"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "American football"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "walking"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "overhead press"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "strength"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "completed",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "used",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "progressed from",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "progressed to",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "can alternate with",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "can organize",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "can organize",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "averaged",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "uses",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "uses",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "provides",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "can develop",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "can be used for",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can fill",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "can accommodate",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "can accommodate",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "uses",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "can be performed as",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "can be performed as",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "can assist",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "created",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "uses",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "uses",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "recommended",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "recommended",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "experienced",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "prepares for",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "can provide variation from",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "depends on",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "supports",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "prioritizes",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "can produce",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "was designed for",
+                          "object":  "o48"
+                      }
+                  ]
+}

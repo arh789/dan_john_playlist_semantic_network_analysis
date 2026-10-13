@@ -1,0 +1,275 @@
+﻿{
+    "playlist_position":  326,
+    "video_id":  "4_m5vINfv94",
+    "url":  "https://www.youtube.com/watch?v=4_m5vINfv94",
+    "official_title":  "ABF vs Easy Strength, Olympic Lifts, Building Strength, Workouts for Kids \u0026 More | DJU Podcast #314",
+    "transcript":  {
+                       "file":  "../../transcripts/4_m5vINfv94_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Easy Strength for Fat Loss"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "military press"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "double 24-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "alternating press"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "traditional deadlift"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "trap-bar deadlift"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "110-pound barbell"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "285-pound deadlift"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "300-pound trap bar"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "strength gain"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "program rotation"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "daily rucking"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "30-pound ruck"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "17-minute mile"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "torn lateral meniscus"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "knee discomfort"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "pace control"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "youth lifting"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "sixth-grade athlete"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "middle-school program"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "Southwood program"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "power clean"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "front squat"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "bench press"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "deadlift"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "Olympic lifting"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "clean"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "snatch"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "first pull"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "squat pattern"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "hinge pattern"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "technical classification"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "workout for children"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "DNA"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "training age"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "coaching purpose"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "can use",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "can use",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "can change to",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "can follow",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "can alternate",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "can alternate",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "uses",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "reduces",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "can cause",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "can begin with",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "can serve",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "includes",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "includes",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "includes",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "includes",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "can add",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "is an",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "is an",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "contains aspects of",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "contains aspects of",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "should not override",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "governs",
+                          "object":  "o35"
+                      }
+                  ]
+}

@@ -1,0 +1,559 @@
+﻿{
+    "playlist_position":  220,
+    "video_id":  "Fn7TfT6t_Co",
+    "url":  "https://www.youtube.com/watch?v=Fn7TfT6t_Co",
+    "official_title":  "Kettlebell Swings, Prison Workouts, KB Rite of Passage \u0026 Deadlift Variations | Dan John Podcast #203",
+    "transcript":  {
+                       "file":  "../../transcripts/Fn7TfT6t_Co_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Rite of Passage"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "kettlebell clean and press"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "pull-up ladder"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "kettlebell snatch"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "barbell clean and press"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "continuous clean and press"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "one-two-three-four-five ladder"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "eight-to-ten repetitions"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "upper-body workout"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "high-hang muscle clean"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "Bill Hinbern"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "John Jesse"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "work-family balance"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "household routine"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "meal planning"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "crock pot"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "George Foreman grill"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "local competition"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "intentional community"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "work-rest-play-pray balance"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "six-point rock"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "overhead squat"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "front squat"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "back squat"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "mobility"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "roofing work"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "vegetables"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "protein"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "protein supplement"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "weekend training"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "double-kettlebell press"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "double-kettlebell front squat"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "conga line"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "uneven kettlebells"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "double-kettlebell deadlift"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "two-three-five-ten ladder"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "Easy Strength grinds"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "double-kettlebell clean and push press"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "double-kettlebell clean and push jerk"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "ballistic training block"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "Return of the Kettlebell"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "sumo deadlift"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "conventional deadlift"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "desk job"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "lower-back pain"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "ten-thousand-swing challenge"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "deadlift family"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "Jefferson deadlift"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "hip thrust"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "magic drill"
+                    },
+                    {
+                        "id":  "o57",
+                        "label":  "glute loop"
+                    },
+                    {
+                        "id":  "o58",
+                        "label":  "heel elevation"
+                    },
+                    {
+                        "id":  "o59",
+                        "label":  "Armor Building Complex alternation"
+                    },
+                    {
+                        "id":  "o60",
+                        "label":  "prison workout"
+                    },
+                    {
+                        "id":  "o61",
+                        "label":  "greasing the groove"
+                    },
+                    {
+                        "id":  "o62",
+                        "label":  "training volume"
+                    },
+                    {
+                        "id":  "o63",
+                        "label":  "sleep"
+                    },
+                    {
+                        "id":  "o64",
+                        "label":  "recovery"
+                    },
+                    {
+                        "id":  "o65",
+                        "label":  "busy schedule"
+                    },
+                    {
+                        "id":  "o66",
+                        "label":  "personal training"
+                    },
+                    {
+                        "id":  "o67",
+                        "label":  "hinge pattern"
+                    },
+                    {
+                        "id":  "o68",
+                        "label":  "strength maintenance"
+                    },
+                    {
+                        "id":  "o69",
+                        "label":  "pull-up volume"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "uses",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "uses",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "finishes with",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "can finish with",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "can adapt",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "is a form of",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "organizes",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "can adapt the ladder for",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "can anchor",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "reduces leg contribution to",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "documented",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "used",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o65",
+                          "relation":  "motivated development of",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o65",
+                          "relation":  "motivated use of",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "supports",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "supports",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "supports",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "supports",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "reduces travel demands on",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "combines coaching with",
+                          "object":  "o66"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "supports",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "precedes",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "precedes",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "precedes",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "precedes",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "integrates",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "support nutrition for",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "supports recovery from",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "can increase",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "can accommodate",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "uses",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "uses",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "organizes",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "can complement",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "organizes",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "can precede",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "can use",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "can use",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "supplies progression for",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "may be tolerated when",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "can contribute to",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o52",
+                          "relation":  "can improve resilience of",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "belongs to",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o54",
+                          "relation":  "belongs to",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o55",
+                          "relation":  "teaches",
+                          "object":  "o67"
+                      },
+                      {
+                          "subject":  "o56",
+                          "relation":  "teaches",
+                          "object":  "o67"
+                      },
+                      {
+                          "subject":  "o56",
+                          "relation":  "uses",
+                          "object":  "o57"
+                      },
+                      {
+                          "subject":  "o56",
+                          "relation":  "uses",
+                          "object":  "o58"
+                      },
+                      {
+                          "subject":  "o59",
+                          "relation":  "supports",
+                          "object":  "o68"
+                      },
+                      {
+                          "subject":  "o60",
+                          "relation":  "can combine",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o60",
+                          "relation":  "can combine",
+                          "object":  "o61"
+                      },
+                      {
+                          "subject":  "o61",
+                          "relation":  "increases",
+                          "object":  "o69"
+                      },
+                      {
+                          "subject":  "o63",
+                          "relation":  "supports",
+                          "object":  "o64"
+                      },
+                      {
+                          "subject":  "o64",
+                          "relation":  "supports",
+                          "object":  "o62"
+                      }
+                  ]
+}

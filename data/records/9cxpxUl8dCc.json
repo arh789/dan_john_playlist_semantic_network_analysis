@@ -1,0 +1,543 @@
+﻿{
+    "playlist_position":  265,
+    "video_id":  "9cxpxUl8dCc",
+    "url":  "https://www.youtube.com/watch?v=9cxpxUl8dCc",
+    "official_title":  "ABC Program, Intensity, Mass Made Simple, DOMS, Strength Standards \u0026 KB Work | DJU Podcast #250",
+    "transcript":  {
+                       "file":  "../../transcripts/9cxpxUl8dCc_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "personal trauma"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "mental-health crisis"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "professional care"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "life reset"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "routine"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "sleep"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "hydration"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "vegetable"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "protein"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "walking"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "lifting"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "rugby player"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "warm-up"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "hip mobility"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "ankle mobility"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "wrist mobility"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "shoulder dislocate"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "specific warm-up"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "double-kettlebell clean"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "double-kettlebell press"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "double-kettlebell front squat"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "thirty-minute EMOM"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "ninety squats"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "45-plus training group"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "Easy Strength for Fat Loss"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "medical setback"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "Mass Made Simple"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "program derivation"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "experience"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "performance switch"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "heightened intensity"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "mental preparation"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "competition rehearsal"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "fatigue practice"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "Orthodox fasting"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "Lent"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "meat"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "dairy"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "alcohol"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "oil"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "fasted workout"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "one-lift workout"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "clean and press"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "religious discipline"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "overhead squat"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "goblet-squat-to-overhead-squat"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "technical coaching"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "seesaw press"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "RKC"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "RKC2"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "single-arm press"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "strength standard"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "36-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o57",
+                        "label":  "48-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o58",
+                        "label":  "walking seesaw press"
+                    },
+                    {
+                        "id":  "o59",
+                        "label":  "Olympic lifting"
+                    },
+                    {
+                        "id":  "o60",
+                        "label":  "Turkish get-up"
+                    },
+                    {
+                        "id":  "o61",
+                        "label":  "windmill"
+                    },
+                    {
+                        "id":  "o62",
+                        "label":  "delayed-onset muscle soreness"
+                    },
+                    {
+                        "id":  "o63",
+                        "label":  "exercise change"
+                    },
+                    {
+                        "id":  "o64",
+                        "label":  "repetition change"
+                    },
+                    {
+                        "id":  "o65",
+                        "label":  "load change"
+                    },
+                    {
+                        "id":  "o66",
+                        "label":  "clean and jerk"
+                    },
+                    {
+                        "id":  "o67",
+                        "label":  "pull-up injury"
+                    },
+                    {
+                        "id":  "o68",
+                        "label":  "rest"
+                    },
+                    {
+                        "id":  "o69",
+                        "label":  "hypertrophy"
+                    },
+                    {
+                        "id":  "o70",
+                        "label":  "load"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o4",
+                          "relation":  "supports recovery from",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "supports",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "supports",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "supports",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "supports",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "supports",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "supports",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "supports",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "supports",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "can develop",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "can develop",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "can develop",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "can include",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "prepares for",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "combines",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "combines",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "combines",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "can contain",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "can accumulate",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "should not be altered without",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "lacks evidence without",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "develops",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "can develop",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "is observed during",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "excludes",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "excludes",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "excludes",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "excludes",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "can use",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "can use",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "can use",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "can support",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "prepares for",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "supports",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "can feel more natural than",
+                          "object":  "o54"
+                      },
+                      {
+                          "subject":  "o52",
+                          "relation":  "teaches",
+                          "object":  "o54"
+                      },
+                      {
+                          "subject":  "o53",
+                          "relation":  "teaches",
+                          "object":  "o54"
+                      },
+                      {
+                          "subject":  "o56",
+                          "relation":  "represents advanced",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o57",
+                          "relation":  "represents elite",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o58",
+                          "relation":  "increases demand of",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "can complement",
+                          "object":  "o59"
+                      },
+                      {
+                          "subject":  "o60",
+                          "relation":  "can complement",
+                          "object":  "o59"
+                      },
+                      {
+                          "subject":  "o61",
+                          "relation":  "can complement",
+                          "object":  "o59"
+                      },
+                      {
+                          "subject":  "o63",
+                          "relation":  "can cause",
+                          "object":  "o62"
+                      },
+                      {
+                          "subject":  "o64",
+                          "relation":  "can cause",
+                          "object":  "o62"
+                      },
+                      {
+                          "subject":  "o65",
+                          "relation":  "can cause",
+                          "object":  "o62"
+                      },
+                      {
+                          "subject":  "o62",
+                          "relation":  "does not prove",
+                          "object":  "o69"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "differs from",
+                          "object":  "o66"
+                      },
+                      {
+                          "subject":  "o66",
+                          "relation":  "allows more",
+                          "object":  "o70"
+                      },
+                      {
+                          "subject":  "o67",
+                          "relation":  "requires",
+                          "object":  "o68"
+                      }
+                  ]
+}

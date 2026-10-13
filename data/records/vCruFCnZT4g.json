@@ -1,0 +1,420 @@
+﻿{
+    "playlist_position":  272,
+    "video_id":  "vCruFCnZT4g",
+    "url":  "https://www.youtube.com/watch?v=vCruFCnZT4g",
+    "official_title":  "Easy Strength, Cold Showers, ABC, Humane Burpee, Busy Dads, Bodybuilding \u0026 More... | DJU Podcast 258",
+    "transcript":  {
+                       "file":  "../../transcripts/vCruFCnZT4g_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "Humane Burpee"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "alternating schedule"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "extra training volume"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "recovery"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "push-up"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "double-kettlebell clean"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "double-kettlebell press"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "double-kettlebell front squat"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "cold shower"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "ice bath"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "sauna"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "hot tub"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "contrast therapy"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "heat-shock protein"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "Brad Pilon"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "cardiovascular health"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "cost-benefit ratio"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "Olympic-lifting coach"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "pre-training meal"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "smoothie"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "prepared protein"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "fasting"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "walking"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "dog walking"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "lower-back pain"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "hip stiffness"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "Stu McGill"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "perfect program"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "overhead press"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "ab wheel"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "suitcase carry"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "hip thrust"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "Superman hold"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "busy father"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "home gym"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "barbell program"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "power clean"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "military press"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "front squat"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "bench press"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "rack pull"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "farmer walk"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "bodybuilding"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "older athlete"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "muscle mass"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "machine training"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "joint health"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o4",
+                          "relation":  "can combine",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "can combine",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "adds",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "adds",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "increases need for",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "combines",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "combines",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "combines",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "combines",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "combines",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "combines",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "is a form of",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "is a form of",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "supports",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "can affect",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "can affect",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "wrote about",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "can guide use of",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "can provide",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "can provide",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "can simplify",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "is a form of",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "can reduce",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "advocates",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "can include",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "can include",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "can include",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "can include",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "can include",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "can serve",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "can include",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "can include",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "can include",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "can include",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "can include",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "can include",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "preserves",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "benefits from",
+                          "object":  "o49"
+                      },
+                      {
+                          "subject":  "o52",
+                          "relation":  "can preserve",
+                          "object":  "o53"
+                      }
+                  ]
+}

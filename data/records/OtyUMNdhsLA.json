@@ -1,0 +1,305 @@
+﻿{
+    "playlist_position":  318,
+    "video_id":  "OtyUMNdhsLA",
+    "url":  "https://www.youtube.com/watch?v=OtyUMNdhsLA",
+    "official_title":  "Strength Standards, ABC, Humane Burpee, Beginner Program for 50+, Snatch Test | DJU Podcast #306",
+    "transcript":  {
+                       "file":  "../../transcripts/OtyUMNdhsLA_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "44-year-old certification candidate"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "kettlebell certification"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "peaking program"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "clean and press"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "snatch test"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "training base"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "50-year-old beginner"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "overweight trainee"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "dog walking"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "hiking"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "Ozempic"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "medical supervision"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "strength training"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "Humane Burpee"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "push-up"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "seven-minute workout"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "full Humane Burpee"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "plyometric training"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "double-bodyweight squat"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "beginner jump"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "slow repetition"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "isometric pause"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "working father"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "30-round target"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "22-minute completion"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "40 rounds"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "density"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "fatigue"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "normal mattress"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "futon"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "sleep quality"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "58-year-old former runner"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "bodyweight exercise"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "dip"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "neutral-grip chin-up"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "injury avoidance"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "repetition count"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "explosive training"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "strength"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "prepares for",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "prepares for",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "supports",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "precedes",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "performs",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "performs",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "requires",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "supports",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "combines",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "combines",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "combines",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can be a",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "uses higher",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "is a prerequisite proposed for",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "can precede advanced",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "differs from",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "can develop",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "can target",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "increases",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "increases",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "is affected by",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "is affected by",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "uses",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "may support",
+                          "object":  "o40"
+                      }
+                  ]
+}

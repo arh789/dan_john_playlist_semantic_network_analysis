@@ -1,0 +1,453 @@
+﻿{
+    "playlist_position":  221,
+    "video_id":  "rbXFms3h-PE",
+    "url":  "https://www.youtube.com/watch?v=rbXFms3h-PE",
+    "official_title":  "Best Kettlebell Movements, Chin-Ups, Contact Sports \u0026 Old People Training | Dan John Podcast #204",
+    "transcript":  {
+                       "file":  "../../transcripts/rbXFms3h-PE_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "two-by-two quadrant"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "both-and thinking"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "Eisenhower matrix"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "Easy Strength quadrants"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "maximum human performance"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "number of performance qualities"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "Quadrant One"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "Quadrant Two"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "Quadrant Three"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "Quadrant Four"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "collision occupation"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "special forces"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "American football"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "rugby"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "discus throw"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "one-hundred-meter sprint"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "push-pull-hinge-squat quadrant"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "push-hinger"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "pull-squatter"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "Olympic lifter"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "rock climber"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "emergency management"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "humanitarian work"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "track and field"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "high jump"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "volleyball"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "sumo deadlift"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "individual anatomy"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "diastasis recti"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "abdominal wall"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "pregnancy"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "medical evaluation"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "pelvic tilt"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "glute bridge"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "press-curl exercise"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "kettlebell snatch"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "Turkish get-up"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "walking"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "middle-age pull-up syndrome"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "chin-up"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "gymnastic rings"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "training to failure"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "thirty-second hang"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "contact sport retirement"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "rugby player"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "competitive drive"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "kettlebell sport"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "rowing club"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "East German retirement model"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "step-down plan"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "B team"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "touch rugby"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "athletic identity"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "performance qualities"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "movement preference"
+                    },
+                    {
+                        "id":  "o57",
+                        "label":  "squat"
+                    },
+                    {
+                        "id":  "o58",
+                        "label":  "hinge"
+                    },
+                    {
+                        "id":  "o59",
+                        "label":  "elbow"
+                    },
+                    {
+                        "id":  "o60",
+                        "label":  "chin-up test"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o3",
+                          "relation":  "supports use of",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "is a",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "compare",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "compare",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "contains many low-level",
+                          "object":  "o55"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "contains",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "belongs to",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "belongs to",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "belongs to",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "belongs to",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "belongs to",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "classifies",
+                          "object":  "o56"
+                      },
+                      {
+                          "subject":  "o1",
+                          "relation":  "is a",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "often combines pushing with",
+                          "object":  "o57"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "often combines pulling with",
+                          "object":  "o57"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "may suit",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "may suit",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "often favors",
+                          "object":  "o58"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "shares approach qualities with",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "influences",
+                          "object":  "o56"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "can contribute to",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "weakens",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "should guide training with",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "precedes",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "trains",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "may be considered after",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "may need restriction with",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "can support recovery from",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "affects",
+                          "object":  "o59"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "can reduce stress during",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "raises risk during",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "can structure",
+                          "object":  "o60"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "can experience loss of",
+                          "object":  "o54"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "supports",
+                          "object":  "o45"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "informs",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o52",
+                          "relation":  "can support",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o53",
+                          "relation":  "can support",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "can redirect",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "can redirect",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "preserves connection to",
+                          "object":  "o15"
+                      }
+                  ]
+}

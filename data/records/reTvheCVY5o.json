@@ -1,0 +1,667 @@
+﻿{
+    "playlist_position":  238,
+    "video_id":  "reTvheCVY5o",
+    "url":  "https://www.youtube.com/watch?v=reTvheCVY5o",
+    "official_title":  "Best Programs, Armor Building Complex, C\u0026P, Linear Progression \u0026 Carries | Dan John Podcast #221",
+    "transcript":  {
+                       "file":  "../../transcripts/reTvheCVY5o_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "kickboxer"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "double-kettlebell clean"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "double-kettlebell press"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "double-kettlebell front squat"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "one-to-one rest"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "thirty rounds"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "bodybuilding session"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "Reg Park"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "DeLorme protocol"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "bodyweight clean and press"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "bodyweight clean and jerk"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "bodyweight snatch"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "strict press"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "Percy Cerutty"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "bodyweight bench press"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "double-bodyweight deadlift"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "strong enough standard"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "Mike Mentzer"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "Heavy Duty training"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "Nautilus machine"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "one-set-to-failure training"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "Marty Gallagher"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "top set"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "five-three-one program"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "meta-analysis"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "untrained participant"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "Thomas DeLorme"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "Bryan Mann"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "repetitions in reserve"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "novice linear progression"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "exercise variation"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "seasonal training"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "Starting Strength"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "half-kneeling press"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "mobility"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "ankle"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "thoracic spine"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "shoulder"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "tonic Thursday"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "foot massage"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "physical therapist"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "kayaking"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "road cycling"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "hiking"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "park-bench training"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "bus-bench training"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "RKC preparation program"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "mountain-climbing program"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "post-deployment program"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "hypertrophy and strength program"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "Original Strength"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "rack deadlift"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "clean and press"
+                    },
+                    {
+                        "id":  "o57",
+                        "label":  "one-second drill"
+                    },
+                    {
+                        "id":  "o58",
+                        "label":  "clean rhythm"
+                    },
+                    {
+                        "id":  "o59",
+                        "label":  "fat loss"
+                    },
+                    {
+                        "id":  "o60",
+                        "label":  "personal trainer"
+                    },
+                    {
+                        "id":  "o61",
+                        "label":  "word-of-mouth referral"
+                    },
+                    {
+                        "id":  "o62",
+                        "label":  "community event"
+                    },
+                    {
+                        "id":  "o63",
+                        "label":  "local newspaper"
+                    },
+                    {
+                        "id":  "o64",
+                        "label":  "intentional community"
+                    },
+                    {
+                        "id":  "o65",
+                        "label":  "small-group training"
+                    },
+                    {
+                        "id":  "o66",
+                        "label":  "waiter walk"
+                    },
+                    {
+                        "id":  "o67",
+                        "label":  "suitcase carry"
+                    },
+                    {
+                        "id":  "o68",
+                        "label":  "farmer walk"
+                    },
+                    {
+                        "id":  "o69",
+                        "label":  "grip fatigue"
+                    },
+                    {
+                        "id":  "o70",
+                        "label":  "barbell"
+                    },
+                    {
+                        "id":  "o71",
+                        "label":  "kettlebell"
+                    },
+                    {
+                        "id":  "o72",
+                        "label":  "calisthenics"
+                    },
+                    {
+                        "id":  "o73",
+                        "label":  "power clean"
+                    },
+                    {
+                        "id":  "o74",
+                        "label":  "front squat"
+                    },
+                    {
+                        "id":  "o75",
+                        "label":  "Turkish get-up"
+                    },
+                    {
+                        "id":  "o76",
+                        "label":  "Coyote Point Kettlebell Club"
+                    },
+                    {
+                        "id":  "o77",
+                        "label":  "five-by-five program"
+                    },
+                    {
+                        "id":  "o78",
+                        "label":  "leg drive"
+                    },
+                    {
+                        "id":  "o79",
+                        "label":  "strength standard"
+                    },
+                    {
+                        "id":  "o80",
+                        "label":  "maximum strength"
+                    },
+                    {
+                        "id":  "o81",
+                        "label":  "one set and three sets"
+                    },
+                    {
+                        "id":  "o82",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o83",
+                        "label":  "squat"
+                    },
+                    {
+                        "id":  "o84",
+                        "label":  "overhead press"
+                    },
+                    {
+                        "id":  "o85",
+                        "label":  "ankle mobility"
+                    },
+                    {
+                        "id":  "o86",
+                        "label":  "kettlebell snatch"
+                    },
+                    {
+                        "id":  "o87",
+                        "label":  "walking"
+                    },
+                    {
+                        "id":  "o88",
+                        "label":  "warm-up"
+                    },
+                    {
+                        "id":  "o89",
+                        "label":  "Olympic lift"
+                    },
+                    {
+                        "id":  "o90",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o91",
+                        "label":  "push-up"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "can use",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "combines",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "combines",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "combines",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "can use",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "can progress toward",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "can alternate with",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "used",
+                          "object":  "o77"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "can structure",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "uses",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "allows",
+                          "object":  "o78"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "is a",
+                          "object":  "o79"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "recommended",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "recommended",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "can limit pursuit of",
+                          "object":  "o80"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "promoted",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "uses",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "was used for",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "uses",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "uses",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "may compare",
+                          "object":  "o81"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "limits applicability of",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "developed",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "studied",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o82",
+                          "relation":  "uses",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "eventually requires",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "uses",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "provides",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "provides",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "can affect",
+                          "object":  "o83"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "can affect",
+                          "object":  "o84"
+                      },
+                      {
+                          "subject":  "o41",
+                          "relation":  "focuses on",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o85",
+                          "relation":  "may respond to",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "can assess",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "can precede",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "develops",
+                          "object":  "o86"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "includes",
+                          "object":  "o87"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "is also called",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "combines",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "combines",
+                          "object":  "o55"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "uses",
+                          "object":  "o54"
+                      },
+                      {
+                          "subject":  "o57",
+                          "relation":  "teaches",
+                          "object":  "o58"
+                      },
+                      {
+                          "subject":  "o58",
+                          "relation":  "improves",
+                          "object":  "o56"
+                      },
+                      {
+                          "subject":  "o56",
+                          "relation":  "can support",
+                          "object":  "o59"
+                      },
+                      {
+                          "subject":  "o61",
+                          "relation":  "supports",
+                          "object":  "o60"
+                      },
+                      {
+                          "subject":  "o62",
+                          "relation":  "markets",
+                          "object":  "o60"
+                      },
+                      {
+                          "subject":  "o63",
+                          "relation":  "can advertise",
+                          "object":  "o60"
+                      },
+                      {
+                          "subject":  "o64",
+                          "relation":  "supports",
+                          "object":  "o65"
+                      },
+                      {
+                          "subject":  "o66",
+                          "relation":  "can be used in",
+                          "object":  "o88"
+                      },
+                      {
+                          "subject":  "o67",
+                          "relation":  "can be used in",
+                          "object":  "o88"
+                      },
+                      {
+                          "subject":  "o68",
+                          "relation":  "can create",
+                          "object":  "o69"
+                      },
+                      {
+                          "subject":  "o69",
+                          "relation":  "can impair",
+                          "object":  "o89"
+                      },
+                      {
+                          "subject":  "o70",
+                          "relation":  "supports",
+                          "object":  "o56"
+                      },
+                      {
+                          "subject":  "o71",
+                          "relation":  "supports",
+                          "object":  "o90"
+                      },
+                      {
+                          "subject":  "o72",
+                          "relation":  "can include",
+                          "object":  "o91"
+                      },
+                      {
+                          "subject":  "o73",
+                          "relation":  "can precede",
+                          "object":  "o74"
+                      },
+                      {
+                          "subject":  "o75",
+                          "relation":  "can combine with",
+                          "object":  "o91"
+                      },
+                      {
+                          "subject":  "o76",
+                          "relation":  "used",
+                          "object":  "o71"
+                      }
+                  ]
+}

@@ -1,0 +1,229 @@
+﻿{
+    "playlist_position":  382,
+    "video_id":  "EwHydbQAdF0",
+    "url":  "https://www.youtube.com/watch?v=EwHydbQAdF0",
+    "official_title":  "Easy Strength \u0026 ABF Rotation, Resistance Bands, Training During Busy Times \u0026 More | DJU Podcast #368",
+    "transcript":  {
+                       "file":  "../../transcripts/EwHydbQAdF0_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Phil"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "37-year-old father"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "wife"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "middle-aged woman"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "training advice"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "nutrition advice"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "recovery advice"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "sleep advice"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "role modelling"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "Olympic lifting"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "September 11 attacks"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "family fitness culture"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "Phillip"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "residency final exam"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "time constraint"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "space constraint"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "double-kettlebell Armor Building Complex"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "double 20-kilogram kettlebells"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "double 16-kilogram kettlebells"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "30-minute EMOM"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "100-rep military press"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "loop resistance band"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "two-week travel"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "24-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "busy period"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "program repetition"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "portable training"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "is a",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "wants to support",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "may need",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "may need",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "may need",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "may need",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "supports",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "was practiced by",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "prepares for",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "creates",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "creates",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "completed",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "used",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "used",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "used",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "targets",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "supports",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "requires",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "can progress",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "can suit",
+                          "object":  "o27"
+                      }
+                  ]
+}

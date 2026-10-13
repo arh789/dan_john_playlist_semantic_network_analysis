@@ -1,0 +1,535 @@
+﻿{
+    "playlist_position":  270,
+    "video_id":  "fHJwOcREyOQ",
+    "url":  "https://www.youtube.com/watch?v=fHJwOcREyOQ",
+    "official_title":  "Armor Building Formula, Seasonal Dieting, Boosting Strength \u0026 Rite of Passage | DJU Podcast #256",
+    "transcript":  {
+                       "file":  "../../transcripts/fHJwOcREyOQ_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "shoulder operation"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "physician"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "physical therapist"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "injured side"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "uninjured side"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "cross-education"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "body is one piece"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "leg extension"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "leg curl"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "rehabilitation exercise"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "walking"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "one-arm row"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "one-arm press"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "one-arm bench press"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "mismatched kettlebell"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "recovery timeline"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "community support"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "hypertrophy"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "barbell squat"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "incline dumbbell bench press"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "weighted pull-up"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "Armor Building Complex"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "double 24-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "double 28-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "thirty-minute EMOM"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "Anaconda strength"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "push press"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "strict press"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "training density"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "conditioning workout"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "progressive resistance exercise"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "set count"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "repetition count"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "exercise complexity"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "seesaw press"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "break-in program"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "meal timing"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "late-afternoon training"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "protein powder"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "seasonal training"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "fall discipline"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "winter bulking"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "winter fat loss"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "spring outdoor training"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "summer recreation"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "soup"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "bread"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "Rite of Passage"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "Pavel Tsatsouline"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "Enter the Kettlebell"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "clean-and-press ladder"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "pull-up"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "kettlebell snatch"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o57",
+                        "label":  "36-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o58",
+                        "label":  "48-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o59",
+                        "label":  "56-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o60",
+                        "label":  "half-bodyweight press"
+                    },
+                    {
+                        "id":  "o61",
+                        "label":  "asymmetry"
+                    },
+                    {
+                        "id":  "o62",
+                        "label":  "recovery"
+                    },
+                    {
+                        "id":  "o63",
+                        "label":  "ten sets of two"
+                    },
+                    {
+                        "id":  "o64",
+                        "label":  "shoulder operation recovery"
+                    },
+                    {
+                        "id":  "o65",
+                        "label":  "high-repetition press"
+                    },
+                    {
+                        "id":  "o66",
+                        "label":  "diet"
+                    },
+                    {
+                        "id":  "o67",
+                        "label":  "structured program"
+                    },
+                    {
+                        "id":  "o68",
+                        "label":  "winter"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o3",
+                          "relation":  "governs recovery from",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "governs recovery from",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "can be trained during",
+                          "object":  "o64"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "connects training of",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "supports concept of",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "can train around",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "can train around",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "supports",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "trains",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "trains",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "trains",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "trains",
+                          "object":  "o61"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "supports",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "targets",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "can complement",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "can complement",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "can complement",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "can load",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "progresses",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "can structure",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "develops",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "can introduce",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "can gradually replace",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "can support",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "can progress",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "can progress",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "can progress",
+                          "object":  "o33"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "increases",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "alternates",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "alternates",
+                          "object":  "o65"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "can align with",
+                          "object":  "o66"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "can support",
+                          "object":  "o67"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "is an option within",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "is an option within",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "follows",
+                          "object":  "o68"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "follows",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "supports winter",
+                          "object":  "o66"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "supports winter",
+                          "object":  "o66"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "wrote",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "appears in",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "uses",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "can include",
+                          "object":  "o54"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "finishes with",
+                          "object":  "o55"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "finishes with",
+                          "object":  "o56"
+                      },
+                      {
+                          "subject":  "o57",
+                          "relation":  "can load",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o58",
+                          "relation":  "may exceed recoverable volume in",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o59",
+                          "relation":  "is target for",
+                          "object":  "o60"
+                      },
+                      {
+                          "subject":  "o61",
+                          "relation":  "can limit",
+                          "object":  "o60"
+                      },
+                      {
+                          "subject":  "o63",
+                          "relation":  "can build volume for",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o62",
+                          "relation":  "must govern",
+                          "object":  "o50"
+                      }
+                  ]
+}

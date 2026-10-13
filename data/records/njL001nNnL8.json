@@ -1,0 +1,530 @@
+﻿{
+    "playlist_position":  217,
+    "video_id":  "njL001nNnL8",
+    "url":  "https://www.youtube.com/watch?v=njL001nNnL8",
+    "official_title":  "David Goggins, Strength vs. Hypertrophy, Perfect Minimalist Program \u0026 More | Dan John Podcast #200",
+    "transcript":  {
+                       "file":  "../../transcripts/njL001nNnL8_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "body recomposition"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "fat loss"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "lean body mass"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "protein"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "fasting"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "caloric deficit"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "high-repetition squat"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "dip"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "chin-up"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "handstand push-up"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "long walk"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "sleep"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "meditation"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "kettlebell snatch volume"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "Viking Warrior Conditioning"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "RKC snatch test"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "overuse injury"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "fifteen-second interval"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "forty-to-fifty daily repetitions"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "eighty-to-one-hundred repetitions"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "three-hundred weekly repetitions"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "Sword in the Stone"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "textual retyping"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "The Godfather"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "Cormac McCarthy"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "Leonard Schwartz"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "Heavy Hands"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "double-ski-pole walking"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "long strength"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "pull-squat"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "good-morning dip"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "Vladimir Janda"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "tight pectorals"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "tight biceps"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "tight hip flexors"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "tight hamstrings"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "weak glutes"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "weak deltoids"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "weak triceps"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "weak abdominal wall"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "vertical press"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "vertical pull"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "David Goggins"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "mental resilience"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "depression"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "professional mental-health help"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "social support"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "mountain climbing program"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "ruck"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "downhill walking"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "quadriceps"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "seesaw press"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "hill sprint"
+                    },
+                    {
+                        "id":  "o57",
+                        "label":  "strength"
+                    },
+                    {
+                        "id":  "o58",
+                        "label":  "hypertrophy"
+                    },
+                    {
+                        "id":  "o59",
+                        "label":  "Tom Platz"
+                    },
+                    {
+                        "id":  "o60",
+                        "label":  "high repetitions"
+                    },
+                    {
+                        "id":  "o61",
+                        "label":  "high load"
+                    },
+                    {
+                        "id":  "o62",
+                        "label":  "Reg Park"
+                    },
+                    {
+                        "id":  "o63",
+                        "label":  "five-by-five program"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "combines",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "combines preservation of",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "supports",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "can create",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "supports",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "can support",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "can support",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "can support",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "can support",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "supports",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "supports",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "supports adherence to",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "must be managed to avoid",
+                          "object":  "o18"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "uses",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "tests",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "can distribute",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "can be used two or three days for",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "can concentrate",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "deepens study of",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "can deepen study of",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "is considered for",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "developed",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "includes",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "develops",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "develops",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "develops",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "described",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "described",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "described",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "described",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "described",
+                          "object":  "o38"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "described",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "described",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "described",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "addresses",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "balances",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "trains",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "exemplifies",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "is appropriate for",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "restores capacity for",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "restores capacity for",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "includes",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o52",
+                          "relation":  "loads",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o54",
+                          "relation":  "can support",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o55",
+                          "relation":  "can support",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o56",
+                          "relation":  "can support",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o59",
+                          "relation":  "combined",
+                          "object":  "o60"
+                      },
+                      {
+                          "subject":  "o59",
+                          "relation":  "combined",
+                          "object":  "o61"
+                      },
+                      {
+                          "subject":  "o60",
+                          "relation":  "can develop",
+                          "object":  "o58"
+                      },
+                      {
+                          "subject":  "o61",
+                          "relation":  "can develop",
+                          "object":  "o57"
+                      },
+                      {
+                          "subject":  "o62",
+                          "relation":  "popularized",
+                          "object":  "o63"
+                      },
+                      {
+                          "subject":  "o63",
+                          "relation":  "develops",
+                          "object":  "o57"
+                      },
+                      {
+                          "subject":  "o63",
+                          "relation":  "also supports",
+                          "object":  "o58"
+                      }
+                  ]
+}

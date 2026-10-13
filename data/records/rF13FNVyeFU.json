@@ -1,0 +1,387 @@
+﻿{
+    "playlist_position":  371,
+    "video_id":  "rF13FNVyeFU",
+    "url":  "https://www.youtube.com/watch?v=rF13FNVyeFU",
+    "official_title":  "ABF, \"Grease the Groove\", Easy Strength, Renegade Row, KB Windmill, Programming | DJU Podcast #357",
+    "transcript":  {
+                       "file":  "../../transcripts/rF13FNVyeFU_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Shawn"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "Paul McIlroy"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "Perpetual Strength"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "Gaelic football"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "squat"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "bench press"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "deadlift"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "year-round training"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "sport season"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "Randall"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "62-year-old caregiver"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "wheelchair transfer"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "changing table"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "twisting motion"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "awkward load"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "back protection"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "Paul"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "overseas work"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "barbell Armor Building Formula"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "kettlebell Armor Building Formula"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "four-week rotation"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "24-kilogram kettlebells"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "50-kilogram barbell"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "Greg"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "74-year-old trainee"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "double 16-kilogram kettlebells"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "double 20-kilogram kettlebells"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "renegade row"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "windmill"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "thoracic-spine mobility"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "Johnny"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "Catholic faith"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "gym etiquette"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "dignity"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "Piers"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "five-minute movement break"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "Grease the Groove"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "Phil Maffetone"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "Get Strong"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "overhead squat"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "Romanian deadlift"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "pull-up"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "Jimmy"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "recreational powerlifter"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "new parent"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "David"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "Right of Passage"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "24-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "28-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "press plateau"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "Mike"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "four-week Easy Strength cycle"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "week-five test"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o3",
+                          "relation":  "wrote",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "focuses on",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "focuses on",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "focuses on",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "must account for",
+                          "object":  "o10"
+                      },
+                      {
+                          "subject":  "o2",
+                          "relation":  "plays",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o11",
+                          "relation":  "performs",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "requires",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "involves",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "can prepare for",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "rotates",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o19",
+                          "relation":  "rotates",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "alternates",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "alternates",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "uses",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "uses",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "can be used in",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "can assess",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "can guide",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "respects",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "can use",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "wrote",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "can use",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "can use",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "can use",
+                          "object":  "o44"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "plans",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "completed",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "used",
+                          "object":  "o51"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "struggles with",
+                          "object":  "o52"
+                      },
+                      {
+                          "subject":  "o55",
+                          "relation":  "can end with",
+                          "object":  "o56"
+                      }
+                  ]
+}

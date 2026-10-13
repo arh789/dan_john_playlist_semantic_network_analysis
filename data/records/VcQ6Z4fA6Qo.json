@@ -1,0 +1,498 @@
+﻿{
+    "playlist_position":  252,
+    "video_id":  "VcQ6Z4fA6Qo",
+    "url":  "https://www.youtube.com/watch?v=VcQ6Z4fA6Qo",
+    "official_title":  "KB Fat Loss Program, Loaded Carries, Best Exercises, 65+ Standards, KB for Mass | DJU Podcast 236",
+    "transcript":  {
+                       "file":  "../../transcripts/VcQ6Z4fA6Qo_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Jim Wendler"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "5/3/1 program"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "Gary John"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "in-season athlete"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "high-school athlete"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "accessory exercise"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "gymnastics"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "bodyweight exercise"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "bodybuilding"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "hypertrophy"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "posterior chain"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "Romanian deadlift"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "reverse hyperextension"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "glute-ham raise"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "equipment"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "teaching"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "budget"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "Stoicism"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "Rule of Five"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "weight training"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "meditation"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "catharsis"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "insight"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "John Powell"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "throwing"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "coaching"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "deadlift"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "clean and jerk"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "stress processing"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "65-year-old athlete"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "strength standard"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "regular exercise"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "top-five-percent fitness"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "fat loss"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "calorie deficit"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "adherence"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "kettlebell"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "duffel bag"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "push-up stand"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "goblet squat"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "push-up"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "exercise medley"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "carbohydrate quality"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "Easy Strength for Fat Loss"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "rest interval"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "powerlifting"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "strongman"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "belt squat"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "squat volume"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "five sets of five"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "three sets of eight"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "push pattern"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "pull pattern"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "hinge pattern"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "squat pattern"
+                    },
+                    {
+                        "id":  "o57",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o58",
+                        "label":  "workout generator"
+                    },
+                    {
+                        "id":  "o59",
+                        "label":  "training frequency"
+                    },
+                    {
+                        "id":  "o60",
+                        "label":  "training volume"
+                    },
+                    {
+                        "id":  "o61",
+                        "label":  "soreness"
+                    },
+                    {
+                        "id":  "o62",
+                        "label":  "Brazilian jiu-jitsu"
+                    },
+                    {
+                        "id":  "o63",
+                        "label":  "kettlebell mass building"
+                    },
+                    {
+                        "id":  "o64",
+                        "label":  "posterior-chain exercise"
+                    },
+                    {
+                        "id":  "o65",
+                        "label":  "higher training frequency"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "created",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "used",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o3",
+                          "relation":  "can serve",
+                          "object":  "o5"
+                      },
+                      {
+                          "subject":  "o6",
+                          "relation":  "can use",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "can provide",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "can provide",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "develops",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "trains",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "trains",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "trains",
+                          "object":  "o12"
+                      },
+                      {
+                          "subject":  "o64",
+                          "relation":  "may require",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o64",
+                          "relation":  "may require",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "constrains",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "is associated with",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "can function as",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "can provide",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o21",
+                          "relation":  "can produce",
+                          "object":  "o24"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "practiced",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "practiced",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "can support",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "can support",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "can place",
+                          "object":  "o31"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "can pursue",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "drives",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "is required for",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "can be used in",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "can be used in",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "can be used for",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "can combine",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "can combine",
+                          "object":  "o42"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "supports",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "supports",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "may use long",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o48",
+                          "relation":  "may use long",
+                          "object":  "o46"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "trains",
+                          "object":  "o56"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "can supply",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o52",
+                          "relation":  "can supply",
+                          "object":  "o50"
+                      },
+                      {
+                          "subject":  "o58",
+                          "relation":  "organizes",
+                          "object":  "o53"
+                      },
+                      {
+                          "subject":  "o58",
+                          "relation":  "organizes",
+                          "object":  "o54"
+                      },
+                      {
+                          "subject":  "o58",
+                          "relation":  "organizes",
+                          "object":  "o55"
+                      },
+                      {
+                          "subject":  "o58",
+                          "relation":  "organizes",
+                          "object":  "o56"
+                      },
+                      {
+                          "subject":  "o58",
+                          "relation":  "organizes",
+                          "object":  "o57"
+                      },
+                      {
+                          "subject":  "o65",
+                          "relation":  "can require lower",
+                          "object":  "o60"
+                      },
+                      {
+                          "subject":  "o61",
+                          "relation":  "can interfere with",
+                          "object":  "o62"
+                      },
+                      {
+                          "subject":  "o63",
+                          "relation":  "uses",
+                          "object":  "o11"
+                      }
+                  ]
+}

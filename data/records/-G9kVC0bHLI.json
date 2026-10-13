@@ -1,0 +1,521 @@
+﻿{
+    "playlist_position":  227,
+    "video_id":  "-G9kVC0bHLI",
+    "url":  "https://www.youtube.com/watch?v=-G9kVC0bHLI",
+    "official_title":  "BEST Minimalist Program, Rite of Passage, Muscle Building, 50+ Lifting \u0026 More... | DJU Podcast #210",
+    "transcript":  {
+                       "file":  "../../transcripts/-G9kVC0bHLI_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "Lead the Field"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "Earl Nightingale"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "The Power of Myth"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "Joseph Campbell"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "The Sword in the Stone"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "T. H. White"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "Dune"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "Frank Herbert"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "The Godfather"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "The Hitchhiker\u0027s Guide to the Galaxy"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "Skippy Dies"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "The Art of Fielding"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "Weightlifting Olympic Style"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "Tommy Kono"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "Arnold: The Education of a Bodybuilder"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "Wrestling Physical Conditioning Encyclopedia"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "John Jesse"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "Purposeful Primitive"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "Marty Gallagher"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "Everybody Is an Athlete"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "Phil Maffetone"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "physical occupation"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "framing carpenter"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "high-repetition back squat"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "leg fatigue"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "workplace safety"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "Bear program"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "deadlift volume"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "military press"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "machine training"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "seasonal training"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "fall discipline"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "winter heavy lifting"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "spring outdoor play"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "summer recreation"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "fartlek"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "long slow distance"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "twelve-week program"
+                    },
+                    {
+                        "id":  "o41",
+                        "label":  "six-week block"
+                    },
+                    {
+                        "id":  "o42",
+                        "label":  "competition"
+                    },
+                    {
+                        "id":  "o43",
+                        "label":  "recovery day"
+                    },
+                    {
+                        "id":  "o44",
+                        "label":  "sleep"
+                    },
+                    {
+                        "id":  "o45",
+                        "label":  "vegetable soup"
+                    },
+                    {
+                        "id":  "o46",
+                        "label":  "massage gun"
+                    },
+                    {
+                        "id":  "o47",
+                        "label":  "Anaconda strength"
+                    },
+                    {
+                        "id":  "o48",
+                        "label":  "overhead support"
+                    },
+                    {
+                        "id":  "o49",
+                        "label":  "bodyweight loss"
+                    },
+                    {
+                        "id":  "o50",
+                        "label":  "suitcase carry"
+                    },
+                    {
+                        "id":  "o51",
+                        "label":  "sandbag carry"
+                    },
+                    {
+                        "id":  "o52",
+                        "label":  "one-arm bench press"
+                    },
+                    {
+                        "id":  "o53",
+                        "label":  "dip"
+                    },
+                    {
+                        "id":  "o54",
+                        "label":  "chin-up"
+                    },
+                    {
+                        "id":  "o55",
+                        "label":  "minimalist program"
+                    },
+                    {
+                        "id":  "o56",
+                        "label":  "Rite of Passage"
+                    },
+                    {
+                        "id":  "o57",
+                        "label":  "Humane Burpee"
+                    },
+                    {
+                        "id":  "o58",
+                        "label":  "training volume"
+                    },
+                    {
+                        "id":  "o59",
+                        "label":  "hypertrophy"
+                    },
+                    {
+                        "id":  "o60",
+                        "label":  "structured program"
+                    },
+                    {
+                        "id":  "o61",
+                        "label":  "winter walking"
+                    },
+                    {
+                        "id":  "o62",
+                        "label":  "spring running"
+                    },
+                    {
+                        "id":  "o63",
+                        "label":  "fall"
+                    },
+                    {
+                        "id":  "o64",
+                        "label":  "hard training day"
+                    },
+                    {
+                        "id":  "o65",
+                        "label":  "training experience"
+                    },
+                    {
+                        "id":  "o66",
+                        "label":  "kettlebell clean and press"
+                    },
+                    {
+                        "id":  "o67",
+                        "label":  "pull-up"
+                    },
+                    {
+                        "id":  "o68",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o69",
+                        "label":  "kettlebell snatch"
+                    },
+                    {
+                        "id":  "o70",
+                        "label":  "light day"
+                    },
+                    {
+                        "id":  "o71",
+                        "label":  "mobility"
+                    },
+                    {
+                        "id":  "o72",
+                        "label":  "hard day"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o3",
+                          "relation":  "created",
+                          "object":  "o2"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "appears in",
+                          "object":  "o4"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "wrote",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o9",
+                          "relation":  "wrote",
+                          "object":  "o8"
+                      },
+                      {
+                          "subject":  "o15",
+                          "relation":  "wrote",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "wrote",
+                          "object":  "o17"
+                      },
+                      {
+                          "subject":  "o20",
+                          "relation":  "wrote",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "wrote",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "can create",
+                          "object":  "o26"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "can reduce",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "constrains",
+                          "object":  "o58"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "uses",
+                          "object":  "o29"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "can accompany",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "can support",
+                          "object":  "o59"
+                      },
+                      {
+                          "subject":  "o32",
+                          "relation":  "can support",
+                          "object":  "o23"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "supports",
+                          "object":  "o60"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "follows",
+                          "object":  "o34"
+                      },
+                      {
+                          "subject":  "o36",
+                          "relation":  "follows",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o37",
+                          "relation":  "follows",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "transitions from",
+                          "object":  "o61"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "prepares for",
+                          "object":  "o62"
+                      },
+                      {
+                          "subject":  "o39",
+                          "relation":  "can fit",
+                          "object":  "o63"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "can contain two",
+                          "object":  "o41"
+                      },
+                      {
+                          "subject":  "o42",
+                          "relation":  "counts as",
+                          "object":  "o64"
+                      },
+                      {
+                          "subject":  "o43",
+                          "relation":  "supports",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o44",
+                          "relation":  "supports",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o45",
+                          "relation":  "supports nutrition during",
+                          "object":  "o40"
+                      },
+                      {
+                          "subject":  "o46",
+                          "relation":  "can support",
+                          "object":  "o43"
+                      },
+                      {
+                          "subject":  "o49",
+                          "relation":  "can reduce",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o47",
+                          "relation":  "supports",
+                          "object":  "o48"
+                      },
+                      {
+                          "subject":  "o50",
+                          "relation":  "develops",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o51",
+                          "relation":  "develops",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o52",
+                          "relation":  "develops",
+                          "object":  "o47"
+                      },
+                      {
+                          "subject":  "o53",
+                          "relation":  "can combine with",
+                          "object":  "o54"
+                      },
+                      {
+                          "subject":  "o53",
+                          "relation":  "can combine with",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o54",
+                          "relation":  "can combine with",
+                          "object":  "o25"
+                      },
+                      {
+                          "subject":  "o55",
+                          "relation":  "requires prior",
+                          "object":  "o65"
+                      },
+                      {
+                          "subject":  "o56",
+                          "relation":  "uses",
+                          "object":  "o66"
+                      },
+                      {
+                          "subject":  "o56",
+                          "relation":  "uses",
+                          "object":  "o67"
+                      },
+                      {
+                          "subject":  "o56",
+                          "relation":  "uses",
+                          "object":  "o68"
+                      },
+                      {
+                          "subject":  "o56",
+                          "relation":  "uses",
+                          "object":  "o69"
+                      },
+                      {
+                          "subject":  "o57",
+                          "relation":  "can alternate with",
+                          "object":  "o56"
+                      },
+                      {
+                          "subject":  "o70",
+                          "relation":  "can emphasize",
+                          "object":  "o71"
+                      },
+                      {
+                          "subject":  "o72",
+                          "relation":  "can include",
+                          "object":  "o57"
+                      }
+                  ]
+}

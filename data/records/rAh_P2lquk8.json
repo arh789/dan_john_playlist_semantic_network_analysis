@@ -1,0 +1,293 @@
+﻿{
+    "playlist_position":  332,
+    "video_id":  "rAh_P2lquk8",
+    "url":  "https://www.youtube.com/watch?v=rAh_P2lquk8",
+    "official_title":  "Building Strength, Goblet Squats, Machine Workouts, Offset Training, Diet Tips | DJU Podcast #320",
+    "transcript":  {
+                       "file":  "../../transcripts/rAh_P2lquk8_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "kettlebell history"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "Pavel Tsatsouline"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "Pat Flynn"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "Jeff Neupert"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "female kettlebell coach"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "Mount Rushmore"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "goblet squat hold"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "bottom squat position"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "goblet squat curl"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "abdominal wall"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "offset kettlebell training"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "28-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "4-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "two-to-one ratio"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "77-year-old former football player"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "rugby player"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "medical issue"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "muscle loss"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "bone loss"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "weight gain"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "machine training"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "leg extension"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "leg curl"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "lat pulldown"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "chest press"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "Jim Wendler 5/3/1"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "bodyweight overhead press"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "front squat"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "trap-bar deadlift"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "military press"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "home gym sale"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "financial constraint"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "training book"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "Velocity Diet"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "protein shake"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "diet experiment"
+                    },
+                    {
+                        "id":  "o38",
+                        "label":  "machine workout"
+                    },
+                    {
+                        "id":  "o39",
+                        "label":  "hypertrophy"
+                    },
+                    {
+                        "id":  "o40",
+                        "label":  "performance athlete"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o3",
+                          "relation":  "belongs on",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o4",
+                          "relation":  "belongs on",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "belongs on",
+                          "object":  "o7"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "can omit",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "uses",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "trains",
+                          "object":  "o11"
+                      },
+                      {
+                          "subject":  "o12",
+                          "relation":  "works best near",
+                          "object":  "o15"
+                      },
+                      {
+                          "subject":  "o13",
+                          "relation":  "is excessively offset from",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "caused",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "caused",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "caused",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o22",
+                          "relation":  "can serve",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "is a",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o24",
+                          "relation":  "is a",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "is a",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "is a",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "can develop",
+                          "object":  "o28"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "can be used in",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o30",
+                          "relation":  "can be used in",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "can be used in",
+                          "object":  "o27"
+                      },
+                      {
+                          "subject":  "o33",
+                          "relation":  "can cause",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "uses",
+                          "object":  "o36"
+                      },
+                      {
+                          "subject":  "o38",
+                          "relation":  "can develop",
+                          "object":  "o39"
+                      },
+                      {
+                          "subject":  "o40",
+                          "relation":  "may use",
+                          "object":  "o38"
+                      }
+                  ]
+}

@@ -1,0 +1,266 @@
+﻿{
+    "playlist_position":  328,
+    "video_id":  "lSO_O_VQHTc",
+    "url":  "https://www.youtube.com/watch?v=lSO_O_VQHTc",
+    "official_title":  "Rite of Passage, Easy Strength, Barbell Program, KB Progressions, Core Strength | DJU Podcast #316",
+    "transcript":  {
+                       "file":  "../../transcripts/lSO_O_VQHTc_transcript.txt"
+                   },
+    "objects":  [
+                    {
+                        "id":  "o1",
+                        "label":  "Dan John"
+                    },
+                    {
+                        "id":  "o2",
+                        "label":  "one-lift-a-day"
+                    },
+                    {
+                        "id":  "o3",
+                        "label":  "Strength and Health magazine"
+                    },
+                    {
+                        "id":  "o4",
+                        "label":  "Olympic lifter"
+                    },
+                    {
+                        "id":  "o5",
+                        "label":  "Rite of Passage"
+                    },
+                    {
+                        "id":  "o6",
+                        "label":  "half-bodyweight press"
+                    },
+                    {
+                        "id":  "o7",
+                        "label":  "48-kilogram kettlebell"
+                    },
+                    {
+                        "id":  "o8",
+                        "label":  "Sig Klein"
+                    },
+                    {
+                        "id":  "o9",
+                        "label":  "75-pound dumbbell"
+                    },
+                    {
+                        "id":  "o10",
+                        "label":  "press standard"
+                    },
+                    {
+                        "id":  "o11",
+                        "label":  "kettlebell novice"
+                    },
+                    {
+                        "id":  "o12",
+                        "label":  "kettlebell mastery"
+                    },
+                    {
+                        "id":  "o13",
+                        "label":  "program progression"
+                    },
+                    {
+                        "id":  "o14",
+                        "label":  "Program Minimum"
+                    },
+                    {
+                        "id":  "o15",
+                        "label":  "Simple and Sinister"
+                    },
+                    {
+                        "id":  "o16",
+                        "label":  "Easy Strength"
+                    },
+                    {
+                        "id":  "o17",
+                        "label":  "Armor Building Formula"
+                    },
+                    {
+                        "id":  "o18",
+                        "label":  "43-year-old kettlebell trainee"
+                    },
+                    {
+                        "id":  "o19",
+                        "label":  "double-kettlebell press"
+                    },
+                    {
+                        "id":  "o20",
+                        "label":  "pull-up"
+                    },
+                    {
+                        "id":  "o21",
+                        "label":  "double-kettlebell front squat"
+                    },
+                    {
+                        "id":  "o22",
+                        "label":  "kettlebell swing"
+                    },
+                    {
+                        "id":  "o23",
+                        "label":  "heavy-medium-light day"
+                    },
+                    {
+                        "id":  "o24",
+                        "label":  "core routine"
+                    },
+                    {
+                        "id":  "o25",
+                        "label":  "39-year-old firefighter"
+                    },
+                    {
+                        "id":  "o26",
+                        "label":  "ab wheel"
+                    },
+                    {
+                        "id":  "o27",
+                        "label":  "suitcase carry"
+                    },
+                    {
+                        "id":  "o28",
+                        "label":  "plank"
+                    },
+                    {
+                        "id":  "o29",
+                        "label":  "hanging leg raise"
+                    },
+                    {
+                        "id":  "o30",
+                        "label":  "occupational readiness"
+                    },
+                    {
+                        "id":  "o31",
+                        "label":  "special operator"
+                    },
+                    {
+                        "id":  "o32",
+                        "label":  "protective equipment"
+                    },
+                    {
+                        "id":  "o33",
+                        "label":  "kill house"
+                    },
+                    {
+                        "id":  "o34",
+                        "label":  "loaded carry"
+                    },
+                    {
+                        "id":  "o35",
+                        "label":  "core strength"
+                    },
+                    {
+                        "id":  "o36",
+                        "label":  "barbell program"
+                    },
+                    {
+                        "id":  "o37",
+                        "label":  "training intensity"
+                    }
+                ],
+    "relations":  [
+                      {
+                          "subject":  "o2",
+                          "relation":  "was inspired by",
+                          "object":  "o3"
+                      },
+                      {
+                          "subject":  "o5",
+                          "relation":  "targets",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o7",
+                          "relation":  "can represent",
+                          "object":  "o6"
+                      },
+                      {
+                          "subject":  "o8",
+                          "relation":  "promoted",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o10",
+                          "relation":  "can use",
+                          "object":  "o9"
+                      },
+                      {
+                          "subject":  "o14",
+                          "relation":  "can begin",
+                          "object":  "o13"
+                      },
+                      {
+                          "subject":  "o16",
+                          "relation":  "can follow",
+                          "object":  "o14"
+                      },
+                      {
+                          "subject":  "o17",
+                          "relation":  "can follow",
+                          "object":  "o16"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "uses",
+                          "object":  "o19"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "uses",
+                          "object":  "o20"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "uses",
+                          "object":  "o21"
+                      },
+                      {
+                          "subject":  "o18",
+                          "relation":  "uses",
+                          "object":  "o22"
+                      },
+                      {
+                          "subject":  "o23",
+                          "relation":  "varies",
+                          "object":  "o37"
+                      },
+                      {
+                          "subject":  "o26",
+                          "relation":  "develops",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o27",
+                          "relation":  "develops",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o28",
+                          "relation":  "develops",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o29",
+                          "relation":  "develops",
+                          "object":  "o35"
+                      },
+                      {
+                          "subject":  "o35",
+                          "relation":  "supports",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o25",
+                          "relation":  "needs",
+                          "object":  "o30"
+                      },
+                      {
+                          "subject":  "o31",
+                          "relation":  "uses",
+                          "object":  "o32"
+                      },
+                      {
+                          "subject":  "o34",
+                          "relation":  "prepares for",
+                          "object":  "o32"
+                      }
+                  ]
+}
